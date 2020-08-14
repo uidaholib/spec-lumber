@@ -1,0 +1,1 @@
+{% assign thumbItem = site.data[site.metadata] | where: 'objectid', post.cover-image | first %}{{ site.objects | relative_url }}/thumbs/{{ thumbItem.filename | split: '.' | first }}_th.jpg

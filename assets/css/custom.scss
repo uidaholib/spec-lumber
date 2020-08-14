@@ -43,4 +43,4 @@ $theme-colors: map-merge(
   $theme-colors
 );
 
-@import "base", "theme-colors", "pages", "custom";
+@import "base", "theme-colors", "beautiful", "pages", "custom";

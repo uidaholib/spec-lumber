@@ -104,3 +104,55 @@ task :generate_derivatives, [:thumbs_size, :small_size, :density, :missing, :im_
     end
   end
 end
+
+
+###############################################################################
+# TASK: set up new post
+###############################################################################
+
+desc "set up new post for blog"
+task :new_post do 
+  
+  # get date 
+  post_title = ENV['title']
+  tags = ENV['tags']
+  categories = ENV['categories']
+  image = ENV['image']
+  subtitle = ENV['subtitle']
+  current_time = Time.new
+  date_str = current_time.strftime("%Y-%m-%d")
+  
+  # Set up
+  post_dir = "_posts"
+  post_file_title = post_title.downcase.strip.gsub(' ', '-').gsub(/[^\w-]/, '')
+  # template, start on link after <<~END, indentation will be removed
+  post_template = <<~END
+    ---
+    title: #{post_title}
+    date: #{date_str}
+    tags: [#{tags}]
+    subtitle: #{subtitle}
+    cover-image: #{image}
+    categories: [#{categories}]
+    ---
+  END
+
+  # create file name
+  output_name = post_dir + "/" + date_str + post_file_title + ".md"
+
+  # check dir
+  if !Dir.exists?(post_dir) 
+    puts "Creating #{post_dir}."
+    Dir.mkdir(post_dir) 
+  end
+
+  # make sure file doesn't exist
+  if File.exists?(output_name)
+    puts "The file #{output_name} already exists! New post not created."
+  else
+    # write file
+    File.write(output_name, post_template)
+    puts "Wrote new post stub #{output_name}"
+  end
+
+end
