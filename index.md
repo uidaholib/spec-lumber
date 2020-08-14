@@ -1,6 +1,8 @@
 ---
 layout: home
 title: Home
+pagination: 
+  enabled: true
 ---
 {% assign posts = paginator.posts | default: site.posts %}
 
