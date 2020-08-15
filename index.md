@@ -1,5 +1,5 @@
 ---
-layout: home
+layout: hyde
 title: Home
 pagination: 
   enabled: true

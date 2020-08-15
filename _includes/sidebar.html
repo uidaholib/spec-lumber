@@ -1,0 +1,38 @@
+<div class="sidebar">
+  <div class="hyde-container sidebar-sticky">
+    <div class="sidebar-about">
+      <img src="https://64.media.tumblr.com/avatar_2c6c2d039b65_128.pnj">
+      <h1>
+        <a href="{{ site.baseurl }}">
+          {{ site.title }}
+        </a>
+      </h1>
+      <p class="small">{{ site.description }}</p>
+    </div>
+
+    <nav class="sidebar-nav">
+  
+      <ul class="navbar-nav mr-auto">
+        {%- assign navItems = site.data.config-nav | where_exp: 'item', 'item.dropdown_parent == nil' -%} 
+        {% for nav in navItems %}
+        {% if nav.stub %}
+        <li class="nav-item {% if page.url == nav.stub %}active{% endif %}">
+            <a class="nav-link py-0" href="{{ nav.stub | relative_url }}">{{ nav.display_name }}</a>
+        </li>
+        {%- else -%}
+        <li class="nav-item dropdown">
+            {% assign navChildren = site.data.config-nav | where_exp: 'item', 'item.dropdown_parent == nav.display_name' %}
+            {%- assign childStubs = navChildren | map: 'stub' -%}
+            <a class="nav-link py-0 dropdown-toggle{% if childStubs contains page.url %} active{% endif %}" data-toggle="dropdown" href="#" role="button" aria-haspopup="true" aria-expanded="false">{{ nav.display_name }}</a>
+            <div class="dropdown-menu">
+                {% for c in navChildren %}
+                <a class="dropdown-item text-dark {% if page.url == c.stub %}active{% endif %}" href="{{ c.stub | relative_url }}">{{ c.display_name }}</a>
+                {% endfor %}
+            </div>
+        </li>
+        {% endif %}
+        {%- endfor -%}
+    </ul>
+    </nav>
+  </div>
+</div>

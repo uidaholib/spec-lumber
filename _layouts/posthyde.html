@@ -1,0 +1,44 @@
+---
+layout: hyde
+---
+{% if page.cover-image%}
+<style>
+  #header-big-img {
+   background-image: url('{% include image/post-image.html %}');
+   background-size: cover;
+   background-repeat: no-repeat;
+   background-position: center;
+   min-height:500px;
+}
+</style>
+ <div id="header-big-img" class="container-fluid mb-0 p-0" >
+ 
+
+ </div>
+ {% unless page.cover-image contains '/' %}<div class="text-right p-0 mt-n5" style="position:relative;bottom:0;right:0;">
+   <small><a class="text-info featured-link" href="{{ '/items/' | relative_url | append: page.cover-image | append: '.html' }}" title="{{ featuredItem.title | escape }}">Featured Image</a></small>
+</div>{% endunless %}
+{% endif %}
+<div class="post">
+  <h1 class="post-title">{{ page.title }}</h1>
+  <span class="post-date">{{ page.date | date_to_string }}</span>
+  {{ content }}
+</div>
+
+{% if site.related_posts.size >= 1 %}
+<div class="related">
+  <h2>Related posts</h2>
+  <ul class="related-posts">
+    {% for post in site.related_posts limit:3 %}
+      <li>
+        <h3>
+          <a href="{{ post.url | absolute_url }}">
+            {{ post.title }}
+            <small>{{ post.date | date_to_string }}</small>
+          </a>
+        </h3>
+      </li>
+    {% endfor %}
+  </ul>
+</div>
+{% endif %}

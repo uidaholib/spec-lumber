@@ -3,6 +3,7 @@ layout: page
 ---
 
 
+{{ content }}
 
 <div class="row mb-3 justify-content-center">
     <div class="col-md-8 text-center">
@@ -15,6 +16,27 @@ layout: page
         </div>
         <div class="h2" id="numberOf"></div>
     </div>
+    <div class="col-md-2">
+        <div class="dropdown">
+            <button class="btn btn-secondary mt-1 dropdown-toggle" type="button" id="browseSortButton" data-toggle="dropdown" aria-haspopup="true" aria-expanded="false">
+                Tags: <span class="font-weight-bold" id="sortfilter">All</span>
+            </button>
+
+            {% assign date_format = site.date_format | default: "%B %-d, %Y" %}
+
+{%- capture site_tags -%}
+    {%- for tag in site.tags -%}
+        {{- tag | first -}}{%- unless forloop.last -%},{%- endunless -%}
+    {%- endfor -%}
+{%- endcapture -%}
+{%- assign tags_list = site_tags | split:',' | sort -%}
+
+            <div class="dropdown-menu browse-sort-menu" aria-labelledby="browseSortButton">
+                <a class="dropdown-item browse-filter-item active filter" data-filter="allcollections" href="/tags/#">All Collections</a>
+                {%- for tag in tags_list -%}<a class="dropdown-item browse-filter-item" data-filter="{{- tag -}}" href="/tags/#{{- tag -}}"">{{- tag -}}</a>{% endfor %}
+             </div>
+        </div>
+    </div>
 </div>
 
 <div id="loading" class="text-center">
@@ -23,5 +45,14 @@ layout: page
 
 <div class="row" id="browseItems"></div>
 
+             </div>
+        </div>
+    </div>
+</div>
 
-{{ content }}
+<div id="loading" class="text-center">
+    <div class="spinner-border text-secondary" role="status"><span class="sr-only">Loading...</span></div>
+</div>
+
+<div class="row" id="browseItems"></div>
+
