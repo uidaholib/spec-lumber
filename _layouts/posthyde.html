@@ -28,17 +28,12 @@ layout: hyde
 {% if site.related_posts.size >= 1 %}
 <div class="related">
   <h2>Related posts</h2>
-  <ul class="related-posts">
-    {% for post in site.related_posts limit:3 %}
-      <li>
-        <h3>
-          <a href="{{ post.url | absolute_url }}">
-            {{ post.title }}
-            <small>{{ post.date | date_to_string }}</small>
-          </a>
-        </h3>
-      </li>
-    {% endfor %}
-  </ul>
+  <div class="related-posts">
+    {%- assign tags =  page.tags.first | split: ';' -%}
+    <p class="h4">{% for tag in tags %}
+          <a class="btn btn-outline-info m-1" href="{{ '/tags' | absolute_url }}#{{ tag | strip}}">{{- tag -}}</a>
+      
+    {% endfor %}</p>
+    </div>
 </div>
 {% endif %}

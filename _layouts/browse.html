@@ -26,10 +26,10 @@ layout: page
 
 {%- capture site_tags -%}
     {%- for tag in site.tags -%}
-        {{- tag | first -}}{%- unless forloop.last -%},{%- endunless -%}
+        {{- tag | first -}}{%- unless forloop.last -%};{%- endunless -%}
     {%- endfor -%}
 {%- endcapture -%}
-{%- assign tags_list = site_tags | split:',' | sort -%}
+{%- assign tags_list = site_tags | split:';' | compact | uniq | sort -%}
 
             <div class="dropdown-menu browse-sort-menu" aria-labelledby="browseSortButton">
                 <a class="dropdown-item browse-filter-item active filter" data-filter="allcollections" href="/tags/#">All Collections</a>
@@ -38,10 +38,10 @@ layout: page
         </div>
     </div>
 </div>
-
+<!--
 <div id="loading" class="text-center">
     <div class="spinner-border text-secondary" role="status"><span class="sr-only">Loading...</span></div>
-</div>
+</div>-->
 
 <div class="row" id="browseItems"></div>
 

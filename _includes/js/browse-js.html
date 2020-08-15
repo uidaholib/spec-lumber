@@ -20,7 +20,7 @@ function makeCard(obj) {
     }
     {% else %}
     // find item link
-    var itemHref = "{{ '/' | relative_url }}" + obj.url;
+    var itemHref = obj.url;
     // find images
     if(obj.image) {
         var imgSrc = obj.image;
