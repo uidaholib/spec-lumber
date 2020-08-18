@@ -124,7 +124,6 @@ task :new_post do
   
   # Set up
   post_dir = "_posts"
-  post_file_title = post_title.downcase.strip.gsub(' ', '-').gsub(/[^\w-]/, '')
   # template, start on link after <<~END, indentation will be removed
   post_template = <<~END
     ---
@@ -138,7 +137,12 @@ task :new_post do
   END
 
   # create file name
-  output_name = post_dir + "/" + date_str + "-" + post_file_title + ".md"
+  if post_title
+    post_file_title = post_title.downcase.strip.gsub(' ', '-').gsub(/[^\w-]/, '')
+    output_name = post_dir + "/" + date_str + "-" + post_file_title + ".md"
+  else
+    output_name = post_dir + "/" + date_str + ".md"
+  end
 
   # check dir
   if !Dir.exists?(post_dir) 
