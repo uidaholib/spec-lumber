@@ -138,7 +138,7 @@ task :new_post do
   END
 
   # create file name
-  output_name = post_dir + "/" + date_str + post_file_title + ".md"
+  output_name = post_dir + "/" + date_str + "-" + post_file_title + ".md"
 
   # check dir
   if !Dir.exists?(post_dir) 

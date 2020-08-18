@@ -46,13 +46,11 @@ pagination:
     {% if post.tags.size > 0 %}
     <div class="blog-tags">
       Tags:
-      {% if site.link-tags %}
-      {% for tag in post.tags %}
-      <a href="{{ '/tags' | absolute_url }}#{{- tag -}}">{{- tag -}}</a>
+      {%- assign tags=  post.tags.first | split: ';' -%}
+      {% for tag in tags %}
+      
+      <a href="{{ '/tags' | absolute_url }}#{{ tag | strip}}">{{- tag -}}</a>
       {% endfor %}
-      {% else %}
-        {{ post.tags | join: ", " }}
-      {% endif %}
     </div>
     {% endif %}
 
