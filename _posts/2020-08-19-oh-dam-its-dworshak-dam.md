@@ -30,7 +30,7 @@ Clearly, there are pros and cons to large hydraulic dams like Dworshak Dam in Id
  
 {% include feature/item-figure.html objectid="lumber022" %}
 
-<a href="https://www.tumblr.com/blog/uispecialcollections/queue#_ftnref1" title="">[1-6]</a> <a href="https://www.nww.usace.army.mil/Locations/District-Locks-and-Dams/Dworshak-Dam-and-Reservoir/">https://www.nww.usace.army.mil/Locations/District-Locks-and-Dams/Dworshak-Dam-and-Reservoir/</a>
+[1-6]: [Dworshak Dam and Reservoir](https://www.nww.usace.army.mil/Locations/District-Locks-and-Dams/Dworshak-Dam-and-Reservoir/) and [Dworshak Dam and Reservoir](https://www.nww.usace.army.mil/Locations/District-Locks-and-Dams/Dworshak-Dam-and-Reservoir/)
 
 Photos courtesy of PG 94, ([Army Corps of Engineers Dam Construction Photographs, 1933-1965](https://archiveswest.orbiscascade.org/ark:/80444/xv165618/op=fstyle.aspx?t=k&amp;q=)), Special Collections and Archives, University of Idaho Library, Moscow, Idaho.
 
