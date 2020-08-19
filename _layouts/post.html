@@ -17,9 +17,7 @@ layout: default
       {% if page.tags.size > 0 %}
         <div class="blog-tags">
           Tags:
-          {%- assign tags=  post.tags.first | split: ';' -%}
-          {% for tag in tags %}
-          
+          {% for tag in page.tags %}
           <a href="{{ '/tags' | absolute_url }}#{{ tag | strip}}">{{- tag -}}</a>
           {% endfor %}
         </div>

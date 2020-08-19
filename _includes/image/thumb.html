@@ -1,1 +1,2 @@
-{% unless item.youtubeid or page.youtubeid %}{% if page.filename contains 'http' or post.filename contains 'http' %}{{page.filename | post.filename}}{% else %}{{ site.objects | relative_url }}/thumbs/{{ page.identifier | default: item.identifier }}_th.jpg{% endif %}{% else %}https://img.youtube.com/vi/{{ page.youtubeid | default: item.youtubeid }}/default.jpg{% endunless %}
+{% capture filename%}{{page.filename | default: item.filename }}{% endcapture %}{% unless filename contains '/' %}{% unless item.youtubeid or page.youtubeid %}{{ site.objects | relative_url }}/thumbs/{{ filename | split: "."  | first }}_th.jpg{% else %}https://img.youtube.com/vi/{{ page.youtubeid | default: item.youtubeid }}/hqdefault.jpg{% endunless %}{% else %}
+{{ filename }}{%endunless%}

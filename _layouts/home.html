@@ -6,10 +6,10 @@ layout: default
 <div class="container-fluid mt-4">
   {% for post in posts limit:1 %}
   <div class="row">   
-        <div class="col-md-6">
+        <div class="col-md-6 text-center">
           <a href="{{ post.url | absolute_url }}"> <img class="img-fluid" src="{% include image/post-image.html %}"></a>
         </div>
-        <div class="col-md-6 p-5 mt-4">
+        <div class="col-md-6 p-5">
           <article class="post-preview">
             <a href="{{ post.url | absolute_url }}">
               <h2 class="display-4 text-dark">{{ post.title }}</h2>
@@ -61,23 +61,18 @@ layout: default
     {{ content }}
 </div>
 <div class="col-md-4 pl-4 border-left" >
-  <p class='h1 my-4'>Browse by Date</p>
-
-  {% for post in site.posts %}
-  {% assign currentdate = post.date | date: "%Y" %}
-  {% if currentdate != date %}
-    {% unless forloop.first %}</ul>{% endunless %}
-    <h1 id="y{{post.date | date: "%Y"}}">{{ currentdate }}</h1>
-    <ul>
-    {% assign date = currentdate %}
-  {% endif %}
-    <li><a href="{{ post.url }}">{{ post.title }}</a></li>
-  {% if forloop.last %}</ul>{% endif %}
-{% endfor %}
   <p class='h1 my-4'>Browse by Tag</p>
-  <p>{% for tag in site.tags %}
-  <a class="btn btn-sm btn-outline-info m-1" href="/tags#{{ tag[0] }}">{{ tag[0] }}</a>  
-{% endfor %}</p>
+  {%- capture site_tags -%}
+  {%- for tag in site.tags -%}
+      {{- tag | first -}}{%- unless forloop.last -%},{%- endunless -%}
+  {%- endfor -%}
+{%- endcapture -%}
+{%- assign tags_list = site_tags | split:',' | sort -%}
+
+{%- for tag in tags_list -%}
+  {% if site.tags[tag].size > 10 %}<a href="{{ '/tags' | relative_url }}#{{- tag -}}" class="btn btn-sm btn-outline-info m-2"><i class="fas fa-tag" aria-hidden="true"></i>&nbsp;{{- tag -}}&nbsp;({{site.tags[tag].size}})</a>{% endif %}
+{%- endfor -%}
+
 </div>
     </div>
 

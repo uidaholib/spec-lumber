@@ -1,5 +1,5 @@
 field,display_name,btn,hidden
 date,Date,
-tags,,,true
+tags,,true,
 categories,Categories,,true
 url,,,true
