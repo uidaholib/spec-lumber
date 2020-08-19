@@ -128,7 +128,7 @@ task :new_post do
   post_template = <<~END
     ---
     title: #{post_title}
-    date: #{date_str}
+    date: #{current_time}
     tags: [#{tags}]
     subtitle: #{subtitle}
     cover-image: #{image}
