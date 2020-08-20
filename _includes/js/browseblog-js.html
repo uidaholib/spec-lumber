@@ -37,7 +37,7 @@ function makeCard(obj) {
     var btns = obj[{{ f.field | jsonify }}].split(";");
     for (var i = 0, len = btns.length; i < len; i++) {
         if(btns[i] != "") {
-        card += '<a class="btn btn-sm btn-secondary m-1 text-wrap" href="{{ '/browse.html' | relative_url }}#' + encodeURIComponent(btns[i].trim()) + '">' + btns[i].trim() + '</a>';
+        card += '<a class="btn btn-sm btn-secondary m-1 text-wrap" href="{{ '/tags/' | relative_url }}#' + encodeURIComponent(btns[i].trim()) + '">' + btns[i].trim() + '</a>';
         }
     }
     {% else %}
@@ -48,19 +48,9 @@ function makeCard(obj) {
     {% endunless %}{% endfor %}
     card += '</p>';
     // media type
-    if(obj.format != "") {
-        card += '<p class="card-text"><small><a class="btn btn-sm btn-outline-secondary" href="{{ "/browse.html" | relative_url }}#' + encodeURIComponent(obj.format) + '">' + 
-        obj.format.split("/").pop().toUpperCase() + ' <span class="';
-        if(obj.format.includes('image')){
-        card += 'far fa-image';
-        } else if(obj.format.includes('audio')){
-        card += 'far fa-file-audio';
-        } else if(obj.format.includes('video')){
-        card += 'far fa-file-video';
-        } else {
-        card += 'far fa-file';
-        }
-        card += '"></span></a></small></p>';
+    if(obj.category != "") {
+        card += '<p class="card-text"><small><a class="btn btn-sm btn-outline-secondary" href="{{ "/tags" | relative_url }}#' + encodeURIComponent(obj.category) + '">' + 
+        obj.category.toUpperCase() + ' </a></small></p>';
     }
     // view button
     card += '<hr><a href="' + itemHref + '" class="btn btn-sm btn-light" title="link to ' + obj.title + '">View Full Record</a>';
@@ -117,7 +107,7 @@ function shuffle(array) {
 /* add items */
 var items = [
     {% for i in items %}
-    { "title":{{ i.title | strip | escape | jsonify }}, "format":{% if i.format %}{{ i.format | escape | jsonify }}{% else %}""{% endif %}, {% for f in fields %}{% if i[f.field] %}{{ f.field | escape | jsonify }}:{{ i[f.field] | strip | jsonify }},{% endif %}{% endfor %} {% if i.youtubeid %} "youtube": {{ i.youtubeid | jsonify }},{% endif %} {% if i.cover-image %}"image": {% if i.cover-image contains 'http' %}{{i.cover-image | jsonify }}{% else %}"{% assign thumbItem = site.data[site.metadata] | where: 'objectid', i.cover-image | first %}{{ site.objects | relative_url }}/thumbs/{{ thumbItem.filename | split: '.' | first }}_th.jpg"{% endif %}{% endif %}{% unless forloop.last %},{% endunless %}{% endfor %}
+    { "title":{{ i.title | strip | escape | jsonify }},{% if i.cover-image %}"image": {% if i.cover-image contains 'http' %}{{i.cover-image | jsonify }}{% else %}"{% assign thumbItem = site.data[site.metadata] | where: 'objectid', i.cover-image | first %}{{ site.objects | relative_url }}/thumbs/{{ thumbItem.filename | split: '.' | first }}_th.jpg"{% endif %},{% endif %}{% if i.tags %}"tags": "{% for tag in i.tags %}{{tag}};{% endfor %}",{% endif %}"category": {% if i.category %}{{ i.category | jsonify}}{% else %}"",{% endif %}"date": {{ i.date | date: '%B %d, %Y' | jsonify}} }{% unless forloop.last %},{% endunless %}{% endfor %}
 ];
 
 /* init browse page */
@@ -168,5 +158,18 @@ $(".browse-filter-item").click(function (event) {
    
 }); 
 
+/* add filter function on click of sort options */
+$(".browse-filter-item").click(function (event) {
+    var field = $(this).data('filter'); // Get the text of the element
+    var dname = $(this).text(); // Get the text of the element
+    var query = $('#quickSearch').val();
+    $(".browse-filter-item").removeClass('active');
+    $(this).addClass('active');
+    $('#sortfilter').text(dname);
+   
+        shuffle(items);
+        filterItems(items, query);
+   
+}); 
 
 </script>

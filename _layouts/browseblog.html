@@ -15,6 +15,26 @@ layout: page
         </div>
         <div class="h2" id="numberOf"></div>
     </div>
+    <div class="col-md-2">
+        <div class="dropdown">
+            <button class="btn btn-secondary mt-1 dropdown-toggle" type="button" id="browseSortButton" data-toggle="dropdown" aria-haspopup="true" aria-expanded="false">
+                Filter <span class="font-weight-bold" id="filter">All</span>
+            </button>
+            <div class="dropdown-menu browse-sort-menu" aria-labelledby="browseSortButton">
+                {%- capture site_tags -%}
+  {%- for tag in site.tags -%}
+      {{- tag | first -}}{%- unless forloop.last -%},{%- endunless -%}
+  {%- endfor -%}
+{%- endcapture -%}
+{%- assign tags_list = site_tags | split:',' | sort -%}
+
+{%- for tag in tags_list -%}
+  {% if site.tags[tag].size > 10 %}
+  <a class="dropdown-item browse-filter-item" data-filter="{{tag | downcase | remove: ' ' }}" href="/tags/#{{tag}}">{{tag}}</a>
+                {% endif %}{% endfor %}
+            </div>
+        </div>
+    </div>
 </div>
 
 <div id="loading" class="text-center">
@@ -22,6 +42,6 @@ layout: page
 </div>
 
 <div class="row" id="browseItems"></div>
-
+ 
 
 {{ content }}
