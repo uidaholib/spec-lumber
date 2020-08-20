@@ -11,7 +11,7 @@ Today, we are commemorating the 100th anniversary of the passage of the 19th ame
 
 Prior to the passage of the 19th amendment, it was up to individual states to pass legislation allowing women's suffrage. A key strategy of suffragists and suffragettes was to have enough states pass legislation granting the vote that the United States Congress would have to pass a federal suffrage amendment. The first state to allow women to vote was Wyoming. Passing the Wyoming Suffrage Act of 1869, women could vote before Wyoming was even a state. They retained the right after statehood was granted in 1890.[1]
 
-{% include feature/image.html objectid="lumber017;lumber018;lumber019;lumber020" %}
+{% include feature/item-figure.html objectid="lumber017;lumber018;lumber019;lumber020" %}
 
 Six years after Wyoming became a state, Idaho became the fourth state to grant women the right to vote by amending their constitution. In the following election three women were elected to the State House of Representatives: Clara Campbell, Hattie noble, and Mary Wright.[2] 
 
