@@ -10,7 +10,7 @@ pagination:
 <div class="posts-list">
   {% for post in posts offset: 1 %}
   <article class="post-preview">
-    <a href="{{ post.url | absolute_url }}">
+    <a class="text-dark" href="{{ post.url | absolute_url }}">
       <h2 class="post-title">{{ post.title }}</h2>
       {% if post.subtitle %}
         <h3 class="post-subtitle">
@@ -27,8 +27,8 @@ pagination:
     <div class="post-entry-container">
       {%if post.cover-image%}
       <div class="post-image">
-        <a href="{{ post.url | absolute_url }}">
-          <img src="{% include image/post-thumb.html%}">
+        <a href="{{ post.url }}">
+          <img src="{% include image/post-thumb.html %}">
         </a>
       </div>
       {% endif %}

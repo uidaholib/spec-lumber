@@ -7,7 +7,6 @@
 collections:
   posts:
     output: true
-    permalink: /:collection/:title
 
 defaults:
   - scope:
@@ -93,7 +92,7 @@ source-code: https://github.com/uidaholib/spec-lumber
 # title of site appears in banner
 title: Idaho Harvester 
 # tagline, a short phrase that will appear throughout the site in the top banner
-tagline: Blog and Working Collection of the University of Idaho Library's Special Collections & Archives 
+tagline: "Blog & Working Collection of the <a class='text-white border-bottom p-0' href='https://www.lib.uidaho.edu/special-collections/'>University of Idaho Library's Special Collections & Archives</a>"
 # description appears in meta tags and other locations
 # this description might appear in search result lists, keep around 160 characters max
 description: "A blog and collection of items used by Special Collections & Archives for Blog and Reference Request Content -- someday to be included as digital collection content."  

@@ -16,6 +16,13 @@ a {
         }
     }
 }
+
+.active {border-bottom: 1px white solid; 
+padding-bottom: 4px;
+@include media-query($on-palm) {
+    border: none;
+    font-weight: bold;
+ }}
 /* skip nav for accessibility, based on https://webaim.org/techniques/skipnav/ */
 #skip-to-content a {
 	padding:6px;
@@ -74,9 +81,10 @@ a {
 .navbar-dark .navbar-nav .nav-link {
     color: rgba(255,255,255,.5);
 }
+/*
 #mobile-nav-image {
     max-height: 1.5em;
-}
+}*/
 /* footer */
 #footer-credits {
     img { height: 40px; }

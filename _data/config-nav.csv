@@ -1,6 +1,7 @@
 display_name,stub,dropdown_parent
-Home,/,
+Blog,/,
 Archive,/tags/
+Timeline,/blogtimeline/
 Collection,,
 Browse Items,/browse.html,Collection
 Subjects,/subjects.html,Collection
@@ -8,4 +9,3 @@ Locations,/locations.html,Collection
 Map,/map.html,Collection
 Timeline,/timeline.html,Collection
 Data,/data/,Collection
-About,/about.html,
