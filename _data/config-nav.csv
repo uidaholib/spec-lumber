@@ -1,7 +1,7 @@
 display_name,stub,dropdown_parent
 Blog,/,
 Archive,/tags/
-Timeline,/blogtimeline/
+Timeline,/blog-timeline.html
 Collection,,
 Browse Items,/browse.html,Collection
 Subjects,/subjects.html,Collection
