@@ -1,6 +1,6 @@
 ---
 title: Women's Recreation Wednesday: Volleyball
-date: 2020-09-02 09:12:10 -0700
+date: 2020-08-05
 tags: ["University of Idaho","Vandals","women","women athletes","women's recreation","women's sports","women in sports","women's recreation Wednesday","Idaho","moscow","university history","university archives"]
 subtitle: 
 cover-image: lumber025
@@ -15,7 +15,7 @@ Volleyball was reportedly invented by William G. Morgan
 in 1895 just four years after the invention of basketball.[^1]
 
 An early example of a women’s volleyball game was the
-Central American and Caribbearn Games in San Salvador in 1933.[^2]
+Central American and Caribbean Games in San Salvador in 1933.[^2]
 
 The first Women’s World Volleyball Championship was held in Moscow, Russia in
 1952.[^3]
