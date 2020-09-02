@@ -25,7 +25,7 @@ in 1975 and ultimately won the silver medal! The Women’s Professional
 Volleyball Association was formed in 1986.[^4]
 
 Stay tuned for next week’s installment of Women’s Recreation
-Wednesday, where we’ll talk about winter sports (specifically, skiing)!
+Wednesday!
 
 {% include feature/image.html objectid="lumber025" %}
 
