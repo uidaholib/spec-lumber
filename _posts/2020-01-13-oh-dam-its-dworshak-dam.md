@@ -1,6 +1,6 @@
 ---
 title: Oh Dam! it's Dworshak Dam
-date: 2020-08-19 13:28:49 -0700
+date: 2020-01-13
 tags: ["ohdam","ohdam!","dam","dams","hydraulic","electricity","water","irrigation","ColumbiaRiver","ColumbiaRiverBasin"]
 subtitle: 
 cover-image: lumber015
