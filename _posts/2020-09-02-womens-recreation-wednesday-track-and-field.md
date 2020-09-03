@@ -1,5 +1,5 @@
 ---
-title: Women's Recreation Wednesday: Track and Field
+title: Women's Recreation Wednesday Track and Field
 date: 2020-09-02 11:35:35 -0700
 tags: ["University of Idaho","Vandals","women","women athletes","women's recreation","women's sports","women in sports","women's recreation Wednesday","Idaho","moscow","university history","university archives"]
 subtitle: 
