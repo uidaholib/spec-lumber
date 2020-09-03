@@ -18,3 +18,18 @@
 
 {%- if page.layout == "post" %}<script src="{{ '/assets/lib/beautiful.js' | absolute_url }}" async></script>{% endif %}
 
+<script>
+function grabDigital(){
+   
+console.log(lnk);
+   $.getJSON(lnk, function(data) {
+        
+        var text = `Image: ${data.image}<br>
+                    caption: ${data.headline}<br>`
+                    
+        
+        $("#image-{{include.objectid}}").html(text);
+    });};
+
+    grabDigital(); 
+</script>
