@@ -3,7 +3,7 @@ title: Women's Recreation Wednesday - Basketball
 date: 2020-05-06
 tags: ["University of Idaho","Vandals","women","women athletes","women's recreation","women's sports","women in sports","women's recreation Wednesday","Idaho","moscou","university history","university archives"]
 subtitle: 
-cover-image: lumber083
+cover-image: lumber090
 categories: ["Women's Recreation Wednesday"]
 ---
 
@@ -25,6 +25,8 @@ Tournament championships (1985, 2016) and two WAC Tournament championships
 
 Stay tuned for next week’s installment of Women’s
 Recreation Wednesday, where we’ll talk about bowling!
+
+{% include feature/image.html objectid="lumber090" %}
 
 {% include feature/image.html objectid="lumber083" %}
 
