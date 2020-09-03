@@ -24,9 +24,6 @@ The U.S. National Women’s volleyball team began to train for the 1984 Olympics
 in 1975 and ultimately won the silver medal! The Women’s Professional
 Volleyball Association was formed in 1986.[^4]
 
-Stay tuned for next week’s installment of Women’s Recreation
-Wednesday!
-
 {% include feature/image.html objectid="lumber025" %}
 
 {% include feature/image.html objectid="lumber026" %}
