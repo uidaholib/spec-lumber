@@ -29,7 +29,6 @@ Twentieth-Century America” by Martha H. Verbrugge!
 
 {% include feature/image.html objectid="lumber061" %}
 
-
 Stay tuned for next week’s installment of Women’s
 Recreation Wednesday, where we’ll talk about the ROTC and women’s rifle team!
 
