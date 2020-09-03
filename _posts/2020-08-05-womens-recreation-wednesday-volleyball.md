@@ -3,7 +3,7 @@ title: Women's Recreation Wednesday -Volleyball
 date: 2020-08-05
 tags: ["University of Idaho","Vandals","women","women athletes","women's recreation","women's sports","women in sports","women's recreation Wednesday","Idaho","moscow","university history","university archives"]
 subtitle: 
-cover-image: lumber025
+cover-image: lumber026
 categories: [Women's Recreation Wednesday]
 ---
 
