@@ -24,11 +24,13 @@ function grabDigital(){
 console.log(lnk);
    $.getJSON(lnk, function(data) {
         
-        var text = `Image: ${data.image}<br>
-                    caption: ${data.headline}<br>`
+        var img = `${data.image}`
+        var cap = `${data.headline}`
                     
         
-        $("#image-{{include.objectid}}").html(text);
+        $("#image-{{include.objectid}}").src = img;
+        $("#caption-{{include.objectid}}").innerHTML = cap;
+
     });};
 
     grabDigital(); 
