@@ -16,7 +16,7 @@
    
     <div class="col-md text-center">
         <figure class="figure mx-3{% if include.float %} float-{{ include.float }}{% endif %}{% if include.width %} w-{{ include.width }}{% endif %}">
-            <a href="">
+            <a id="link-{{include.objectid}}" href="">
                 <img id="image-{{include.objectid}}" class="figure-img img-fluid rounded lazyload" alt="{{ figure.title | escape }}" src="data:image/svg+xml,%3Csvg xmlns='http://www.w3.org/2000/svg' viewBox='0 0 3 2'%3E%3C/svg%3E" data-src="" >
             </a>
             {% unless include.caption == false %}<figcaption class="figure-caption">{% if include.caption %}{{ include.caption }}{% else %}<span id="caption-{{include.objectid}}"></span>{% endif %}</figcaption>{% endunless %}
@@ -27,11 +27,36 @@
 <script>
 
 var obj = "{{ include.objectid }}";
-var fig = document.getElementById("image-{{ include.objectid }}");
-var img = "https://digital.lib.uidaho.edu/digital/iiif/bar-stock/1059/full/max/0/default.jpg"
-var caption = "Title"
-   var coll = obj.replace(/[0-9]/g, '');
-   var lnk = 'https://www.lib.uidaho.edu/digital/' + coll +'/items/'+ obj +'.html';
-fig.src = img;
+var coll = obj.replace(/[0-9]/g, '');
+const proxyurl = "https://cors-anywhere.herokuapp.com/";
+const url = 'https://www.lib.uidaho.edu/digital/' + coll +'/items/'+ obj +'.html';; // site that doesn’t send Access-Control-*
+
+fetch(proxyurl + url) // https://cors-anywhere.herokuapp.com/https://example.com
+.then(function (response) {
+                return response.text();
+            })
+            .then(function (data) {
+                appendData(data);
+            })
+            .catch(function (err) {
+                console.log('error: ' + err);
+            });
+        function appendData(data) {
+            var strt = data.search("{");
+            var ending = data.search("}");
+            var lddata = data.slice(strt, ending + 1);
+            var obj = JSON.parse(lddata);
+            var fig = document.getElementById("image-{{ include.objectid }}");  
+            var cap = document.getElementById("caption-{{ include.objectid }}");
+            var figlink = document.getElementById("link-{{ include.objectid }}")               
+                fig.src = obj.image;
+                cap.innerHTML = obj.headline;
+                figlink.href = obj.url;            
+            };
+        
+
+
+
+
 
      </script>

@@ -17,21 +17,3 @@
 {%- if page.layout == "home-infographic" %}{% include js/carousel-js.html %}{% endif -%}
 
 {%- if page.layout == "post" %}<script src="{{ '/assets/lib/beautiful.js' | absolute_url }}" async></script>{% endif %}
-
-<script>
-function grabDigital(){
-   
-console.log(lnk);
-   $.getJSON(lnk, function(data) {
-        
-        var img = `${data.image}`
-        var cap = `${data.headline}`
-                    
-        
-        $("#image-{{include.objectid}}").src = img;
-        $("#caption-{{include.objectid}}").innerHTML = cap;
-
-    });};
-
-    grabDigital(); 
-</script>
