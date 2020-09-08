@@ -7,7 +7,7 @@ cover-image: crbp1224
 categories: ["Oh Dam!"]
 ---
 
-Welcome back to another week of Oh Dam!, our mini-series
+Welcome back to another week of Oh Dam!, our series
 on dams in the Pacific Northwest. Today, we’re discussing the Lower Granite Lock and Dam at
 Snake River mile 107.5. The project was enabled by the River and Harbor Act of 1945. Construction began in 1965 and was completed in 1984.
 

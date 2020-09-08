@@ -7,7 +7,7 @@ cover-image: crbp1160
 categories: ["Oh Dam!"]
 ---
 
-Welcome back to another week of Oh Dam!, our mini-series
+Welcome back to another week of Oh Dam!, our series
 on dams in the Pacific Northwest. Today, we’re discussing the Grand Coulee Dam and irrigation
 pumping plants and discharge pipes.
 

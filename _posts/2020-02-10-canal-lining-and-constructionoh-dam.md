@@ -7,7 +7,7 @@ cover-image: crbp1254
 categories: ["Oh Dam!"]
 ---
 
-Welcome back to another week of Oh Dam!, our mini-series
+Welcome back to another week of Oh Dam!, our series
 on dams in the Pacific Northwest.
 
 This week, we’re discussing canal lining and

@@ -7,7 +7,7 @@ cover-image: crbp1204
 categories: ["Oh Dam!"]
 ---
 
-Welcome back to another week of Oh Dam!, our mini-series on dams in the Pacific Northwest.</p><p>This week, we’re discussing how to prepare a site for dam construction. According to the British Dam Society, “a dam is built on a soil
+Welcome back to another week of Oh Dam!, our series on dams in the Pacific Northwest.</p><p>This week, we’re discussing how to prepare a site for dam construction. According to the British Dam Society, “a dam is built on a soil
 or rock foundation, depending on the type of dam. The foundation must be strong
 enough to carry the weight of the dam, and the water pressures acting on the
 dam. The dam foundation is below the original ground level” and “is covered by

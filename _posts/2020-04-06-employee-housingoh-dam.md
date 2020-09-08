@@ -7,7 +7,7 @@ cover-image: crbp1329
 categories: ["Oh Dam!"]
 ---
 
-Welcome back to another week of Oh Dam!, our mini-series
+Welcome back to another week of Oh Dam!, our series
 on dams in the Pacific Northwest.
 
 Ever wonder where dam construction workers live while

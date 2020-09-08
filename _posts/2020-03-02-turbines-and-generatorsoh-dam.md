@@ -7,7 +7,7 @@ cover-image: crbp1016
 categories: ["Oh Dam!"]
 ---
 
-Welcome to another week of Oh Dam!, our mini-series on
+Welcome to another week of Oh Dam!, our series on
 dams in the Pacific Northwest.
 
 Today, we’re discussing the installation of turbines and

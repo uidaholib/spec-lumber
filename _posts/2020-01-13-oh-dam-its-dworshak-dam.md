@@ -7,7 +7,7 @@ cover-image: dworshak1131
 categories: [Oh Dam!]
 ---
 
-Welcome back to another week of Oh Dam!, our mini-series on dams in the Pacific Northwest.
+Welcome back to another week of Oh Dam!, our series on dams in the Pacific Northwest.
 
 Today we’re discussing Dworshak Dam, the third tallest dam in the United States and “the highest straight-axis concrete dam in the
 Western Hemisphere.”[^1] It is located two miles upstream on the North Fork of the Clearwater River from the town of Ahsahka, Idaho.

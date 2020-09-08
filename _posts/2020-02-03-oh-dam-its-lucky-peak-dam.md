@@ -7,7 +7,7 @@ cover-image: crbp1216
 categories: ["Oh Dam!"]
 ---
 
-Welcome back to another week of Oh Dam!, our mini-series on dams in the Pacific Northwest.
+Welcome back to another week of Oh Dam!, our series on dams in the Pacific Northwest.
 
 Today, we’re discussing the Lucky Peak Dam, a flood control project on the Boise River about 9 miles upstream from Boise, Idaho.
 
