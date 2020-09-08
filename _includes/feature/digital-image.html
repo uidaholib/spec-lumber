@@ -1,5 +1,62 @@
 {% comment %}
-
-E.G. --> {% include feature/digital-image.html collection="phs" id="289" %}
+    
+    Item figure from objectid.
+    This include adds a figure to the page styled using bootstrap, https://getbootstrap.com/docs/4.4/content/figures/
+    It requires an "objectid" with the include, which is used to find the object title and image.
+    Image and youtube items will have max quality images, all others will be CDM thumbnails which are very small size. 
+    If multiple objectids are included (separated by ; ), they will be added to a "col-md" in a row which will automatically divided equally.
+    Options:
+    - "objectid" one or more objectids from this collection, separated by semicolon ;  
+    - "width" will use Bootstrap sizing to set the % size, choose from "25", "50", "75", or "100"
+    - "float" will use Bootstrap float utility to add float, choose from "left" or "right"
+    - "caption" by default the figure include automatically adds the title of the item from your metadata. The caption option allows you to manually add a different caption, or give the value false for none.
 
 {%- endcomment -%}
+<div class="row">
+   
+    <div class="col-md text-center">
+        <figure class="figure mx-3{% if include.float %} float-{{ include.float }}{% endif %}{% if include.width %} w-{{ include.width }}{% endif %}">
+            <a id="link-{{include.objectid}}" href="">
+                <img id="image-{{include.objectid}}" class="figure-img img-fluid rounded lazyload" alt="{{ figure.title | escape }}" src="data:image/svg+xml,%3Csvg xmlns='http://www.w3.org/2000/svg' viewBox='0 0 3 2'%3E%3C/svg%3E" data-src="" >
+            </a>
+            {% unless include.caption == false %}<figcaption class="figure-caption">{% if include.caption %}{{ include.caption }}{% else %}<span id="caption-{{include.objectid}}"></span>{% endif %}</figcaption>{% endunless %}
+        </figure>
+    </div>
+</div>
+
+<script>
+
+var obj = "{{ include.objectid }}";
+var coll = obj.replace(/[0-9]/g, '');
+const proxyurl = "https://cors-anywhere.herokuapp.com/";
+const url = 'https://www.lib.uidaho.edu/digital/' + coll +'/items/'+ obj +'.html';; // site that doesn’t send Access-Control-*
+
+fetch(proxyurl + url) // https://cors-anywhere.herokuapp.com/https://example.com
+.then(function (response) {
+                return response.text();
+            })
+            .then(function (data) {
+                appendData(data);
+            })
+            .catch(function (err) {
+                console.log('error: ' + err);
+            });
+        function appendData(data) {
+            var strt = data.search("{");
+            var ending = data.search("}");
+            var lddata = data.slice(strt, ending + 1);
+            var obj = JSON.parse(lddata);
+            var fig = document.getElementById("image-{{ include.objectid }}");  
+            var cap = document.getElementById("caption-{{ include.objectid }}");
+            var figlink = document.getElementById("link-{{ include.objectid }}")               
+                fig.src = obj.image;
+                cap.innerHTML = obj.headline;
+                figlink.href = obj.url;            
+            };
+        
+
+
+
+
+
+     </script>
