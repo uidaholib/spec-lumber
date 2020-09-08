@@ -7,7 +7,7 @@ cover-image:
 categories: ["Oh Dam!"]
 ---
 
-Welcome back to another week of Oh Dam!, our mini-series
+Welcome back to another week of Oh Dam!, our series
 on dams in the Pacific Northwest.
 
 Today, we’re discussing Little Goose Lock and Dam on the

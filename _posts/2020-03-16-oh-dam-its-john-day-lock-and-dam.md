@@ -7,7 +7,7 @@ cover-image:
 categories: ["Oh Dam!"]
 ---
 
-Welcome back to another week of Oh Dam!, our mini-series
+Welcome back to another week of Oh Dam!, our series
 on dams in the Pacific Northwest.
 
 Today, we’re discussing John Day Lock and Dam, located 216 miles upriver from the mouth of the Columbia River.[^1] Construction began in 1968 and was completed in 1982.
