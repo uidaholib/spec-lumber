@@ -26,22 +26,22 @@
 
 <script>
 
-var obj = "{{ include.objectid }}";
-var coll = obj.replace(/[0-9]/g, '');
-const proxyurl = "https://cors-anywhere.herokuapp.com/";
-const url = 'https://www.lib.uidaho.edu/digital/' + coll +'/items/'+ obj +'.html';; // site that doesn’t send Access-Control-*
+var obj{{ include.objectid }} = "{{ include.objectid }}";
+var coll{{ include.objectid }} = obj{{ include.objectid }}.replace(/[0-9]/g, '');
+var proxyurl = "https://cors-anywhere.herokuapp.com/";
+var url{{ include.objectid }} = 'https://www.lib.uidaho.edu/digital/' + coll{{ include.objectid }} +'/items/'+ obj{{ include.objectid }} +'.html';; // site that doesn’t send Access-Control-*
 
-fetch(proxyurl + url) // https://cors-anywhere.herokuapp.com/https://example.com
+fetch(proxyurl + url{{ include.objectid }}) // https://cors-anywhere.herokuapp.com/https://example.com
 .then(function (response) {
                 return response.text();
             })
             .then(function (data) {
-                appendData(data);
+                append{{ include.objectid }}(data);
             })
             .catch(function (err) {
                 console.log('error: ' + err);
             });
-        function appendData(data) {
+        function append{{ include.objectid }}(data) {
             var strt = data.search("{");
             var ending = data.search("}");
             var lddata = data.slice(strt, ending + 1);
@@ -51,7 +51,8 @@ fetch(proxyurl + url) // https://cors-anywhere.herokuapp.com/https://example.com
             var figlink = document.getElementById("link-{{ include.objectid }}")               
                 fig.src = obj.image;
                 cap.innerHTML = obj.headline;
-                figlink.href = obj.url;            
+                figlink.href = obj.url;    
+                console.log(figlink)        
             };
         
 

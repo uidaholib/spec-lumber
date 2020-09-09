@@ -8,7 +8,7 @@
 
 <style>
    #header-big-img {
-    background-image: url('{% include image/post-image.html %}');
+     background-image: url('{% include image/post-image.html %}');
     background-size: cover;
     background-repeat: no-repeat;
     background-position: center;
@@ -20,7 +20,7 @@
 
   </div>
   {% unless page.cover-image contains '/' %}<div class="text-right p-0 mt-n5" style="position:relative;bottom:0;right:0;">
-    <small><a class="text-info featured-link" href="{{ '/items/' | relative_url | append: page.cover-image | append: '.html' }}" title="{{ featuredItem.title | escape }}">Featured Image</a></small>
+    <small><a class="text-info featured-link" id="header-big-img-link" href="{% if page.cover-image contains 'lumber' %}{{ '/items/' | relative_url | append: page.cover-image | append: '.html' }}{% endif %}" title="{{ featuredItem.title | escape }}">Featured Image</a></small>
 </div>{% endunless %}
 
 
@@ -88,3 +88,35 @@
 {% else %}
 <div class="intro-header"></div>
 {% endif %}
+
+{% unless page.cover-image contains '/' or page.cover-image contains 'lumber' %}
+<script>
+  var coverobj = "{{ page.cover-image }}";
+  var covercoll = coverobj.replace(/[0-9]/g, '');
+  var proxyurl = "https://cors-anywhere.herokuapp.com/";
+  var coverobjurl = 'https://www.lib.uidaho.edu/digital/' + covercoll +'/items/'+ coverobj +'.html';; // site that doesn’t send Access-Control-*
+  
+  fetch(proxyurl + coverobjurl) // https://cors-anywhere.herokuapp.com/https://example.com
+  .then(function (response) {
+                  return response.text();
+              })
+              .then(function (data) {
+                  appendCover(data);
+              })
+              .catch(function (err) {
+                  console.log('error: ' + err);
+              });
+          function appendCover(data) {
+              var strt = data.search("{");
+              var ending = data.search("}");
+              var lddata = data.slice(strt, ending + 1);
+              var obj = JSON.parse(lddata);
+              var fig = document.getElementById("header-big-img"); 
+              var figlink = document.getElementById("header-big-img-link");                
+                  fig.style.backgroundImage =  "url('" + obj.image +"')";
+                  figlink.href = obj.url;  
+                  console.log('featured:' + fig);
+                  alert('it went' + fig);
+              };
+             </script>
+             {% endunless %}
