@@ -21,13 +21,13 @@ bottom of the canal, or lining it. “A filter layer consisting of sand and
 gravel is then put in place and, on top of that, a sealing layer of fine soil,
 cement or asphalt.”[^1]
 
-{% include feature/digital-image.html objectid="crbp1254" %}
+{% include feature/digital-image.html objectid="crbp1254" cdm-collection="crbproj" collection="crbp" %}
 
-{% include feature/digital-image.html objectid="crbp1255" %}
+{% include feature/digital-image.html objectid="crbp1255" cdm-collection="crbproj" collection="crbp" %}
 
-{% include feature/digital-image.html objectid="crbp1262" %}
+{% include feature/digital-image.html objectid="crbp1262" cdm-collection="crbproj" collection="crbp" %}
 
-{% include feature/digital-image.html objectid="crbp1261" %}
+{% include feature/digital-image.html objectid="crbp1261" cdm-collection="crbproj" collection="crbp" %}
 
 
 [^1]: [Canals](http://applications.dynapac.com/soil/dams-and-canals/)

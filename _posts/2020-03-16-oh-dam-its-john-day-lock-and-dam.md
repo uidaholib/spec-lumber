@@ -17,7 +17,7 @@ in the United States! In addition to supplying hydropower to the Pacific
 Northwest Region, the John Day Dam provides a reliable water source from
 navigation, irrigation, flood mitigation, recreation, and fish passage.”[^2]
 
-{% include feature/digital-image.html objectid="crbp1234" %}
+{% include feature/digital-image.html objectid="crbp1234" cdm-collection="crbproj" collection="crbp" %}
 
 The navigation lock is 650 feet long and 86 feet wide,
 with a max lift of 113 feet and average transit time of 30 minutes.[^3]
@@ -28,7 +28,7 @@ Fish ladders provide a passage for Chinook salmon, Coho
 salmon, Sockeye salmon, Steelhead trout, American shad, and Pacific lamprey
 throughout the year.[^2]
 
-{% include feature/digital-image.html objectid="crbp1214" %}
+{% include feature/digital-image.html objectid="crbp1214" cdm-collection="crbproj" collection="crbp" %}
 
 [^1]: [Dworshak Dam and Reservoir](https://www.nww.usace.army.mil/Locations/District-Locks-and-Dams/Dworshak-Dam-and-Reservoir/)
 

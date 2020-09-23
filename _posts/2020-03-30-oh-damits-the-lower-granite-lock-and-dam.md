@@ -19,7 +19,7 @@ from the Pacific Ocean.”[^1]
 of grains, petroleum products, fertilizer, wood products, and miscellaneous
 cargo that amounted to more than 1.1 trillion tons.”[^1]
 
-{% include feature/digital-image.html objectid="crbp1224" %}
+{% include feature/digital-image.html objectid="crbp1224" cdm-collection="crbproj" collection="crbp" %}
 
 [^1]: [Lower Granite Lock and Dam](https://www.nww.usace.army.mil/Locations/District-Locks-and-Dams/Lower-Granite-Lock-and-Dam/)
 

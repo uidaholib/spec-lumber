@@ -18,7 +18,7 @@ II”).[^1] The Project “is an immense irrigation development in central Washi
 that provides water from the Columbia River to about 671,000 acres on the
 Columbia Plateau.”[^2]
 
-{% include feature/digital-image.html objectid="crbp1327" %}
+{% include feature/digital-image.html objectid="crbp1327" cdm-collection="crbproj" collection="crbp" %}
 
 Here’s how the system works: “water from Lake Roosevelt
 behind Grand Coulee Dam is pumped uphill to a 27-mile-long reservoir, Banks
@@ -31,7 +31,7 @@ largest-volume crops. There also are large herds of dairy cows and beef cattle.
 Annually, the cash value of farm production in the Columbia Basin Project is
 about $630 million.”[^2]
 
-{% include feature/digital-image.html objectid="crbp1160" %}
+{% include feature/digital-image.html objectid="crbp1160" cdm-collection="crbproj" collection="crbp" %}
 
 Additionally, “O’Sullivan Dam on Crab Creek about 15
 miles south of Moses Lake creates Potholes Reservoir, which captures return
@@ -48,13 +48,13 @@ electricity, controlling floods, providing recreation, and regulating
 streamflow, the Columbia Basin Project also provides water for cities,
 industries, navigation, and endangered species.”[^1]
 
-{% include feature/digital-image.html objectid="crbp1151" %}
+{% include feature/digital-image.html objectid="crbp1151" cdm-collection="crbproj" collection="crbp" %}
 
-{% include feature/digital-image.html objectid="crbp1145" %}
+{% include feature/digital-image.html objectid="crbp1145" cdm-collection="crbproj" collection="crbp" %}
 
-{% include feature/digital-image.html objectid="crbp1143" %}
+{% include feature/digital-image.html objectid="crbp1143" cdm-collection="crbproj" collection="crbp" %}
 
-{% include feature/digital-image.html objectid="crbp1144" %}
+{% include feature/digital-image.html objectid="crbp1144" cdm-collection="crbproj" collection="crbp" %}
 
 [^1]: [Columbia Basin Project](https://www.usbr.gov/pn/grandcoulee/cbp/index.html)
 

@@ -24,15 +24,15 @@ The fourth photo below shows bedrock in the old river channel and the
 natural water-worn rock surface as it is found under a bed of clay and boulders
 left in the canyon during the last ice age.
 
-{% include feature/digital-image.html objectid="crbp1204" %}
+{% include feature/digital-image.html objectid="crbp1204" cdm-collection="crbproj" collection="crbp" %}
 
-{% include feature/digital-image.html objectid="crbp1189" %}
+{% include feature/digital-image.html objectid="crbp1189" cdm-collection="crbproj" collection="crbp" %}
 
-{% include feature/digital-image.html objectid="crbp1190" %}
+{% include feature/digital-image.html objectid="crbp1190" cdm-collection="crbproj" collection="crbp" %}
 
-{% include feature/digital-image.html objectid="crbp1191" %}
+{% include feature/digital-image.html objectid="crbp1191" cdm-collection="crbproj" collection="crbp" %}
 
-{% include feature/digital-image.html objectid="crbp1192" %}
+{% include feature/digital-image.html objectid="crbp1192" cdm-collection="crbproj" collection="crbp" %}
 
 [^1]: https://britishdams.org/about-dams/dam-information/building-dams/
 

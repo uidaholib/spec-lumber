@@ -9,7 +9,7 @@ categories: ["Mining Monday"]
 
 Happy Mining Monday! Today, we take a closer look at the environmental impacts of underground metal mines. While underground metal mines, like the mines that operated in north Idaho for decades, results in many beneficial materials that are used to build and power technological advancements, there are also damaging effects to mining raw minerals. According to the EPA’s Toxic Releases Inventory report, mining is “the single largest source of toxic waste of all industries in the United States” because “mineral extraction sites, which include strip mines, quarries, and underground mines, contribute to surface and groundwater pollution, erosion, and sedimentation.”[^1]
 
-{% include feature/digital-image.html objectid="barstock273" %}
+{% include feature/digital-image.html objectid="barstock273" collection="barstock" %}
 
 If you remember from our post on extraction, we discussed how mineral extraction “involves the excavation of large amounts of waste rock to remove the desired mineral
 ore. The ore is then crushed into finely ground tailings for chemical
@@ -27,9 +27,9 @@ and ground water contamination.”[^1]
 
 Additionally, smelting (”the process of separating the metal from impurities by heating the concentrate to a high temperature to cause the metal to melt”) is also a source of pollution by producing “contaminant-laden air emissions and process wastes such as wastewater and slag” (slag is a solid waste product produced by smelting).[^2]
 
-{% include feature/digital-image.html objectid="barstock589" %}
+{% include feature/digital-image.html objectid="barstock589" collection="barstock" %}
 
-{% include feature/digital-image.html objectid="barstock1190" %}
+{% include feature/digital-image.html objectid="barstock1190" collection="barstock" %}
 
 [^1]: [Mineral and Fuel Extraction: Health Consequences](https://www.sciencedirect.com/topics/earth-and-planetary-sciences/mineral-extraction)
 

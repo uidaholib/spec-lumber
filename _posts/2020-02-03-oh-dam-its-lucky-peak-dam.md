@@ -17,7 +17,7 @@ Corps of Engineers, Walla Walla District website, “more than $2.37 billion in 
 Lucky Peak Dam creates the storage reservoir Lucky Peak Lake which is about 12 miles long and 3,055 feet deep at normal pool.[^1]
 The lake has a visitor center and was visited by over 921,000 in 2015.[^1]
 
-{% include feature/digital-image.html objectid="crbp1216" %}
+{% include feature/digital-image.html objectid="crbp1216" cdm-collection="crbproj" collection="crbp" %}
 
 [^1]: [Lucky Peak Dam and Lake](https://www.nww.usace.army.mil/Locations/District-Locks-and-Dams/Lucky-Peak-Dam-and-Lake/)
 

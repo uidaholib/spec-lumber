@@ -20,7 +20,7 @@ The lock is a “single-lift lock, 86 feet wide by 668 feet
 long, with a 100-foot vertical lift. More than 1.9 million tons of commodities
 passed through the Little Goose navigation lock during 2015.”[^1]
 
-{% include feature/digital-image.html objectid="crbp1222" %}
+{% include feature/digital-image.html objectid="crbp1222" cdm-collection="crbproj" collection="crbp" %}
 
 [^1]: [Little Goose Lock and Dam](https://www.nww.usace.army.mil/Locations/District-Locks-and-Dams/Little-Goose-Lock-and-Dam/)
 

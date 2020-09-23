@@ -16,7 +16,7 @@ the Snake River “upstream of McNary Lock and Dam and Lake Wullala.”[^1]
 The project was enabled by the River and Harbor Act of 1945. Construction began in t9156 and was completed in 1961. The dam creates
 Lake Sacajawea, which “extends upstream about 32 miles to Lower Monumental Lock and Dam and has a surface area of 9,200 acres.”[^1]
 
-{% include feature/digital-image.html objectid="crbp1217" %}
+{% include feature/digital-image.html objectid="crbp1217" cdm-collection="crbproj" collection="crbp" %}
 
 The navigation lock is a “single-lift lock, 86 feet wide
 by 675 feet long, with a 100 foot vertical lift. In 2015, traffic through the
