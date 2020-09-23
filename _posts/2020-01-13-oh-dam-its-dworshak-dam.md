@@ -17,7 +17,7 @@ damage reduction in June 1972. Power came online in March 1973.”[^1]
 
 According to the U.S. Army Corps of Engineers, Walla Walla District website, the Dworshak Dam has “prevented more than $2.8 million in local potential flood damages” since 1972. In 2015, the dam “prevented about $18 million in potential flood damages on the Columbia River."[^1]
 
-{% include feature/digital-image.html objectid="dworshak1131" collection="dworshak" %}
+{% include feature/digital-image.html objectid="dworshak1131" collection="dworshak" %} 
 
 However, there are also drawbacks to the dam. “The filling of the reservoir resulted in the loss of about 15,000 acres of terrestrial habitat. The greatest loss of wildlife habitat was the winter range for Rocky Mountain elk and white-tailed deer.”[^1] Construction of the dam also resulted in large losses of anadromous steelhead trout.
 
