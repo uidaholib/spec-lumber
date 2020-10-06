@@ -3,10 +3,10 @@ title: Women's Recreation Wednesday - Winter Sports
 date: 2020-08-05
 tags: ["University of Idaho","Vandals","women","women athletes","women's recreation","women's sports","women in sports","women's recreation Wednesday","Idaho","Moscow","university history","university archives"]
 subtitle: 
-cover-image: lumber97
+cover-image: lumber097
 categories: ["Women's Recreation Wednesday"]
 ---
-
+ 
 Welcome back to another week of Women’s Recreation
 Wednesday, our series covering the Women’s Recreation Association here at the
 University of Idaho.

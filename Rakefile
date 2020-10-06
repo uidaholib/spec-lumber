@@ -161,10 +161,3 @@ task :new_post do
 
 end
 
-
-###############################################################################
-# TASK: scrape digital collection items to include
-###############################################################################
-
-desc "set up new post for blog"
-task :new_post do 
