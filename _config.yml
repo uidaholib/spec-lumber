@@ -53,7 +53,7 @@ organization-logo-nav: https://www.lib.uidaho.edu/media/images/ui_library_horizo
 #
 # provide location of the digital objects folder,
 # If using local folder, dir name with proceeding slash. If using external web location, provide full URL
-objects: /objects 
+objects: https://webpages.uidaho.edu/library/spec/harvester/objects/ 
 # choose metadata: this is the name of the csv file in your _data directory that describes the objects in your collection
 metadata: lumber
 # page generation settings 
