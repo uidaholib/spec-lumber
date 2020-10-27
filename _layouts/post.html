@@ -11,10 +11,7 @@ layout: default
   
 
       <article role="main" class="blog-post ">
-        {{ content }}
-      </article>
-
-      {% if page.tags.size > 0 %}
+        {% if page.tags.size > 0 %}
         <div class="blog-tags">
           Tags:
           {% for tag in page.tags %}
@@ -22,6 +19,10 @@ layout: default
           {% endfor %}
         </div>
       {% endif %}
+        {{ content }}
+      </article>
+
+     
 
  
 

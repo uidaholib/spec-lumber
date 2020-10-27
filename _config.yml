@@ -16,9 +16,11 @@ defaults:
       
 link-tags: true
 
+permalink: /:year/:month/:title:output_ext
+
 paginate: 10
 
-paginate_path: "/blog/page:num/"
+paginate_path: "/blog/:num/"
 
 ##########
 # URL VARIABLES
