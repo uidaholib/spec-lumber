@@ -1,0 +1,562 @@
+{ "objects": [{
+        "title": "Anaconda Mine 1000 ft. level East [no. 1163]",
+        "date": "1890",
+        "subjects": ["Watkins, Carleton E., 1829-1916"," Anaconda Company"," Butte (Mont.)"],
+        "description": "Anaconda Mine 1000 level East. Wealth of ore 45 ft.",
+        "link": "https://www.lib.uidaho.edu/digital/watkins/items/watkins0.html"
+    },
+    {
+        "title": "Anaconda Mine 1000 ft. level West [no. 1172]",
+        "date": "1890",
+        "subjects": ["Watkins, Carleton E., 1829-1916"," Anaconda Company"," Butte (Mont.)"],
+        "description": "Anaconda Mine 1000 level West Ore 75 ft.",
+        "link": "https://www.lib.uidaho.edu/digital/watkins/items/watkins1.html"
+    },
+    {
+        "title": "Anaconda Mine 900 ft. level West [no. 1173]",
+        "date": "1890",
+        "subjects": ["Watkins, Carleton E., 1829-1916"," Anaconda Company"," Butte (Mont.)"],
+        "description": "Anaconda Mine 900 level West Ore 80 ft.",
+        "link": "https://www.lib.uidaho.edu/digital/watkins/items/watkins2.html"
+    },
+    {
+        "title": "Anaconda Mine 900 ft. level East [no. 1174]",
+        "date": "1890",
+        "subjects": ["Watkins, Carleton E., 1829-1916"," Anaconda Company"," Butte (Mont.)"],
+        "description": "Anaconda Mine 900 level East Ore 80 ft.",
+        "link": "https://www.lib.uidaho.edu/digital/watkins/items/watkins3.html"
+    },
+    {
+        "title": "Anaconda Mine 900 ft. level West [no. 1175]",
+        "date": "1890",
+        "subjects": ["Watkins, Carleton E., 1829-1916"," Anaconda Company"," Butte (Mont.)"],
+        "description": "Anaconda Mine 900 level West Ore 80 ft.",
+        "link": "https://www.lib.uidaho.edu/digital/watkins/items/watkins4.html"
+    },
+    {
+        "title": "Anaconda Mine 900 ft. level East [no. 1176]",
+        "date": "1890",
+        "subjects": ["Watkins, Carleton E., 1829-1916"," Anaconda Company"," Butte (Mont.)"],
+        "description": "Anaconda Mine 900 level East Wealth of ore 80 ft.",
+        "link": "https://www.lib.uidaho.edu/digital/watkins/items/watkins5.html"
+    },
+    {
+        "title": "Anaconda Mine 900 ft. level East [no. 1177]",
+        "date": "1890",
+        "subjects": ["Watkins, Carleton E., 1829-1916"," Anaconda Company"," Butte (Mont.)"],
+        "description": "Anaconda Mine 900 level East Ore 80 ft.",
+        "link": "https://www.lib.uidaho.edu/digital/watkins/items/watkins6.html"
+    },
+    {
+        "title": "Anaconda Mine 900 ft. level East [no. 1178]",
+        "date": "1890",
+        "subjects": ["Watkins, Carleton E., 1829-1916"," Anaconda Company"," Butte (Mont.)"],
+        "description": "Anaconda Mine 900 level East Ore 80 ft.",
+        "link": "https://www.lib.uidaho.edu/digital/watkins/items/watkins7.html"
+    },
+    {
+        "title": "St. Lawrence Mine 800 ft. level West [no. 1179]",
+        "date": "1890",
+        "subjects": ["Watkins, Carleton E., 1829-1916"," Anaconda Company"," Butte (Mont.)"],
+        "description": "St. Lawrence 800 level West Ore 40 ft.",
+        "link": "https://www.lib.uidaho.edu/digital/watkins/items/watkins8.html"
+    },
+    {
+        "title": "St. Lawrence Mine 800 ft. level West [no. 1181]",
+        "date": "1890",
+        "subjects": ["Watkins, Carleton E., 1829-1916"," Anaconda Company"," Butte (Mont.)"],
+        "description": "St. Lawrence 800 level West Ore 40 ft.",
+        "link": "https://www.lib.uidaho.edu/digital/watkins/items/watkins9.html"
+    },
+    {
+        "title": "St. Lawrence Mine 800 ft. level West [no. 1180]",
+        "date": "1890",
+        "subjects": ["Watkins, Carleton E., 1829-1916"," Anaconda Company"," Butte (Mont.)"],
+        "description": "St. Lawrence 800 level West Ore 40 ft.",
+        "link": "https://www.lib.uidaho.edu/digital/watkins/items/watkins10.html"
+    },
+    {
+        "title": "Anaconda Mine 1000 ft. level East [no. 1164]",
+        "date": "1890",
+        "subjects": ["Watkins, Carleton E., 1829-1916"," Anaconda Company"," Butte (Mont.)"],
+        "description": "Anaconda Mine 1000 level East. Wealth of ore 45 ft.",
+        "link": "https://www.lib.uidaho.edu/digital/watkins/items/watkins11.html"
+    },
+    {
+        "title": "St. Lawrence Mine 800 ft. level West [no. 1182]",
+        "date": "1890",
+        "subjects": ["Watkins, Carleton E., 1829-1916"," Anaconda Company"," Butte (Mont.)"],
+        "description": "St. Lawrence 800 level West Ore 40 ft.",
+        "link": "https://www.lib.uidaho.edu/digital/watkins/items/watkins12.html"
+    },
+    {
+        "title": "St. Lawrence Mine 700 ft. level East [no. 1183]",
+        "date": "1890",
+        "subjects": ["Watkins, Carleton E., 1829-1916"," Anaconda Company"," Butte (Mont.)"],
+        "description": "St. Lawrence 700 level East Ore 36 ft.",
+        "link": "https://www.lib.uidaho.edu/digital/watkins/items/watkins13.html"
+    },
+    {
+        "title": "St. Lawrence Mine 700 ft. level East [no. 1184]",
+        "date": "1890",
+        "subjects": ["Watkins, Carleton E., 1829-1916"," Anaconda Company"," Butte (Mont.)"],
+        "description": "St. Lawrence 700 level East Ore 36 ft.",
+        "link": "https://www.lib.uidaho.edu/digital/watkins/items/watkins14.html"
+    },
+    {
+        "title": "St. Lawrence Mine 800 ft. level East [no. 1185]",
+        "date": "1890",
+        "subjects": ["Watkins, Carleton E., 1829-1916"," Anaconda Company"," Butte (Mont.)"],
+        "description": "St. Lawrence 800 level East Ore 35 ft.",
+        "link": "https://www.lib.uidaho.edu/digital/watkins/items/watkins15.html"
+    },
+    {
+        "title": "St. Lawrence Mine Pump Station 400' level [no. 1186]",
+        "date": "1890",
+        "subjects": ["Watkins, Carleton E., 1829-1916"," Anaconda Company"," Butte (Mont.)"],
+        "description": "St. Lawrence Pump Station 400 level",
+        "link": "https://www.lib.uidaho.edu/digital/watkins/items/watkins16.html"
+    },
+    {
+        "title": "St. Lawrence Mine 600 ft. level East [no. 1187]",
+        "date": "1890",
+        "subjects": ["Watkins, Carleton E., 1829-1916"," Anaconda Company"," Butte (Mont.)"],
+        "description": "St. Lawrence 600 level East Ore 35 ft.",
+        "link": "https://www.lib.uidaho.edu/digital/watkins/items/watkins17.html"
+    },
+    {
+        "title": "St. Lawrence Mine 600 ft. level East [no. 1188]",
+        "date": "1890",
+        "subjects": ["Watkins, Carleton E., 1829-1916"," Anaconda Company"," Butte (Mont.)"],
+        "description": "St. Lawrence 600 level East Ore 35 ft.",
+        "link": "https://www.lib.uidaho.edu/digital/watkins/items/watkins18.html"
+    },
+    {
+        "title": "St. Lawrence Mine 600 ft. level East [no. 1189]",
+        "date": "1890",
+        "subjects": ["Watkins, Carleton E., 1829-1916"," Anaconda Company"," Butte (Mont.)"],
+        "description": "St. Lawrence 600 level East Ore 35 ft.",
+        "link": "https://www.lib.uidaho.edu/digital/watkins/items/watkins19.html"
+    },
+    {
+        "title": "St. Lawrence Mine 600 ft. level East [no. 1190]",
+        "date": "1890",
+        "subjects": ["Watkins, Carleton E., 1829-1916"," Anaconda Company"," Butte (Mont.)"],
+        "description": "St. Lawrence 600 level East Ore 35 ft.",
+        "link": "https://www.lib.uidaho.edu/digital/watkins/items/watkins20.html"
+    },
+    {
+        "title": "St. Lawrence Mine 600 ft. level East [no. 1191]",
+        "date": "1890",
+        "subjects": ["Watkins, Carleton E., 1829-1916"," Anaconda Company"," Butte (Mont.)"],
+        "description": "St. Lawrence 600 level East Ore 35 ft.",
+        "link": "https://www.lib.uidaho.edu/digital/watkins/items/watkins21.html"
+    },
+    {
+        "title": "Anaconda Mine 1000 ft. level East [no. 1165]",
+        "date": "1890",
+        "subjects": ["Watkins, Carleton E., 1829-1916"," Anaconda Company"," Butte (Mont.)"],
+        "description": "Anaconda Mine 1000 level East. Wealth of ore 45 ft.",
+        "link": "https://www.lib.uidaho.edu/digital/watkins/items/watkins22.html"
+    },
+    {
+        "title": "St. Lawrence Mine 600 ft. level East [no. 1192]",
+        "date": "1890",
+        "subjects": ["Watkins, Carleton E., 1829-1916"," Anaconda Company"," Butte (Mont.)"],
+        "description": "St. Lawrence 600 level East Ore 35 ft.",
+        "link": "https://www.lib.uidaho.edu/digital/watkins/items/watkins23.html"
+    },
+    {
+        "title": "High Ore Mine 400 ft. level [no. 1193]",
+        "date": "1890",
+        "subjects": ["Watkins, Carleton E., 1829-1916"," Anaconda Company"," Butte (Mont.)"],
+        "description": "High ore 400 ft. level Housing Station",
+        "link": "https://www.lib.uidaho.edu/digital/watkins/items/watkins24.html"
+    },
+    {
+        "title": "High Ore Mine 600 ft. level [no. 1194]",
+        "date": "1890",
+        "subjects": ["Watkins, Carleton E., 1829-1916"," Anaconda Company"," Butte (Mont.)"],
+        "description": "High ore 600 level Pump Station",
+        "link": "https://www.lib.uidaho.edu/digital/watkins/items/watkins25.html"
+    },
+    {
+        "title": "High Ore Mine 500 ft. level [no. 1195]",
+        "date": "1890",
+        "subjects": ["Watkins, Carleton E., 1829-1916"," Anaconda Company"," Butte (Mont.)"],
+        "description": "High ore 500 ft. level Housing Station",
+        "link": "https://www.lib.uidaho.edu/digital/watkins/items/watkins26.html"
+    },
+    {
+        "title": "High Ore Mine 400 ft. level West [no. 1196]",
+        "date": "1890",
+        "subjects": ["Watkins, Carleton E., 1829-1916"," Anaconda Company"," Butte (Mont.)"],
+        "description": "High ore 400 ft. level West Showing bulkheading in 1st floor and miner ascending to 2nd floor with hose for...",
+        "link": "https://www.lib.uidaho.edu/digital/watkins/items/watkins27.html"
+    },
+    {
+        "title": "High Ore Mine 300 ft. level East [no. 1197]",
+        "date": "1890",
+        "subjects": ["Watkins, Carleton E., 1829-1916"," Anaconda Company"," Butte (Mont.)"],
+        "description": "High ore 300 ft. level East Showing men and drilling machine on fourth floor drilling air on breast",
+        "link": "https://www.lib.uidaho.edu/digital/watkins/items/watkins28.html"
+    },
+    {
+        "title": "High Ore Mine 200 ft. level West [no. 1198]",
+        "date": "1890",
+        "subjects": ["Watkins, Carleton E., 1829-1916"," Anaconda Company"," Butte (Mont.)"],
+        "description": "High ore 200 ft. level West Showing face of drift. Timber and lagging",
+        "link": "https://www.lib.uidaho.edu/digital/watkins/items/watkins29.html"
+    },
+    {
+        "title": "High Ore Mine 600 ft. level East [no. 1199]",
+        "date": "1890",
+        "subjects": ["Watkins, Carleton E., 1829-1916"," Anaconda Company"," Butte (Mont.)"],
+        "description": "High ore 600 level East Showing ore in breasts",
+        "link": "https://www.lib.uidaho.edu/digital/watkins/items/watkins30.html"
+    },
+    {
+        "title": "High Ore Mine 600 ft. level West [no. 1200]",
+        "date": "1890",
+        "subjects": ["Watkins, Carleton E., 1829-1916"," Anaconda Company"," Butte (Mont.)"],
+        "description": "High ore 600 level West Showing miner wheeling ore to chutes Ore 10 ft",
+        "link": "https://www.lib.uidaho.edu/digital/watkins/items/watkins31.html"
+    },
+    {
+        "title": "High Ore Mine 300 ft. level East [no. 1201]",
+        "date": "1890",
+        "subjects": ["Watkins, Carleton E., 1829-1916"," Anaconda Company"," Butte (Mont.)"],
+        "description": "High ore 300 level East Showing drilling machine and bar erected for drilling ore breast",
+        "link": "https://www.lib.uidaho.edu/digital/watkins/items/watkins32.html"
+    },
+    {
+        "title": "Anaconda Mine 1000 ft. level East [no. 1166]",
+        "date": "1890",
+        "subjects": ["Watkins, Carleton E., 1829-1916"," Anaconda Company"," Butte (Mont.)"],
+        "description": "Anaconda Mine 1000 level East. Wealth of ore 45 ft.",
+        "link": "https://www.lib.uidaho.edu/digital/watkins/items/watkins33.html"
+    },
+    {
+        "title": "High Ore Mine 400 ft. level East [no. 1202]",
+        "date": "1890",
+        "subjects": ["Watkins, Carleton E., 1829-1916"," Anaconda Company"," Butte (Mont.)"],
+        "description": "High ore 400 level East Showing ore after blast ore 15 ft",
+        "link": "https://www.lib.uidaho.edu/digital/watkins/items/watkins34.html"
+    },
+    {
+        "title": "High Ore Mine 300 ft. level West [no. 1203]",
+        "date": "1890",
+        "subjects": ["Watkins, Carleton E., 1829-1916"," Anaconda Company"," Butte (Mont.)"],
+        "description": "High ore 300 ft. level West Showing timbers along foot wall",
+        "link": "https://www.lib.uidaho.edu/digital/watkins/items/watkins35.html"
+    },
+    {
+        "title": "High Ore Mine 500 ft. level West [no. 1204]",
+        "date": "1890",
+        "subjects": ["Watkins, Carleton E., 1829-1916"," Anaconda Company"," Butte (Mont.)"],
+        "description": "High ore 500 ft. level West Showing ore and timbers on foot wall",
+        "link": "https://www.lib.uidaho.edu/digital/watkins/items/watkins36.html"
+    },
+    {
+        "title": "High Ore Mine 300 ft. level East [no. 1205]",
+        "date": "1890",
+        "subjects": ["Watkins, Carleton E., 1829-1916"," Anaconda Company"," Butte (Mont.)"],
+        "description": "High ore 300 ft. level East Showing tripod and drilling machine in operation",
+        "link": "https://www.lib.uidaho.edu/digital/watkins/items/watkins37.html"
+    },
+    {
+        "title": "High Ore Mine 300 ft. level West [no. 1206]",
+        "date": "1890",
+        "subjects": ["Watkins, Carleton E., 1829-1916"," Anaconda Company"," Butte (Mont.)"],
+        "description": "High ore 300 ft. level West Showing [timbering along foot wall landing]",
+        "link": "https://www.lib.uidaho.edu/digital/watkins/items/watkins38.html"
+    },
+    {
+        "title": "High Ore Mine 300 ft. level West [no. 1207]",
+        "date": "1890",
+        "subjects": ["Watkins, Carleton E., 1829-1916"," Anaconda Company"," Butte (Mont.)"],
+        "description": "High ore 300 ft. level West Showing ore after blasting",
+        "link": "https://www.lib.uidaho.edu/digital/watkins/items/watkins39.html"
+    },
+    {
+        "title": "High Ore Mine 200 ft. level East [no. 1208]",
+        "date": "1890",
+        "subjects": ["Watkins, Carleton E., 1829-1916"," Anaconda Company"," Butte (Mont.)"],
+        "description": "High ore 200 ft. level East Showing two sets of ore in face of drift",
+        "link": "https://www.lib.uidaho.edu/digital/watkins/items/watkins40.html"
+    },
+    {
+        "title": "High Ore Mine 200 ft. level East [no. 1209]",
+        "date": "1890",
+        "subjects": ["Watkins, Carleton E., 1829-1916"," Anaconda Company"," Butte (Mont.)"],
+        "description": "High ore 200 ft. level East Showing ore in hanging wall Ore 15 ft.",
+        "link": "https://www.lib.uidaho.edu/digital/watkins/items/watkins41.html"
+    },
+    {
+        "title": "High Ore Mine 200 ft. level East [no. 1210]",
+        "date": "1890",
+        "subjects": ["Watkins, Carleton E., 1829-1916"," Anaconda Company"," Butte (Mont.)"],
+        "description": "High ore 200 ft. level East Ore 25 ft.",
+        "link": "https://www.lib.uidaho.edu/digital/watkins/items/watkins42.html"
+    },
+    {
+        "title": "High Ore Mine 400 ft. level East still floor [no. 1211]",
+        "date": "1890",
+        "subjects": ["Watkins, Carleton E., 1829-1916"," Anaconda Company"," Butte (Mont.)"],
+        "description": "High ore 400 level East sill showing floor Showing ore breast",
+        "link": "https://www.lib.uidaho.edu/digital/watkins/items/watkins43.html"
+    },
+    {
+        "title": "Anaconda Mine 1000 ft. level West [no. 1168]",
+        "date": "1890",
+        "subjects": ["Watkins, Carleton E., 1829-1916"," Anaconda Company"," Butte (Mont.)"],
+        "description": "Anaconda Mine 1000 level West. Wealth of ore 75 ft.",
+        "link": "https://www.lib.uidaho.edu/digital/watkins/items/watkins44.html"
+    },
+    {
+        "title": "Mountain Consolidated Mine 100 ft. level Station (note \"1890\" on beam) [no. 1212]",
+        "date": "1890",
+        "subjects": ["Watkins, Carleton E., 1829-1916"," Anaconda Company"," Butte (Mont.)"],
+        "description": "Mt Com 100 Station [note \"1890\" on beam]",
+        "link": "https://www.lib.uidaho.edu/digital/watkins/items/watkins45.html"
+    },
+    {
+        "title": "Mountain Consolidated Mine 100 Station at shaft [no. 1214]",
+        "date": "1890",
+        "subjects": ["Watkins, Carleton E., 1829-1916"," Anaconda Company"," Butte (Mont.)"],
+        "description": "Mt Con 100 Station at shaft",
+        "link": "https://www.lib.uidaho.edu/digital/watkins/items/watkins46.html"
+    },
+    {
+        "title": "Mountain Consolidated Mine 100 ft. level [no. 1215]",
+        "date": "1890",
+        "subjects": ["Watkins, Carleton E., 1829-1916"," Anaconda Company"," Butte (Mont.)"],
+        "description": "Mt Con 100 level Showing miners replacing and repairing old timbers",
+        "link": "https://www.lib.uidaho.edu/digital/watkins/items/watkins47.html"
+    },
+    {
+        "title": "Mountain Consolidated Mine 400 ft. level East still floor breast [no. 1216]",
+        "date": "1890",
+        "subjects": ["Watkins, Carleton E., 1829-1916"," Anaconda Company"," Butte (Mont.)"],
+        "description": "Mt Con 400 level East sill floor breast. Showing Supt. Carroll and drilling machine in act of drilling ore breast...",
+        "link": "https://www.lib.uidaho.edu/digital/watkins/items/watkins48.html"
+    },
+    {
+        "title": "Mountain Consolidated Mine 100 ft. level East still floor [no. 1217]",
+        "date": "1890",
+        "subjects": ["Watkins, Carleton E., 1829-1916"," Anaconda Company"," Butte (Mont.)"],
+        "description": "Mt Con 100 level East sill floor.  Showing miners in ore breast filling ore cars. Ore 12 ft.",
+        "link": "https://www.lib.uidaho.edu/digital/watkins/items/watkins49.html"
+    },
+    {
+        "title": "Mountain Consolidated Mine 400 ft. level East [no. 1218]",
+        "date": "1890",
+        "subjects": ["Watkins, Carleton E., 1829-1916"," Anaconda Company"," Butte (Mont.)"],
+        "description": "Mt Con 400 level East. Showing drift and timbers 100 ft. west of ore breast",
+        "link": "https://www.lib.uidaho.edu/digital/watkins/items/watkins50.html"
+    },
+    {
+        "title": "Mountain Consolidated Mine 100 ft. level West still floor [no. 1219]",
+        "date": "1890",
+        "subjects": ["Watkins, Carleton E., 1829-1916"," Anaconda Company"," Butte (Mont.)"],
+        "description": "Mt Con 100 level West sill floor.  Showing untimbered ore breast",
+        "link": "https://www.lib.uidaho.edu/digital/watkins/items/watkins51.html"
+    },
+    {
+        "title": "Mountain Consolidated Mine 400 ft. level East still floor [no. 1220]",
+        "date": "1890",
+        "subjects": ["Watkins, Carleton E., 1829-1916"," Anaconda Company"," Butte (Mont.)"],
+        "description": "Mt Con 400 level East sill floor Showing ore breast without timbers",
+        "link": "https://www.lib.uidaho.edu/digital/watkins/items/watkins52.html"
+    },
+    {
+        "title": "Mountain Consolidated Mine 550 ft. level East still floor",
+        "date": "1890",
+        "subjects": ["Watkins, Carleton E., 1829-1916"," Anaconda Company"," Butte (Mont.)"],
+        "description": "Mountain Consolidated Mine 550 level East sill floor.  Showing a fine ore breast untimbered",
+        "link": "https://www.lib.uidaho.edu/digital/watkins/items/watkins53.html"
+    },
+    {
+        "title": "Mountain Consolidated Mine 550 ft. level East [no. 1222]",
+        "date": "1890",
+        "subjects": ["Watkins, Carleton E., 1829-1916"," Anaconda Company"," Butte (Mont.)"],
+        "description": "Mt Con 550 level East. Showing a fine ore body with part of 1st or 2nd floor timbers in sight...",
+        "link": "https://www.lib.uidaho.edu/digital/watkins/items/watkins54.html"
+    },
+    {
+        "title": "Anaconda Mine 1000 ft. level East [no. 1167]",
+        "date": "1890",
+        "subjects": ["Watkins, Carleton E., 1829-1916"," Anaconda Company"," Butte (Mont.)"],
+        "description": "Anaconda Mine 1000 level East. Wealth of ore 45 ft.",
+        "link": "https://www.lib.uidaho.edu/digital/watkins/items/watkins55.html"
+    },
+    {
+        "title": "Mountain Consolidated Mine 300 ft. level East still floor  [no. 1223]",
+        "date": "1890",
+        "subjects": ["Watkins, Carleton E., 1829-1916"," Anaconda Company"," Butte (Mont.)"],
+        "description": "Mt Con 300 level East still floor.  Ore breast showing miners at world Ore 40 ft",
+        "link": "https://www.lib.uidaho.edu/digital/watkins/items/watkins56.html"
+    },
+    {
+        "title": "Mountain Consolidated Mine 200 ft. level East sill floor  [no. 1224]",
+        "date": "1890",
+        "subjects": ["Watkins, Carleton E., 1829-1916"," Anaconda Company"," Butte (Mont.)"],
+        "description": "Mt Con 200 level East sill floor.  Showing ore and timbers on hanging wall",
+        "link": "https://www.lib.uidaho.edu/digital/watkins/items/watkins57.html"
+    },
+    {
+        "title": "Mountain Consolidated Mine 400 ft. level East sill floor  [no. 1225]",
+        "date": "1890",
+        "subjects": ["Watkins, Carleton E., 1829-1916"," Anaconda Company"," Butte (Mont.)"],
+        "description": "Mt Con 400 level East sill floor.  Showing ore breast",
+        "link": "https://www.lib.uidaho.edu/digital/watkins/items/watkins58.html"
+    },
+    {
+        "title": "Mountain Consolidated Mine 200 ft. level East sill floor  [no. 1226]",
+        "date": "1890",
+        "subjects": ["Watkins, Carleton E., 1829-1916"," Anaconda Company"," Butte (Mont.)"],
+        "description": "Mt Con 200 level East sill floor.  Showing ore after a blast.",
+        "link": "https://www.lib.uidaho.edu/digital/watkins/items/watkins59.html"
+    },
+    {
+        "title": "Mountain Consolidated Mine 100 ft. level West sill floor  [no. 1227]",
+        "date": "1890",
+        "subjects": ["Watkins, Carleton E., 1829-1916"," Anaconda Company"," Butte (Mont.)"],
+        "description": "Mt Con 100 level West sill floor.  Showing ore blast of level",
+        "link": "https://www.lib.uidaho.edu/digital/watkins/items/watkins60.html"
+    },
+    {
+        "title": "Mountain Consolidated Mine 400 ft. level East sill floor  [no. 1228]",
+        "date": "1890",
+        "subjects": ["Watkins, Carleton E., 1829-1916"," Anaconda Company"," Butte (Mont.)"],
+        "description": "Mt Con 400 level East sill floor.  Ore breast showing ore in foot wall",
+        "link": "https://www.lib.uidaho.edu/digital/watkins/items/watkins61.html"
+    },
+    {
+        "title": "Mountain Consolidated Mine 400 ft. level East sill floor  [no. 1229]",
+        "date": "1890",
+        "subjects": ["Watkins, Carleton E., 1829-1916"," Anaconda Company"," Butte (Mont.)"],
+        "description": "Mt Con 400 level East sill floor.  Ore breast showing miners drilling in ore.",
+        "link": "https://www.lib.uidaho.edu/digital/watkins/items/watkins62.html"
+    },
+    {
+        "title": "Mountain Consolidated Mine 300 ft. level East sill floor  [no. 1230]",
+        "date": "1890",
+        "subjects": ["Watkins, Carleton E., 1829-1916"," Anaconda Company"," Butte (Mont.)"],
+        "description": "Mt Con 300 level East sill floor.  Showing ore breast closely timbered.",
+        "link": "https://www.lib.uidaho.edu/digital/watkins/items/watkins63.html"
+    },
+    {
+        "title": "Mountain Consolidated Mine 300 ft. level East sill floor  [no. 1231]",
+        "date": "1890",
+        "subjects": ["Watkins, Carleton E., 1829-1916"," Anaconda Company"," Butte (Mont.)"],
+        "description": "Mt Con 300 level East sill floor.  Ore breast showing ore in foot wall.",
+        "link": "https://www.lib.uidaho.edu/digital/watkins/items/watkins64.html"
+    },
+    {
+        "title": "Mountain Consolidated Mine 100 ft. level West sill floor  [no. 1232]",
+        "date": "1890",
+        "subjects": ["Watkins, Carleton E., 1829-1916"," Anaconda Company"," Butte (Mont.)"],
+        "description": "Mt Con 100 level West sill floor.  Showing machine drilling ore breast.",
+        "link": "https://www.lib.uidaho.edu/digital/watkins/items/watkins65.html"
+    },
+    {
+        "title": "Anaconda Mine 1000 ft. level West [no. 1169]",
+        "date": "1890",
+        "subjects": ["Watkins, Carleton E., 1829-1916"," Anaconda Company"," Butte (Mont.)"],
+        "description": "Anaconda Mine 1000 level West. Wealth of ore 75 ft.",
+        "link": "https://www.lib.uidaho.edu/digital/watkins/items/watkins66.html"
+    },
+    {
+        "title": "Mountain Consolidated Mine 550 ft. level East sill floor [no. 1233]",
+        "date": "1890",
+        "subjects": ["Watkins, Carleton E., 1829-1916"," Anaconda Company"," Butte (Mont.)"],
+        "description": "Mt Con 550 level East sill floor.  Showing ore breast on hanging wall.",
+        "link": "https://www.lib.uidaho.edu/digital/watkins/items/watkins67.html"
+    },
+    {
+        "title": "Mountain Consolidated Mine 200 ft. level East sill floor [no. 1234]",
+        "date": "1890",
+        "subjects": ["Watkins, Carleton E., 1829-1916"," Anaconda Company"," Butte (Mont.)"],
+        "description": "Mt Con 200 level East sill floor.  Showing ore breast.",
+        "link": "https://www.lib.uidaho.edu/digital/watkins/items/watkins68.html"
+    },
+    {
+        "title": "Mountain Consolidated Mine 550 ft. level East sill floor",
+        "date": "1890",
+        "subjects": ["Watkins, Carleton E., 1829-1916"," Anaconda Company"," Butte (Mont.)"],
+        "description": "Mountain Consolidated Mine 550 level East sill floor.  Showing drilling machine drilling ore breast . Ore 45 ft.",
+        "link": "https://www.lib.uidaho.edu/digital/watkins/items/watkins69.html"
+    },
+    {
+        "title": "Mountain Consolidated Mine 400 ft. level East [no. 1236]",
+        "date": "1890",
+        "subjects": ["Watkins, Carleton E., 1829-1916"," Anaconda Company"," Butte (Mont.)"],
+        "description": "Mt Con 400 level East.  Showing two sets of ore in face timbered close to breast.  Ore 25 ft.",
+        "link": "https://www.lib.uidaho.edu/digital/watkins/items/watkins70.html"
+    },
+    {
+        "title": "Mountain Consolidated Mine 300 ft. level West [no. 1237]",
+        "date": "1890",
+        "subjects": ["Watkins, Carleton E., 1829-1916"," Anaconda Company"," Butte (Mont.)"],
+        "description": "Mt Con 300 level West.  Showing course of extraction of ore.  Ore 30 ft.",
+        "link": "https://www.lib.uidaho.edu/digital/watkins/items/watkins71.html"
+    },
+    {
+        "title": "Mountain Consolidated Mine 400 ft. level East [no. 1238]",
+        "date": "1890",
+        "subjects": ["Watkins, Carleton E., 1829-1916"," Anaconda Company"," Butte (Mont.)"],
+        "description": "Mt Con 400 level East.  Showing ore towards hanging wall.",
+        "link": "https://www.lib.uidaho.edu/digital/watkins/items/watkins72.html"
+    },
+    {
+        "title": "Mountain Consolidated Mine 400 ft. level East",
+        "date": "1890",
+        "subjects": ["Watkins, Carleton E., 1829-1916"," Anaconda Company"," Butte (Mont.)"],
+        "description": "Showing waste filling between timbers 25 ft. From ore breast. Ore 25 ft. Mountain Consolidated Mine 400 ft. level East...",
+        "link": "https://www.lib.uidaho.edu/digital/watkins/items/watkins73.html"
+    },
+    {
+        "title": "Mountain Consolidated Mine 550 ft. level East [no. 1240]",
+        "date": "1890",
+        "subjects": ["Watkins, Carleton E., 1829-1916"," Anaconda Company"," Butte (Mont.)"],
+        "description": "Mt Con 550 level East.  Showing ore in breast.",
+        "link": "https://www.lib.uidaho.edu/digital/watkins/items/watkins74.html"
+    },
+    {
+        "title": "Mountain Consolidated Mine 400 ft. level East [no. 1241]",
+        "date": "1890",
+        "subjects": ["Watkins, Carleton E., 1829-1916"," Anaconda Company"," Butte (Mont.)"],
+        "description": "Mt Con 550 level East.  Showing drilling machine in operation.",
+        "link": "https://www.lib.uidaho.edu/digital/watkins/items/watkins75.html"
+    },
+    {
+        "title": "Mountain Consolidated Mine 550 ft. level East [no. 1242]",
+        "date": "1890",
+        "subjects": ["Watkins, Carleton E., 1829-1916"," Anaconda Company"," Butte (Mont.)"],
+        "description": "Mt Con 550 level East.  Showing ore after blasting.",
+        "link": "https://www.lib.uidaho.edu/digital/watkins/items/watkins76.html"
+    },
+    {
+        "title": "Anaconda Mine 1000 ft. level West [no. 1170]",
+        "date": "1890",
+        "subjects": ["Watkins, Carleton E., 1829-1916"," Anaconda Company"," Butte (Mont.)"],
+        "description": "Anaconda Mine 1000 level West Ore 75 ft.",
+        "link": "https://www.lib.uidaho.edu/digital/watkins/items/watkins77.html"
+    },
+    {
+        "title": "Mountain Consolidated Mine 550 ft. level [no. 1243]",
+        "date": "1890",
+        "subjects": ["Watkins, Carleton E., 1829-1916"," Anaconda Company"," Butte (Mont.)"],
+        "description": "Mt Con 550 level.  Pump station.",
+        "link": "https://www.lib.uidaho.edu/digital/watkins/items/watkins78.html"
+    },
+    {
+        "title": "Anaconda Mine 1000 ft. level West [no. 1171]",
+        "date": "1890",
+        "subjects": ["Watkins, Carleton E., 1829-1916"," Anaconda Company"," Butte (Mont.)"],
+        "description": "Anaconda Mine 1000 level West Ore 75 ft.",
+        "link": "https://www.lib.uidaho.edu/digital/watkins/items/watkins79.html"
+    }
+    
+] }
