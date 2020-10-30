@@ -1,8 +1,10 @@
 ---
 title: Oh Dam! it's Ice Harbor Lock and Dam
-date: 2020-02-24
+date: 2020-10-24
 tags: ["ohdam","ohdam!","dam","dams","hydraulic","electricity","water","irrigation","ColumbiaRiver","ColumbiaRiverBasin"]
 subtitle: 
+cover-image-cdm-collection: crbproj
+cover-image-collection: crbp
 cover-image: crbp1217
 categories: ["Oh Dam!"]
 ---

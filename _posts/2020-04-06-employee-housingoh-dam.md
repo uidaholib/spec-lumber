@@ -1,8 +1,10 @@
 ---
-title: employee housing...Oh Dam!
+title: employee housing ... Oh Dam!
 date: 2020-04-06
 tags: ["ohdam","ohdam!","dam","dams","hydraulic","electricity","water","irrigation","ColumbiaRiver","columbiariverbasin"]
 subtitle: 
+cover-image-cdm-collection: crbproj
+cover-image-collection: crbp
 cover-image: crbp1329
 categories: ["Oh Dam!"]
 ---

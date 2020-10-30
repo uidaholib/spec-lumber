@@ -1,8 +1,10 @@
 ---
-title: turbines and generators...Oh Dam!
+title: turbines and generators ... Oh Dam!
 date: 2020-03-02
 tags: ["ohdam","ohdam!","dam","dams","hydraulic","electricity","water","irrigation","ColumbiaRiver","ColumbiaRiverBasin"]
 subtitle: 
+cover-image-cdm-collection: crbproj
+cover-image-collection: crbp
 cover-image: crbp1016
 categories: ["Oh Dam!"]
 ---
