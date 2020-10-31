@@ -10,6 +10,8 @@
     - "width" will use Bootstrap sizing to set the % size, choose from "25", "50", "75", or "100"
     - "float" will use Bootstrap float utility to add float, choose from "left" or "right"
     - "caption" by default the figure include automatically adds the title of the item from your metadata. The caption option allows you to manually add a different caption, or give the value false for none.
+    - "link"  will create the link that a user will follow if they click on the image
+    - "target_blank" if you enter anything in this variable, the link will go to a new page
 
 {%- endcomment -%}
 {%- assign figures = include.objectid | split: ";" %}
@@ -18,7 +20,7 @@
     {%- assign figure = site.data[site.metadata] | where: "objectid", i | first -%}
     <div class="col-md text-center">
         <figure class="figure mx-3{% if include.float %} float-{{ include.float }}{% endif %}{% if include.width %} w-{{ include.width }}{% endif %}">
-            <a href="{{ '/items/' | append: figure.objectid | append: '.html' | relative_url }}">
+            <a {% if include.target_blank %}target="_blank"{% endif %} href="{% if include.link %}{{ include.link }}{% elsif figure.filename contains '/' %}{{figure.filename}}{%else%}{{ '/items/' | append: figure.objectid | append: '.html' | relative_url }}{%endif%}" >
                 <img class="figure-img img-fluid rounded lazyload" alt="{{ figure.title | escape }}" src="data:image/svg+xml,%3Csvg xmlns='http://www.w3.org/2000/svg' viewBox='0 0 3 2'%3E%3C/svg%3E" data-src="{% if figure.youtubeid %}https://img.youtube.com/vi/{{ figure.youtubeid }}/maxresdefault.jpg{% elsif figure.filename contains '/' %}{{ figure.filename }}{% else %}/objects/{{ figure.filename }}{% endif %}" >
             </a>
             {% unless include.caption == false %}<figcaption class="figure-caption">{% if include.caption %}{{ include.caption }}{% else %}{{ figure.title }}{% endif %}</figcaption>{% endunless %}

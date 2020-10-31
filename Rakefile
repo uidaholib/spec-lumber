@@ -117,7 +117,7 @@ task :new_post do
   post_title = ENV['title']
   tags = ENV['tags']
   categories = ENV['categories']
-  image = ENV['image']
+  cover_image = ENV['cover_image']
   subtitle = ENV['subtitle']
   current_time = Time.new
   date_str = current_time.strftime("%Y-%m-%d")
@@ -131,7 +131,7 @@ task :new_post do
     date: #{current_time}
     tags: [#{tags}]
     subtitle: #{subtitle}
-    cover-image: #{image}
+    cover-image: #{cover_image}
     categories: [#{categories}]
     ---
   END
