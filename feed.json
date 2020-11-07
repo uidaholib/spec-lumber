@@ -6,7 +6,7 @@
   "description": {% if site.description %}{{ site.description | jsonify }}{% endif %},
   "home_page_url": "{{ site.url }}",
   "feed_url": "{{ site.url }}/feed.json",
-  "icon": "{{ site.url }}/assets/img/babyjoe.jpg"
+  "icon": "{{ site.url }}/assets/img/babyjoe.jpg",
   "favicon": "{{ site.url}}/favicon.png",
   {% if site.author %}
   "author": {
@@ -21,7 +21,6 @@
       "url": "{{ post.url | prepend: site.baseurl | prepend: site.url }}",
       "title": {{ post.title | jsonify }},
       "image": "{% include image/post-image.html %}",
-      "banner_image": "{% include image/post-image.html %}",
       "content_html": {{ post.content | jsonify  }},
       "date_published": "{{ post.date | date_to_rfc822 }}"
       }{% unless forloop.last %},{% endunless %}
