@@ -21,6 +21,7 @@
       "url": "{{ post.url | prepend: site.baseurl | prepend: site.url }}",
       "title": {{ post.title | jsonify }},
       "image": "{% include image/post-image.html %}",
+      "thumbnail": "{% include image/post-thumb.html %}",
       "content_html": {{ post.excerpt | jsonify  }},
       "date_published": "{{ post.date | date_to_rfc822 }}"
       }{% unless forloop.last %},{% endunless %}
