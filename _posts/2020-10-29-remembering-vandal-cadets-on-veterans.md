@@ -17,5 +17,5 @@ On this Veteran’s Day we cast a thought back to the Vandal cadets who have ser
 
 {% include feature/image.html objectid="lumber131;lumber132;lumber133" %} 
 
->>>>>>> 732e5f36757e09c029cba9defbf262df100df18e
+
 The ROTC program was founded in 1917 under the National Defense Act and cadets have gone on to serve with distinction ever since. Chrisman Hall is named after General E.R. Chrisman, who served as a Professor of Military Science from 1894 until 1932.
