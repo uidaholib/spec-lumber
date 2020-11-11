@@ -1,8 +1,10 @@
 ---
-title: site preparation...Oh Dam!
+title: site preparation ... Oh Dam!
 date: 2020-01-27
 tags: ["ohdam","ohdam!","dam","dams","hydraulic","electricity","water","irrigation","ColumbiaRiver","ColumbiaRiverBasin"]
 subtitle: 
+cover-image-cdm-collection: crbproj
+cover-image-collection: crbp
 cover-image: crbp1204
 categories: ["Oh Dam!"]
 ---
