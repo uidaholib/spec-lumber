@@ -10,6 +10,6 @@
 {%- endfor -%}
 {%- assign uniqSubjects = subjects | downcase | split: ";" | array_count_uniq -%}
 subject,count,link
-{% for s in uniqSubjects %}"{{ s[0] }}",{{ s[1] }},"{{ s[0] | url_param_escape | prepend: '/browse.html#' | absolute_url }}"
+{% for s in uniqSubjects %}"{{ s[0] }}",{{ s[1] }},"{{ s[0] | url_param_escape | prepend: '/collection/browse.html#' | absolute_url }}"
 {% endfor %}
 {%- endif -%}

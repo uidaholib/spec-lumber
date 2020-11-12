@@ -30,7 +30,7 @@ layout: page
 
 {%- for tag in tags_list -%}
   {% if site.tags[tag].size > 10 %}
-  <a class="dropdown-item browse-filter-item" data-filter="{{tag | downcase | remove: ' ' }}" href="/tags/#{{tag}}">{{tag}}</a>
+  <a class="dropdown-item browse-filter-item" data-filter="{{tag | downcase | remove: ' ' }}" href="/posts/#{{tag}}">{{tag}}</a>
                 {% endif %}{% endfor %}
             </div>
         </div>

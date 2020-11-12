@@ -1,7 +1,7 @@
 ---
 title: Timeline
 layout: blogtimeline
-permalink: /blog-timeline.html
+permalink: /blog/timeline.html
 ---
 
 ## Blog Timeline

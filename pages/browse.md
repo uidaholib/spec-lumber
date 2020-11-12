@@ -1,7 +1,7 @@
 ---
 title: Browse
 layout: browse
-permalink: /browse.html
+permalink: /collection/browse.html
 ---
 
 ## Browse Items

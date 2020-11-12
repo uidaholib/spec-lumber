@@ -15,7 +15,7 @@ layout: default
         <div class="blog-tags">
           Tags:
           {% for tag in page.tags %}
-          <a href="{{ '/tags' | absolute_url }}#{{ tag | strip}}">{{- tag -}}</a>
+          <a href="{{ '/posts/' | absolute_url }}#{{ tag | strip}}">{{- tag -}}</a>
           {% endfor %}
         </div>
       {% endif %}

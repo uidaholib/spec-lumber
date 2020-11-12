@@ -46,10 +46,10 @@ pagination:
     {% if post.tags.size > 0 %}
     <div class="blog-tags">
       Tags:
-      {%- assign tags=  post.tags.first | split: ';' -%}
+      {%- assign tags=  post.tags  -%}
       {% for tag in tags %}
       
-      <a href="{{ '/tags' | absolute_url }}#{{ tag | strip}}">{{- tag -}}</a>
+      <a href="{{ '/posts/' | absolute_url }}#{{ tag | strip}}">{{- tag -}}</a>
       {% endfor %}
     </div>
     {% endif %}

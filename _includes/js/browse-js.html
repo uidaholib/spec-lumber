@@ -6,7 +6,7 @@ function makeCard(obj) {
     // placeholder image for lazyload
     var placeholder = "data:image/svg+xml,%3Csvg xmlns='http://www.w3.org/2000/svg' viewBox='0 0 3 2'%3E%3C/svg%3E";
     // find item link
-    var itemHref = "{{ '/items/' | relative_url }}" + obj.id + ".html";
+    var itemHref = "{{ '/collection/items/' | relative_url }}" + obj.id + ".html";
     // find images
     if(obj.youtube) {
         var imgSrc = 'https://img.youtube.com/vi/' + obj.youtube + '/hqdefault.jpg';
@@ -40,7 +40,7 @@ function makeCard(obj) {
     var btns = obj[{{ f.field | jsonify }}].split(";");
     for (var i = 0, len = btns.length; i < len; i++) {
         if(btns[i] != "") {
-        card += '<a class="btn btn-sm btn-secondary m-1 text-wrap" href="{{ '/browse.html' | relative_url }}#' + encodeURIComponent(btns[i].trim()) + '">' + btns[i].trim() + '</a>';
+        card += '<a class="btn btn-sm btn-secondary m-1 text-wrap" href="{{ '/collection/browse.html' | relative_url }}#' + encodeURIComponent(btns[i].trim()) + '">' + btns[i].trim() + '</a>';
         }
     }
     {% else %}
@@ -52,7 +52,7 @@ function makeCard(obj) {
     card += '</p>';
     // media type
     if(obj.format != "") {
-        card += '<p class="card-text"><small><a class="btn btn-sm btn-outline-secondary" href="{{ "/browse.html" | relative_url }}#' + encodeURIComponent(obj.format) + '">' + 
+        card += '<p class="card-text"><small><a class="btn btn-sm btn-outline-secondary" href="{{ "/collection/browse.html" | relative_url }}#' + encodeURIComponent(obj.format) + '">' + 
         obj.format.split("/").pop().toUpperCase() + ' <span class="';
         if(obj.format.includes('image')){
         card += 'far fa-image';
@@ -122,7 +122,7 @@ var items = [
     {% for i in items %}
     { "title":{{ i.title | strip | escape | jsonify }}, "format":{% if i.format %}{{ i.format | escape | jsonify }}{% else %}""{% endif %}, {% for f in fields %}{% if i[f.field] %}{{ f.field | escape | jsonify }}:{{ i[f.field] | strip | jsonify }},{% endif %}{% endfor %} {% if i.youtubeid %} "youtube": {{ i.youtubeid | jsonify }},{% endif %}"filename":{% unless i.filename contains 'http' %}{{ i.filename | split: '.' | first | jsonify }}{% else %}{{ i.filename | jsonify }}{% endunless %}, "id":{{ i.objectid | jsonify }} }{% unless forloop.last %},{% endunless %}{% endfor %}
 ];
-
+ 
 /* init browse page */
 /* randomize items once at page load */
 shuffle(items);

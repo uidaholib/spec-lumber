@@ -1,5 +1,5 @@
 ---
 title: Map
 layout: map
-permalink: /map.html
+permalink: /collection/map.html
 ---

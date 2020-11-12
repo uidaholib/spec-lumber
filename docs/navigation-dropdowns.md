@@ -13,7 +13,7 @@ Removing an item does not delete the page, but will make the page invisible to u
 Each item in the nav is one row of config-nav, including the columns `display_name`, `stub`, and `dropdown_parent`: 
 
 - `display_name` will be the word(s) used on the navbar. Generally you will want these to be single words that are easy for users to understand--typically: Home, Browse, Subjects, Locations, Map, Timeline, Data, About. Modifying this value allows you to quickly change the display name without needing to update the file names or titles. e.g. for some collections a label such as "Creators" might replace "Subjects", while still pointing to the /subjects.html page.
-- `stub` is the relative url of the page in this project. To properly link to a page, the `stub` value will match the `permalink` value of a specific page file. e.g. "browse.md" has `permalink: /browse.html`, thus in config-nav has a stub value of `/browse.html`. These will be converted into relative links in the navbar. The `stub` value will be empty for items that are parents for a dropdown menu (see below).
+- `stub` is the relative url of the page in this project. To properly link to a page, the `stub` value will match the `permalink` value of a specific page file. e.g. "browse.md" has `permalink: /collection/browse.html`, thus in config-nav has a stub value of `/collection/browse.html`. These will be converted into relative links in the navbar. The `stub` value will be empty for items that are parents for a dropdown menu (see below).
 - `dropdown_parent` is only used when adding dropdowns to your navbar, and should be empty for any normal nav item. For items that should appear inside a dropdown, the value will match the `display_name` of the parent item (see below).
 
 ## Dropdown menus
