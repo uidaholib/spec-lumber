@@ -7,16 +7,22 @@
 collections:
   posts:
     output: true
+  series:
+    output: true
 
 defaults:
   - scope:
       type: posts
     values:
       layout: post
+  - scope:
+      type: series
+    values:
+      layout: series
       
 link-tags: true
 
-permalink: /:year/:month/:title:output_ext
+permalink: /posts/:year/:month/:title:output_ext
 
 paginate: 10
 
@@ -64,7 +70,7 @@ page_gen:
   - data: 'lumber'
     template: 'items'
     name: 'objectid'
-    dir: 'items'
+    dir: 'collection/items'
     extension: 'html' 
     filter: 'objectid'  
 

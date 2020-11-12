@@ -15,6 +15,16 @@
             <li class="nav-item mr-2 ">
                 <a class="nav-link text-white {% if page.url == nav.stub %}active{% endif %}" href="{{ nav.stub | relative_url }}">{{ nav.display_name }}</a>
             </li>
+            {%- elsif nav.display_name == 'Series' -%}
+            <li class="nav-item dropdown">
+                {% assign navChildren = site.series %}
+                <a class="nav-link  text-white dropdown-toggle{% if childStubs contains page.url %} active{% endif %}" data-toggle="dropdown" href="#" role="button" aria-haspopup="true" aria-expanded="false">Series</a>
+                <div class="dropdown-menu">
+                    {% for c in navChildren %}
+                    <a class="dropdown-item {% if page.url == c.stub %}active{% endif %}" href="{{ c.url | relative_url }}">{{ c.title}}</a>
+                    {% endfor %}
+                </div>
+            </li>
             {%- else -%}
             <li class="nav-item dropdown">
                 {% assign navChildren = site.data.config-nav | where_exp: 'item', 'item.dropdown_parent == nav.display_name' %}
