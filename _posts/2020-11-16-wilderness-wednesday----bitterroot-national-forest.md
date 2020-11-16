@@ -9,11 +9,11 @@ categories: [Wilderness Wednesday]
 
 {% include feature/image.html objectid="lumber137" %}
 
-{% include feature/image.html objectid="https://digital.lib.uidaho.edu/digital/collection/sbw/id/45" caption="Deep Creek Ranger Station, Bitterroot National Forest, 1938" %}
+{% include feature/image.html objectid="https://cdm17254.contentdm.oclc.org/digital/iiif/sbw/45/full/pct:60/0/default.jpg" link="https://digital.lib.uidaho.edu/digital/collection/sbw/id/45" caption="Deep Creek Ranger Station, Bitterroot National Forest, 1938" %}
 
-{% include feature/image.html objectid="https://digital.lib.uidaho.edu/digital/collection/sbw/id/46" caption="Deep Creek Ranger Station, Bitterroot National Forest, 1938" %}
+{% include feature/image.html objectid="https://cdm17254.contentdm.oclc.org/digital/iiif/sbw/46/full/pct:60/0/default.jpg" link="https://digital.lib.uidaho.edu/digital/collection/sbw/id/46" caption="Deep Creek Ranger Station, Bitterroot National Forest, 1938" %}
 
-{% include feature/image.html objectid="https://digital.lib.uidaho.edu/digital/collection/sbw/id/82" caption="Carlton Lake, Bitterroot National Forest, 1927" %}
+{% include feature/image.html objectid="https://cdm17254.contentdm.oclc.org/digital/iiif/sbw/82/full/pct:60/0/default.jpg" link="https://digital.lib.uidaho.edu/digital/collection/sbw/id/82" caption="Carlton Lake, Bitterroot National Forest, 1927" %}
 
 Welcome to another week of Wilderness Wednesdsay! 
 
