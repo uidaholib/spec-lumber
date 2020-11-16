@@ -8,8 +8,6 @@ categories: [Wilderness Wednesday]
 ---
 
 {% include feature/image.html objectid="lumber134;lumber135;lumber136" %}
-{% include feature/image.html objectid="" %}
-{% include feature/image.html objectid="" %}
 
 {% include feature/image.html objectid="https://digital.lib.uidaho.edu/digital/collection/archivalidaho/id/265" caption="Cowboy in Stanley Basin, Sawtooth Range" %}
 
