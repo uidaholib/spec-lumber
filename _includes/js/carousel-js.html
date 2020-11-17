@@ -14,7 +14,7 @@
         else {
             itemImg = "{{ site.objects | relative_url }}/thumbs/" + carouselItems[i][2] + "_th.jpg";
         }
-        slide = "<div class='carousel-item text-center py-2'><img class='image-fluid mx-auto h-100 lazyload' alt='image highlight' src='" + placeholder + "' data-src='" + itemImg + "'> <div class='carousel-caption'><h5 class='carousel-item-title text-white py-2'>" + carouselItems[i][0] + "</h5><a target='_blank' href='{{ site.baseurl }}/items/" + carouselItems[i][2] + ".html' class='btn btn-sm btn-primary'>View Item</a></div></div>";
+        slide = "<div class='carousel-item text-center py-2'><img class='image-fluid mx-auto h-100 lazyload' alt='image highlight' src='" + placeholder + "' data-src='" + itemImg + "'> <div class='carousel-caption'><h5 class='carousel-item-title text-white py-2'>" + carouselItems[i][0] + "</h5><a target='_blank' href='{{ site.baseurl }}/collection/items/" + carouselItems[i][2] + ".html' class='btn btn-sm btn-primary'>View Item</a></div></div>";
         slides += slide;
     }
     carousel.innerHTML = slides;

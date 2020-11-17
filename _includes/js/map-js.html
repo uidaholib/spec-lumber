@@ -14,7 +14,7 @@
     {% for item in items %}
     { "type":"Feature", "geometry":{ "type":"Point", "coordinates":[{{ item.longitude | strip }},{{ item.latitude | strip }}] }, "properties":
     { "title": {{ item.title | escape | jsonify }}, 
-    {% for f in fields %}{{ f.field | escape | jsonify }}: {{ item[f.field] | escape | jsonify }},{% endfor %}{% if item.youtubeid %} "youtube": {{ item.youtubeid | jsonify }},{% endif %} "id": {{ item.objectid | jsonify }} } }{% unless forloop.last %}, {% endunless %}{% endfor %}
+    {% for f in fields %}{{ f.field | escape | jsonify }}: {{ item[f.field] | escape | jsonify }},{% endfor %}{% if item.youtubeid %} "youtube": {{ item.youtubeid | jsonify }},{% endif %} "filename": {% unless item.filename contains 'http' %}{{ item.filename | split: '.' | first | jsonify }}{% else %}{{ item.filename | jsonify }}{% endunless %}, "id": {{ item.objectid | jsonify }} } }{% unless forloop.last %}, {% endunless %}{% endfor %}
     ]};
 
     /* init map and set zoom */
@@ -69,11 +69,11 @@
         {% if site.data.theme.map-search == true %}/* bind feature for search */
         feature.layer = layer;{% endif %}
         /* create pop up */
-        var itemHref = '{{ site.baseurl }}/items/' + feature.properties.id + '.html';
+        var itemHref = '{{ site.baseurl }}/collection/items/' + feature.properties.id + '.html';
         if (feature.properties.youtube) {
             var thumbSrc = 'https://img.youtube.com/vi/' + feature.properties.youtube + '/default.jpg';
         } else {
-            var thumbSrc = '{{ site.objects | relative_url }}/thumbs/' + feature.properties.id + '_th.jpg';
+            var thumbSrc = '{{ site.objects | relative_url }}thumbs/' + feature.properties.filename + '_th.jpg';
         }
         var popupTemplate = '<h4><a class="text-dark" href="' + itemHref + '">' +
             feature.properties.title + '</a></h4><div class="text-center"><a class="btn btn-light" href="' + itemHref + 

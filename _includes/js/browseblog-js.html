@@ -37,7 +37,7 @@ function makeCard(obj) {
     var btns = obj[{{ f.field | jsonify }}].split(";");
     for (var i = 0, len = btns.length; i < len; i++) {
         if(btns[i] != "") {
-        card += '<a class="btn btn-sm btn-secondary m-1 text-wrap" href="{{ '/tags/' | relative_url }}#' + encodeURIComponent(btns[i].trim()) + '">' + btns[i].trim() + '</a>';
+        card += '<a class="btn btn-sm btn-secondary m-1 text-wrap" href="{{ '/posts/' | relative_url }}#' + encodeURIComponent(btns[i].trim()) + '">' + btns[i].trim() + '</a>';
         }
     }
     {% else %}
@@ -49,7 +49,7 @@ function makeCard(obj) {
     card += '</p>';
     // media type
     if(obj.category != "") {
-        card += '<p class="card-text"><small><a class="btn btn-sm btn-outline-secondary" href="{{ "/tags" | relative_url }}#' + encodeURIComponent(obj.category) + '">' + 
+        card += '<p class="card-text"><small><a class="btn btn-sm btn-outline-secondary" href="{{ "/posts/" | relative_url }}#' + encodeURIComponent(obj.category) + '">' + 
         obj.category.toUpperCase() + ' </a></small></p>';
     }
     // view button
@@ -106,8 +106,8 @@ function shuffle(array) {
 
 /* add items */
 var items = [
-    {% for i in items %}
-    { "title":{{ i.title | strip | escape | jsonify }},{% if i.cover-image %}"image": {% if i.cover-image contains 'http' %}{{i.cover-image | jsonify }}{% else %}"{% assign thumbItem = site.data[site.metadata] | where: 'objectid', i.cover-image | first %}{{ site.objects | relative_url }}/thumbs/{{ thumbItem.filename | split: '.' | first }}_th.jpg"{% endif %},{% endif %}{% if i.tags %}"tags": "{% for tag in i.tags %}{{tag}};{% endfor %}",{% endif %}"category": {% if i.category %}{{ i.category | jsonify}}{% else %}"",{% endif %}"date": {{ i.date | date: '%B %d, %Y' | jsonify}},"url": {{ i.url | jsonify}} }{% unless forloop.last %},{% endunless %}{% endfor %}
+    {% for post in site.posts %}
+    { "title":{{ post.title | strip | escape | jsonify }},{% if post.cover-image %}"image": "{% include image/post-thumb.html %}",{% endif %}{% if post.tags %}"tags": "{% for tag in post.tags %}{{tag}};{% endfor %}",{% endif %}"category": {% if post.category %}{{ post.category | jsonify}}{% else %}"",{% endif %}"date": {{ post.date | date: '%B %d, %Y' | jsonify}},"url": {{ post.url | jsonify}} }{% unless forloop.last %},{% endunless %}{% endfor %}
 ];
 
 /* init browse page */

@@ -1,0 +1,373 @@
+{ "documents": [{
+        "title": "Some Lived Some Died, It Was Understood",
+        "date": "1995",
+        "subjects": ["Memoir of POW experience"],
+        "description": "Mark Calnon's memoir being a POW in WWII.",
+        "link": "https://www.lib.uidaho.edu/digital/calnon/items/calnon0.html"
+    },
+    {
+        "title": "Calnon 95th Birthday",
+        "date": "2013-08-01",
+        "subjects": ["Photograph"],
+        "description": "Photograph of Calnon on his 95th birthday",
+        "link": "https://www.lib.uidaho.edu/digital/calnon/items/calnon1.html"
+    },
+    {
+        "title": "B17 Exterior Photo 4",
+        "date": "1980",
+        "subjects": ["Photograph"],
+        "description": "Photograph of the exterior of exhibition B20",
+        "link": "https://www.lib.uidaho.edu/digital/calnon/items/calnon2.html"
+    },
+    {
+        "title": "Calnon Letter to Crew",
+        "date": "1992-08-05",
+        "subjects": ["Scan of Letter"],
+        "description": "Letter to surviving crew with reports.",
+        "link": "https://www.lib.uidaho.edu/digital/calnon/items/calnon3.html"
+    },
+    {
+        "title": "B17 Exterior Photo 5",
+        "date": "1980",
+        "subjects": ["Photograph"],
+        "description": "Photograph of the exterior of exhibition B21",
+        "link": "https://www.lib.uidaho.edu/digital/calnon/items/calnon4.html"
+    },
+    {
+        "title": "B17 Pilot Controls",
+        "date": "1980",
+        "subjects": ["Photograph"],
+        "description": "Photographs of pilots controls in exhibition B17",
+        "link": "https://www.lib.uidaho.edu/digital/calnon/items/calnon5.html"
+    },
+    {
+        "title": "B17 Bomb Bay",
+        "date": "1980",
+        "subjects": ["Photograph"],
+        "description": "Photograph of empty bomb bay in a exhibition B17",
+        "link": "https://www.lib.uidaho.edu/digital/calnon/items/calnon6.html"
+    },
+    {
+        "title": "B17 Gun Seat",
+        "date": "1980",
+        "subjects": ["Photograph"],
+        "description": "Photograph of B17 Gun Seat in exhibition B17",
+        "link": "https://www.lib.uidaho.edu/digital/calnon/items/calnon7.html"
+    },
+    {
+        "title": "Calnon 384th Reunion",
+        "date": "1980",
+        "subjects": ["Photograph"],
+        "description": "Photograph of Calnon's Bomber Group years after the war.",
+        "link": "https://www.lib.uidaho.edu/digital/calnon/items/calnon8.html"
+    },
+    {
+        "title": "B17 Interior",
+        "date": "1980",
+        "subjects": ["Photograph"],
+        "description": "Photograph of the interior of B17",
+        "link": "https://www.lib.uidaho.edu/digital/calnon/items/calnon9.html"
+    },
+    {
+        "title": "B17 Gun",
+        "date": "1980",
+        "subjects": ["Photograph"],
+        "description": "Photograph of B17 Machine gun",
+        "link": "https://www.lib.uidaho.edu/digital/calnon/items/calnon10.html"
+    },
+    {
+        "title": "Mark Brooks Calnon Oral History Audio Mp3 80.5 MB",
+        "date": "2013-08-13",
+        "subjects": ["Oral History"," WWII"," POW"],
+        "description": "Oral history with 2nd Lt. Mark Brooks Calnon recalling WWII pilot and POW experience",
+        "link": "https://www.lib.uidaho.edu/digital/calnon/items/calnon11.html"
+    },
+    {
+        "title": "B17 Exterior Photo 1",
+        "date": "1980",
+        "subjects": ["Photograph"],
+        "description": "Photograph of the exterior of exhibition B17",
+        "link": "https://www.lib.uidaho.edu/digital/calnon/items/calnon12.html"
+    },
+    {
+        "title": "Map of Tours",
+        "date": "1992",
+        "subjects": ["Scan of Map"],
+        "description": "Scan of map of tours that Calnon flew during the war.",
+        "link": "https://www.lib.uidaho.edu/digital/calnon/items/calnon13.html"
+    },
+    {
+        "title": "B17 Exterior Photo 3",
+        "date": "1980",
+        "subjects": ["Photograph"],
+        "description": "Photograph of the exterior of exhibition B19",
+        "link": "https://www.lib.uidaho.edu/digital/calnon/items/calnon14.html"
+    },
+    {
+        "title": "B17 Crew Portrait",
+        "date": "1980",
+        "subjects": ["Photograph"],
+        "description": "Photograph of Calnon's B17 crew during WWII.",
+        "link": "https://www.lib.uidaho.edu/digital/calnon/items/calnon15.html"
+    },
+    {
+        "title": "Red Cross Card",
+        "date": "1944",
+        "subjects": ["Photograph/Card"],
+        "description": "Scan of red cross membership card during WWII HAS.",
+        "link": "https://www.lib.uidaho.edu/digital/calnon/items/calnon16.html"
+    },
+    {
+        "title": "B17 Pilot Controls",
+        "date": "1980",
+        "subjects": ["Photograph"],
+        "description": "Photographs of pilots controls in exhibition B17",
+        "link": "https://www.lib.uidaho.edu/digital/calnon/items/calnon17.html"
+    },
+    {
+        "title": "B17 Pilot Controls",
+        "date": "1980",
+        "subjects": ["Photograph"],
+        "description": "Photographs of pilots controls in exhibition B17",
+        "link": "https://www.lib.uidaho.edu/digital/calnon/items/calnon18.html"
+    },
+    {
+        "title": "B17 Radio Room",
+        "date": "1980",
+        "subjects": ["Photograph"],
+        "description": "Photograph of the radio room in exhibition B17",
+        "link": "https://www.lib.uidaho.edu/digital/calnon/items/calnon19.html"
+    },
+    {
+        "title": "B17 Waist",
+        "date": "1980",
+        "subjects": ["Photograph"],
+        "description": "Photograph of the interior of exhibition B17",
+        "link": "https://www.lib.uidaho.edu/digital/calnon/items/calnon20.html"
+    },
+    {
+        "title": "Calnon Jr. Ext. B17",
+        "date": "1980",
+        "subjects": ["Photograph"],
+        "description": "Photograph of Calnon Jr. outside exhibition B17",
+        "link": "https://www.lib.uidaho.edu/digital/calnon/items/calnon21.html"
+    },
+    {
+        "title": "Mark Brooks Calnon Oral History Video 8.69 GB",
+        "date": "2013-08-13",
+        "subjects": ["Oral History"," WWII"," POW"],
+        "description": "Oral history with 2nd Lt. Mark Brooks Calnon recalling WWII pilot and POW experience",
+        "link": "https://www.lib.uidaho.edu/digital/calnon/items/calnon22.html"
+    },
+    {
+        "title": "Memphis Belle B17",
+        "date": "1980",
+        "subjects": ["Photograph"],
+        "description": "Photograph of the exterior of Memphis Belle B17",
+        "link": "https://www.lib.uidaho.edu/digital/calnon/items/calnon23.html"
+    },
+    {
+        "title": "Reported Missing",
+        "date": "1943",
+        "subjects": ["Telegram"],
+        "description": "Scan of telegram informing Mark's family he was missing.",
+        "link": "https://www.lib.uidaho.edu/digital/calnon/items/calnon24.html"
+    },
+    {
+        "title": "Military Portrait",
+        "date": "1943",
+        "subjects": ["Photograph"],
+        "description": "Military Portrait of Mark Calnon",
+        "link": "https://www.lib.uidaho.edu/digital/calnon/items/calnon25.html"
+    },
+    {
+        "title": "Reported as a POW",
+        "date": "1943",
+        "subjects": ["Telegram"],
+        "description": "Scan of telegram informing Mark's family he was taken as POW",
+        "link": "https://www.lib.uidaho.edu/digital/calnon/items/calnon26.html"
+    },
+    {
+        "title": "Nine-O-Nine B17",
+        "date": "1980",
+        "subjects": ["Photograph"],
+        "description": "Photograph of ext, B17 Nine-O-Nine",
+        "link": "https://www.lib.uidaho.edu/digital/calnon/items/calnon27.html"
+    },
+    {
+        "title": "Returned to Military",
+        "date": "1945",
+        "subjects": ["Telegram"],
+        "description": "Scan of telegram informing Mark's family he returned to duty.",
+        "link": "https://www.lib.uidaho.edu/digital/calnon/items/calnon28.html"
+    },
+    {
+        "title": "Plane Portrait",
+        "date": "1943",
+        "subjects": ["Photograph"],
+        "description": "Photograph of Calnon in pilot suit outside training plane.",
+        "link": "https://www.lib.uidaho.edu/digital/calnon/items/calnon29.html"
+    },
+    {
+        "title": "Back to USA",
+        "date": "1945",
+        "subjects": ["Telegram"],
+        "description": "Scan of telegram informing Mark's family he was in USA.",
+        "link": "https://www.lib.uidaho.edu/digital/calnon/items/calnon30.html"
+    },
+    {
+        "title": "Pilot Portrait",
+        "date": "1943",
+        "subjects": ["Photograph"],
+        "description": "Standard photograph of pilot/Calnon.",
+        "link": "https://www.lib.uidaho.edu/digital/calnon/items/calnon31.html"
+    },
+    {
+        "title": "Pistol Training",
+        "date": "1943",
+        "subjects": ["Photograph"],
+        "description": "Photograph of Calnon receiving officer pistol training.",
+        "link": "https://www.lib.uidaho.edu/digital/calnon/items/calnon32.html"
+    },
+    {
+        "title": "Mark Brooks Calnon Oral History Video 650.4MB",
+        "date": "2013-08-13",
+        "subjects": ["Oral History"," WWII"," POW"],
+        "description": "Oral history with 2nd Lt. Mark Brooks Calnon recalling WWII pilot and POW experience",
+        "link": "https://www.lib.uidaho.edu/digital/calnon/items/calnon33.html"
+    },
+    {
+        "title": "Calnon Bomber Hat",
+        "date": "1943-10-09",
+        "subjects": ["Hat"],
+        "description": "Blue hat detailing the bomber group of calnon. 384th.",
+        "link": "https://www.lib.uidaho.edu/digital/calnon/items/calnon34.html"
+    },
+    {
+        "title": "Stalag Luft III Memorial",
+        "date": "1943",
+        "subjects": ["Commemorative Poster (Coors)"],
+        "description": "Poster Replica of Stalag Luft III. Produced by Coors.",
+        "link": "https://www.lib.uidaho.edu/digital/calnon/items/calnon35.html"
+    },
+    {
+        "title": "Pilot Patch",
+        "date": "1943",
+        "subjects": ["Patch"],
+        "description": "Air Force Bomber Pilot insignia clothing patch",
+        "link": "https://www.lib.uidaho.edu/digital/calnon/items/calnon36.html"
+    },
+    {
+        "title": "Pilot Wings Pin",
+        "date": "1943",
+        "subjects": ["Metal Wings"],
+        "description": "Metal Air Force Wing. Bomber?",
+        "link": "https://www.lib.uidaho.edu/digital/calnon/items/calnon37.html"
+    },
+    {
+        "title": "POW Coin",
+        "date": "1993",
+        "subjects": ["Official POW Commemorative"],
+        "description": "Coin minted by the United States Mint for POWs remembrance. Legal tender.",
+        "link": "https://www.lib.uidaho.edu/digital/calnon/items/calnon38.html"
+    },
+    {
+        "title": "Stalag Luft III Memorial (Desk Weight)",
+        "date": "1993",
+        "subjects": ["Marble Desk Memorial"],
+        "description": "Small marble stone w/ metal plaque memorializing POWs.",
+        "link": "https://www.lib.uidaho.edu/digital/calnon/items/calnon39.html"
+    },
+    {
+        "title": "Senate Letter",
+        "date": "1943",
+        "subjects": ["Letter"],
+        "description": "Scan of letter from US Senate to Mark Calnon's mother.",
+        "link": "https://www.lib.uidaho.edu/digital/calnon/items/calnon40.html"
+    },
+    {
+        "title": "Commendation Letter",
+        "date": "1943",
+        "subjects": ["Letter"],
+        "description": "Scan of commendation letter to Mark Calnon from War Dept",
+        "link": "https://www.lib.uidaho.edu/digital/calnon/items/calnon41.html"
+    },
+    {
+        "title": "War Ration Stamps",
+        "date": "1942",
+        "subjects": ["Certificate"],
+        "description": "Scan of War Ration Stamps from WWII.",
+        "link": "https://www.lib.uidaho.edu/digital/calnon/items/calnon42.html"
+    },
+    {
+        "title": "Caterpillar Club Card",
+        "date": "1943",
+        "subjects": ["Card"],
+        "description": "Showing signature of Mark Calnon, saved life by parachute.",
+        "link": "https://www.lib.uidaho.edu/digital/calnon/items/calnon43.html"
+    },
+    {
+        "title": "384th Window Pamphlet",
+        "date": "1989",
+        "subjects": ["Pamphlet"],
+        "description": "Document explaining the window dedicated to the 384th.",
+        "link": "https://www.lib.uidaho.edu/digital/calnon/items/calnon44.html"
+    },
+    {
+        "title": "POW Dog Tag (Calnon)",
+        "date": "1943",
+        "subjects": ["POW Issue Dog Tag"],
+        "description": "Calnon POW Dog Tag, Stalag Luft III.",
+        "link": "https://www.lib.uidaho.edu/digital/calnon/items/calnon45.html"
+    },
+    {
+        "title": "USAF Dog Tag (Calnon)",
+        "date": "1941",
+        "subjects": ["Standard Issue Dog Tag"],
+        "description": "One standard issue WWII dog tag.",
+        "link": "https://www.lib.uidaho.edu/digital/calnon/items/calnon46.html"
+    },
+    {
+        "title": "Graduation Portrait",
+        "date": "1941",
+        "subjects": ["Photograph"],
+        "description": "Graduation photograph of Mark Calnon from the University of Idaho",
+        "link": "https://www.lib.uidaho.edu/digital/calnon/items/calnon47.html"
+    },
+    {
+        "title": "Air Medal",
+        "date": "1945",
+        "subjects": ["Medal Awarded for Merit"],
+        "description": "USAF medal awarded to Calnon for being a POW.",
+        "link": "https://www.lib.uidaho.edu/digital/calnon/items/calnon48.html"
+    },
+    {
+        "title": "B17 Exterior Photo 2",
+        "date": "1980",
+        "subjects": ["Photograph"],
+        "description": "Photograph of the exterior of exhibition B18",
+        "link": "https://www.lib.uidaho.edu/digital/calnon/items/calnon49.html"
+    },
+    {
+        "title": "B17 Cockpit",
+        "date": "1980",
+        "subjects": ["Photograph"],
+        "description": "Photograph of B17 cockpit from exhibition B17",
+        "link": "https://www.lib.uidaho.edu/digital/calnon/items/calnon50.html"
+    },
+    {
+        "title": "Calnon Camp Map w/ Notes",
+        "date": "1995",
+        "subjects": ["Map"],
+        "description": "Map of Stalag Luft III with notes of being a prisoner.",
+        "link": "https://www.lib.uidaho.edu/digital/calnon/items/calnon51.html"
+    },
+    {
+        "title": "Mark Calnon, Oral History Interview by Denise Bennett",
+        "date": "2013-08-13",
+        "subjects": ["POW"," WWII"," prisons"," prisoners"," wars"],
+        "description": "An interview with Mark Calnon regarding his personal history as a WWII pilot and Prisoner of War",
+        "link": "https://www.lib.uidaho.edu/digital/calnon/items/calnon52.html"
+    }
+    
+] }

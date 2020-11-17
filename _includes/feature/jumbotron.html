@@ -26,7 +26,7 @@
 {% assign jumboLink = jumboId %}
 {% assign jumboSrc = jumboId %}
 {% else %}
-{% assign jumboLink = '/items/' | append: jumboId | append: '.html' | relative_url %}
+{% assign jumboLink = '/collection/items/' | append: jumboId | append: '.html' | relative_url %}
 {% assign item = site.data[site.metadata] | where: "objectid", jumboId | first %}
 {% capture jumboSrc %}{% include image/max.html %}{% endcapture %}
 {%- endif -%}

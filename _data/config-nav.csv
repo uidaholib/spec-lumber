@@ -1,11 +1,12 @@
 display_name,stub,dropdown_parent
-Blog,/,
-Archive,/tags/
-Timeline,/blog-timeline.html
+Home,/,
+Posts,/posts/
+Series,,
+Timeline,/blog/timeline.html
 Collection,,
-Browse Items,/browse.html,Collection
-Subjects,/subjects.html,Collection
-Locations,/locations.html,Collection
-Map,/map.html,Collection
-Timeline,/timeline.html,Collection
-Data,/data/,Collection
+Browse Items,/collection/browse.html,Collection
+Subjects,/collection/subjects.html,Collection
+Locations,/collection/locations.html,Collection
+Map,/collection/map.html,Collection
+Timeline,/collection/timeline.html,Collection
+Data,/collection/data/,Collection

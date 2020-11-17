@@ -4,5 +4,5 @@
 {%- assign items = site.data[site.metadata] -%}
 {%- assign fields = site.data.theme.metadata-export-fields | split: "," -%}
 {{ fields | join: "," }},reference_url
-{% for item in items %}{% for f in fields %}"{{ item[f] | escape }}",{% endfor %}"{{ "/items/" | absolute_url | append: item.objectid | append: ".html" }}"
+{% for item in items %}{% for f in fields %}"{{ item[f] | escape }}",{% endfor %}"{{ "/collection/items/" | absolute_url | append: item.objectid | append: ".html" }}"
 {% endfor %}

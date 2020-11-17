@@ -1,7 +1,7 @@
 ---
 title: Locations
 layout: locations
-permalink: /locations.html
+permalink: /collection/locations.html
 ---
 
 ## Browse Locations

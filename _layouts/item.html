@@ -6,7 +6,7 @@ gallery: true
 <div class="container py-3">
     <ul class="breadcrumb">
         <li class="breadcrumb-item"><a href="{{ '/' | absolute_url }}">Home</a></li>
-        <li class="breadcrumb-item"><a href="{{ '/browse.html' | absolute_url }}">Items</a></li>
+        <li class="breadcrumb-item"><a href="{{ '/collection/browse.html' | absolute_url }}">Items</a></li>
         <li class="breadcrumb-item active">{{ page.title | truncatewords: 10 }}</li>
     </ul>
 
@@ -45,9 +45,9 @@ gallery: true
                     {% else %}
                     <a target="_blank" href="{% include download/item.html %}" class="btn btn-outline-info">Download {{ page.format | split: '/' | last | upcase }}</a>{% endif %}
                     {% if page.date %}{%- capture year -%}{% if page.date contains "-" %}{{ page.date | split: "-" | first }}{% elsif page.date contains "/" %}{{ page.date | split: "/" | last }}{% else %}{{ page.date }}{% endif %}{%- endcapture -%}
-                    <a href="{{ year | strip | prepend: '/timeline.html#' | relative_url }}" class="ml-2 btn btn-outline-info">View on Timeline</a>{% endif %}
+                    <a href="{{ year | strip | prepend: '/collection/timeline.html#' | relative_url }}" class="ml-2 btn btn-outline-info">View on Timeline</a>{% endif %}
                     {% if page.latitude and page.longitude %}
-                    <a href="{{ '/map.html#' | append: page.latitude  | append: ',' | append: page.longitude | relative_url}}" class="ml-2 btn btn-outline-info">View on Map</a>{% endif %}
+                    <a href="{{ '/collection/map.html#' | append: page.latitude  | append: ',' | append: page.longitude | relative_url}}" class="ml-2 btn btn-outline-info">View on Map</a>{% endif %}
                 </div>
             </div>
         </div>
@@ -61,7 +61,7 @@ gallery: true
                         {% if f.browse_link == "true" %}
                         {% assign topics = page[f.field] | split: ";" %}
                         {% for t in topics %}
-                        <a class="mr-3" href="{{ t | strip | url_param_escape | prepend: '/browse.html#' | relative_url }}">{{ t | strip }}</a>
+                        <a class="mr-3" href="{{ t | strip | url_param_escape | prepend: '/collection/browse.html#' | relative_url }}">{{ t | strip }}</a>
                         {% endfor %}
                         {% else %}
                         {{ page[f.field] | replace: '""','"' }}{% endif %}
@@ -117,11 +117,11 @@ gallery: true
     {% else %}
     {% assign forward = 0 %}
     {%- endunless -%}
-    {%- assign back_url = '/items/' | append: itemset[back] | append: '.html' | relative_url -%}
-    {%- assign forward_url = '/items/' | append: itemset[forward] | append: '.html' | relative_url -%}
+    {%- assign back_url = '/collection/items/' | append: itemset[back] | append: '.html' | relative_url -%}
+    {%- assign forward_url = '/collection/items/' | append: itemset[forward] | append: '.html' | relative_url -%}
     <div class="text-center">
         <a class="btn btn-secondary" href="{{ back_url }}" id="prev-page-button">&laquo; Previous</a>
-        <a class="btn btn-secondary" href="{{ '/browse.html' | relative_url }}" >Back to Browse</a>
+        <a class="btn btn-secondary" href="{{ '/collection/browse.html' | relative_url }}" >Back to Browse</a>
         <a class="btn btn-secondary" href="{{ forward_url }}" id="next-page-button">Next &raquo;</a>
     </div>
     <div id="item-nav">

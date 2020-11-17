@@ -5,5 +5,5 @@ Use: {% include util/find-uniq-csv field="example" split-on=";" %}
 {%- endcomment -%}
 {%- assign uniqueArray = site.data[site.metadata] | map: include.field | join: include.split-on | split: include.split-on | array_count_uniq -%}
 {{ include.field }},count,link
-{% for unique in uniqueArray %}"{{ unique[0] }}",{{ unique[1] }},"{{ unique[0] | url_param_escape | prepend: '/browse.html#' | absolute_url }}"
+{% for unique in uniqueArray %}"{{ unique[0] }}",{{ unique[1] }},"{{ unique[0] | url_param_escape | prepend: '/collection/browse.html#' | absolute_url }}"
 {% endfor %}
