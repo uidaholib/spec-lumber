@@ -23,7 +23,7 @@
             <a href="https://www.lib.uidaho.edu/digital/{{include.collection}}/items/{{include.objectid}}.html">
                 <img class="figure-img img-fluid rounded lazyload" alt="{{ figure.title | escape }}" src="data:image/svg+xml,%3Csvg xmlns='http://www.w3.org/2000/svg' viewBox='0 0 3 2'%3E%3C/svg%3E" data-src="{% if figure.youtubeid %}https://img.youtube.com/vi/{{ figure.youtubeid }}/maxresdefault.jpg{% elsif figure.filename contains '/' %}{{ figure.filename }}{% else %}https://cdm17254.contentdm.oclc.org/digital/iiif/{{ include.cdm-collection | default: collection }}/{{ figure.cdmid }}/full/pct:50/0/default.jpg{% endif %}" >
             </a>
-            {% unless include.caption == false %}<figcaption class="figure-caption">{% if include.caption %}{{ include.caption }}{% else %}{{ figure.title }}{% endif %}</figcaption>{% endunless %}
+            {% unless include.caption == false %}<figcaption class="figure-caption">{% if include.caption contains ";" %}{% assign captions = include.caption | split: ';'%}{% assign jsindex = forloop.index | minus: 1 %}{{ captions[jsindex] }}{% elsif include.caption %}{{ include.caption }}{% else %}{{ figure.title }}{% endif %}</figcaption>{% endunless %}
         </figure>
     </div>
     {% endfor %}
