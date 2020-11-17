@@ -15,7 +15,7 @@ categories: [Wilderness Wednesday]
 
 {% include feature/image.html objectid="https://cdm17254.contentdm.oclc.org/digital/iiif/sbw/82/full/pct:60/0/default.jpg" link="https://digital.lib.uidaho.edu/digital/collection/sbw/id/82" caption="Carlton Lake, Bitterroot National Forest, 1927" %}
 
-Welcome to another week of Wilderness Wednesdsay! 
+Welcome to another week of Wilderness Wednesday! 
 
 The Bitterroot National Forest covers 1.6 million acres of forest in Idaho and southwest Montana.[^1] The area is markedly characterized by the Bitteroot Mountain Range, which is a "segment of the northern Rocky mountains" and 300 miles long along the border of Idaho and Montana.[^2] The highest peak is 11,394 feet but the entire range averages 9,000 feet.[^3]
 
