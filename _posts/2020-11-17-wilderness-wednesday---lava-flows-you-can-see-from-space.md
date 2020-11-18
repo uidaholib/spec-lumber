@@ -25,9 +25,10 @@ This area was established as a National Monument on May 2, 1924 by President Cal
 
 {% include feature/image.html objectid="https://digital.lib.uidaho.edu/digital/api/singleitem/image/nwpostcards/689/default.jpg?highlightTerms=" link="https://digital.lib.uidaho.edu/digital/collection/nwpostcards/id/689/rec/11" caption="Craters of the Moon, Idaho." %}
 
-{% include feature/digital-image.html objectid="nwpostcards640" collection="postcards" %}
+{% include feature/digital-image.html objectid="nwpostcards640" collection="postcards"  cdm-collection="nwpostcards" %}
 
 {% include feature/image.html objectid="https://www.lib.uidaho.edu/media/spec/histphoto/Pg99/99-H-133-06.jpg" link="https://www.lib.uidaho.edu/media/spec/histphoto/Pg99/99-H-133-06.jpg" caption="" %}
+
 
 # Sources
 
