@@ -5,6 +5,7 @@ tags: ["University of Idaho","Vandals","women","women athletes","women's recreat
 subtitle: 
 cover-image: lumber087
 categories: ["Women's Recreation Wednesday"]
+author: 
 ---
 
 Welcome to Week 1 of new Tumblr series, Women’s Recreation Wednesday! Today, we have

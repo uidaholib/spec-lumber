@@ -5,6 +5,7 @@ tags: []
 subtitle: 
 cover-image: 
 categories: ["Logging Lessons"]
+author: 
 ---
 
 Welcome back to Logging Lessons! Last week, we learned

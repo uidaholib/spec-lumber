@@ -5,6 +5,7 @@ tags: []
 subtitle: 
 cover-image: 
 categories: []
+author: 
 ---
 
 {% include feature/digital-image.html collection="phs" id="295" %}

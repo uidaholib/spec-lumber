@@ -5,6 +5,7 @@ tags: []
 subtitle: 
 cover-image: lumber119
 categories: ["Mining Monday"]
+author: 
 ---
 
 {% include feature/image.html objectid="lumber117" %}

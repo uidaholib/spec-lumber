@@ -5,6 +5,7 @@ tags: ["masks", "spanish flu", "influenza", "pandemic", "employees", "vintage fa
 subtitle: 
 cover-image: lumber014
 categories: []
+author: 
 ---
 Even in this damaged image, you can see mask fashion hasn't changed in the last century. Whether you're going to work, like these people, or heading back to school, don't forget your mask!
 

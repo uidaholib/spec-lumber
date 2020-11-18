@@ -5,6 +5,7 @@ tags: []
 subtitle: 
 cover-image: https://digital.lib.uidaho.edu/digital/api/singleitem/image/nwpostcards/392/default.jpg?highlightTerms=
 categories: [Wilderness Wednesday]
+author: 
 ---
 
 
