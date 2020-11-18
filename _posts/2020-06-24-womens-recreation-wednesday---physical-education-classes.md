@@ -1,10 +1,11 @@
 ---
 title: Women's Recreation Wednesday - Physical Education Classes
 date: 2020-06-24
-tags: ["University of Idaho","Vandals","women","women athletes","women's recreation","women's sports","women in sports","women's recreation Wednesday","Idaho","andrea moscon","university history","university archives"]
+tags: ["Vandals","women","women athletes","women's recreation","women's sports","women in sports","women's recreation Wednesday","andrea moscon","university history","university archives"]
 subtitle: 
 cover-image: lumber056
 categories: ["Women's Recreation Wednesday"]
+author: 
 ---
 
 Welcome back to another week of Women’s Recreation

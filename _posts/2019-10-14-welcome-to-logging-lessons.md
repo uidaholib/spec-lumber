@@ -5,6 +5,7 @@ tags: []
 subtitle: 
 cover-image: lumber098
 categories: ["Logging Lessons"]
+author: 
 ---
 
 {% include feature/digital-image.html collection="phs" id="289" %}

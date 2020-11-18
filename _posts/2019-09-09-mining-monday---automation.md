@@ -5,6 +5,7 @@ tags: []
 subtitle: 
 cover-image: lumber115
 categories: ["Mining Monday"]
+author: 
 ---
 
 {% include feature/digital-image.html collection="bar-stock" id="108" %}

@@ -1,10 +1,11 @@
 ---
 title: Women's Recreation Wednesday - Bowling
 date: 2020-05-13
-tags: ["University of Idaho","Vandals","women","women athletes","women's recreation","women's sports","women in sports","women's recreation Wednesday","Idaho","Moscow","university history","university archives"]
+tags: ["Vandals","women","women athletes","women's recreation","women's sports","women in sports","women's recreation Wednesday","Moscow","university history","university archives"]
 subtitle: 
 cover-image: lumber080
 categories: ["Women's Recreation Wednesday"]
+author: 
 ---
 
 Welcome back to another week of our series, Women’s

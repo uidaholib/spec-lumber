@@ -5,6 +5,7 @@ tags: []
 subtitle: 
 cover-image: 
 categories: ["Logging Lessons"]
+author: 
 ---
 
 Welcome back to Logging Lessons! Welcome back to Logging Lessons! Today, we'll discuss the process of turning a log into a piece of lumber that can be used to build many of the items and structures that we use and rely on today!

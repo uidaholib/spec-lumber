@@ -7,6 +7,7 @@ cover-image-collection: dworshak
 cover-image: dworshak1131
 cover-image-collection: dworshak
 categories: [Oh Dam!]
+author: 
 ---
 
 Welcome back to another week of Oh Dam!, our series on dams in the Pacific Northwest.
