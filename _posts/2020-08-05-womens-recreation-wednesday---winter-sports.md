@@ -1,7 +1,7 @@
 ---
 title: Women's Recreation Wednesday - Winter Sports
 date: 2020-08-05
-tags: ["University of Idaho","Vandals","women","women athletes","women's recreation","women's sports","women in sports","women's recreation Wednesday","Idaho","Moscow","university history","university archives"]
+tags: ["Vandals","women","women athletes","women's recreation","women's sports","women in sports","women's recreation Wednesday","Moscow","university history","university archives"]
 subtitle: 
 cover-image: lumber097
 categories: ["Women's Recreation Wednesday"]

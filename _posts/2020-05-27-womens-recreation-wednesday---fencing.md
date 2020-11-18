@@ -1,7 +1,7 @@
 ---
 title: Women's Recreation Wednesday - Fencing
 date: 2020-05-27
-tags: ["University of Idaho","Vandals","women","women athletes","women's recreation","women's sports","women in sports","women's recreation Wednesday","Idaho","moscou","university history","university archives"]
+tags: ["Vandals","women","women athletes","women's recreation","women's sports","women in sports","women's recreation Wednesday","moscou","university history","university archives"]
 subtitle: 
 cover-image: lumber074
 categories: ["Women's Recreation Wednesday"]
