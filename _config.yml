@@ -22,7 +22,7 @@ defaults:
       
 link-tags: true
 
-permalink: /posts/:year/:month/:title:output_ext
+permalink: /posts/:year/:month/:day/:title:output_ext
 
 paginate: 10
 
