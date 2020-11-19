@@ -23,7 +23,7 @@ The first non-Indigenous people to travel through the area were British and Amer
 
 In the 1860s, gold was discovered in many parts of the region and mining camps sprung up everywhere. Like other mining boomtowns in the western United States, Idaho's mining camps were ethnically diverse, "with many miners from Europe and China." By 1870, thirty percent of Idaho's population was Chinese.[^4]
 
-{% include feature/image.html objectid="https://digital.lib.uidaho.edu/digital/api/singleitem/image/cccidaho/832/default.jpg?highlightTerms=" link="https://digital.lib.uidaho.edu/digital/collection/cccidaho/id/832" caption="Boise National Forest, 1935" %}
+{% include feature/digital-image.html objectid="cccidaho832" collection="cccidaho" %}
 
 The area was established as the Boise National Forest in 1908 by President Theodore Roosevelt in hopes to "protect timber and watershed resources in southwestern Idaho. The Forest Service added lookouts, campgrounds, and roads, assisted by hundreds of young men enrolled in the Civilian Conservation Corps (CCC) during the Great Depression..."[^5] When the forest was created, "portions of the Payette National Forest and Sawtooth Forest Reserves" were taken to include in the Boise National Forest.[^6]
 
