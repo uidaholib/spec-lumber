@@ -16,15 +16,15 @@ Craters of the Moon National Monument is one of four national parks in Idaho and
 
 This area was established as a National Monument on May 2, 1924 by President Calvin Coolidge.[^3]
 
-{% include feature/image.html objectid="https://digital.lib.uidaho.edu/digital/api/singleitem/image/nwpostcards/538/default.jpg?highlightTerms=" link="https://digital.lib.uidaho.edu/digital/collection/nwpostcards/id/538" caption="Volcanic craters. Craters of the Moon, Idaho." %}
+{% include feature/digital-image.html objectid="nwpostcards538" collection="postcards" cdm-collection="nwpostcards" %}
 
-{% include feature/image.html objectid="https://digital.lib.uidaho.edu/digital/api/singleitem/image/nwpostcards/560/default.jpg?highlightTerms=" link="https://digital.lib.uidaho.edu/digital/collection/nwpostcards/id/560" caption="Big craters. Craters of the Moon, Idaho." %}
+{% include feature/digital-image.html objectid="nwpostcards560" collection="postcards" cdm-collection="nwpostcards" %}
 
-{% include feature/image.html objectid="https://digital.lib.uidaho.edu/digital/api/singleitem/image/pdf/nwpostcards/228/default.png" link="https://digital.lib.uidaho.edu/digital/collection/nwpostcards/id/228" caption="Pressure Ridge" %}
+{% include feature/digital-pdf-image.html objectid="nwpostcards228" collection="postcards" cdm-collection="nwpostcards" %}
 
-{% include feature/image.html objectid="https://digital.lib.uidaho.edu/digital/api/singleitem/image/pdf/nwpostcards/229/default.png" link="https://digital.lib.uidaho.edu/digital/collection/nwpostcards/id/229" caption="Spatter Cones" %}
+{% include feature/digital-pdf-embed.html objectid="nwpostcards229" collection="postcards" cdm-collection="nwpostcards" %}
 
-{% include feature/image.html objectid="https://digital.lib.uidaho.edu/digital/api/singleitem/image/nwpostcards/689/default.jpg?highlightTerms=" link="https://digital.lib.uidaho.edu/digital/collection/nwpostcards/id/689/rec/11" caption="Craters of the Moon, Idaho." %}
+{% include feature/digital-image.html objectid="nwpostcards689" collection="postcards" cdm-collection="nwpostcards" %}
 
 {% include feature/digital-image.html objectid="nwpostcards640" collection="postcards" cdm-collection="nwpostcards" %}
 
