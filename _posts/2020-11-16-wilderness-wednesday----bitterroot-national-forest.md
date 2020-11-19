@@ -5,6 +5,7 @@ tags: []
 subtitle: 
 cover-image: lumber137
 categories: [Wilderness Wednesday]
+author: 
 ---
 
 {% include feature/image.html objectid="lumber137" %}

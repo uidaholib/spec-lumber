@@ -1,10 +1,11 @@
 ---
 title: Women's Recreation Wednesday - Dance
 date: 2020-05-20
-tags: ["University of Idaho","Vandals","women","women athletes","women's recreation","women's sports","women in sports","women's recreation Wednesday","Idaho","moscow","university history","university archives"]
+tags: ["Vandals","women","women athletes","women's recreation","women's sports","women in sports","women's recreation Wednesday","moscow","university history","university archives"]
 subtitle: 
 cover-image: lumber076
 categories: ["Women's Recreation Wednesday"]
+author: 
 ---
 
 Welcome back to another week of Women’s Recreation

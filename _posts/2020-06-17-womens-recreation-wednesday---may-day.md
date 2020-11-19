@@ -1,10 +1,11 @@
 ---
 title: Women's Recreation Wednesday - May Day
 date: 2020-06-17
-tags: ["University of Idaho","Vandals","women","women athletes","women's recreation","women's sports","women in sports","women's recreation Wednesday","Idaho","moscou","university history","university archives"]
+tags: ["Vandals","women","women athletes","women's recreation","women's sports","women in sports","women's recreation Wednesday","moscou","university history","university archives"]
 subtitle: 
 cover-image: lumber062
 categories: ["Women's Recreation Wednesday"]
+author: 
 ---
 
 Welcome back to another week of Women’s Recreation

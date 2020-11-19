@@ -18,7 +18,7 @@ layout: page
         Year
     </button>
     <div class="dropdown-menu" aria-labelledby="yearButton">
-        {% for y in navYears %}
+        {% for y in uniqueYears %}
         <a class="dropdown-item" href="#{{ y }}">{{ y }}</a>{% endfor %}
     </div>
 </div>
@@ -34,8 +34,9 @@ layout: page
             <h3>{{ year }}</h3>
         </th>
         <td>
-    
-            {% for post in site.posts %}{% capture post_year %}{{ post.date | date: "%Y" }}{% endcapture %}{% if post_year == year %}
+            {% assign posts = site.posts | sort: "date" %}
+
+            {% for post in posts %}{% capture post_year %}{{ post.date | date: "%Y" }}{% endcapture %}{% if post_year == year %}
             {% if post.cover-image%}
             <a class="d-inline-block m-1" href="{{ post.url }}" data-toggle="tooltip" data-placement="bottom" title="{{ post.title | escape }} | {{ post.date | date: '%B %d, %Y' | escape }}" ><img class="lazyload img-thumbnail" src="data:image/svg+xml,%3Csvg xmlns='http://www.w3.org/2000/svg' viewBox='0 0 3 2'%3E%3C/svg%3E" data-src="{% include image/post-thumb.html %}" alt="{{ post.title | escape }}" alt="{{ post.title | escape }}" ></a>{% else %}
             <div class="card col-md-3 col-6 d-inline-block">

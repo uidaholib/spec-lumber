@@ -5,6 +5,7 @@ tags: []
 subtitle: 
 cover-image: lumber134
 categories: [Wilderness Wednesday]
+author: 
 ---
 
 Welcome to our new series, Wilderness Wednesdays! This series will feature photos of Idaho's vast wilderness, particularly our National Forests, National Parks, and Wilderness Areas.
@@ -15,9 +16,9 @@ Idaho currently has 3 national parks and 7 national forests.[^1] The national fo
 
 {% include feature/image.html objectid="lumber134;lumber135;lumber136" %}
 
-{% include feature/digital-image.html objectid="nwpostcards392" collection="postcards" %}
+{% include feature/digital-image.html objectid="nwpostcards392" collection="postcards" cdm-collection="nwpostcards" %}
 
-{% include feature/digital-image.html objectid="nwpostcards722" collection="postcards" %}
+{% include feature/digital-image.html objectid="nwpostcards722" collection="postcards" cdm-collection="nwpostcards" %}
 
 Each week, we'll learn a little bit about the history of a wilderness area, its importance to Idaho, and we'll be reminded that Idaho's landscape has been occupied by Indigenous peoples for thousands of years. Much archaeological evidence shows that Indigenous people have been living in Idaho for at least 8,000 years, while one study wrote that "there is evidence that intelligent, highly skilled people have lived in Idaho for at least the past twelve to fifteen thousand years."[^4] Although we can't dive into the full history of the relationship between Indigenous nations and the U.S. government for this particular series, we recognize that this history is a constant backdrop to any discussion about Idaho's lands. 
 

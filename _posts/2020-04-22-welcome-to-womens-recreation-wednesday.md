@@ -1,10 +1,11 @@
 ---
 title: Welcome to Women's Recreation Wednesday!
 date: 2020-04-22
-tags: ["UniversityofIdaho","Vandals","women","women athletes","women's recreation","women's sports","women in sports","women's recreation wednesday","Idaho","Moscow","university history","university archives"]
+tags: ["UniversityofIdaho","Vandals","women","women athletes","women's recreation","women's sports","women in sports","women's recreation wednesday","Moscow","university history","university archives"]
 subtitle: 
 cover-image: lumber090
 categories: ["Women's Recreation Wednesday"]
+author: 
 ---
 
 Welcome to our new Tumblr series, Women’s Recreation

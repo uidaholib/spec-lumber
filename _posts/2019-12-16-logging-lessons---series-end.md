@@ -5,6 +5,7 @@ tags: []
 subtitle: 
 cover-image: 
 categories: ["Logging Lessons"]
+author: 
 ---
 
 {% include feature/digital-image.html collection="phs" id="508" %}
