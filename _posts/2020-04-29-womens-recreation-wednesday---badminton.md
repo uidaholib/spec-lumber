@@ -5,7 +5,7 @@ tags: ["Vandals","women","women athletes","women's recreation","women's sports",
 subtitle: 
 cover-image: lumber087
 categories: ["Women's Recreation Wednesday"]
-author: 
+author: Michelle Shannon
 ---
 
 Welcome to Week 1 of new Tumblr series, Women’s Recreation Wednesday! Today, we have

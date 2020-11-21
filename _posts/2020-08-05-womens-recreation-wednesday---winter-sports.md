@@ -5,7 +5,7 @@ tags: ["Vandals","women","women athletes","women's recreation","women's sports",
 subtitle: 
 cover-image: lumber097
 categories: ["Women's Recreation Wednesday"]
-author: 
+author: Michelle Shannon
 ---
  
 Welcome back to another week of Women’s Recreation

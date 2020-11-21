@@ -5,7 +5,7 @@ tags: ["UniversityofIdaho","Vandals","women","women athletes","women's recreatio
 subtitle: 
 cover-image: lumber090
 categories: ["Women's Recreation Wednesday"]
-author: 
+author: Michelle Shannon
 ---
 
 Welcome to our new Tumblr series, Women’s Recreation

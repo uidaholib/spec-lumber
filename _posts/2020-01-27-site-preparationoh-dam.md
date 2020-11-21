@@ -7,7 +7,7 @@ cover-image-cdm-collection: crbproj
 cover-image-collection: crbp
 cover-image: crbp1204
 categories: ["Oh Dam!"]
-author: 
+author: Michelle Shannon
 ---
 
 Welcome back to another week of Oh Dam!, our series on dams in the Pacific Northwest.</p><p>This week, we’re discussing how to prepare a site for dam construction. According to the British Dam Society, “a dam is built on a soil

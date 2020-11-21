@@ -5,7 +5,7 @@ tags: []
 subtitle: 
 cover-image: 
 categories: ["Logging Lessons"]
-author: 
+author: Michelle Shannon
 ---
 
 Welcome back to Logging Lessons! Last week, we learned

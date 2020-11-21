@@ -5,7 +5,7 @@ tags: []
 subtitle: 
 cover-image: lumber115
 categories: ["Mining Monday"]
-author: 
+author: Michelle Shannon
 ---
 
 {% include feature/digital-image.html collection="bar-stock" id="108" %}

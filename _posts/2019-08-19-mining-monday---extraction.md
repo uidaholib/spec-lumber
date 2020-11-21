@@ -5,7 +5,7 @@ tags: []
 subtitle: 
 cover-image: lumber109
 categories: ["Mining Monday"]
-author: 
+author: Michelle Shannon
 ---
 
 {% include feature/image.html objectid="lumber109" %}

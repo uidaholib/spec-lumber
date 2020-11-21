@@ -5,7 +5,7 @@ tags: []
 subtitle: 
 cover-image: lumber137
 categories: [Wilderness Wednesday]
-author: 
+author: Michelle Shannon
 ---
 
 {% include feature/image.html objectid="lumber137" %}

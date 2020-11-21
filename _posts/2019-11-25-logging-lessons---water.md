@@ -4,8 +4,8 @@ date: 2019-11-25
 tags: []
 subtitle: 
 cover-image: 
-categories: []
-author: 
+categories: ["Logging Lessons"]
+author: Michelle Shannon
 ---
 
 {% include feature/digital-image.html collection="phs" id="295" %}

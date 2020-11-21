@@ -7,7 +7,7 @@ cover-image-cdm-collection: crbproj
 cover-image-collection: crbp
 cover-image: crbp1222
 categories: ["Oh Dam!"]
-author: 
+author: Michelle Shannon
 ---
 
 Welcome back to another week of Oh Dam!, our series

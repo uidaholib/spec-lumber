@@ -5,7 +5,7 @@ tags: []
 subtitle: 
 cover-image: https://digital.lib.uidaho.edu/digital/api/singleitem/image/pdf/nwpostcards/229/default.png
 categories: [Wilderness Wednesday]
-author: 
+author: Michelle Shannon
 ---
 
 {% include feature/image.html objectid="lumber157;lumber158" %}

@@ -5,7 +5,7 @@ tags: []
 subtitle: 
 cover-image: lumber098
 categories: ["Logging Lessons"]
-author: 
+author: Michelle Shannon
 ---
 
 {% include feature/digital-image.html collection="phs" id="289" %}
