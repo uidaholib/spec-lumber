@@ -10,9 +10,6 @@ categories: ["Oh Dam!"]
 author: Michelle Shannon
 ---
 
-Welcome back to another week of Oh Dam!, our series
-on dams in the Pacific Northwest.
-
 Today we’re discussing Ice Harbor Lock and Dam located on
 the Snake River “upstream of McNary Lock and Dam and Lake Wullala.”[^1]
 
@@ -34,6 +31,8 @@ Harbor fish ladder to improve adult lamprey passage. Those modifications
 included a lamprey fish ladder entrance weir, lamprey passage structures,
 ladder improvements and installation of metal plating to assist lamprey
 upstream.”[^1]
+
+# Sources
 
 [^1]: [Ice Harbor Lock and Dam](https://www.nww.usace.army.mil/Locations/District-Locks-and-Dams/Ice-Harbor-Lock-and-Dam/)
 

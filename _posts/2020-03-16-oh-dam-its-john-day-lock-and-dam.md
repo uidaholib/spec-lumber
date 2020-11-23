@@ -10,9 +10,6 @@ categories: ["Oh Dam!"]
 author: Michelle Shannon
 ---
 
-Welcome back to another week of Oh Dam!, our series
-on dams in the Pacific Northwest.
-
 Today, we’re discussing John Day Lock and Dam, located 216 miles upriver from the mouth of the Columbia River.[^1] Construction began in 1968 and was completed in 1982.
 
 The dam is “one of the top five largest hydropower dams
@@ -32,6 +29,8 @@ salmon, Sockeye salmon, Steelhead trout, American shad, and Pacific lamprey
 throughout the year.[^2]
 
 {% include feature/digital-image.html objectid="crbp1214" cdm-collection="crbproj" collection="crbp" %}
+
+# Sources
 
 [^1]: [Dworshak Dam and Reservoir](https://www.nww.usace.army.mil/Locations/District-Locks-and-Dams/Dworshak-Dam-and-Reservoir/)
 

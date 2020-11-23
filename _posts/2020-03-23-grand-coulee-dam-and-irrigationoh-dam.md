@@ -10,8 +10,7 @@ categories: ["Oh Dam!"]
 author: Michelle Shannon
 ---
 
-Welcome back to another week of Oh Dam!, our series
-on dams in the Pacific Northwest. Today, we’re discussing the Grand Coulee Dam and irrigation
+Today, we’re discussing the Grand Coulee Dam and irrigation
 pumping plants and discharge pipes.
 
 The Grand Coulee Dam is part of the larger Columbia Basin
@@ -58,6 +57,8 @@ industries, navigation, and endangered species.”[^1]
 {% include feature/digital-image.html objectid="crbp1143" cdm-collection="crbproj" collection="crbp" %}
 
 {% include feature/digital-image.html objectid="crbp1144" cdm-collection="crbproj" collection="crbp" %}
+
+# Sources
 
 [^1]: [Columbia Basin Project](https://www.usbr.gov/pn/grandcoulee/cbp/index.html)
 

@@ -10,28 +10,22 @@ categories: ["Oh Dam!"]
 author: Michelle Shannon
 ---
 
-Welcome back to another week of Oh Dam!, our series
-on dams in the Pacific Northwest.
-
 This week, we’re discussing canal lining and
 construction. Building a canal for a dam is extremely important because canals
 must be able to “withstand enormous water pressure,” must be “watertight so
 that they will not leak,” and must “be able to offer protection from the risk
 of erosion caused by the flowing water.”[^1]
 
+{% include feature/digital-image.html objectid="crbp1262;crbp1261" cdm-collection="crbproj" collection="crbp" %}
+
 Building a canal consists of levelling and compacting the
 bottom of the canal, or lining it. “A filter layer consisting of sand and
 gravel is then put in place and, on top of that, a sealing layer of fine soil,
 cement or asphalt.”[^1]
 
-{% include feature/digital-image.html objectid="crbp1254" cdm-collection="crbproj" collection="crbp" %}
-
 {% include feature/digital-image.html objectid="crbp1255" cdm-collection="crbproj" collection="crbp" %}
 
-{% include feature/digital-image.html objectid="crbp1262" cdm-collection="crbproj" collection="crbp" %}
-
-{% include feature/digital-image.html objectid="crbp1261" cdm-collection="crbproj" collection="crbp" %}
-
+# Sources
 
 [^1]: [Canals](http://applications.dynapac.com/soil/dams-and-canals/)
 
