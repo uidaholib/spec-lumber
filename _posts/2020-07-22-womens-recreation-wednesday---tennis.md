@@ -1,7 +1,7 @@
 ---
 title: Women's Recreation Wednesday - Tennis
 date: 2020-07-22
-tags: ["Vandals","women","women athletes","women's recreation","women's sports","women in sports","women's recreation Wednesday","Moscow","university history","university archives"]
+tags: ["women's recreation", "women's sports", "women in sports", "women", "women athletes"]
 subtitle: 
 cover-image: lumber038
 categories: ["Women's Recreation Wednesday"]

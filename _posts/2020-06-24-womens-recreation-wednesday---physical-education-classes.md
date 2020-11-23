@@ -1,7 +1,7 @@
 ---
 title: Women's Recreation Wednesday - Physical Education Classes
 date: 2020-06-24
-tags: ["Vandals","women","women athletes","women's recreation","women's sports","women in sports","women's recreation Wednesday","andrea moscon","university history","university archives"]
+tags: ["women's recreation", "women's sports", "women in sports", "women", "women athletes"]
 subtitle: 
 cover-image: lumber056
 categories: ["Women's Recreation Wednesday"]

@@ -1,7 +1,7 @@
 ---
 title: Oh Dam! ... it's the Lower Granite Lock and Dam
 date: 2020-03-30
-tags: ["ohdam","ohdam!","dam","dams","hydraulic","electricity","water","irrigation","ColumbiaRiver","ColumbiaRiverBasin"]
+tags: ["dams","hydraulic","electricity","water","irrigation","Columbia River","Columbia River Basin"]
 subtitle: 
 cover-image-cdm-collection: crbproj
 cover-image-collection: crbp

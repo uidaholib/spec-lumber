@@ -1,7 +1,7 @@
 ---
 title: Women's Recreation Wednesday - Track and Field
 date: 2020-07-29
-tags: ["Vandals","women","women athletes","women's recreation","women's sports","women in sports","women's recreation Wednesday","moscow","university history","university archives"]
+tags: ["women's recreation", "women's sports", "women in sports", "women", "women athletes"]
 subtitle: 
 cover-image: lumber032
 categories: ["Women's Recreation Wednesday"]

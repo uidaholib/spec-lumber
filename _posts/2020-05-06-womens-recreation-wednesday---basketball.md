@@ -1,7 +1,7 @@
 ---
 title: Women's Recreation Wednesday - Basketball
 date: 2020-05-06
-tags: ["Vandals","women","women athletes","women's recreation","women's sports","women in sports","women's recreation Wednesday","moscou","university history","university archives"]
+tags: ["women's recreation", "women's sports", "women in sports", "women", "women athletes"]
 subtitle: 
 cover-image: lumber090
 categories: ["Women's Recreation Wednesday"]

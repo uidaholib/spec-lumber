@@ -1,7 +1,7 @@
 ---
 title: Women's Recreation Wednesday - Winter Sports
 date: 2020-08-12
-tags: ["Vandals","women","women athletes","women's recreation","women's sports","women in sports","women's recreation Wednesday","Moscow","university history","university archives"]
+tags: ["women's recreation", "women's sports", "women in sports", "women", "women athletes"]
 subtitle: 
 cover-image: lumber097
 categories: ["Women's Recreation Wednesday"]

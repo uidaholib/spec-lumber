@@ -1,7 +1,7 @@
 ---
 title: Oh Dam! it's Lucky Peak Dam
 date: 2020-02-03
-tags: ["ohdam","ohdam!","dam","dams","hydraulic","electricity","water","irrigation","ColumbiaRiver","ColumbiaRiverBasin"]
+tags: ["dams","hydraulic","electricity","water","irrigation","Columbia River","Columbia River Basin"]
 subtitle: 
 cover-image-cdm-collection: crbproj
 cover-image-collection: crbp
