@@ -4,4 +4,4 @@ permalink: /series/logginglessons.html
 series: Logging Lessons
 ---
 
-### Photos and information about hydraulic dams in the Pacific Northwest
+### Photos and information about logging in North Idaho

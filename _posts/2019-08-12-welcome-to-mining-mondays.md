@@ -1,5 +1,5 @@
 ---
-title: Welcome to Mining Mondays!
+title: Welcome to Mining Monday!
 date: 2019-08-12
 tags: []
 subtitle: 
