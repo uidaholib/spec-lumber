@@ -8,13 +8,13 @@ categories: ["Logging Lessons"]
 author: Michelle Shannon
 ---
 
-{% include feature/digital-image.html collection="phs" id="221" %}
-
-{% include feature/digital-image.html collection="phs" id="294" %}
-
 Welcome to Logging Lessons! Last week, we learned about using horses to transport logs. This week, we’ll learn about one type of mechanical skidder, steam donkey engines!
 
 Mechanical skidders are a type of heavy vehicle used for transporting materials through the process of skidding. In logging, they were used to “drag material from the woods to a landing or roadside.”[^1]
+
+{% include feature/digital-image.html collection="phs" id="221" %}
+
+{% include feature/digital-image.html collection="phs" id="294" %}
 
 In early logging history, skidders were manually pulled by horses, mules, or oxen (as we discussed last week). However, steam-powered mechanical skidders were developed and became increasingly popular for their independence from livestock, particularly in the 1910s-1920s. The most popular in the logging world were steam donkey engines, which was invented in California but played a crucial role in logging in the Pacific Northwest.[^2]
 
