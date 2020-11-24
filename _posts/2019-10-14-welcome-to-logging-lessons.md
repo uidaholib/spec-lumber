@@ -1,7 +1,7 @@
 ---
 title: Welcome to Logging Lessons!
 date: 2019-10-14
-tags: []
+tags: ["logging"]
 subtitle: 
 cover-image: lumber098
 categories: ["Logging Lessons"]

@@ -1,7 +1,7 @@
 ---
 title: Logging Lessons - horses
 date: 2019-10-28
-tags: []
+tags: ["logging"]
 subtitle: 
 cover-image: 
 categories: ["Logging Lessons"]

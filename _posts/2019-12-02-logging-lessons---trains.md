@@ -1,7 +1,7 @@
 ---
 title: Logging Lessons - trains
 date: 2019-12-02
-tags: []
+tags: ["logging"]
 subtitle: 
 cover-image: 
 categories: ["Logging Lessons"]

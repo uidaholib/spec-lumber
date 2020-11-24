@@ -1,7 +1,7 @@
 ---
 title: Logging Lessons - crawlers
 date: 2019-11-18
-tags: []
+tags: ["logging"]
 subtitle: 
 cover-image: 
 categories: ["Logging Lessons"]

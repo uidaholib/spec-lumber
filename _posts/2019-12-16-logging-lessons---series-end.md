@@ -1,7 +1,7 @@
 ---
 title: Logging Lessons - series end
 date: 2019-12-16
-tags: []
+tags: ["logging"]
 subtitle: 
 cover-image: 
 categories: ["Logging Lessons"]

@@ -1,7 +1,7 @@
 ---
 title: Logging Lessons - felling trees
 date: 2019-10-21
-tags: []
+tags: ["logging"]
 subtitle: 
 cover-image: lumber100
 categories: ["Logging Lessons"]

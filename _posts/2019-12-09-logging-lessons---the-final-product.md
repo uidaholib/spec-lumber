@@ -1,7 +1,7 @@
 ---
 title: Logging Lessons - the final product
 date: 2019-12-09
-tags: []
+tags: ["logging"]
 subtitle: 
 cover-image: 
 categories: ["Logging Lessons"]

@@ -1,7 +1,7 @@
 ---
 title: Logging Lessons - jammers
 date: 2019-11-11
-tags: []
+tags: ["logging"]
 subtitle: 
 cover-image: 
 categories: ["Logging Lessons"]

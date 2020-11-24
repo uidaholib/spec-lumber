@@ -1,7 +1,7 @@
 ---
 title: Logging Lessons - steam donkey engines
 date: 2019-11-04
-tags: []
+tags: ["logging"]
 subtitle: 
 cover-image: 
 categories: ["Logging Lessons"]
