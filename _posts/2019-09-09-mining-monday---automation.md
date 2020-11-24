@@ -8,7 +8,7 @@ categories: ["Mining Monday"]
 author: Michelle Shannon
 ---
 
-Happy Mining Monday! Last week, we learned about smelting ore into base metals for the purpose of building technology, including the many devices that we rely on every day. This week, we’ll take a closer look at the automation side of underground metal mines. Machines, railways, hoists, and ore carts on tracks are all forms of automation designed to make the process of underground metal mining more efficient.
+Last week, we learned about smelting ore into base metals for the purpose of building technology, including the many devices that we rely on every day. This week, we’ll take a closer look at the automation side of underground metal mines. Machines, railways, hoists, and ore carts on tracks are all forms of automation designed to make the process of underground metal mining more efficient.
 
 Mines require a lot of mechanical engineering, innovation, and science. Giant power plants transmit electricity to giant machines; ore cars, trains, and their respective metal tracks make it easier to transport large quantities of heavy and valuable materials long distances to be processed and smelted. Far from being unskilled laborers, miners and mine engineers had detailed knowledge and understanding of how to create the most efficient systems to produce valuable and useful materials, using technological innovation and scientific knowledge.
 

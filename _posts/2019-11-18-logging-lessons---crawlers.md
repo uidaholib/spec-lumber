@@ -8,7 +8,7 @@ categories: ["Logging Lessons"]
 author: Michelle Shannon
 ---
 
-Welcome back to Logging Lessons! Last week, we learned
+Last week, we learned
 about jammers. This week, we’ll learn about the tractors that largely replaced
 other forms of transporting logs, including manual horses and steam donkey
 engines (which we covered in previous weeks!). These tractors were colloquially

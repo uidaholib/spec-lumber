@@ -8,7 +8,7 @@ categories: ["Mining Monday"]
 author: Michelle Shannon
 ---
 
-Happy Mining Monday! Last week, we learned about the dangers posed to an underground metal miner. This week, we’ll focus on the process of mineral extraction, which is what mining is all about! Extracting raw materials from the Earth supports much of our economic and social infrastructure (smartphones, for example, are made of metals such as copper, gold, lead, nickel, zinc, beryllium, tantalum, coltan, gold, and lithium which must be mined from the Earth as raw ore and processed into usable materials).[^1]
+Last week, we learned about the dangers posed to an underground metal miner. This week, we’ll focus on the process of mineral extraction, which is what mining is all about! Extracting raw materials from the Earth supports much of our economic and social infrastructure (smartphones, for example, are made of metals such as copper, gold, lead, nickel, zinc, beryllium, tantalum, coltan, gold, and lithium which must be mined from the Earth as raw ore and processed into usable materials).[^1]
 
 {% include feature/image.html objectid="lumber110" %}
 

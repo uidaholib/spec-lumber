@@ -8,7 +8,7 @@ categories: ["Logging Lessons"]
 author: Michelle Shannon
 ---
 
-Welcome to Logging Lessons! Last week, we learned about using horses to transport logs. This week, we’ll learn about one type of mechanical skidder, steam donkey engines!
+Last week, we learned about using horses to transport logs. This week, we’ll learn about one type of mechanical skidder, steam donkey engines!
 
 Mechanical skidders are a type of heavy vehicle used for transporting materials through the process of skidding. In logging, they were used to “drag material from the woods to a landing or roadside.”[^1]
 

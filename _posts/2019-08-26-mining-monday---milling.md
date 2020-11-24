@@ -8,7 +8,7 @@ categories: ["Mining Monday"]
 author: Michelle Shannon
 ---
 
-Happy Mining Monday! Last week, we learned about extracting raw mineral ore. This week, we’ll learn about the process of milling, which is the first of two steps required to take raw mineral ore and turn it into a usable product (the second of which is smelting, which we’ll explore next week!)
+Last week, we learned about extracting raw mineral ore. This week, we’ll learn about the process of milling, which is the first of two steps required to take raw mineral ore and turn it into a usable product (the second of which is smelting, which we’ll explore next week!)
 
 {% include feature/image.html objectid="lumber111" %}
 

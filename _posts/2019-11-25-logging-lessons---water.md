@@ -8,7 +8,7 @@ categories: ["Logging Lessons"]
 author: Michelle Shannon
 ---
 
-Happy Logging Lessons! Last week, we learned about tractors as a form of transporting logs from the forest to the railroad track or water formation (such as a river or flume). Once the logs have been transported to the railroad track or water formation, a few options remain for getting them to the mill.
+Last week, we learned about tractors as a form of transporting logs from the forest to the railroad track or water formation (such as a river or flume). Once the logs have been transported to the railroad track or water formation, a few options remain for getting them to the mill.
 
 {% include feature/digital-image.html collection="phs" id="295" %}
 

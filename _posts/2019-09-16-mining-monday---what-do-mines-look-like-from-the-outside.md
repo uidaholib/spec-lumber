@@ -8,7 +8,7 @@ categories: ["Mining Monday"]
 author: Michelle Shannon
 ---
 
-Happy Mining Monday! So far, we’ve stayed underground to explore north Idaho metal mines. Today, we’re taking a break from the underground and coming back to the surface to see what mines look like from the outside!
+So far, we’ve stayed underground to explore north Idaho metal mines. Today, we’re taking a break from the underground and coming back to the surface to see what mines look like from the outside!
 
 Mines cannot operate just anywhere – they must be located
 where minerals are highly concentrated, making it lucrative to set up a mine

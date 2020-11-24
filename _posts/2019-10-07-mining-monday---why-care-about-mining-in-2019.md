@@ -8,7 +8,7 @@ categories: ["Mining Monday"]
 author: Michelle Shannon
 ---
 
-Happy Mining Monday! This is the end of our series and so for our last post, we want to answer the inevitable question: “why should I care about mining in 2019?”
+This is the end of our series and so for our last post, we want to answer the inevitable question: “why should I care about mining in 2019?”
 
 Mining is a large part of human history and modern technology. Humans have been mining stones and metals since pre-historic times and mining not only still exists in the United States and around the world today, but popular modern video games such as Minecraft and Factorio (among others) have become extremely popular just as simple mining games!
 

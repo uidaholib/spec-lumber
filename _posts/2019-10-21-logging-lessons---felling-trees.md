@@ -8,7 +8,7 @@ categories: ["Logging Lessons"]
 author: Michelle Shannon
 ---
 
-Welcome to Logging Lessons! This week, we’ll learn about felling trees with the popular crosscut saw.
+This week, we’ll learn about felling trees with the popular crosscut saw.
 
 The Potlatch Lumber Company, along with many lumber companies, relied on the two-person crosscut saw to fell trees. Modern chainsaws (motorized saws) were developed in the 1920s (although it has been debated that a “chainsaw-like tool” was invented around 1830 by a German orthopedist, Bernhard Heine).[^1]
 

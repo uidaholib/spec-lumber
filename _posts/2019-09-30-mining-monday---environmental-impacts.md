@@ -10,7 +10,7 @@ categories: ["Mining Monday"]
 author: Michelle Shannon
 ---
 
-Happy Mining Monday! Today, we take a closer look at the environmental impacts of underground metal mines. While underground metal mines, like the mines that operated in north Idaho for decades, results in many beneficial materials that are used to build and power technological advancements, there are also damaging effects to mining raw minerals. According to the EPA’s Toxic Releases Inventory report, mining is “the single largest source of toxic waste of all industries in the United States” because “mineral extraction sites, which include strip mines, quarries, and underground mines, contribute to surface and groundwater pollution, erosion, and sedimentation.”[^1]
+Today, we take a closer look at the environmental impacts of underground metal mines. While underground metal mines, like the mines that operated in north Idaho for decades, results in many beneficial materials that are used to build and power technological advancements, there are also damaging effects to mining raw minerals. According to the EPA’s Toxic Releases Inventory report, mining is “the single largest source of toxic waste of all industries in the United States” because “mineral extraction sites, which include strip mines, quarries, and underground mines, contribute to surface and groundwater pollution, erosion, and sedimentation.”[^1]
 
 {% include feature/digital-image.html objectid="barstock273" collection="barstock" %}
 
