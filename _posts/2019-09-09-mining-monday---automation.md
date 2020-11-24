@@ -1,7 +1,7 @@
 ---
 title: Mining Monday - automation
 date: 2019-09-09
-tags: []
+tags: ["mining"]
 subtitle: 
 cover-image: lumber115
 categories: ["Mining Monday"]

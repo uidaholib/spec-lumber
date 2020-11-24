@@ -1,7 +1,7 @@
 ---
 title: Mining Monday - extraction
 date: 2019-08-19
-tags: []
+tags: ["mining"]
 subtitle: 
 cover-image: lumber109
 categories: ["Mining Monday"]

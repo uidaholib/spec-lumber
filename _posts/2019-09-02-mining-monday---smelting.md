@@ -1,7 +1,7 @@
 ---
 title: Mining Monday - smelting
 date: 2019-09-02
-tags: []
+tags: ["mining"]
 subtitle: 
 cover-image: lumber112
 categories: ["Mining Monday"]

@@ -1,7 +1,7 @@
 ---
 title: Mining Monday - what do mines look like from the outside?
 date: 2019-09-16
-tags: []
+tags: ["mining"]
 subtitle: 
 cover-image: lumber119
 categories: ["Mining Monday"]

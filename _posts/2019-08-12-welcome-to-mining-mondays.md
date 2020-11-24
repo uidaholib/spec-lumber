@@ -1,7 +1,7 @@
 ---
 title: Welcome to Mining Monday!
 date: 2019-08-12
-tags: []
+tags: ["mining"]
 subtitle: 
 cover-image: lumber105
 categories: ["Mining Monday"]

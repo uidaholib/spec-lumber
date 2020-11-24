@@ -1,7 +1,7 @@
 ---
 title: Mining Monday - abandoned mines
 date: 2019-09-23
-tags: []
+tags: ["mining"]
 subtitle: 
 cover-image: lumber120
 categories: ["Mining Monday"]

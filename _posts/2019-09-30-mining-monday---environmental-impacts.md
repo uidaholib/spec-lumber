@@ -1,7 +1,7 @@
 ---
 title: Mining Monday - environmental impacts
 date: 2019-09-30
-tags: []
+tags: ["mining"]
 subtitle: 
 cover-image-cdm-collection: bar-stock
 cover-image-collection: barstock

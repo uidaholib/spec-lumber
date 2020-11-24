@@ -1,7 +1,7 @@
 ---
 title: Mining Monday - milling
 date: 2019-08-26
-tags: []
+tags: ["mining"]
 subtitle: 
 cover-image: lumber111
 categories: ["Mining Monday"]
