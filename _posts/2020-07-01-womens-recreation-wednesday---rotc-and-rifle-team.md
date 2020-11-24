@@ -5,7 +5,7 @@ tags: ["women's recreation", "women's sports", "women in sports", "women", "wome
 subtitle: 
 cover-image: lumber054
 categories: ["Women's Recreation Wednesday"]
-author: Michelle Shannon
+author: Michelle A. Shannon
 ---
 
 This week features photos of the women’s ROTC and Rifle Team.

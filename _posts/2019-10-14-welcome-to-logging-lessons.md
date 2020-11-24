@@ -5,7 +5,7 @@ tags: ["logging"]
 subtitle: 
 cover-image: lumber098
 categories: ["Logging Lessons"]
-author: Michelle Shannon
+author: Michelle A. Shannon
 ---
 
 We’re starting a new series featuring one of our strongest collecting areas: logging in North Idaho. We’ll be focusing on one lumber company in particular, the Potlatch Lumber Company, which is extremely well-documented within our collections and an important part of logging history in North Idaho. It was operational from 1903-1986 and the logging camps spanned a large swath of North Idaho.

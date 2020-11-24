@@ -7,7 +7,7 @@ cover-image-cdm-collection: crbproj
 cover-image-collection: crbp
 cover-image: crbp1216
 categories: ["Oh Dam!"]
-author: Michelle Shannon
+author: Michelle A. Shannon
 ---
 
 Today, we’re discussing the Lucky Peak Dam, a flood control project on the Boise River about 9 miles upstream from Boise, Idaho.

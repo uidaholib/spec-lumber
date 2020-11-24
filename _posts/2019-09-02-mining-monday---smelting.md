@@ -5,7 +5,7 @@ tags: ["mining"]
 subtitle: 
 cover-image: lumber112
 categories: ["Mining Monday"]
-author: Michelle Shannon
+author: Michelle A. Shannon
 ---
 
 Last week, we learned about milling mineral ore. This week, we’ll look at what happens after minerals have been milled.

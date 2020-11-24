@@ -5,7 +5,7 @@ tags: ["mining"]
 subtitle: 
 cover-image: lumber115
 categories: ["Mining Monday"]
-author: Michelle Shannon
+author: Michelle A. Shannon
 ---
 
 Last week, we learned about smelting ore into base metals for the purpose of building technology, including the many devices that we rely on every day. This week, we’ll take a closer look at the automation side of underground metal mines. Machines, railways, hoists, and ore carts on tracks are all forms of automation designed to make the process of underground metal mining more efficient.

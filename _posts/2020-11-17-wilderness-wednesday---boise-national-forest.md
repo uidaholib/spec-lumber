@@ -5,7 +5,7 @@ tags: []
 subtitle: 
 cover-image: https://digital.lib.uidaho.edu/digital/api/singleitem/image/nwpostcards/392/default.jpg?highlightTerms=
 categories: [Wilderness Wednesday]
-author: Michelle Shannon
+author: Michelle A. Shannon
 ---
 
 The Boise National Forest is about 2.6 million acres and is one of the largest national forests in the country.[^1]

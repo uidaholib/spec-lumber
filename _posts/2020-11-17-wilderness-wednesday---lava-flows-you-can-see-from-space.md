@@ -5,7 +5,7 @@ tags: []
 subtitle: 
 cover-image: https://digital.lib.uidaho.edu/digital/api/singleitem/image/pdf/nwpostcards/229/default.png
 categories: [Wilderness Wednesday]
-author: Michelle Shannon
+author: Michelle A. Shannon
 ---
 
 Craters of the Moon National Monument is one of four national parks in Idaho and consists of over 53,000 acres of "volcanic formations and lava flows on the northern rim of the Snake River Plain in southcentral Idaho." While the volcanic formations only compose 53,000 acres, the national park is over 750,000 acres (or 1,100 square miles).[^1] The lava flows are so large though, they can be seen from space![^2]

@@ -5,7 +5,7 @@ tags: ["women's recreation", "women's sports", "women in sports", "women", "wome
 subtitle: 
 cover-image: lumber026
 categories: [Women's Recreation Wednesday]
-author: Michelle Shannon
+author: Michelle A. Shannon
 ---
 
 Volleyball was reportedly invented by William G. Morgan

@@ -5,7 +5,7 @@ tags: ["logging"]
 subtitle: 
 cover-image: 
 categories: ["Logging Lessons"]
-author: Michelle Shannon
+author: Michelle A. Shannon
 ---
 
 Last week, we learned about using horses to transport logs. This week, we’ll learn about one type of mechanical skidder, steam donkey engines!

@@ -5,7 +5,7 @@ tags: ["mining"]
 subtitle: 
 cover-image: lumber105
 categories: ["Mining Monday"]
-author: Michelle Shannon
+author: Michelle A. Shannon
 ---
 
 We’re starting a new series featuring one of our strongest collecting areas: mining in north Idaho. North Idaho mines began operation in the late 1800s and were shut down and abandoned around the mid-20th century and were primarily underground metal mines that extracted mineral ore such as lead, zinc, silver, copper, antimony, gold, and tungsten. (Fun fact: there are other types of mines such as surface mines, coal mines, petroleum and natural gas mines, and more!).

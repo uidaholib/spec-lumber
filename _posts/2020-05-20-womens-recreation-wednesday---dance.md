@@ -5,7 +5,7 @@ tags: ["women's recreation", "women's sports", "women in sports", "women", "wome
 subtitle: 
 cover-image: lumber076
 categories: ["Women's Recreation Wednesday"]
-author: Hannah Cleere & Michelle Shannon
+author: Hannah Cleere & Michelle A. Shannon
 ---
 
 This week we have photos from the folk-dance festivals that

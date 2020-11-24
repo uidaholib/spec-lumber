@@ -5,7 +5,7 @@ tags: ["logging"]
 subtitle: 
 cover-image: 
 categories: ["Logging Lessons"]
-author: Michelle Shannon
+author: Michelle A. Shannon
 ---
 
 Last week, we learned about using steam donkey engines to transport logs from the forest floor to a central staging area. This week, we’ll learn about a railroad staging area and the use of “jammers” or “loaders” to load logs onto railroad cars.

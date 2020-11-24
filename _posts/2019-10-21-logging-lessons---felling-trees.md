@@ -5,7 +5,7 @@ tags: ["logging"]
 subtitle: 
 cover-image: lumber100
 categories: ["Logging Lessons"]
-author: Michelle Shannon
+author: Michelle A. Shannon
 ---
 
 This week, we’ll learn about felling trees with the popular crosscut saw.

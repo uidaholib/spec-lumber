@@ -7,7 +7,7 @@ cover-image-cdm-collection: crbproj
 cover-image-collection: crbp
 cover-image: crbp1327
 categories: ["Oh Dam!"]
-author: Michelle Shannon
+author: Michelle A. Shannon
 ---
 
 That’s a wrap on our series, Oh Dam! We hope you learned something about dams in the Pacific Northwest! Stay tuned for our next series, Women’s Recreation Wednesday, beginning on Wednesday!

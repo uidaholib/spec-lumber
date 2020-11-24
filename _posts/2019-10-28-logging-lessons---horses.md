@@ -5,7 +5,7 @@ tags: ["logging"]
 subtitle: 
 cover-image: 
 categories: ["Logging Lessons"]
-author: Michelle Shannon
+author: Michelle A. Shannon
 ---
 
 Last week we learned about the science behind felling trees with crosscut saws. Over the next few weeks, we’ll learn about the variety of ways that the Potlatch Lumber Company transported logs once they had been cut and cleared!

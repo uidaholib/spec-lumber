@@ -7,7 +7,7 @@ cover-image-cdm-collection: crbproj
 cover-image-collection: crbp
 cover-image: crbp1224
 categories: ["Oh Dam!"]
-author: Michelle Shannon
+author: Michelle A. Shannon
 ---
 
 Today, we’re discussing the Lower Granite Lock and Dam at

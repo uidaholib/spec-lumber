@@ -7,7 +7,7 @@ cover-image-cdm-collection: crbproj
 cover-image-collection: crbp
 cover-image: crbp1222
 categories: ["Oh Dam!"]
-author: Michelle Shannon
+author: Michelle A. Shannon
 ---
 
 Today, we’re discussing Little Goose Lock and Dam on the

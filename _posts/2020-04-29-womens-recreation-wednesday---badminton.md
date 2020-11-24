@@ -5,7 +5,7 @@ tags: ["women's recreation", "women's sports", "women in sports", "women", "wome
 subtitle: 
 cover-image: lumber087
 categories: ["Women's Recreation Wednesday"]
-author: Hannah Cleere & Michelle Shannon
+author: Hannah Cleere & Michelle A. Shannon
 ---
 
 This week, we have photos of women playing badminton, likely in the Old Memorial Gym on campus. 

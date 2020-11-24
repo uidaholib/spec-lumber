@@ -5,7 +5,7 @@ tags: []
 subtitle: 
 cover-image: lumber153
 categories: [Wilderness Wednesday]
-author: Michelle Shannon
+author: Michelle A. Shannon
 ---
 
 Welcome to another week of Wilderness Wednesday! Today, we're talking about the Nez Perce-Clearwater National Forests.

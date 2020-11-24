@@ -7,7 +7,7 @@ cover-image-collection: dworshak
 cover-image: dworshak1131
 cover-image-collection: dworshak
 categories: [Oh Dam!]
-author: Michelle Shannon
+author: Michelle A. Shannon
 ---
 
 Today we’re discussing Dworshak Dam, the third tallest dam in the United States and “the highest straight-axis concrete dam in the

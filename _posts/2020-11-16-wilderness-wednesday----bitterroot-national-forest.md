@@ -5,7 +5,7 @@ tags: []
 subtitle: 
 cover-image: lumber137
 categories: [Wilderness Wednesday]
-author: Michelle Shannon
+author: Michelle A. Shannon
 ---
 
 The Bitterroot National Forest covers 1.6 million acres of forest in Idaho and southwest Montana.[^1] The area is markedly characterized by the Bitteroot Mountain Range, which is a "segment of the northern Rocky mountains" and 300 miles long along the border of Idaho and Montana.[^2] The highest peak is 11,394 feet but the entire range averages 9,000 feet.[^3]

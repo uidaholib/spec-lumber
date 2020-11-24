@@ -5,7 +5,7 @@ tags: ["women's recreation", "women's sports", "women in sports", "women", "wome
 subtitle: 
 cover-image: lumber066
 categories: ["Women's Recreation Wednesday"]
-author: Michelle Shannon
+author: Michelle A. Shannon
 ---
 
 This week features photos of women playing golf. According

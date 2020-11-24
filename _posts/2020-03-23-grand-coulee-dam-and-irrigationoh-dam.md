@@ -7,7 +7,7 @@ cover-image-cdm-collection: crbproj
 cover-image-collection: crbp
 cover-image: crbp1160
 categories: ["Oh Dam!"]
-author: Michelle Shannon
+author: Michelle A. Shannon
 ---
 
 Today, we’re discussing the Grand Coulee Dam and irrigation

@@ -5,7 +5,7 @@ tags: ["logging"]
 subtitle: 
 cover-image: 
 categories: ["Logging Lessons"]
-author: Michelle Shannon
+author: Michelle A. Shannon
 ---
 
 Last week, we learned about using the powerful forces of water to transport logs from a central point to the lumber mill. This week is light reading - trains were one of the most popular methods of transporting logs to lumbers, as they could transport large quantities of logs relatively easily, as seen in these images.

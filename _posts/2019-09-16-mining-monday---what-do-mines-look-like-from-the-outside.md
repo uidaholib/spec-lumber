@@ -5,7 +5,7 @@ tags: ["mining"]
 subtitle: 
 cover-image: lumber119
 categories: ["Mining Monday"]
-author: Michelle Shannon
+author: Michelle A. Shannon
 ---
 
 So far, we’ve stayed underground to explore north Idaho metal mines. Today, we’re taking a break from the underground and coming back to the surface to see what mines look like from the outside!

@@ -5,7 +5,7 @@ tags: ["mining"]
 subtitle: 
 cover-image: lumber121
 categories: ["Mining Monday"]
-author: Michelle Shannon
+author: Michelle A. Shannon
 ---
 
 This is the end of our series and so for our last post, we want to answer the inevitable question: “why should I care about mining in 2019?”

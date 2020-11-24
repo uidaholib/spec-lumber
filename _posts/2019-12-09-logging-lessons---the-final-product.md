@@ -5,7 +5,7 @@ tags: ["logging"]
 subtitle: 
 cover-image: 
 categories: ["Logging Lessons"]
-author: Michelle Shannon
+author: Michelle A. Shannon
 ---
 
 Today, we'll discuss the process of turning a log into a piece of lumber that can be used to build many of the items and structures that we use and rely on today!

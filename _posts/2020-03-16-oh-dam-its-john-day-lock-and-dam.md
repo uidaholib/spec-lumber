@@ -7,7 +7,7 @@ cover-image-cdm-collection: crbproj
 cover-image-collection: crbp
 cover-image: crbp1234
 categories: ["Oh Dam!"]
-author: Michelle Shannon
+author: Michelle A. Shannon
 ---
 
 Today, we’re discussing John Day Lock and Dam, located 216 miles upriver from the mouth of the Columbia River.[^1] Construction began in 1968 and was completed in 1982.

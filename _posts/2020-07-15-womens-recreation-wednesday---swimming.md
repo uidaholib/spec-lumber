@@ -5,7 +5,7 @@ tags: ["women's recreation", "women's sports", "women in sports", "women", "wome
 subtitle: 
 cover-image: lumber042
 categories: ["Women's Recreation Wednesday"]
-author: Michelle Shannon
+author: Michelle A. Shannon
 ---
 
 This week’s photos feature women’s swimming. The 1920s were

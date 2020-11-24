@@ -5,7 +5,7 @@ tags: []
 subtitle: 
 cover-image: lumber134
 categories: [Wilderness Wednesday]
-author: Michelle Shannon
+author: Michelle A. Shannon
 ---
 
 Welcome to our new series, Wilderness Wednesday! This series will feature photos of Idaho's vast wilderness, particularly our National Forests, National Parks, and Wilderness Areas.
