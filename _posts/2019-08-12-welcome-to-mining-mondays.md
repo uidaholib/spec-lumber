@@ -8,9 +8,11 @@ categories: ["Mining Monday"]
 author: Michelle Shannon
 ---
 
-{% include feature/image.html objectid="lumber105" %}
-
 We’re starting a new series featuring one of our strongest collecting areas: mining in north Idaho. North Idaho mines began operation in the late 1800s and were shut down and abandoned around the mid-20th century and were primarily underground metal mines that extracted mineral ore such as lead, zinc, silver, copper, antimony, gold, and tungsten. (Fun fact: there are other types of mines such as surface mines, coal mines, petroleum and natural gas mines, and more!).
+
+{% include feature/image.html objectid="lumber106" %}
+
+{% include feature/image.html objectid="lumber107" %}
 
 Today, we focus on life as an underground metal miner which was, at the time of these photos, a dangerous job with many hazards including poor air quality, exposure to toxic gases, equipment accidents, explosions, cave-ins, and injuries. The first photo (top) features several miners wearing an early-style ventilation mask, as underground mining required some form of ventilation. 
 
@@ -20,11 +22,9 @@ Prior to the 1990s, the annual deaths from mining accidents averaged 1,500 per y
 
 Stay tuned for next week’s post on mineral extraction!
 
-{% include feature/image.html objectid="lumber106" %}
-
-{% include feature/image.html objectid="lumber107" %}
-
 {% include feature/image.html objectid="lumber108" %}
+
+# Sources
 
 Photos courtesy of George W. Tabor Photographs, University of Idaho Library, Special Collections and Archives
 

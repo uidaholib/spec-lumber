@@ -34,6 +34,8 @@ Additionally, smelting (”the process of separating the metal from impurities b
 
 {% include feature/digital-image.html objectid="barstock1190" collection="barstock" %}
 
+# Sources
+
 [^1]: [Mineral and Fuel Extraction: Health Consequences](https://www.sciencedirect.com/topics/earth-and-planetary-sciences/mineral-extraction)
 
 [^2]: [Smelting](http://www.pollutionissues.com/Re-Sy/Smelting.html)
