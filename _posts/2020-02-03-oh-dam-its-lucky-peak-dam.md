@@ -1,16 +1,14 @@
 ---
 title: Oh Dam! it's Lucky Peak Dam
 date: 2020-02-03
-tags: ["ohdam","ohdam!","dam","dams","hydraulic","electricity","water","irrigation","ColumbiaRiver","ColumbiaRiverBasin"]
+tags: ["dams","hydraulic","electricity","water","irrigation","Columbia River","Columbia River Basin"]
 subtitle: 
 cover-image-cdm-collection: crbproj
 cover-image-collection: crbp
 cover-image: crbp1216
 categories: ["Oh Dam!"]
-author: 
+author: Michelle A. Shannon
 ---
-
-Welcome back to another week of Oh Dam!, our series on dams in the Pacific Northwest.
 
 Today, we’re discussing the Lucky Peak Dam, a flood control project on the Boise River about 9 miles upstream from Boise, Idaho.
 
@@ -21,6 +19,8 @@ Lucky Peak Dam creates the storage reservoir Lucky Peak Lake which is about 12 m
 The lake has a visitor center and was visited by over 921,000 in 2015.[^1]
 
 {% include feature/digital-image.html objectid="crbp1216" cdm-collection="crbproj" collection="crbp" %}
+
+# Sources
 
 [^1]: [Lucky Peak Dam and Lake](https://www.nww.usace.army.mil/Locations/District-Locks-and-Dams/Lucky-Peak-Dam-and-Lake/)
 

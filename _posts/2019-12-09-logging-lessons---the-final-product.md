@@ -1,14 +1,14 @@
 ---
 title: Logging Lessons - the final product
 date: 2019-12-09
-tags: []
+tags: ["logging"]
 subtitle: 
 cover-image: 
 categories: ["Logging Lessons"]
-author: 
+author: Michelle A. Shannon
 ---
 
-Welcome back to Logging Lessons! Welcome back to Logging Lessons! Today, we'll discuss the process of turning a log into a piece of lumber that can be used to build many of the items and structures that we use and rely on today!
+Today, we'll discuss the process of turning a log into a piece of lumber that can be used to build many of the items and structures that we use and rely on today!
 
 {% include feature/digital-image.html collection="phs" id="332" %}
 

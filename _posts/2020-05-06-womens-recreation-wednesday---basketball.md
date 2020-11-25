@@ -1,15 +1,14 @@
 ---
 title: Women's Recreation Wednesday - Basketball
 date: 2020-05-06
-tags: ["Vandals","women","women athletes","women's recreation","women's sports","women in sports","women's recreation Wednesday","moscou","university history","university archives"]
+tags: ["women's recreation", "women's sports", "women in sports", "women", "women athletes"]
 subtitle: 
 cover-image: lumber090
 categories: ["Women's Recreation Wednesday"]
-author: 
+author: Michelle A. Shannon
 ---
 
-Welcome back to another week of our series, Women’s
-Recreation Wednesday! Today, we have photos of women’s intramural basketball
+This week, we have photos of women’s intramural basketball
 during the 1930s and 1960s at the University of Idaho.
 
 According to multiple sources, “women’s basketball began
@@ -25,9 +24,7 @@ Tournament championships (1985, 2016) and two WAC Tournament championships
 (2013, 2014).[^2]
 
 Stay tuned for next week’s installment of Women’s
-Recreation Wednesday, where we’ll talk about bowling!
-
-{% include feature/image.html objectid="lumber090" %}
+Recreation Wednesday!
 
 {% include feature/image.html objectid="lumber083" %}
 
@@ -36,6 +33,8 @@ Recreation Wednesday, where we’ll talk about bowling!
 {% include feature/image.html objectid="lumber085" %}
 
 {% include feature/image.html objectid="lumber086" %}
+
+# Sources
 
 Photos courtesy of [UG 69 (University of Idaho Women's Recreation Association Photographs)](http://archiveswest.orbiscascade.org/ark:/80444/xv152953/op=fstyle.aspx?t=k&amp;q=)
 

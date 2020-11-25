@@ -1,17 +1,16 @@
 ---
 title: Grand Coulee Dam and irrigation ... Oh Dam!
 date: 2020-03-23
-tags: ["ohdam","ohdam!","dam","dams","hydraulic","electricity","water","irrigation","ColumbiaRiver","ColumbiaRiverBasin"]
+tags: ["dams","hydraulic","electricity","water","irrigation","Columbia River","Columbia River Basin"]
 subtitle: 
 cover-image-cdm-collection: crbproj
 cover-image-collection: crbp
 cover-image: crbp1160
 categories: ["Oh Dam!"]
-author: 
+author: Michelle A. Shannon
 ---
 
-Welcome back to another week of Oh Dam!, our series
-on dams in the Pacific Northwest. Today, we’re discussing the Grand Coulee Dam and irrigation
+Today, we’re discussing the Grand Coulee Dam and irrigation
 pumping plants and discharge pipes.
 
 The Grand Coulee Dam is part of the larger Columbia Basin
@@ -58,6 +57,8 @@ industries, navigation, and endangered species.”[^1]
 {% include feature/digital-image.html objectid="crbp1143" cdm-collection="crbproj" collection="crbp" %}
 
 {% include feature/digital-image.html objectid="crbp1144" cdm-collection="crbproj" collection="crbp" %}
+
+# Sources
 
 [^1]: [Columbia Basin Project](https://www.usbr.gov/pn/grandcoulee/cbp/index.html)
 

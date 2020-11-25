@@ -1,16 +1,16 @@
 ---
 title: Logging Lessons - jammers
 date: 2019-11-11
-tags: []
+tags: ["logging"]
 subtitle: 
 cover-image: 
 categories: ["Logging Lessons"]
-author: 
+author: Michelle A. Shannon
 ---
 
-{% include feature/digital-image.html collection="phs" id="132" %}
+Last week, we learned about using steam donkey engines to transport logs from the forest floor to a central staging area. This week, we’ll learn about a railroad staging area and the use of “jammers” or “loaders” to load logs onto railroad cars.
 
-Welcome back to Logging Lessons! Last week, we learned about using steam donkey engines to transport logs from the forest floor to a central staging area. This week, we’ll learn about a railroad staging area and the use of “jammers” or “loaders” to load logs onto railroad cars.
+{% include feature/digital-image.html collection="phs" id="132" %}
 
 “Logging jammers played an important role in the timber
 industry in North Idaho. One of the most efficient and economical methods of

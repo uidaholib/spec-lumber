@@ -1,22 +1,20 @@
 ---
 title: Women's Recreation Wednesday - Field Hockey
 date: 2020-06-03
-tags: ["Vandals","women","women athletes","women's recreation","women's sports","women in sports","women's recreation Wednesday","Moscow","university history","university archives"]
+tags: ["women's recreation", "women's sports", "women in sports", "women", "women athletes"]
 subtitle: 
 cover-image: lumber069
 categories: ["Women's Recreation Wednesday"]
-author: 
+author: Michelle A. Shannon
 ---
-
-Welcome back to another week of Women’s Recreation
-Wednesday, our series covering the Women’s Recreation Association here at the
-University of Idaho.
 
 This week features photos of women playing field hockey
 on campus near Memorial Gym. “Hockey is believed to date from the earliest
 civilizations. The Arabs, Greeks, Persians, and Romans each had their own
 versions, and traces of a stick game played by the Aztec Indians of South
 America have been found.”[^1]
+
+{% include feature/image.html objectid="lumber070" %}
 
 Encyclopedia Britannica says that “despite the restrictions on sports for
 ladies during the Victorian era, hockey became increasingly popular among
@@ -28,15 +26,11 @@ M.K. Applebee, and field hockey subsequently became a popular outdoor team
 sport among women there, being played in schools, colleges, and clubs.”[^1]
 
 Stay tuned for next week’s installment of Women’s
-Recreation Wednesday, where we’ll talk about golf!
+Recreation Wednesday!
 
-{% include feature/image.html objectid="lumber069" %}
+{% include feature/image.html objectid="lumber071;lumber072" %}
 
-{% include feature/image.html objectid="lumber070" %}
-
-{% include feature/image.html objectid="lumber071" %}
-
-{% include feature/image.html objectid="lumber072" %}
+# Sources
 
 Photos courtesy of [UG 69 (University of Idaho Women's Recreation Association Photographs)](http://archiveswest.orbiscascade.org/ark:/80444/xv152953/op=fstyle.aspx?t=k&amp;q=)
 

@@ -1,11 +1,11 @@
 ---
 title: Remembering Vandal Cadets on Veterans Day
 date: 2020-11-11 11:15:56 -0700
-tags: ["ROTC","Navy","Army","Cadets","Student Publications"]
+tags: ["ROTC","Navy","Army","Cadets","student publications"]
 subtitle: 
 cover-image: lumber132
 categories: []
-author: 
+author: Robert Perret
 ---
 
 On this Veteran’s Day we cast a thought back to the Vandal cadets who have served our country. Both the Army and Navy ROTC students were prodigious creators of newsletters, which let us hear their experiences on campus in their own words. Particularly in the early years, the publications seem to be remarkably unrestrained in their depiction of cadet life, include jokes, comics, and candid commentary. They even produced a parody of their own newletter, the Vandal Bugle, entitled the Vandal Bungle. 

@@ -1,18 +1,18 @@
 ---
 title: Mining Monday - why care about mining in 2019?
 date: 2019-10-07
-tags: []
+tags: ["mining"]
 subtitle: 
 cover-image: lumber121
 categories: ["Mining Monday"]
-author: 
+author: Michelle A. Shannon
 ---
 
-{% include feature/image.html objectid="lumber121" %}
-
-Happy Mining Monday! This is the end of our series and so for our last post, we want to answer the inevitable question: “why should I care about mining in 2019?”
+This is the end of our series and so for our last post, we want to answer the inevitable question: “why should I care about mining in 2019?”
 
 Mining is a large part of human history and modern technology. Humans have been mining stones and metals since pre-historic times and mining not only still exists in the United States and around the world today, but popular modern video games such as Minecraft and Factorio (among others) have become extremely popular just as simple mining games!
+
+{% include feature/image.html objectid="lumber121" %}
 
 Smartphones are made of many materials, including metals
 such as copper, gold, lead, nickel, zinc, beryllium, tantalum, coltan, and gold
@@ -32,6 +32,8 @@ which lithium can be extracted from and processed into a rechargeable battery.�
 Our economic and social infrastructure in the United States and around the world is dependent upon the raw materials that we extract from the Earth and use to build and power machines and technologies that we use in our daily lives. Mining has also had adverse effects on our environment, and there are some raw materials that are not infinite and we could run out of at some point in the future if mining rates stagnate or increase.
 
 So, that’s a wrap on our Mining Monday series for now! Hopefully you learned a little bit more about the history and process of mining, as well as modern-day impacts including environmental, technological, and social dependency. Come check out our mining collections to learn even more!
+
+# Sources
 
 [^1]: [Cellular Phone Materials and Process Research: Raw Materials in a Cell Phone](http://www.designlife-cycle.com/cellphones)
 

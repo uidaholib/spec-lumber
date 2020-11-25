@@ -1,16 +1,16 @@
 ---
 title: Logging Lessons - water
 date: 2019-11-25
-tags: []
+tags: ["logging"]
 subtitle: 
 cover-image: 
-categories: []
-author: 
+categories: ["Logging Lessons"]
+author: Michelle A. Shannon
 ---
 
-{% include feature/digital-image.html collection="phs" id="295" %}
+Last week, we learned about tractors as a form of transporting logs from the forest to the railroad track or water formation (such as a river or flume). Once the logs have been transported to the railroad track or water formation, a few options remain for getting them to the mill.
 
-Happy Logging Lessons! Last week, we learned about tractors as a form of transporting logs from the forest to the railroad track or water formation (such as a river or flume). Once the logs have been transported to the railroad track or water formation, a few options remain for getting them to the mill.
+{% include feature/digital-image.html collection="phs" id="295" %}
 
 Logs were often transported to the mill by using the already-existing forces of nature. Allowing logs to flow down a river freely or through the controlled use of low-powered boats was an easy and cost-effective way to transport high quantities of very heavy materials. Boats would simply float downstream with their logs, or logs would float freely.
 

@@ -1,14 +1,14 @@
 ---
 title: Logging Lessons - crawlers
 date: 2019-11-18
-tags: []
+tags: ["logging"]
 subtitle: 
 cover-image: 
 categories: ["Logging Lessons"]
-author: 
+author: Michelle A. Shannon
 ---
 
-Welcome back to Logging Lessons! Last week, we learned
+Last week, we learned
 about jammers. This week, we’ll learn about the tractors that largely replaced
 other forms of transporting logs, including manual horses and steam donkey
 engines (which we covered in previous weeks!). These tractors were colloquially

@@ -1,17 +1,14 @@
 ---
 title: Oh Dam! it's John Day Lock and Dam
 date: 2020-03-16
-tags: ["ohdam","ohdam!","dam","dams","hydraulic","electricity","water","irrigation","ColumbiaRiver","ColumbiaRiverBasin"]
+tags: ["dams","hydraulic","electricity","water","irrigation","Columbia River","Columbia River Basin"]
 subtitle: 
 cover-image-cdm-collection: crbproj
 cover-image-collection: crbp
 cover-image: crbp1234
 categories: ["Oh Dam!"]
-author: 
+author: Michelle A. Shannon
 ---
-
-Welcome back to another week of Oh Dam!, our series
-on dams in the Pacific Northwest.
 
 Today, we’re discussing John Day Lock and Dam, located 216 miles upriver from the mouth of the Columbia River.[^1] Construction began in 1968 and was completed in 1982.
 
@@ -32,6 +29,8 @@ salmon, Sockeye salmon, Steelhead trout, American shad, and Pacific lamprey
 throughout the year.[^2]
 
 {% include feature/digital-image.html objectid="crbp1214" cdm-collection="crbproj" collection="crbp" %}
+
+# Sources
 
 [^1]: [Dworshak Dam and Reservoir](https://www.nww.usace.army.mil/Locations/District-Locks-and-Dams/Dworshak-Dam-and-Reservoir/)
 

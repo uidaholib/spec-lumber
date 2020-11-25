@@ -5,7 +5,7 @@ tags: ["voting","suffrage","women's rights",]
 subtitle: 
 cover-image: lumber016
 categories: []
-author: 
+author: Courtney E. Berge
 ---
 
 Today, we are commemorating the 100th anniversary of the passage of the 19th amendment. After a decades long struggle, the women's suffrage movement saw the United States Congress grant women the right to vote. This momentous moment was a large step towards women's equality in the country, allowing women to participate in the formation of their government like never before. 

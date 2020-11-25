@@ -1,17 +1,14 @@
 ---
 title: Oh Dam! ... it's Little Goose Lock and Dam
 date: 2020-04-13
-tags: ["ohdam","ohdam!","dam","dams","hydraulic","electricity","water","irrigation","ColumbiaRiver","ColumbiaRiverBasin"]
+tags: ["dams","hydraulic","electricity","water","irrigation","Columbia River","Columbia River Basin"]
 subtitle: 
 cover-image-cdm-collection: crbproj
 cover-image-collection: crbp
 cover-image: crbp1222
 categories: ["Oh Dam!"]
-author: 
+author: Michelle A. Shannon
 ---
-
-Welcome back to another week of Oh Dam!, our series
-on dams in the Pacific Northwest.
 
 Today, we’re discussing Little Goose Lock and Dam on the
 Snake River. The project was enabled by the River and Harbor Act of 1945.
@@ -24,6 +21,8 @@ long, with a 100-foot vertical lift. More than 1.9 million tons of commodities
 passed through the Little Goose navigation lock during 2015.”[^1]
 
 {% include feature/digital-image.html objectid="crbp1222" cdm-collection="crbproj" collection="crbp" %}
+
+# Sources
 
 [^1]: [Little Goose Lock and Dam](https://www.nww.usace.army.mil/Locations/District-Locks-and-Dams/Little-Goose-Lock-and-Dam/)
 
