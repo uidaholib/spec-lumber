@@ -1,7 +1,7 @@
 ---
 title: Wilderness Wednesday - lava flows you can see from space?!
 date: 2020-11-17 15:50:10 -0800
-tags: []
+tags: ["wilderness"]
 subtitle: 
 cover-image: https://digital.lib.uidaho.edu/digital/api/singleitem/image/pdf/nwpostcards/229/default.png
 categories: [Wilderness Wednesday]

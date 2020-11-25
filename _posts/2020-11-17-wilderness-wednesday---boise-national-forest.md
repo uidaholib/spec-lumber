@@ -1,7 +1,7 @@
 ---
 title: Wilderness Wednesday - Boise National Forest
 date: 2020-11-17 14:27:50 -0800
-tags: []
+tags: ["wilderness"]
 subtitle: 
 cover-image: https://digital.lib.uidaho.edu/digital/api/singleitem/image/nwpostcards/392/default.jpg?highlightTerms=
 categories: [Wilderness Wednesday]
