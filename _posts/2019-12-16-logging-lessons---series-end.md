@@ -5,7 +5,7 @@ tags: ["logging"]
 subtitle: 
 cover-image: 
 categories: ["Logging Lessons"]
-author: Michelle Shannon
+author: Michelle A. Shannon
 ---
 
 That’s a wrap on our series, Logging Lessons, featuring images and history from the Potlatch Lumber Company in North Idaho! At the beginning of this series, we discussed how early logging companies in Idaho felled trees - with a crosscut saw. Then, we discussed different methods of transporting logs from the forest floor to a central staging area - these methods included horses, jammers, and crawlers. Next, we discussed different methods of transporting logs from the central staging area to the lumber mill - these methods included water and trains. Finally, we discussed how to turn logs into usable lumber.
