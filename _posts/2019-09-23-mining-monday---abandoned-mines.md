@@ -12,7 +12,7 @@ All of these mining photos may have inspired you to explore an abandoned mine bu
 
 {% include feature/image.html objectid="lumber120" %}
 
-{% include feature/digital-image.html objectid="barstock1221" collection="barstock" %}
+{% include feature/digital-image.html objectid="barstock1221" collection="barstock" cdm-collection="bar-stock" %}
 
 # Sources
 

@@ -19,7 +19,7 @@ layout: default
           {% endfor %}
         </div>
       {% endif %}
-      {% if page.categories.size > 0 %}
+      {% if page.categories != "" %}
         <div class="blog-tags">
           Series:
           {% for cat in page.categories %}
