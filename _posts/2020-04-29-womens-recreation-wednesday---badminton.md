@@ -1,7 +1,7 @@
 ---
 title: Women's Recreation Wednesday - Badminton
 date: 2020-04-29
-tags: ["women's recreation", "women's sports", "women in sports", "women", "women athletes"]
+tags: ["women's recreation","women","campus recreation","sports","athletes","badminton"]
 subtitle: 
 cover-image: lumber087
 categories: ["Women's Recreation Wednesday"]

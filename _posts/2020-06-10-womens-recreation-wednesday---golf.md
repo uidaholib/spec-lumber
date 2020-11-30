@@ -1,7 +1,7 @@
 ---
 title: Women's Recreation Wednesday - Golf
 date: 2020-06-10
-tags: ["women's recreation", "women's sports", "women in sports", "women", "women athletes"]
+tags: ["women's recreation","women","campus recreation","sports","athletes","golf"]
 subtitle: 
 cover-image: lumber066
 categories: ["Women's Recreation Wednesday"]

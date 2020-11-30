@@ -1,7 +1,7 @@
 ---
 title: Women's Recreation Wednesday - Swimming
 date: 2020-07-15
-tags: ["women's recreation", "women's sports", "women in sports", "women", "women athletes"]
+tags: ["women's recreation","women","campus recreation","sports","athletes","swimming"]
 subtitle: 
 cover-image: lumber042
 categories: ["Women's Recreation Wednesday"]

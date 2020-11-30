@@ -1,7 +1,7 @@
 ---
 title: Women's Recreation Wednesday - May Day
 date: 2020-06-17
-tags: ["women's recreation", "women's sports", "women in sports", "women", "women athletes"]
+tags: ["women's recreation","women","campus recreation","sports","athletes","May Day"]
 subtitle: 
 cover-image: lumber062
 categories: ["Women's Recreation Wednesday"]

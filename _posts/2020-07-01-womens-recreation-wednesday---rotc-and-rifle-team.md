@@ -1,7 +1,7 @@
 ---
 title: Women's Recreation Wednesday - ROTC and Rifle Team
 date: 2020-07-01
-tags: ["women's recreation", "women's sports", "women in sports", "women", "women athletes"]
+tags: ["women's recreation","women","campus recreation","sports","athletes","ROTC","rifles"]
 subtitle: 
 cover-image: lumber054
 categories: ["Women's Recreation Wednesday"]

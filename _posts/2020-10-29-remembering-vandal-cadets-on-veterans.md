@@ -1,7 +1,7 @@
 ---
 title: Remembering Vandal Cadets on Veterans Day
 date: 2020-11-11 11:15:56 -0700
-tags: ["ROTC","Navy","Army","Cadets","student publications"]
+tags: ["ROTC","Navy","Army","cadets","student publications"]
 subtitle: 
 cover-image: lumber132
 categories: []

@@ -1,7 +1,7 @@
 ---
 title: Women's Recreation Wednesday -Volleyball
 date: 2020-08-05
-tags: ["women's recreation", "women's sports", "women in sports", "women", "women athletes"]
+tags: ["women's recreation","women","campus recreation","sports","athletes","volleyball"]
 subtitle: 
 cover-image: lumber026
 categories: [Women's Recreation Wednesday]

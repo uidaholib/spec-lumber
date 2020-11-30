@@ -1,7 +1,7 @@
 ---
 title: Don't Forget Your Mask
 date: 2020-08-18 11:34:01 -0700
-tags: ["masks", "1918 influenza pandemic","influenza","pandemic","employees","fashion"]
+tags: ["masks", "1918 influenza pandemic","influenza","pandemic","diseases","employees","fashion"]
 subtitle: 
 cover-image: lumber014
 categories: []
