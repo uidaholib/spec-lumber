@@ -18,7 +18,10 @@ Each week, we'll learn a little bit about the history of a wilderness area and i
 
 Stay tuned for our first post next week, where we'll talk about the Bitterroot National Forest!
 
+<!-- DEVIN: the below include works on the blog post but if you click on the individual images, it goes to an error page rather than the image page. --->
 {% include feature/digital-image.html objectid="nwpostcards392;nwpostcards722" collection="postcards" cdm-collection="nwpostcards" %}
+
+<!--- DEVIN: the below 3 includes don't work but they're cdm collections so I might be writing them wrong... --->
 
 <!--- {% include feature/image.html objectid="https://digital.lib.uidaho.edu/digital/api/singleitem/image/sbw/87/default.jpg?highlightTerms=" link="https://digital.lib.uidaho.edu/digital/collection/sbw/id/87/rec/1" caption="Burnt Knob Lookout, Nez Perce National Forest" %} ---> {% include feature/digital-image.html collection="sbw" objectid="sbw87"%}
 

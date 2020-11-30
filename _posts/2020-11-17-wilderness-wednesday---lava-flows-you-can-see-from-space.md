@@ -3,7 +3,7 @@ title: Wilderness Wednesday - lava flows you can see from space?!
 date: 2020-11-17 15:50:10 -0800
 tags: ["wilderness"]
 subtitle: 
-cover-image: https://digital.lib.uidaho.edu/digital/api/singleitem/image/pdf/nwpostcards/229/default.png
+cover-image: https://cdm17254.contentdm.oclc.org/digital/api/singleitem/image/pdf/nwpostcards/229/default.png
 categories: [Wilderness Wednesday]
 author: Michelle A. Shannon
 ---
@@ -14,17 +14,11 @@ This area was established as a National Monument on May 2, 1924 by President Cal
 
 {% include feature/image.html objectid="lumber157;lumber158" %}
 
-{% include feature/digital-image.html objectid="nwpostcards538" collection="postcards" cdm-collection="nwpostcards" %}
-
-{% include feature/digital-image.html objectid="nwpostcards560" collection="postcards" cdm-collection="nwpostcards" %}
-
-{% include feature/digital-pdf-image.html objectid="nwpostcards228" collection="postcards" cdm-collection="nwpostcards" %}
+{% include feature/digital-image.html objectid="nwpostcards538;nwpostcards560" collection="postcards" cdm-collection="nwpostcards" %}
 
 {% include feature/digital-pdf-embed.html objectid="nwpostcards229" collection="postcards" cdm-collection="nwpostcards" %}
 
-{% include feature/digital-image.html objectid="nwpostcards689" collection="postcards" cdm-collection="nwpostcards" %}
-
-{% include feature/digital-image.html objectid="nwpostcards640" collection="postcards" cdm-collection="nwpostcards" %}
+{% include feature/digital-image.html objectid="nwpostcards689;nwpostcards640" collection="postcards" cdm-collection="nwpostcards" %}
 
 <!--- DEVIN: the below image is from Hist Photo. Is that technically a digital collection or is the image.html include correct? --->
 
