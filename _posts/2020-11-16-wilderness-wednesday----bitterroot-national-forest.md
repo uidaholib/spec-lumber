@@ -14,7 +14,7 @@ The Bitterroot National Forest covers 1.6 million acres of forest in Idaho and s
 
 The Bitterroot Valley "has been occupied by humans for at least 8,000 years or longer, and is the ancestral home of the Bitterroot Salish Native Americans. It was also frequented by other tribes including the Nez Perce."[^4] Although the relationship between Indigenous nations and the US federal government has been tumultuous, the US Forest Service has committed to strengthening "the government-to-government relationship with neighboring tribes...as a priority in the Bitterroot National Forest Program Priorities" and has implemented a multi-step system of tribal consultation regarding sites and other topics that may be relevant to the tribes.[^5]
 
-<!--- {% include feature/image.html objectid="https://cdm17254.contentdm.oclc.org/digital/iiif/sbw/45/full/pct:60/0/default.jpg" link="https://digital.lib.uidaho.edu/digital/collection/sbw/id/45" caption="Deep Creek Ranger Station, Bitterroot National Forest, 1938" %} ---> {% include feature/digital-image.html objectid="45" cdm-collection="sbw" %}
+<!--- {% include feature/image.html objectid="https://cdm17254.contentdm.oclc.org/digital/iiif/sbw/45/full/pct:60/0/default.jpg" link="https://digital.lib.uidaho.edu/digital/collection/sbw/id/45" caption="Deep Creek Ranger Station, Bitterroot National Forest, 1938" %} ---> {% include feature/digital-image.html collection="sbw" objectid="sbw45" %}
 
 The first known non-Indigenous people to enter the area was in 1805 when the Lewis and Clark expedition passed through.[^6] European Americans continued to occupy the Bitterroot Valley and the population speedily increased during the 1860s "with the discovery of gold, first in Idaho and then in Montana."[^7]
 
@@ -24,9 +24,9 @@ The U.S. Forest Service was created in 1905 and by 1907, the Forest Service "con
 
 Stayed tuned for next week's Wilderness Wednesday post!
 
-<!--- {% include feature/image.html objectid="https://cdm17254.contentdm.oclc.org/digital/iiif/sbw/46/full/pct:60/0/default.jpg" link="https://digital.lib.uidaho.edu/digital/collection/sbw/id/46" caption="Deep Creek Ranger Station, Bitterroot National Forest, 1938" %} ---> {% include feature/digital-image.html objectid="46" cdm-collection="sbw" %}
+<!--- {% include feature/image.html objectid="https://cdm17254.contentdm.oclc.org/digital/iiif/sbw/46/full/pct:60/0/default.jpg" link="https://digital.lib.uidaho.edu/digital/collection/sbw/id/46" caption="Deep Creek Ranger Station, Bitterroot National Forest, 1938" %} ---> {% include feature/digital-image.html collection="sbw" objectid="sbw46" %}
 
-<!--- {% include feature/image.html objectid="https://cdm17254.contentdm.oclc.org/digital/iiif/sbw/82/full/pct:60/0/default.jpg" link="https://digital.lib.uidaho.edu/digital/collection/sbw/id/82" caption="Carlton Lake, Bitterroot National Forest, 1927" %} ---> {% include feature/digital-image.html objectid="82" cdm-collection="sbw" %}
+<!--- {% include feature/image.html objectid="https://cdm17254.contentdm.oclc.org/digital/iiif/sbw/82/full/pct:60/0/default.jpg" link="https://digital.lib.uidaho.edu/digital/collection/sbw/id/82" caption="Carlton Lake, Bitterroot National Forest, 1927" %} ---> {% include feature/digital-image.html collection="sbw" objectid="sbw82" %}
 
 # Sources
 

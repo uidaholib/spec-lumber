@@ -10,11 +10,11 @@ author: Michelle A. Shannon
 
 The Boise National Forest is about 2.6 million acres and is one of the largest national forests in the country.[^1]
 
-<!--- {% include feature/image.html objectid="https://digital.lib.uidaho.edu/digital/api/singleitem/image/archivalidaho/1158/default.jpg?highlightTerms=" link="https://digital.lib.uidaho.edu/digital/collection/archivalidaho/id/1158" caption="Sawtooth Mountains, Boise National Forest, 1940" %} ---> {% include feature/digital-image.html objectid="1158" collection="archivalidaho" %}
+<!--- {% include feature/image.html objectid="https://digital.lib.uidaho.edu/digital/api/singleitem/image/archivalidaho/1158/default.jpg?highlightTerms=" link="https://digital.lib.uidaho.edu/digital/collection/archivalidaho/id/1158" caption="Sawtooth Mountains, Boise National Forest, 1940" %} ---> {% include feature/digital-image.html collection="archivalidaho" objectid="archivalidaho1158" %}
 
 Most of the area composing the Boise National Forest has been inhabited by Indigenous nations for "thousands of years." We know this because of the archaeological and anthropological evidence: "archaeological sites, including several rock shelters, campsites, and burial grounds, have been located on various rivers in the area. Pictographs have been discovered near rock shelters and artifacts have been found along the rivers."[^2]
 
-<!--- {% include feature/image.html objectid="https://digital.lib.uidaho.edu/digital/api/singleitem/image/cccidaho/1294/default.jpg?highlightTerms=" link="https://digital.lib.uidaho.edu/digital/collection/cccidaho/id/1294" caption="Enrollees trained in fire line construction, Boise National Forest, near Idaho City, 1941" %} ---> {% include feature/digital-image.html objectid="1294" collection="cccidaho" %}
+<!--- {% include feature/image.html objectid="https://digital.lib.uidaho.edu/digital/api/singleitem/image/cccidaho/1294/default.jpg?highlightTerms=" link="https://digital.lib.uidaho.edu/digital/collection/cccidaho/id/1294" caption="Enrollees trained in fire line construction, Boise National Forest, near Idaho City, 1941" %} ---> {% include feature/digital-image.html collection="cccidaho" objectid="cccidaho1294" %}
 
 The first non-Indigenous people to travel through the area were British and American "fur traders and trappers...soon after Lewis and Clark crossed Idaho in 1805."[^3]
 
@@ -26,7 +26,7 @@ The area was established as the Boise National Forest in 1908 by President Theod
 
 "Today, the Shoshone, Paiute, and Nez Perce Tribes continue to exercise off-reservation treaty rights such as fishing, hunting, and plant gathering in the Boise National Forest."[^7]
 
-{% include feature/digital-image.html objectid="nwpostcards392" collection="postcards" cdm-collection="nwpostcards" %}
+{% include feature/digital-image.html collection="postcards" cdm-collection="nwpostcards" objectid="nwpostcards392" %}
 
 # Sources
 
