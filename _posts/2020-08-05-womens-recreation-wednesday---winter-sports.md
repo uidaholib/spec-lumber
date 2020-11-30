@@ -1,7 +1,7 @@
 ---
 title: Women's Recreation Wednesday - Winter Sports
 date: 2020-08-12
-tags: ["women's recreation", "women's sports", "women in sports", "women", "women athletes"]
+tags: ["women's recreation","women","campus recreation","sports","athletes","winter sports","skiing"]
 subtitle: 
 cover-image: lumber097
 categories: ["Women's Recreation Wednesday"]

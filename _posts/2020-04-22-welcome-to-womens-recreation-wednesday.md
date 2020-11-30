@@ -1,7 +1,7 @@
 ---
 title: Welcome to Women's Recreation Wednesday!
 date: 2020-04-22
-tags: ["women's recreation", "women's sports", "women in sports", "women", "women athletes"]
+tags: ["women's recreation","women","campus recreation","sports","athletes"]
 subtitle: 
 cover-image: lumber090
 categories: ["Women's Recreation Wednesday"]

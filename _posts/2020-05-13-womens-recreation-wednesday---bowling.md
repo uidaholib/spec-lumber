@@ -1,7 +1,7 @@
 ---
 title: Women's Recreation Wednesday - Bowling
 date: 2020-05-13
-tags: ["women's recreation", "women's sports", "women in sports", "women", "women athletes"]
+tags: ["women's recreation","women","campus recreation","sports","athletes","bowling"]
 subtitle: 
 cover-image: lumber080
 categories: ["Women's Recreation Wednesday"]

@@ -1,7 +1,7 @@
 ---
 title: Oh Dam! it's John Day Lock and Dam
 date: 2020-03-16
-tags: ["dams","hydraulic","electricity","water","irrigation","Columbia River","Columbia River Basin"]
+tags: ["dams","hydraulics","electricity","water","irrigation","Columbia River","Columbia River Basin"]
 subtitle: 
 cover-image-cdm-collection: crbproj
 cover-image-collection: crbp

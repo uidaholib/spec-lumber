@@ -1,7 +1,7 @@
 ---
 title: Oh Dam! it's Dworshak Dam
 date: 2020-01-13
-tags: ["dams","hydraulic","electricity","water","irrigation","Columbia River","Columbia River Basin"]
+tags: ["dams","hydraulics","electricity","water","irrigation","Columbia River","Columbia River Basin"]
 subtitle: 
 cover-image-collection: dworshak
 cover-image: dworshak1131

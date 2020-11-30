@@ -1,7 +1,7 @@
 ---
 title: canal lining and construction ... Oh Dam!
 date: 2020-02-10
-tags: ["dams","hydraulic","electricity","water","irrigation","Columbia River","Columbia River Basin"]
+tags: ["dams","hydraulics","electricity","water","irrigation","Columbia River","Columbia River Basin"]
 subtitle: 
 cover-image-cdm-collection: crbproj
 cover-image-collection: crbp

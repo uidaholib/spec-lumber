@@ -1,7 +1,7 @@
 ---
 title: Women's Recreation Wednesday - Dance
 date: 2020-05-20
-tags: ["women's recreation", "women's sports", "women in sports", "women", "women athletes"]
+tags: ["women's recreation","women","campus recreation","sports","athletes","dance"]
 subtitle: 
 cover-image: lumber076
 categories: ["Women's Recreation Wednesday"]

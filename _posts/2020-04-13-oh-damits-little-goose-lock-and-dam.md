@@ -1,7 +1,7 @@
 ---
 title: Oh Dam! ... it's Little Goose Lock and Dam
 date: 2020-04-13
-tags: ["dams","hydraulic","electricity","water","irrigation","Columbia River","Columbia River Basin"]
+tags: ["dams","hydraulics","electricity","water","irrigation","Columbia River","Columbia River Basin"]
 subtitle: 
 cover-image-cdm-collection: crbproj
 cover-image-collection: crbp

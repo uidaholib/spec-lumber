@@ -1,7 +1,7 @@
 ---
 title: Women's Recreation Wednesday - Fencing
 date: 2020-05-27
-tags: ["women's recreation", "women's sports", "women in sports", "women", "women athletes"]
+tags: ["women's recreation","women","campus recreation","sports","athletes","fencing"]
 subtitle: 
 cover-image: lumber074
 categories: ["Women's Recreation Wednesday"]
