@@ -3,7 +3,8 @@ title: Logging Lessons - water
 date: 2019-11-25
 tags: ["logging"]
 subtitle: 
-cover-image: 
+cover-image: phs295
+cover-image-collection: phs
 categories: ["Logging Lessons"]
 author: Michelle A. Shannon
 ---
