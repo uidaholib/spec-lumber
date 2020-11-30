@@ -3,7 +3,8 @@ title: Logging Lessons - crawlers
 date: 2019-11-18
 tags: ["logging"]
 subtitle: 
-cover-image: 
+cover-image: phs147
+cover-image-collection: phs
 categories: ["Logging Lessons"]
 author: Michelle A. Shannon
 ---
@@ -14,9 +15,9 @@ other forms of transporting logs, including manual horses and steam donkey
 engines (which we covered in previous weeks!). These tractors were colloquially
 referred to as “crawlers,” “cats,” and “caterpillars.”
 
-{% include feature/digital-image.html collection="phs" id="147" %}
+{% include feature/digital-image.html collection="phs" objectid="phs147" %}
 
-{% include feature/digital-image.html collection="phs" id="149" %}
+{% include feature/digital-image.html collection="phs" objectid="phs149" %}
 
 As early as the 1920s, crawlers were presented to the
 logging industry as gasoline-powered mechanical alternatives to manual horses,

@@ -3,7 +3,8 @@ title: Logging Lessons - felling trees
 date: 2019-10-21
 tags: ["logging"]
 subtitle: 
-cover-image: lumber100
+cover-image: phs163
+cover-image-collection: phs
 categories: ["Logging Lessons"]
 author: Michelle A. Shannon
 ---
@@ -14,9 +15,9 @@ The Potlatch Lumber Company, along with many lumber companies, relied on the two
 
 According to the U.S. Forest Service, “it takes three cuts to fell a tree. Two cuts form the undercut (or face cut) and the third forms the back cut. The correct relationship of these cuts results in safe and effective tree felling.” What does the undercut do? “The undercut serves two purposes. First, it allows the tree to fall in a given direction by removing the tree’s support in the direction of the face. Second, it enables control because the tree slips off - rather than jumps off - the stump.”[^2]
 
-{% include feature/digital-image.html collection="phs" id="163" %} <!--- link: https://digital.lib.uidaho.edu/digital/collection/phs/id/143 --->
+{% include feature/digital-image.html collection="phs" objectid="phs163" %}
 
-{% include feature/digital-image.html collection="phs" id="39" %} <!--- link: https://digital.lib.uidaho.edu/digital/collection/phs/id/39--->
+{% include feature/digital-image.html collection="phs" objectid="phs39" %}
 
 “The third cut needed to fall a tree is the back cut. The relationship of this cut to the undercut is important for proper tree positioning and the sawyers’ safety.”[^2]
 

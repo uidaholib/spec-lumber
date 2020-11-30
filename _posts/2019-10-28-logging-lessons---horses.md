@@ -3,16 +3,15 @@ title: Logging Lessons - horses
 date: 2019-10-28
 tags: ["logging"]
 subtitle: 
-cover-image: 
+cover-image: phs75
+cover-image-collection: phs
 categories: ["Logging Lessons"]
 author: Michelle A. Shannon
 ---
 
 Last week we learned about the science behind felling trees with crosscut saws. Over the next few weeks, we’ll learn about the variety of ways that the Potlatch Lumber Company transported logs once they had been cut and cleared!
 
-{% include feature/digital-image.html collection="phs" id="39" %}
-
-{% include feature/digital-image.html collection="phs" id="75" %}
+{% include feature/digital-image.html collection="phs" objectid="phs75" %}
 
 Horses were a popular early form of transporting logs from the forest floor to an accumulation site, usually a railroad car, flume, or body of water (we’ll talk about some of these in the coming weeks!). Between 1907-1915 in Bovill, Idaho (one of the Company’s camps), “horse logging was normally used where terrain and distance (about 300 feet) combined to economically get logs direct to the rail landings.”[^1]
 
@@ -20,7 +19,7 @@ Potlatch horses were accounted for as equipment. According to records, “The Po
 
 Stay tuned for next week where we’ll discuss steam donkey engines!
 
-{% include feature/digital-image.html collection="phs" id="40" %}
+{% include feature/digital-image.html collection="phs" objectid="phs40" %}
 
 Photos courtesy of the Potlatch Historical Society
 

@@ -3,14 +3,15 @@ title: Logging Lessons - jammers
 date: 2019-11-11
 tags: ["logging"]
 subtitle: 
-cover-image: 
+cover-image: phs132
+cover-image-collection: phs
 categories: ["Logging Lessons"]
 author: Michelle A. Shannon
 ---
 
 Last week, we learned about using steam donkey engines to transport logs from the forest floor to a central staging area. This week, we’ll learn about a railroad staging area and the use of “jammers” or “loaders” to load logs onto railroad cars.
 
-{% include feature/digital-image.html collection="phs" id="132" %}
+{% include feature/digital-image.html collection="phs" objectid="phs132" %}
 
 “Logging jammers played an important role in the timber
 industry in North Idaho. One of the most efficient and economical methods of
@@ -26,9 +27,9 @@ that could skid logs up to 400 yards away.”[^1]
 
 Fun fact: the Museum of North Idaho possesses one of the first log jammers built in the Coeur d’Alene area!<a href="https://www.tumblr.com/blog/uispecialcollections/queue#_ftn2" title="">[^1]
 
-{% include feature/digital-image.html collection="phs" id="134" %}
+{% include feature/digital-image.html collection="phs" objectid="phs134" %}
 
-{% include feature/digital-image.html collection="phs" id="84" %}
+{% include feature/digital-image.html collection="phs" objectid="phs84" %}
 
 [^1]: [Logging Jammers](https://nickelsworth.com/articles/photo-of-the-week-logging-jammers)
 
