@@ -23,11 +23,13 @@ Stay tuned for our first post next week, where we'll talk about the Bitterroot N
 
 <!--- DEVIN: the below 3 includes don't work but they're cdm collections so I might be writing them wrong... --->
 
-<!--- {% include feature/image.html objectid="https://digital.lib.uidaho.edu/digital/api/singleitem/image/sbw/87/default.jpg?highlightTerms=" link="https://digital.lib.uidaho.edu/digital/collection/sbw/id/87/rec/1" caption="Burnt Knob Lookout, Nez Perce National Forest" %} ---> {% include feature/digital-image.html collection="sbw" objectid="sbw87"%}
+{% include feature/image.html objectid="https://digital.lib.uidaho.edu/digital/api/singleitem/image/sbw/87/default.jpg?highlightTerms=" link="https://digital.lib.uidaho.edu/digital/collection/sbw/id/87/rec/1" caption="Burnt Knob Lookout, Nez Perce National Forest" %} 
 
-<!--- {% include feature/image.html objectid="https://digital.lib.uidaho.edu/digital/api/singleitem/image/sbw/90/default.jpg?highlightTerms=" link="https://digital.lib.uidaho.edu/digital/collection/sbw/id/90" caption="Fishing in Bargemon Creek, Nez Perce National Forest" %} ---> {% include feature/digital-image.html collection="sbw" objectid="sbw90"%}
+{% include feature/image.html objectid="https://digital.lib.uidaho.edu/digital/api/singleitem/image/sbw/90/default.jpg?highlightTerms=" link="https://digital.lib.uidaho.edu/digital/collection/sbw/id/90" caption="Fishing in Bargemon Creek, Nez Perce National Forest" %}
 
-<!--- {% include feature/image.html objectid="https://digital.lib.uidaho.edu/digital/api/singleitem/image/spec_kl/676/default.jpg?highlightTerms=" link="https://digital.lib.uidaho.edu/digital/collection/spec_kl/id/676" caption="Snake River (Idaho and Oregon), 1944" %} ---> {% include feature/digital-image.html collection="spec_kl" objectid="spec_kl676" %}
+<!--- {% include feature/image.html objectid="https://digital.lib.uidaho.edu/digital/api/singleitem/image/spec_kl/676/default.jpg?highlightTerms=" link="https://digital.lib.uidaho.edu/digital/collection/spec_kl/id/676" caption="Snake River (Idaho and Oregon), 1944" %} ---> 
+
+{% include feature/digital-image.html collection="laughlin" cdm-collection="spec_kl" objectid="spec_kl676" %}
 
 # Sources
 
