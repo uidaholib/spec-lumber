@@ -1,7 +1,7 @@
 ---
 title: Wilderness Wednesday - Boise National Forest
 date: 2020-11-17 14:27:50 -0800
-tags: ["wilderness"]
+tags: ["wilderness","Boise National Forest"]
 subtitle: 
 cover-image-cdm-collection: nwpostcards
 cover-image-collection: postcards

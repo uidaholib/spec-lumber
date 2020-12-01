@@ -1,7 +1,7 @@
 ---
 title: Wilderness Wednesday -  Bitterroot National Forest
 date: 2020-11-16 13:13:36 -0800
-tags: ["wilderness"]
+tags: ["wilderness","Bitteroot National Forest","Rocky Mountains"]
 subtitle: 
 cover-image: lumber137
 categories: [Wilderness Wednesday]
