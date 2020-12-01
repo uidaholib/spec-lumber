@@ -1,7 +1,7 @@
 ---
 title: Oh Dam! series wrap
 date: 2020-04-20
-tags: ["dams","hydraulics","electricity","water","irrigation","Columbia River","Columbia River Basin"]
+tags: ["dams","hydraulics","electricity","water","irrigation","Columbia River Basin"]
 subtitle: 
 cover-image-cdm-collection: crbproj
 cover-image-collection: crbp
