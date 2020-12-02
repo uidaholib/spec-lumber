@@ -6,24 +6,11 @@ permalink: /about.html
 # Look in _includes/feature for options to easily add features to the page
 ---
 
-{% include feature/jumbotron.html %} 
 
-{% include feature/nav-menu.html sections="About CollectionBuilder SA" %}
+## About the Harvester
 
-## About CollectionBuilder SA
+Welcome to the Idaho Harvester, the University of Idaho Special Collections and Archives blog. Here we will share some of our most interesting and unique materials with the university, our regional community, and the rest of the world. This platform serves as a more informal outlet for our materials than our [Digital Collections](https://www.lib.uidaho.edu/digital/). Be sure to look at those for more complete collections, curated around various subjects and materials. 
 
-This demo collection features items from the University of Idaho Library's [Digital Collections](https://www.lib.uidaho.edu/digital/), and is build using [CollectionBuilder-SA](https://github.com/CollectionBuilder/collectionbuilder-sa).
+Through this blog we will share images, stories, and historical narratives that have caught our attention in daily run of our work. Some may be lengthier, dealing with complex subjects regarding Idaho history, industry, and the university, while others may be shorter celebrations of notable days, people, and events. We will also share interesting facets of the archival profession and how they contribute to our ability to preserve and share our materials.  
 
-CollectionBuilder-SA is a "Stand Alone" template for creating digital collection and exhibit websites using Jekyll, given:
-
-- a CSV of collection metadata
-- a folder of images, PDFs, audio, or video files
-
-Driven by your collection metadata, the template generates engaging visualizations to browse and explore your objects.
-The resulting static site can be hosted on any basic web server.
-
-[CollectionBuilder](https://github.com/CollectionBuilder/) is an set of open source tools for creating digital collection and exhibit websites that are driven by metadata and powered by modern static web technology.
-See [Getting Started Docs](https://collectionbuilder.github.io/docs/introduction.html) for detailed information.
-
-
-{% include feature/item-figure.html objectid="demo_001" width="75" %} 
+Both the advanced researcher and casual internet browser can peruse through our posts. They are easily searchable by keywords and subject terms. Beyond that, if you want to forgo reading our posts and just look at the items that have been digitized, you can do that too.  
