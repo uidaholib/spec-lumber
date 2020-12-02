@@ -1,12 +1,12 @@
-name: Scheduled build
+name: Render Site build
 on:
   schedule:
-  - cron: '20 23 * * *'
+  - cron: '30 23 * * *'
 jobs:
   build:
     runs-on: ubuntu-latest
     steps:
-    - name: Trigger our build webhook on Netlify
+    - name: Trigger our build webhook on Render
       run: curl -s -X POST -d {} "{TOKEN}"
       env:
         TOKEN: ${{ secrets.RENDER_CRON_BUILD_HOOK }}
