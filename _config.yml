@@ -32,7 +32,7 @@ paginate_path: "/blog/:num/"
 # URL VARIABLES
 #
 # site domain, full URL to the production location of your collection
-url: https://lumber.onrender.com
+url: https://harvester.lib.uidaho.edu
 # path to location on the domain if necessary e.g. /digital/hjccc
 baseurl: 
 # location of code, the full url to your github repository
