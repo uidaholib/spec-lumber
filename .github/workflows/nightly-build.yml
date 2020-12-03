@@ -1,12 +1,12 @@
-name: Render Site build
+name: Scheduled build
 on:
   schedule:
-  - cron: '30 23 * * *'
+  - cron: '40 0 * * *'
 jobs:
   build:
     runs-on: ubuntu-latest
     steps:
     - name: Trigger our build webhook on Render
-      run: curl -s -X POST -d {} "{TOKEN}"
+      run: curl -s -X POST "https://api.render.com/deploy/${TOKEN}"
       env:
         TOKEN: ${{ secrets.RENDER_CRON_BUILD_HOOK }}
