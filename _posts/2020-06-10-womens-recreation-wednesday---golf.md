@@ -1,8 +1,8 @@
 ---
-title: Women's Recreation Wednesday - Golf
+title: Golf
 date: 2020-06-10
 tags: ["women's recreation","women","campus recreation","sports","athletes","golf"]
-subtitle: 
+subtitle: Women's Recreation Wednesday
 cover-image: lumber066
 categories: ["Women's Recreation Wednesday"]
 author: Michelle A. Shannon
