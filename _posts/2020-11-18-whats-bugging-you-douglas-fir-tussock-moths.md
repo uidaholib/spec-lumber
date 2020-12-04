@@ -1,7 +1,7 @@
 ---
 title: What's Bugging You 
 date: 2020-11-18 12:58:07 -0800
-tags: [['forests', 'insects', 'trees']]
+tags: ["forests","insects","trees"]
 subtitle: Archives buggin' out
 cover-image: lumber160
 categories: []
