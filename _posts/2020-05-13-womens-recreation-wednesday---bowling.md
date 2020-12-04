@@ -1,8 +1,8 @@
 ---
-title: Women's Recreation Wednesday - Bowling
+title: Bowling
 date: 2020-05-13
 tags: ["women's recreation","women","campus recreation","sports","athletes","bowling"]
-subtitle: 
+subtitle: Women's Recreation Wednesday
 cover-image: lumber080
 categories: ["Women's Recreation Wednesday"]
 author: Michelle A. Shannon

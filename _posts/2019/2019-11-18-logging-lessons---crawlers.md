@@ -1,8 +1,8 @@
 ---
-title: Logging Lessons - crawlers
+title: Crawlers
 date: 2019-11-18
 tags: ["logging"]
-subtitle: 
+subtitle: Logging Lessons
 cover-image: phs147
 cover-image-collection: phs
 categories: ["Logging Lessons"]

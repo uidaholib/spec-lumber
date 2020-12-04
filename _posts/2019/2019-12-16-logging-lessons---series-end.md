@@ -1,8 +1,8 @@
 ---
-title: Logging Lessons - series end
+title: Series End
 date: 2019-12-16
 tags: ["logging"]
-subtitle: 
+subtitle: Logging Lessons
 cover-image: phs508
 cover-image-collection: phs
 categories: ["Logging Lessons"]

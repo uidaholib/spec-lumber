@@ -1,8 +1,8 @@
 ---
-title: Mining Monday - extraction
+title: Extraction
 date: 2019-08-19
 tags: ["mining"]
-subtitle: 
+subtitle: Mining Monday
 cover-image: lumber109
 categories: ["Mining Monday"]
 author: Michelle A. Shannon

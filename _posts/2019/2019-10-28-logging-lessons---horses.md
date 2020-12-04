@@ -1,8 +1,8 @@
 ---
-title: Logging Lessons - horses
+title: Horses
 date: 2019-10-28
 tags: ["logging"]
-subtitle: 
+subtitle: Logging Lessons
 cover-image: phs75
 cover-image-collection: phs
 categories: ["Logging Lessons"]

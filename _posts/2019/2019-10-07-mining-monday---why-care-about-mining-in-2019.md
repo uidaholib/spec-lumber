@@ -1,8 +1,8 @@
 ---
-title: Mining Monday - why care about mining in 2019?
+title: Why care about mining in 2019?
 date: 2019-10-07
 tags: ["mining"]
-subtitle: 
+subtitle: Mining Monday
 cover-image: lumber121
 categories: ["Mining Monday"]
 author: Michelle A. Shannon

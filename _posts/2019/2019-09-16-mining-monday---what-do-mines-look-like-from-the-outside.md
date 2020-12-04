@@ -1,8 +1,8 @@
 ---
-title: Mining Monday - what do mines look like from the outside?
+title: What do mines look like from the outside?
 date: 2019-09-16
 tags: ["mining"]
-subtitle: 
+subtitle: Mining Monday
 cover-image: lumber119
 categories: ["Mining Monday"]
 author: Michelle A. Shannon

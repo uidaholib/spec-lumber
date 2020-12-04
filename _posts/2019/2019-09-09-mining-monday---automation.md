@@ -1,8 +1,8 @@
 ---
-title: Mining Monday - automation
+title: Automation
 date: 2019-09-09
 tags: ["mining","engineering"]
-subtitle: 
+subtitle: Mining Monday
 cover-image: lumber115
 categories: ["Mining Monday"]
 author: Michelle A. Shannon

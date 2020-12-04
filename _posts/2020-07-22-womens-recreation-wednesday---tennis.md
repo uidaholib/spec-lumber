@@ -1,8 +1,8 @@
 ---
-title: Women's Recreation Wednesday - Tennis
+title: Tennis
 date: 2020-07-22
 tags: ["women's recreation","women","campus recreation","sports","athletes","tennis"]
-subtitle: 
+subtitle: Women's Recreation Wednesday
 cover-image: lumber038
 categories: ["Women's Recreation Wednesday"]
 author: Michelle A. Shannon

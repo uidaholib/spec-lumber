@@ -1,8 +1,8 @@
 ---
-title: Logging Lessons - water
+title: Water
 date: 2019-11-25
 tags: ["logging"]
-subtitle: 
+subtitle: Logging Lessons
 cover-image: phs295
 cover-image-collection: phs
 categories: ["Logging Lessons"]

@@ -1,8 +1,8 @@
 ---
-title: Mining Monday - milling
+title: Milling
 date: 2019-08-26
 tags: ["mining"]
-subtitle: 
+subtitle: Mining Monday
 cover-image: lumber111
 categories: ["Mining Monday"]
 author: Michelle A. Shannon

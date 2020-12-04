@@ -1,8 +1,8 @@
 ---
-title: Logging Lessons - trains
+title: Trains
 date: 2019-12-02
 tags: ["logging"]
-subtitle: 
+subtitle: Logging Lessons
 cover-image: phs11
 cover-image-collection: phs
 categories: ["Logging Lessons"]

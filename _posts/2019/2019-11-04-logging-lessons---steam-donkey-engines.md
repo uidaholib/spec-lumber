@@ -1,8 +1,8 @@
 ---
-title: Logging Lessons - steam donkey engines
+title: Steam Donkey Engines
 date: 2019-11-04
 tags: ["logging"]
-subtitle: 
+subtitle: Logging Lessons
 cover-image: phs294
 cover-image-collection: phs 
 categories: ["Logging Lessons"]

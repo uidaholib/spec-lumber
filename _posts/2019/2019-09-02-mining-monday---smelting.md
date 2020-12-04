@@ -1,8 +1,8 @@
 ---
-title: Mining Monday - smelting
+title: Smelting
 date: 2019-09-02
 tags: ["mining"]
-subtitle: 
+subtitle: Mining Monday
 cover-image: lumber112
 categories: ["Mining Monday"]
 author: Michelle A. Shannon

@@ -1,8 +1,8 @@
 ---
-title: Women's Recreation Wednesday - Basketball
+title: Basketball
 date: 2020-05-06
 tags: ["women's recreation","women","campus recreation","sports","athletes","basketball","women's basketball"]
-subtitle: 
+subtitle: Women's Recreation Wednesday
 cover-image: lumber090
 categories: ["Women's Recreation Wednesday"]
 author: Michelle A. Shannon

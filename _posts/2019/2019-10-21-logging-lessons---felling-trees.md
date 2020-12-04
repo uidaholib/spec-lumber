@@ -1,8 +1,8 @@
 ---
-title: Logging Lessons - felling trees
+title: Felling Trees
 date: 2019-10-21
 tags: ["logging"]
-subtitle: 
+subtitle: Logging Lessons
 cover-image: phs163
 cover-image-collection: phs
 categories: ["Logging Lessons"]

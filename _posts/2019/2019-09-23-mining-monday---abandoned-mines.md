@@ -1,8 +1,8 @@
 ---
-title: Mining Monday - abandoned mines
+title: Abandoned Mines
 date: 2019-09-23
 tags: ["mining"]
-subtitle: 
+subtitle: Mining Monday
 cover-image: lumber120
 categories: ["Mining Monday"]
 author: Michelle A. Shannon

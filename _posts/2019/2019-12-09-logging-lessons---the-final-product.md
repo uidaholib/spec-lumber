@@ -1,8 +1,8 @@
 ---
-title: Logging Lessons - the final product
+title: The Final Product
 date: 2019-12-09
 tags: ["logging"]
-subtitle: 
+subtitle: Logging Lessons
 cover-image: phs425
 cover-image-collection: phs
 categories: ["Logging Lessons"]

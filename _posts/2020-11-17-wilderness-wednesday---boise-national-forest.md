@@ -1,8 +1,8 @@
 ---
-title: Wilderness Wednesday - Boise National Forest
+title: Boise National Forest
 date: 2020-11-17 14:27:50 -0800
 tags: ["wilderness","Boise National Forest"]
-subtitle: 
+subtitle: Wilderness Wednesday
 cover-image-cdm-collection: nwpostcards
 cover-image-collection: postcards
 cover-image: nwpostcards392
@@ -10,13 +10,11 @@ categories: [Wilderness Wednesday]
 author: Michelle A. Shannon
 ---
 
-<!--- DEVIN: the cover image seems to be broken. If you click on it, it takes you to an error page. Should be this page: https://www.lib.uidaho.edu/digital/postcards/items/nwpostcards392.html --->
-
 The Boise National Forest is about 2.6 million acres and is one of the largest national forests in the country.[^1]
 
-{% include feature/digital-image.html collection="archivalidaho" objectid="archivalidaho1158" %}
-
 Most of the area composing the Boise National Forest has been inhabited by Indigenous nations for "thousands of years." We know this because of the archaeological and anthropological evidence: "archaeological sites, including several rock shelters, campsites, and burial grounds, have been located on various rivers in the area. Pictographs have been discovered near rock shelters and artifacts have been found along the rivers."[^2]
+
+{% include feature/digital-image.html collection="archivalidaho" objectid="archivalidaho1158" %}
 
 {% include feature/digital-image.html collection="cccidaho" objectid="cccidaho1294" %}
 

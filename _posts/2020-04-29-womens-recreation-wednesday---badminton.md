@@ -1,8 +1,8 @@
 ---
-title: Women's Recreation Wednesday - Badminton
+title: Badminton
 date: 2020-04-29
 tags: ["women's recreation","women","campus recreation","sports","athletes","badminton"]
-subtitle: 
+subtitle: Women's Recreation Wednesday
 cover-image: lumber087
 categories: ["Women's Recreation Wednesday"]
 author: Hannah Cleere & Michelle A. Shannon
