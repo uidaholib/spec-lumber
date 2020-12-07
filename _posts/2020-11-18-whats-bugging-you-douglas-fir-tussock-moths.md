@@ -12,7 +12,7 @@ Welcome to our new series, What's Bugging You, where we highlight the vast resea
 
 About 21.5 million acres in Idaho, or about 40% of the state, is covered in trees.[^1] Insect and disease outbreaks are some of the leading causes of forest destruction. With this series, we hope to inform viewers of the symptoms and causes of damage seen to trees primarily in North Idaho. Stay tuned for more!
 
-{% include feature/image.html objectid="{lumber163;lumber161;lumber171}" %}
+{% include feature/image.html objectid="lumber163;lumber161;lumber171" %}
 
 # Source
 
