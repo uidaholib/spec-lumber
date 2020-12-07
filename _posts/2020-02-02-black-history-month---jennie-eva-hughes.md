@@ -1,7 +1,7 @@
 ---
 title: Black History month - Jennie Eva Hughes
 date: 2020-02-02
-tags: ["Black history","university diversity"]
+tags: ["Black history","university diversity","Jennie Eva Hughes Smith"]
 subtitle: 
 cover-image: lumber165
 categories: []
