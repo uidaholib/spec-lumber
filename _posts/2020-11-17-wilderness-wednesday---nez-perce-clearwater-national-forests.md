@@ -1,6 +1,6 @@
 ---
 title: Nez Perce-Clearwater National Forests
-date: 2020-11-17 15:38:42 -0800
+date: 2020-12-30
 tags: ["wilderness","forests","Nez Perce-Clearwater National Forest"]
 subtitle: Wilderness Wednesday
 cover-image: lumber153
