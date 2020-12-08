@@ -1,6 +1,6 @@
 ---
 title: All Girl Band
-date: 2020-12-07
+date: 2020-12-10
 tags: ["music","bands","student clubs","campus recreation","WWII","women"]
 subtitle: Historical Student Clubs
 cover-image: lumber182

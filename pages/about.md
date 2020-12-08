@@ -9,8 +9,14 @@ permalink: /about.html
 
 ## About the Harvester
 
-Welcome to the Idaho Harvester, the University of Idaho Special Collections and Archives blog. Here we will share some of our most interesting and unique materials with the university, our regional community, and the rest of the world. This platform serves as a more informal outlet for our materials than our [Digital Collections](https://www.lib.uidaho.edu/digital/). Be sure to look at those for more complete collections, curated around various subjects and materials. 
+The Idaho Harvester features the most interesting and unique materials from the University of Idaho Library's Special Collections & Archives. 
 
-Through this blog we will share images, stories, and historical narratives that have caught our attention in daily run of our work. Some may be lengthier, dealing with complex subjects regarding Idaho history, industry, and the university, while others may be shorter celebrations of notable days, people, and events. We will also share interesting facets of the archival profession and how they contribute to our ability to preserve and share our materials.  
+We write about the images, stories, and historical narratives that catch our attention. Some posts are lengthier, dealing with complex subjects regarding Idaho history, industry, and the university, while others are shorter celebrations of notable days, people, and events. 
 
-Both the advanced researcher and casual internet browser can peruse through our posts. They are easily searchable by keywords and subject terms. Beyond that, if you want to forgo reading our posts and just look at the items that have been digitized, you can do that too.  
+We are excited to share the fascinating content we come across during our daily work and to share our institutional knowledge in context with the library's [digital collections](https://www.lib.uidaho.edu/digital/) and with the [working collection](/collection/browse.html) contained herein.   
+
+### Newsletter
+
+To sign up for our monthly newsletter and receive a round up of all our posts from the past month, please click the button below. 
+
+{% include feature/button.html text="Sign Up for Our Monthly Newsletter" color="primary" link="https://bit.ly/idahoharvester" size="lg" %}

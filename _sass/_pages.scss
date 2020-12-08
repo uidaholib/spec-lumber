@@ -55,12 +55,13 @@
 
 /* About */
 /* creating a narrow text column */ 
+
 .about-contents > {
     h2 {
         font-weight: bold;
-        padding-top: 100px;
-        border-top: 1px dotted black;
+    padding-top: 30px;
     }
+   
     
     h1, h2, h3, h4, h5, h6 {
         max-width: 650px;
@@ -73,4 +74,9 @@
         max-width: 650px;
     }
 
+}
+
+.about-contents  h2:first {
+    font-weight: bold;
+    padding-top: 30px;
 }
