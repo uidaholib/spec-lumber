@@ -3,7 +3,7 @@ Home,/,
 Posts,/posts/
 Series,,
 Timeline,/blog/timeline.html
-About,/about.html
+
 Collection,,
 Browse Items,/collection/browse.html,Collection
 Subjects,/collection/subjects.html,Collection
@@ -11,6 +11,7 @@ Locations,/collection/locations.html,Collection
 Map,/collection/map.html,Collection
 Timeline,/collection/timeline.html,Collection
 Data,/collection/data/,Collection
-Contact Us,,
-Contact Info,https://www.lib.uidaho.edu/special-collections/about.html#contact,Contact Us
-Feedback Form,https://forms.gle/e9QRss9xsxcgHFoTA,Contact Us
+About,
+About the Site,/about.html,About
+Feedback Form,https://forms.gle/e9QRss9xsxcgHFoTA,About
+Contact Info,https://www.lib.uidaho.edu/special-collections/about.html#contact,About
