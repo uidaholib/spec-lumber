@@ -18,7 +18,7 @@
 
   </div>
   {% unless page.cover-image contains '/' %}<div class="text-right p-0 mt-n5" style="position:relative;bottom:0;right:0;">
-    <small><a class="text-info featured-link" id="header-big-img-link" href="{% if page.cover-image contains 'lumber' %}{{ '/collection/items/' | relative_url | append: page.cover-image | append: '.html' }}{% else %}https://www.lib.uidaho.edu/digital/{{post.cover-image-collection}}/items/{{post.cover-image}}.html{% endif %}" title="{{ featuredItem.title | escape }}">Featured Image</a></small>
+    <small><a class="text-info featured-link" id="header-big-img-link" href="{% if page.cover-image contains 'lumber' %}{{ '/collection/items/' | relative_url | append: page.cover-image | append: '.html' }}{% else %}https://www.lib.uidaho.edu/digital/{{page.cover-image-collection}}/items/{{page.cover-image}}.html{% endif %}" title="{{ featuredItem.title | escape }}">Featured Image</a></small>
 </div>{% endunless %}
 {% endif %}
 <div class="mt-5">
