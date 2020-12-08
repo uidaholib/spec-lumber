@@ -1,6 +1,6 @@
 ---
 title: Moscow, Idaho
-date: 2020-12-07
+date: 2020-12-09
 tags: ["Main Street"]
 subtitle: Then and Now
 cover-image: lumber185
