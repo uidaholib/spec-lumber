@@ -4,7 +4,7 @@ date: 2018-01-25 10:07:00 -0800
 tags: [poets, Robert Burns, Burns Night, poetry]
 subtitle: 
 cover-image: lumber187
-categories: [Book Collections]
+categories: Cover to Cover
 ---
 
 {% include feature/image.html objectid="lumber187" %}
@@ -32,35 +32,20 @@ And surely I'll be mine!<br>
 And we'll take a cup o' kindness yet,<br>
 For auld lang syne.<br>
 We twa hae run about the braes,<br>
-
 And pou'd the gowan fine;<br>
-
 But we've wander'd mony a weary fitt,<br>
-
 Sin' auld lang syne.<br>
-
 We twa hae paidl'd in the burn,<br>
-
 Frae morning sun till dine;<br>
-
 But seas between us braid hae roar'd<br>
-
 Sin' auld lang syne.<br>
-
 And there's a hand, my trusty fiere!<br>
-
 And gie's a hand o' thine!<br>
-
 And we'll tak a right gude-willie-waught,<br>
-
 For auld lang syne.<br>
-
 For auld lang syne, my jo,<br>
-
 For auld lang syne,<br>
-
 We'll take a cup o' kindness yet,<br>
-
 For auld lang syne.</p>
 
 The limited edition set in Special Collections
