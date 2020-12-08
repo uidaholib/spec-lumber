@@ -1,6 +1,6 @@
 ---
 title: Welcome to Wilderness Wednesday!
-date: 2020-11-06 10:35:58 -0800
+date: 2020-12-02
 tags: ["wilderness"]
 subtitle: 
 cover-image: lumber134

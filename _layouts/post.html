@@ -20,15 +20,15 @@ layout: default
         </div>
       {% endif %}
       {% if page.categories != "" and page.categories.size > 0%}
+      {% for cat in page.categories %}
+          {% for s in site.series %}{% if s.series == cat %}
         <div class="blog-tags">
           Series:
-          {% for cat in page.categories %}
-          {% for s in site.series %}{% if s.series == cat %}
           <a href="{{ s.url | absolute_url }}">{{- cat -}}</a>
-          {% endif %}
-          {% endfor %}
-          {% endfor %}
         </div>
+        {% endif %}
+        {% endfor %}
+        {% endfor %}
       {% endif %}
 
       

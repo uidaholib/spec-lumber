@@ -1,6 +1,6 @@
 ---
 title: Lava flows you can see from space?!
-date: 2020-11-17 15:50:10 -0800
+date: 2020-12-23
 tags: ["wilderness","Craters of the Moon","volcanoes","lava","Snake River"]
 subtitle: Wilderness Wednesday
 cover-image: https://cdm17254.contentdm.oclc.org/digital/api/singleitem/image/pdf/nwpostcards/229/default.png

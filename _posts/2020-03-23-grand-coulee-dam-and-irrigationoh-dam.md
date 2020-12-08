@@ -1,6 +1,6 @@
 ---
 title: Grand Coulee Dam and irrigation ... Oh Dam!
-date: 2020-03-23
+date: 2020-12-05
 tags: ["dams","hydraulics","electricity","water","irrigation","Columbia River Basin"]
 subtitle: 
 cover-image-cdm-collection: crbproj

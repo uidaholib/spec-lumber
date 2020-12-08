@@ -9,6 +9,7 @@ collections:
     output: true
   series:
     output: true
+    sort_by: title
 
 defaults:
   - scope:
