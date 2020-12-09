@@ -20,3 +20,10 @@ We are excited to share the fascinating content we come across during our daily 
 To sign up for our monthly newsletter and receive a round up of all our posts from the past month, please click the button below. 
 
 {% include feature/button.html text="Sign Up for Our Monthly Newsletter" color="primary" link="https://bit.ly/idahoharvester" size="lg" %}
+
+## Contributors
+
+This blog represents the thought and interests of our past and present staff in Special Collections & Archives. To view individuals work, please click on link below: 
+
+{% for writer in site.writers %}- [{{writer.title}}]({{writer.permalink}})
+{% endfor %}
