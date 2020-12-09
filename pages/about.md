@@ -27,3 +27,7 @@ This blog represents the thought and interests of our past and present staff in 
 
 {% for writer in site.writers %}- [{{writer.title}}]({{writer.permalink}})
 {% endfor %}
+
+## Contact US
+
+{% include contactinfo.html %}
