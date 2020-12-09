@@ -1,8 +1,8 @@
 ---
-title: Women's Recreation Wednesday - Track and Field
+title: Track and Field
 date: 2020-07-29
 tags: ["women's recreation","women","campus recreation","sports","athletes","track and field"]
-subtitle: 
+subtitle: Women's Recreation Wednesday
 cover-image: lumber032
 categories: ["Women's Recreation Wednesday"]
 author: Michelle A. Shannon

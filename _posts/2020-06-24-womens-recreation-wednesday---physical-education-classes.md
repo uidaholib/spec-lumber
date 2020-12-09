@@ -1,8 +1,8 @@
 ---
-title: Women's Recreation Wednesday - Physical Education Classes
+title: Physical Education Classes
 date: 2020-06-24
 tags: ["women's recreation","women","campus recreation","sports","athletes","physical education"]
-subtitle: 
+subtitle: Women's Recreation Wednesday
 cover-image: lumber056
 categories: ["Women's Recreation Wednesday"]
 author: Michelle A. Shannon

@@ -18,8 +18,8 @@
     Note: if you have issues make sure the item is a video item and that the format is correct, e.g. video/mp4 
 
 {%- endcomment -%}
-{%- assign item = site.data[site.metadata] | where: "objectid", include.objectid | first -%}
-<div class="text-center ">
+{%- assign item = site.data.lumber | where: "objectid", include.objectid | first -%}
+<div class="text-center my-4">
     <figure class="figure mx-3{% if include.float %} feature-float-{{ include.float }}{% endif %}{% if include.width %} feature-w-{{ include.width }}{% endif %}">
         <div class="embed-responsive embed-responsive-{{ include.ratio | default: '16by9' }}">
             {% if item.youtubeid %}
@@ -31,6 +31,6 @@
             </video>
             {%- endif -%}
         </div>
-        {% unless include.caption == false %}<figcaption class="figure-caption"><a href="{{ '/collection/items/' | append: item.objectid | append: '.html' | relative_url }}">{% if include.caption %}{{ include.caption }}{% else %}{{ item.title }}{% endif %}</a></figcaption>{% endunless %}
+        {% unless include.caption == false %}<figcaption class="pt-3 figure-caption"><a href="{{ '/collection/items/' | append: item.objectid | append: '.html' | relative_url }}">{% if include.caption %}{{ include.caption }}{% else %}{{ item.title }}{% endif %}</a></figcaption>{% endunless %}
     </figure>
 </div>

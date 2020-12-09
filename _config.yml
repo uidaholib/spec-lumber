@@ -9,6 +9,10 @@ collections:
     output: true
   series:
     output: true
+    sort_by: title
+  writers:
+    output: true
+    sort_by: lastname
 
 defaults:
   - scope:
@@ -19,6 +23,10 @@ defaults:
       type: series
     values:
       layout: series
+  - scope:
+      type: writers
+    values:
+      layout: writers
       
 link-tags: true
 
@@ -32,7 +40,7 @@ paginate_path: "/blog/:num/"
 # URL VARIABLES
 #
 # site domain, full URL to the production location of your collection
-url: https://lumber.onrender.com
+url: https://harvester.lib.uidaho.edu
 # path to location on the domain if necessary e.g. /digital/hjccc
 baseurl: 
 # location of code, the full url to your github repository
@@ -79,8 +87,8 @@ page_gen:
 #
 # leave these blank or comment out to NOT include google code
 # if present, used to add analytics during "production" build only
-# google-analytics-id: "UA-74844011-1"
-# google-cse-id: "002151703305773322890:1pu3smhw1t8"
+google-analytics-id: "UA-74844011-1"
+google-cse-id: "002151703305773322890:1pu3smhw1t8"
 
 ##########
 # ROBOTS EXCLUDE

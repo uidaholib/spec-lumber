@@ -7,7 +7,7 @@
    <url>
       <loc>{{ p.url | absolute_url }}</loc>
       <lastmod>{{ site.time | date_to_xmlschema }}</lastmod>
-      <changefreq>monthly</changefreq>
+      <changefreq>weekly</changefreq>
    </url>
 {% endfor %}
 </urlset> 

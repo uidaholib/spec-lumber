@@ -1,8 +1,8 @@
 ---
-title: Women's Recreation Wednesday - Field Hockey
+title: Field Hockey
 date: 2020-06-03
 tags: ["women's recreation","women","campus recreation","sports","athletes","field hockey"]
-subtitle: 
+subtitle: Women's Recreation Wednesday
 cover-image: lumber069
 categories: ["Women's Recreation Wednesday"]
 author: Michelle A. Shannon

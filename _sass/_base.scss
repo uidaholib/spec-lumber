@@ -17,11 +17,12 @@ a {
     }
 }
 
-.active {border-bottom: 1px white solid; 
+.active {border-bottom: 1px #F1B300 solid; 
 padding-bottom: 4px;
-@include media-query($on-palm) {
-    border: none;
-    font-weight: bold;
+color: #F1B300 !important;
+font-weight: bold;
+@include media-query($on-laptop) {
+    border-bottom: none;
  }}
 /* skip nav for accessibility, based on https://webaim.org/techniques/skipnav/ */
 #skip-to-content a {

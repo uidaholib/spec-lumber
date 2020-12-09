@@ -1,8 +1,8 @@
 ---
-title: Women's Recreation Wednesday - Softball
+title: Softball
 date: 2020-07-08
 tags: ["women's recreation","women","campus recreation","sports","athletes","softball"]
-subtitle: 
+subtitle: Women's Recreation Wednesday
 cover-image: lumber048
 categories: ["Women's Recreation Wednesday"]
 author: Michelle A. Shannon

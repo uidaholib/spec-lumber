@@ -12,23 +12,23 @@ layout: default
 
       <article role="main" class="blog-post ">
         {% if page.tags.size > 0 %}
-        <div class="blog-tags">
+        <div class="blog-tags mb-2">
           Tags:
           {% for tag in page.tags %}
           <a href="{{ '/posts/' | absolute_url }}#{{ tag | strip}}">{{- tag -}}</a>
           {% endfor %}
         </div>
       {% endif %}
-      {% if page.categories != "" %}
-        <div class="blog-tags">
-          Series:
-          {% for cat in page.categories %}
+      {% if page.categories != "" and page.categories.size > 0 %}
+      {% for cat in page.categories %}
           {% for s in site.series %}{% if s.series == cat %}
+        <div class="blog-tags mt-1">
+          Series:
           <a href="{{ s.url | absolute_url }}">{{- cat -}}</a>
-          {% endif %}
-          {% endfor %}
-          {% endfor %}
         </div>
+        {% endif %}
+        {% endfor %}
+        {% endfor %}
       {% endif %}
 
       

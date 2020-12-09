@@ -1,8 +1,8 @@
 ---
-title: Women's Recreation Wednesday - Dance
+title: Dance
 date: 2020-05-20
 tags: ["women's recreation","women","campus recreation","sports","athletes","dance"]
-subtitle: 
+subtitle: Women's Recreation Wednesday
 cover-image: lumber076
 categories: ["Women's Recreation Wednesday"]
 author: Hannah Cleere & Michelle A. Shannon
