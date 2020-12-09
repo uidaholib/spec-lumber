@@ -1,6 +1,6 @@
 <meta charset="utf-8">
 <meta name="viewport" content="width=device-width, initial-scale=1, shrink-to-fit=no">
-<title>{{ page.title | escape }} | {{ site.title | escape }}</title>
+<title>{{ page.title | escape }} | Idaho Harvester - Blog & Working Collection of the University of Idaho Library's Special Collections & Archives</title>
 <link rel="shortcut icon" type="image/x-icon" href="{{ '/favicon.ico' | absolute_url }}">
 
 <link rel="apple-touch-icon" sizes="180x180" href="/apple-touch-icon.png">
@@ -11,11 +11,10 @@
 <meta name="generator" content="collectionbuilder-contentdm" />
 <meta http-equiv="Content-Language" content="en-us" >
 {% comment %} meta tags and analytics are added during production build ONLY {%- endcomment -%}
-{% if jekyll.environment == "production" %}
 {% if site.noindex == true or page.noindex == true or layout.noindex == true %}<meta name="robots" content="noindex" />{% endif %}
 {% if page.layout == "item" %}{% include head/item-meta.html %}{% else %}{% include head/page-meta.html %}{% endif %}
 {% if site.google-analytics-id %}{% include head/google-analytics.html %}{% endif %}
-{%- endif -%}
+
 
 {% if site.data.theme.font-cdn %}{{ site.data.theme.font-cdn }}{%- endif -%}
 <link rel="stylesheet" href="{% if site.data.theme.bootswatch %}https://stackpath.bootstrapcdn.com/bootswatch/4.3.1/{{ site.data.theme.bootswatch }}/bootstrap.min.css{% else %}{{ '/assets/lib/bootstrap.min.css' | absolute_url }}{% endif %}" type="text/css">
