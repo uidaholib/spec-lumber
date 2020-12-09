@@ -10,6 +10,9 @@ collections:
   series:
     output: true
     sort_by: title
+  writers:
+    output: true
+    sort_by: lastname
 
 defaults:
   - scope:
@@ -20,6 +23,10 @@ defaults:
       type: series
     values:
       layout: series
+  - scope:
+      type: writers
+    values:
+      layout: writers
       
 link-tags: true
 
