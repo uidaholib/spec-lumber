@@ -31,6 +31,10 @@ font-weight: bold;
     @include media-query($on-laptop) {
         border-bottom: none;
      }}
+
+.nav-pills .nav-link.active, .nav-pills .show>.nav-link{
+    background-color: transparent !important;
+}
 /* skip nav for accessibility, based on https://webaim.org/techniques/skipnav/ */
 #skip-to-content a {
 	padding:6px;
