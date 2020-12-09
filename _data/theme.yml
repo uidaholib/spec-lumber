@@ -8,7 +8,7 @@
 #
 # featured image is used in home page banner and in meta markup to represent the collection
 # use either an objectid (from an item in this collect), a relative location of an image in this repo, or a full url to an image elsewhere
-featured-image: lumber001
+featured-image: lumber010
 # optional: add extra padding around collection title for a larger image feature. 
 home-title-y-padding: 9em # the margin from the top your title portion will appear.
 # optional: change position of background image, center, top, bottom
