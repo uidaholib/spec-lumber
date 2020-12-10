@@ -53,6 +53,7 @@ task :generate_derivatives, [:thumbs_size, :small_size, :density, :missing, :im_
     #:im_executable => "magick"
   )
 
+  # set the various directories to be used
   archives_dir = "objects/archives"
   objects_dir = "objects"
   thumb_image_dir = "objects/thumbs"
@@ -61,6 +62,7 @@ task :generate_derivatives, [:thumbs_size, :small_size, :density, :missing, :im_
   # Ensure that the output directories exist.
   [thumb_image_dir, small_image_dir].each &$ensure_dir_exists
 
+  # support these file types
   EXTNAME_TYPE_MAP = {
     '.tif' => :image,  
     '.jpg' => :image,
