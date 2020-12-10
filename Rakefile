@@ -66,6 +66,7 @@ task :generate_derivatives, [:thumbs_size, :small_size, :density, :missing, :im_
   EXTNAME_TYPE_MAP = {
     '.tif' => :image,  
     '.jpg' => :image,
+    '.png' => :image,
     '.pdf' => :pdf
   }
 
