@@ -49,9 +49,11 @@ task :generate_derivatives, [:thumbs_size, :small_size, :density, :missing, :im_
     :small_size => "800x800",
     :density => "300",
     :missing => "true",
-    :im_executable => "magick",
+    :im_executable => "convert"
+    #:im_executable => "magick"
   )
 
+  archives_dir = "objects/archives"
   objects_dir = "objects"
   thumb_image_dir = "objects/thumbs"
   small_image_dir = "objects/small"
@@ -60,12 +62,13 @@ task :generate_derivatives, [:thumbs_size, :small_size, :density, :missing, :im_
   [thumb_image_dir, small_image_dir].each &$ensure_dir_exists
 
   EXTNAME_TYPE_MAP = {
+    '.tif' => :image,  
     '.jpg' => :image,
     '.pdf' => :pdf
   }
 
   # Generate derivatives.
-  Dir.glob(File.join([objects_dir, '*'])).each do |filename|
+  Dir.glob(File.join([archives_dir, '*'])).each do |filename|
     # Ignore subdirectories.
     if File.directory? filename
       next
@@ -88,6 +91,16 @@ task :generate_derivatives, [:thumbs_size, :small_size, :density, :missing, :im_
 
     # Get the lowercase filename without any leading path and extension.
     base_filename = File.basename(filename)[0..-(extname.length + 1)].downcase
+
+    # Generate the access image.
+    if extname == ".tif"
+      access_filename=File.join([objects_dir, "#{base_filename}.jpg"])
+      puts "Creating #{access_filename}"
+      system("#{cmd_prefix} -flatten #{access_filename}")
+    else
+      puts "Copying #{filename}"
+      system("cp #{filename} #{objects_dir}")
+    end
 
     # Generate the thumb image.
     thumb_filename=File.join([thumb_image_dir, "#{base_filename}_th.jpg"])
