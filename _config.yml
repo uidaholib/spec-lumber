@@ -83,14 +83,6 @@ page_gen:
     filter: 'objectid'  
 
 ##########
-# GOOGLE SERVICES [optional!]
-#
-# leave these blank or comment out to NOT include google code
-# if present, used to add analytics during "production" build only
-google-analytics-id: "UA-74844011-1"
-google-cse-id: "002151703305773322890:1pu3smhw1t8"
-
-##########
 # ROBOTS EXCLUDE
 #
 # set noindex to true if you do NOT want Google to index your site

@@ -15,8 +15,7 @@
 {% if jekyll.environment == "production" %}
 {% if site.noindex == true or page.noindex == true or layout.noindex == true %}<meta name="robots" content="noindex" />{% endif %}
 {% if page.layout == "item" %}{% include head/item-meta.html %}{% else %}{% include head/page-meta.html %}{% endif %}
-{% if site.google-analytics-id %}{% include head/google-analytics.html %}{% endif %}
-{% include head/matomo-analytics.html %}
+{% include head/analytics.html %}
 {% endif %}
 
 {% if site.data.theme.font-cdn %}{{ site.data.theme.font-cdn }}{%- endif -%}
