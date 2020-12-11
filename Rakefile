@@ -49,8 +49,8 @@ task :generate_derivatives, [:thumbs_size, :small_size, :density, :missing, :im_
     :small_size => "800x800",
     :density => "300",
     :missing => "true",
-    :im_executable => "convert"
-    #:im_executable => "magick"
+    #:im_executable => "convert"
+    :im_executable => "magick"
   )
 
   # set the various directories to be used
@@ -81,7 +81,8 @@ task :generate_derivatives, [:thumbs_size, :small_size, :density, :missing, :im_
     extname = File.extname(filename).downcase
     file_type = EXTNAME_TYPE_MAP[extname]
     if !file_type
-      puts "Skipping file with unsupported extension: #{extname}"
+      puts "Skipping conversion of file with unsupported extension: #{extname}"
+      system("cp #{filename} #{objects_dir}")
       next
     end
 
