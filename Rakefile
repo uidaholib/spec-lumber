@@ -64,6 +64,7 @@ task :generate_derivatives, [:thumbs_size, :small_size, :density, :missing, :im_
 
   # support these file types
   EXTNAME_TYPE_MAP = {
+    '.tiff' => :image,
     '.tif' => :image,  
     '.jpg' => :image,
     '.png' => :image,
@@ -97,7 +98,7 @@ task :generate_derivatives, [:thumbs_size, :small_size, :density, :missing, :im_
     base_filename = File.basename(filename)[0..-(extname.length + 1)].downcase
 
     # Generate the access image.
-    if extname == ".tif"
+    if extname == ".tif" || extname == ".tiff"
       access_filename=File.join([objects_dir, "#{base_filename}.jpg"])
       puts "Creating #{access_filename}"
       system("#{cmd_prefix} -flatten #{access_filename}")
