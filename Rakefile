@@ -49,8 +49,8 @@ task :generate_derivatives, [:thumbs_size, :small_size, :density, :missing, :im_
     :small_size => "800x800",
     :density => "300",
     :missing => "true",
-    #:im_executable => "convert"
-    :im_executable => "magick"
+    :im_executable => "convert"
+    #:im_executable => "magick"
   )
 
   # set the various directories to be used
@@ -77,13 +77,24 @@ task :generate_derivatives, [:thumbs_size, :small_size, :density, :missing, :im_
     if File.directory? filename
       next
     end
+    # Ignore readme.
+    if filename == File.join([archives_dir, 'README.md'])
+      next
+    end
+
+    # Get the lowercase filename without any leading path and extension.
+    extname = File.extname(filename).downcase
+    base_filename = File.basename(filename)[0..-(extname.length + 1)].downcase
 
     # Determine the file type and skip if unsupported.
-    extname = File.extname(filename).downcase
     file_type = EXTNAME_TYPE_MAP[extname]
     if !file_type
-      puts "Skipping conversion of file with unsupported extension: #{extname}"
-      system("cp #{filename} #{objects_dir}")
+      access_filename=File.join([objects_dir, "#{base_filename}#{extname}"])
+      puts "Skipping conversion of file with unsupported extension: #{extname}."
+      if args.missing == 'false' or !File.exists?(access_filename)
+        puts "Copying #{filename} to objects dir for access as #{access_filename}."
+        system("cp #{filename} #{access_filename}")
+      end
       next
     end
 
@@ -94,17 +105,23 @@ task :generate_derivatives, [:thumbs_size, :small_size, :density, :missing, :im_
       when :pdf then "#{args.im_executable} -density #{args.density} #{filename}[0]"
       end
 
-    # Get the lowercase filename without any leading path and extension.
-    base_filename = File.basename(filename)[0..-(extname.length + 1)].downcase
-
-    # Generate the access image.
+    # Generate or copy the access image.
     if extname == ".tif" || extname == ".tiff"
       access_filename=File.join([objects_dir, "#{base_filename}.jpg"])
-      puts "Creating #{access_filename}"
-      system("#{cmd_prefix} -flatten #{access_filename}")
+      if args.missing == 'false' or !File.exists?(access_filename)
+        puts "Creating #{access_filename}"
+        system("#{cmd_prefix} -flatten #{access_filename}")
+      else
+        puts "Skipping existing file"
+      end
     else
-      puts "Copying #{filename}"
-      system("cp #{filename} #{objects_dir}")
+      access_filename=File.join([objects_dir, "#{base_filename}#{extname}"])
+      if args.missing == 'false' or !File.exists?(access_filename)
+        puts "Copying #{filename} to objects dir for access as #{access_filename}."
+        system("cp #{filename} #{access_filename}")
+      else
+        puts "Skipping existing file"
+      end
     end
 
     # Generate the thumb image.
