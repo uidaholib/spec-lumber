@@ -1,4 +1,4 @@
-# CollectionBuilder-SA helper tasks
+# Tasks for creating derivatives for spec-lumber blog, modified from collectionbuilder-sa 
 
 ###############################################################################
 # TASK: deploy
@@ -40,6 +40,11 @@ end
 
 ###############################################################################
 # TASK: generate_derivatives
+#
+# this task assumes you put scanned objects in objects/archives folder
+# newly added objects are then processed (filenames downcased, tifs to jpgs), copied to objects/
+# and generates small and thumb image for image and pdf objects
+#
 ###############################################################################
 
 desc "Generate derivative image files from collection objects"
