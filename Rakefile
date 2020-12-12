@@ -54,8 +54,8 @@ task :generate_derivatives, [:thumbs_size, :small_size, :density, :missing, :im_
     :small_size => "800x800",
     :density => "300",
     :missing => "true",
-    :im_executable => "convert"
-    #:im_executable => "magick"
+    :im_executable => "magick"
+    #:im_executable => "convert"
   )
 
   # set the various directories to be used
