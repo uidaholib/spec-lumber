@@ -4,7 +4,7 @@ date: 2020-12-07
 tags: ["Boise","Nampa","trains","transportation"]
 subtitle: 
 cover-image: lumber199
-categories: []
+categories: [Digital Memories]
 ---
 
 Early-day Boise's transportation problems were to be solved by extending a branch line to Nampa to meet the transcontinental main line in 1887 after a five-year delay. By 1891, electric trolleys were seen as necessary and added to the mix. By 1902, both Nampa and Caldwell attempted to displace Boise as the region's economic center.
@@ -15,6 +15,9 @@ To capitalize on this effort, businessman Walter E. Pierce of Boise incorporated
 
 The tracks of the interurban railways throughout the country and particularly in the West were ripped up and the cars shipped overseas as riders flocked to the freedom of automobile and bus manufacturers conspired to destroy the rail links. In the late 1990's, light interurban rail service is returning to the Boise Valley in the hopes of forestalling the paving of more real estate in the fast growing region.
 
+Written in 1998 for the UI Library's Digital Memories website.
+
 # Sources
 
 Purchase of *Boise and Interurban Railway Co. Ltd.: Souvenir ed., showing scenery along the route of the Boise and Interurban Railway, Boise and Caldwell* (1907) was made possible by funds provide by the John Calhoun Smith Memorial Fund.
+

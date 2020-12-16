@@ -4,7 +4,7 @@ date: 2020-12-08
 tags: ["university history"]
 subtitle: 
 cover-image: lumber200
-categories: []
+categories: [Digital Memories]
 ---
 
 There are, it turns out, several University of Idaho seals. The first to be documented was unanimously adopted by the Board of Regents on April 9, 1908: "In the matter of adopting a design for a new seal for the University, Mr. Vaughn appeared before the board and presented a design and explained the same for a new seal for the University." The new design was printed on the front page of the *Argonaut* on April 28, 1908. It was also used on the front cover of the *Catalogs* for 1907-08 and 1908-09 and reappeared there in 1932 and 1933.
@@ -26,3 +26,5 @@ Gibbs' real story is of the supplemental seal initially sketched on restaurant n
 The Lady of Knowledge seal was not discarded. In fact, in the mid-1960's it was redrawn and revamped. The lines were made cleaner and brighter. In addition, the objects in the foreground were more stylized, the sledge and one of the alembics disappeared, and books replaced the scrolls. Also, the lady was now looking down towards the book in her lap, reading, no doubt, instead of looking off to the sunrise over the mountain. The text was also shortened; it read simply "University of Idaho 1889." This new design appeared on the covers of the 1967 and 1969 catalogs.
 
 The following year the UI "daisy" was introduced in the catalog and became a dominant part of the University's graphic identity. But the "Lady" continued her presence inside the catalog through to the present day. A different, harsher, line drawing appeared in 1972 and was used until 1993. In the following year a darker, more black and white version of the original Lady, her eyes firmly set on the horizon and a scroll on her lap, appeared and has been consistently used since.
+
+Written January 2002 for the UI Library's Digital Memories website.
