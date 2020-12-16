@@ -4,7 +4,7 @@ date: 2020-11-18 12:58:07 -0800
 tags: ["forests","insects","trees"]
 subtitle: Archives buggin' out
 cover-image: lumber160
-categories: []
+categories: [What's Bugging You]
 author: Amy J. Thompson
 ---
 
