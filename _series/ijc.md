@@ -4,4 +4,4 @@ permalink: /series/ijc.html
 series: IJC
 ---
 
-### blog posts featuring our International Jazz Collections
+A series featuring our International Jazz Collections

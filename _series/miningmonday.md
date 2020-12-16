@@ -4,4 +4,4 @@ permalink: /series/miningmonday.html
 series: Mining Monday
 ---
 
-### Photos and information about mining in North Idaho
+A series about mining in North Idaho

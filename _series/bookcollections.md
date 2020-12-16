@@ -4,4 +4,4 @@ permalink: /series/bookcollections.html
 series: Book Collections
 ---
 
-### a series featuring our rare book collections
+A series featuring our rare book collections

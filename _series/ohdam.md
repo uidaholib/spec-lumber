@@ -4,4 +4,4 @@ permalink: /series/ohdam.html
 series: Oh Dam!
 ---
 
-### Photos and information about hydraulic dams in the Pacific Northwest
+A series about hydraulic dams in the Pacific Northwest

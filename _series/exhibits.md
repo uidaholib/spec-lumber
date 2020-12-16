@@ -4,4 +4,4 @@ permalink: /series/exhibits.html
 series: Exhibits
 ---
 
-### a series featuring library exhibits
+A series featuring library exhibits
