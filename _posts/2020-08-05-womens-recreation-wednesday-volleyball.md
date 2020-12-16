@@ -2,7 +2,7 @@
 title: Volleyball
 date: 2020-08-05
 tags: ["women's recreation","women","campus recreation","sports","athletes","volleyball"]
-subtitle: Women's Recreation Wednesda
+subtitle: Women's Recreation Wednesday
 cover-image: lumber026
 categories: [Women's Recreation Wednesday]
 author: Michelle A. Shannon
