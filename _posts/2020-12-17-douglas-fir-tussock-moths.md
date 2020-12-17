@@ -1,6 +1,6 @@
 ---
 title: Douglas Fir Tussock Moths
-date: 2020-12-17 09:57:04 -0800
+date: 2020-12-17 
 tags: ["insects","forests"]
 subtitle: What's Bugging You
 cover-image: lumber159
