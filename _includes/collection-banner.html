@@ -1,20 +1,20 @@
 <div class="container-fluid bg-dark text-white pb-4 pt-4">
     <div class="row align-items-center">
         <div class="col-md-2 d-none d-lg-block text-right">
-            <a class="btn btn-outline-light" href="{{ site.baseurl }}/" target="_blank" rel="noopener">
-                <img class="img-fluid" src="/assets/img/babyjoe.jpg" title="{{ site.organization-name }}" alt="{{ site.organization-name }} home" >
+            <a class="btn btn-outline-light" href="{{ '/' | absolute_url }}" >
+                <img class="img-fluid" src="{{ '/assets/img/babyjoe.jpg' | relative_url }}" alt="{{ site.title }} home, Baby Joe Vandal logo" >
             </a>
         </div>
         <div id="title" class="col-md-8 col-9 pt-3">
-            <h1><a class="text-white font-weight-normal" href="{{ site.baseurl }}/" >{{ site.title }}</a></h1>	 
+            <h1><a class="text-white font-weight-normal" href="{{ '/' | absolute_url }}" >{{ site.title }}</a></h1>	 
             {% if site.tagline %}<p class="mb-1 d-none d-lg-block ">{{ site.tagline }}</p>{% endif %}
 
             {% include collection-nav.html %}
 
         </div>
         <span class="col-3 d-lg-none text-right">
-            <a href="{{ site.organization-link }}" target="_blank" rel="noopener">
-                <img class="img-fluid" id="mobile-nav-image" src="/assets/img/babyjoe.jpg" title="{{ site.organization-name }}" alt="{{ site.organization-name }} home"  >
+            <a href="{{ '/' | absolute_url }}" >
+                <img class="img-fluid" id="mobile-nav-image" src="{{ '/assets/img/babyjoe.jpg' | relative_url }}" alt="{{ site.title }} home, Baby Joe Vandal logo" >
             </a>
         </span>
         <div class="col-md-2 pt-2 text-left">
