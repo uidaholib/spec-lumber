@@ -8,6 +8,8 @@ categories: ["Then and Now"]
 author: Amy J. Thompson
 ---
 
+Looking at the northwest side of Main Street in Juliaetta, Idaho. 
+
 {% include feature/image.html objectid="lumber218" %}
 
 {% include feature/image.html objectid="lumber219" %}
