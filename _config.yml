@@ -3,6 +3,7 @@
 # Jekyll Digital Collection Generator
 # https://github.com/CollectionBuilder/collectionbuilder-sa
 ##########
+date_format: "%B %-d, %Y %T"
 
 collections:
   posts:
