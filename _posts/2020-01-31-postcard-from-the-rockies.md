@@ -1,5 +1,5 @@
 ---
-title: postcard from the Rockies
+title: Postcard from the Rockies
 date: 2020-01-31
 tags: ["humor"]
 subtitle: Funny Friday 
