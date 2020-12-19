@@ -4,7 +4,7 @@ date: 2019-08-20
 tags: ["fish","fishing"]
 subtitle: 
 cover-image: lumber209
-categories: []
+categories: ["Funny Friday"]
 author: Michelle A. Shannon
 ---
 

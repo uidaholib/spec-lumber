@@ -4,7 +4,7 @@ date: 2020-08-20 13:48:37 -0700
 tags: ["voting","suffrage","women's rights",]
 subtitle: 
 cover-image: lumber016
-categories: []
+categories: ["Wonder Women"]
 author: Courtney E. Berge
 ---
 
@@ -20,6 +20,6 @@ At the same time Permeal French (who would serve as Dean of Women for the Univer
 
 {% include feature/image.html objectid="lumber024" %}
 
-[^1]: <https://www.nps.gov/articles/wyoming-women-s-history.htm#:~:text=In%20fact%2C%20Wyoming%20was%20the,motives%20for%20supporting%20this%20act.>
+[^1]: [Wyoming and the 19th Amendment](https://www.nps.gov/articles/wyoming-women-s-history.htm#:~:text=In%20fact%2C%20Wyoming%20was%20the,motives%20for%20supporting%20this%20act.)
 
-[^2]: <https://www.ncsl.org/legislators-staff/legislators/womens-legislative-network/first-women-in-state-legislatures.aspx>
+[^2]: [First Women to Serve in State and Territorial Legislatures](https://www.ncsl.org/legislators-staff/legislators/womens-legislative-network/first-women-in-state-legislatures.aspx)
