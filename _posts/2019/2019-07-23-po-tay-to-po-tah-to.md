@@ -4,7 +4,7 @@ date: 2019-07-23
 tags: ["potatoes"]
 subtitle: 
 cover-image: lumber248
-categories: ["Funny Friday"]
+categories: ["potatopotuesday","Funny Friday"]
 author: Michelle A. Shannon
 ---
 
