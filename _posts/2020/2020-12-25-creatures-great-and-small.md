@@ -9,7 +9,7 @@ categories: ["What's Bugging You"]
 author: Amy J. Thompson
 ---
 
-For this holiday edition of What's Bugging You, we're focusing on some of the larger critters and creatures sharing space in our forests. Some of the damage porcupines, bears and cows cause to trees can be found on this page of a Forest Research Photo Album found in our [Potlatch Corporation Historical Archives](https://archiveswest.orbiscascade.org/ark:/80444/xv40829/)
+For this holiday edition of What's Bugging You, we're focusing on some of the larger critters and creatures sharing space in our forests. Some of the damage porcupines, bears and cows cause to trees can be found on this page of a Forest Research Photo Album found in our [Potlatch Corporation Historical Archives](https://archiveswest.orbiscascade.org/ark:/80444/xv40829/).
 
 {% include feature/image.html objectid="lumber283" %}
 
@@ -23,7 +23,7 @@ Bears cause a similar damage but on a much larger scale per tree. Bear habitat c
 
 {% include feature/digital-image.html objectid="stonebraker570" collection="stonebraker" %}
 
-For more information about bears, see the Agricultural and Extension publication [A Private Landowner's Guide to Managing Black Bear Habitat](https://digital.lib.uidaho.edu/digital/collection/ui_ep/id/24417)
+For more information about bears, see the Agricultural and Extension publication [A Private Landowner's Guide to Managing Black Bear Habitat](https://digital.lib.uidaho.edu/digital/collection/ui_ep/id/24417).
 
 Allowing livestock such as cattle to graze on forested lands has had a long tradition despite the potential for unsuitable food sources that could cause harm or illness to cows. Pastures are often planted with trees as a secondary income source or for the health and productivity of the ecosystem. Cows are most likely to cause damage by stepping on small trees or leaning or rubbing against larger trees, but will also eat nutrient-rich tops of small trees.
 
