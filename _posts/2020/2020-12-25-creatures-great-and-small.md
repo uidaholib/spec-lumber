@@ -1,6 +1,6 @@
 ---
 title: Creatures Great and Small
-date: 2020-12-25
+date: 2020-12-20
 tags: ["porcupines","bears","cows","scrapbooks","trees"]
 subtitle: 
 cover-image-collection: plcphotos
