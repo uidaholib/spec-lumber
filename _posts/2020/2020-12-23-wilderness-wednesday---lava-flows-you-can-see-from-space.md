@@ -20,8 +20,6 @@ This area was established as a National Monument on May 2, 1924 by President Cal
 
 {% include feature/digital-image.html objectid="nwpostcards689;nwpostcards640" collection="postcards" cdm-collection="nwpostcards" %}
 
-<!--- DEVIN: the below image is from Hist Photo. Is that technically a digital collection or is the image.html include correct? --->
-
 {% include feature/image.html objectid="https://www.lib.uidaho.edu/media/spec/histphoto/Pg99/99-H-133-06.jpg" link="https://www.lib.uidaho.edu/media/spec/histphoto/Pg99/99-H-133-06.jpg" caption="Spatter Cone, Craters of the Moon National Monument" %}
 
 
