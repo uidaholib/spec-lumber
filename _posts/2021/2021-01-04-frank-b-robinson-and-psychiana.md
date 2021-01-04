@@ -1,6 +1,6 @@
 ---
 title: Frank B. Robinson and Psychiana
-date: 2021-01-04 11:16:21 -0800
+date: 2021-01-04 10:16:21 -0800
 tags: [religions, Psychiana, Frank B. Robinson, books, autobiographies]
 subtitle: Digital Memories
 cover-image: lumber284
