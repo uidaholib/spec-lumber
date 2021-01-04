@@ -1,13 +1,11 @@
 ---
 title: W.C. Handy letter
-date: 2022-12-16 11:29:23 -0800
-tags: []
-subtitle: 
+date: 2021-02-01 11:29:23 -0800
+tags: [jazz, blues, minstrel shows, African Americans, Blacks, Lewiston]
+subtitle: Digital Memories
 cover-image: 
 categories: [Digital Memories]
 ---
-
-Written in January 1996 for the library's Digital Memories website.
 
 In this letter to a Lewiston autograph collector, W. C. Handy reminisces about traveling to Lewiston with Mahara's Minstrels. He pinpoints 1896 "when McKinley and Bryan were the republican and democratic nominees for president." Handy joined Mahara's in August 1896, according to his autobiography, Father of the Blues (1941), and the minstrel troupe reached Lewiston in early November. The Lewiston Twice-A-Week Tribune reported on October 31st that "Mahara's refined minstrels have made an engagement for Tuesday night next...."
 
@@ -18,5 +16,7 @@ Traveling minstrel shows were a common occurrence in Idaho mining towns from the
 The movie of Handy's life, St. Louis Blues, was released in 1958 and, as promised, starred Nat King Cole as Handy. Also featured were Eartha Kitt, Pearl Bailey, Cab Calloway, Mahalia Jackson, Ruby Dee, and Ella Fitzgerald.
 
 Acquisition of this autograph letter was made possible with funds provided by the Library Associates, the "friends" of the University of Idaho Library.
+
+**Written in January 1996 for the library's Digital Memories website.**
 
 Letter: Handy, W. C. (William Christopher), 1873-1958. Letter, July 31, 1957, New York. Special Collections, University of Idaho Library. MG 5560
