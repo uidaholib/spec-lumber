@@ -1,10 +1,11 @@
 ---
 title: Payette National Forest
 date: 2021-01-06
-tags: ["wilderness","roads","rivers"]
+tags: ["wilderness","roads","rivers","forests","Payette]
 subtitle: Wilderness Wednesday
 cover-image: https://digital.lib.uidaho.edu/digital/api/singleitem/image/cccidaho/867/default.jpg?highlightTerms=
 categories: ["Wilderness Wednesday"]
+author: Michelle A. Shannon
 ---
 
 The Payette National Forest was originally established in 1905 but in 1944, the Weiser National Forest (established 1905) and the Idaho National Forest (established 1908) were combined to create much of the Payette National Forest that we know today.[^1]
