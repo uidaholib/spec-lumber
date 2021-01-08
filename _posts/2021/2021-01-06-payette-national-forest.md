@@ -3,7 +3,8 @@ title: Payette National Forest
 date: 2021-01-06
 tags: ["wilderness","roads","rivers","forests","Payette"]
 subtitle: Wilderness Wednesday
-cover-image: https://digital.lib.uidaho.edu/digital/api/singleitem/image/cccidaho/867/default.jpg?highlightTerms=
+cover-image-collection: cccidaho
+cover-image: cccidaho867
 categories: ["Wilderness Wednesday"]
 author: Michelle A. Shannon
 ---
