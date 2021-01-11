@@ -3,13 +3,13 @@ title: Idaho Stunts at WSC
 date: 2021-01-11 09:17:59 -0800
 tags: [WSC,contests,sports]
 subtitle: Digital Memories
-cover-image: pg22551
+cover-image: https://digital.lib.uidaho.edu/digital/iiif/pg2/2551/full/max/0/default.jpg
 categories: [Digital Memories]
 author: 
 ---
 
 
->Pep rallies and half-time events have a long tradition on the university campus; one of the earlier manifestations was the Harvard Yell Contest. In 1919, the Harvard Clubs of the University of Idaho and nearby Washington State College jointly offered a prize to the school "showing superior sportsmanship and entertainment at the WSC-Idaho game." [^1]
+Pep rallies and half-time events have a long tradition on the university campus; one of the earlier manifestations was the Harvard Yell Contest. In 1919, the Harvard Clubs of the University of Idaho and nearby Washington State College jointly offered a prize to the school "showing superior sportsmanship and entertainment at the WSC-Idaho game." [^1]
 
 {% include feature/digital-image.html objectid="pg22551" collection="pg2" %}
 
