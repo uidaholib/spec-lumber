@@ -3,7 +3,8 @@ title: Idaho Stunts at WSC
 date: 2021-01-11 09:17:59 -0800
 tags: [WSC,contests,sports]
 subtitle: Digital Memories
-cover-image: https://digital.lib.uidaho.edu/digital/iiif/pg2/2551/full/max/0/default.jpg
+cover-image-collection: pg2
+cover-image: pg22551
 categories: [Digital Memories]
 author: 
 ---
