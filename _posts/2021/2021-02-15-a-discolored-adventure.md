@@ -4,7 +4,7 @@ date: 2021-02-15 11:30:21 -0800
 tags: [jazz, lionel hampton, medals, artifacts]
 subtitle: 
 cover-image: lumber142
-categories: []
+categories: [International Jazz Collections]
 ---
 
 
