@@ -1,50 +1,49 @@
 ---
 title: Newsletter
-layout: series
+layout: newsletter
 permalink: /newsletter.html
 ---
 
 {% assign posts = paginator.posts | default: site.posts %}
 
 <div class="posts-list">
-  {% for post in posts offset: 1 %}
+  {% for post in posts limit: 20 %}
   <article class="post-preview">
     <a class="text-dark" href="{{ post.url | absolute_url }}">
-      <h2 class="post-title">{{ post.title }}</h2>
-      {% if post.subtitle %}
-        <h3 class="post-subtitle">
-        {{ post.subtitle }}
-        </h3>
-      {% endif %}
-    </a>
-
-    <p class="post-meta">
-      {% assign date_format = site.date_format | default: "%B %-d, %Y" %}
-      Posted on {{ post.date | date: date_format }}
-    </p>
-
+      <h2 class="post-title">{{ post.title }}</h2> </a>
     <div class="post-entry-container">
       {%if post.cover-image%}
       <div class="post-image">
         <a href="{{ post.url }}">
-          <img src="{% include image/post-thumb-with-alt.html %}" >
+          <img class="pl-4 pb-4" src="{% include image/post-thumb-with-alt.html %}">
         </a>
       </div>
       {% endif %}
-      
+
       <div class="post-entry">
+       
+          {% if post.subtitle %}
+          <h3 class="post-subtitle">
+            {{ post.subtitle }}
+          </h3>
+          {% endif %}
+       
+        <p class="post-meta">
+          {% assign date_format = site.date_format | default: "%B %-d, %Y" %}
+          Posted on {{ post.date | date: date_format }}
+        </p>
         {% assign excerpt_length = site.excerpt_length | default: 50 %}
         {{ post.excerpt | strip_html | xml_escape | truncatewords: excerpt_length }}
         {% assign excerpt_word_count = post.excerpt | number_of_words %}
         {% if post.content != post.excerpt or excerpt_word_count > excerpt_length %}
-          <a href="{{ post.url | absolute_url }}" class="post-read-more">[Read&nbsp;More]</a>
+        <a href="{{ post.url | absolute_url }}" class="post-read-more">[Read&nbsp;More]</a>
         {% endif %}
       </div>
     </div>
 
-    
 
-   </article>
+
+  </article>
   {% endfor %}
 </div>
 
