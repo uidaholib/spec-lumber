@@ -3,7 +3,7 @@ title: Garden of Paradise
 date: 2021-01-18 08:08:47 -0800
 tags: [music, songs, contests]
 subtitle: Digital Memories
-cover-image: lumber286
+cover-image: lumber288
 categories: [Digital Memories]
 ---
 
