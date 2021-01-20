@@ -18,13 +18,15 @@ Eight years later, in April 1911, President Roosevelt visited the University of 
 
 <!--- {% include feature/digital-image.html collection="uihistorical" objectid="spec_uihp431;spec_uihp405;spec_uihp397" %} --->
 
-{% include feature/item-pdf-embed.html objectid="lumber291;lumber292" %}
-
 {% include feature/image.html objectid="https://digital.lib.uidaho.edu/digital/iiif/spec_uihp/431/full/pct:70/0/default.jpg" link="https://www.lib.uidaho.edu/digital/uihistorical/items/spec_uihp431.html" caption="President Roosevelt speaking on platform in front of University of Idaho Administration Building" %}
 
 {% include feature/image.html objectid="https://digital.lib.uidaho.edu/digital/iiif/spec_uihp/397/full/pct:70/0/default.jpg" link="https://www.lib.uidaho.edu/digital/uihistorical/items/spec_uihp397.html" caption="crowd assembled on University of Idaho campus to hear President Roosevelt speak" %}
 
 {% include feature/image.html objectid="https://digital.lib.uidaho.edu/digital/iiif/spec_uihp/405/full/pct:70/0/default.jpg" link="https://www.lib.uidaho.edu/digital/uihistorical/items/spec_uihp405.html" caption="President Roosevelt and group of dignitaries, including Idaho Governor James Hawley, former Idaho Governor William J. McConnell, and University of Idaho President James MacLean" %}
+
+{% include feature/item-pdf-embed.html objectid="lumber291" %}
+
+{% include feature/item-pdf-embed.html objectid="lumber292" %}
 
 # Sources
 
