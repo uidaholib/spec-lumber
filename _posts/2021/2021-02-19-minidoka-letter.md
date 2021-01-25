@@ -1,6 +1,6 @@
 ---
 title: Minidoka Letter
-date: 2021-02-19 11:47:45 -0800
+date: 2021-02-22 11:47:45 -0800
 tags: [Minidoka; concentration camps; World War II; Japanese immigrants; Japanese Americans; letters]
 subtitle: Digital Memories
 cover-image: lumber287
