@@ -1,5 +1,5 @@
 ---
-title: Black History month - Jennie Eva Hughes
+title: Black History Month - Jennie Eva Hughes
 date: 2020-02-02
 tags: ["Black history","university diversity","Jennie Eva Hughes Smith"]
 subtitle: 
