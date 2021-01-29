@@ -1,5 +1,5 @@
 ---
-title: Happy 130th Birthday to the University of Idaho!
+title: Happy 132nd Birthday to the University of Idaho!
 date: 2021-01-29
 tags: ["anniversaries"]
 subtitle: 
@@ -8,7 +8,7 @@ categories: []
 author: Michelle A. Shannon
 ---
 
-The University of Idaho was founded 130 years ago on January 30, 1889. Idaho Governor Edward A. Stevenson signed the Territorial Legislature's Council Bill No. 20 which established the University of Idaho.[^1]
+The University of Idaho was founded 132 years ago on January 30, 1889. Idaho Governor Edward A. Stevenson signed the Territorial Legislature's Council Bill No. 20 which established the University of Idaho.[^1]
 
 {% include feature/image.html objectid="lumber296" %}
 
