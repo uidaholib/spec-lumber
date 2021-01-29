@@ -1,5 +1,5 @@
 ---
-title: Happy 130th Birthday to University of Idaho!
+title: Happy 130th Birthday to the University of Idaho!
 date: 2021-01-29
 tags: ["anniversaries"]
 subtitle: 
