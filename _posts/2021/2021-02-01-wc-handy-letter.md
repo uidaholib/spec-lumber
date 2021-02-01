@@ -3,7 +3,7 @@ title: W.C. Handy letter
 date: 2021-02-01 08:00:23 -0800
 tags: [blues, minstrel shows, autographs, musicians, African Americans, Blacks, Lewiston]
 subtitle: Digital Memories
-cover-image: lumber285
+cover-image: lumber298
 categories: [Digital Memories]
 ---
 
