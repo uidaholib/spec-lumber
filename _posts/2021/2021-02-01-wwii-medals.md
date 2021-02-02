@@ -1,6 +1,6 @@
 ---
 title: WWII Medals
-date: 2022-02-01 14:26:22 -0800
+date: 2021-02-01 14:26:22 -0800
 tags: []
 subtitle: 
 cover-image: lumber303
