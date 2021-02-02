@@ -3,10 +3,9 @@ title: Garden of Paradise
 date: 2021-01-18 08:08:47 -0800
 tags: [music, songs, contests]
 subtitle: Digital Memories
-cover-image: https://webpages.uidaho.edu/library/spec/harvester/objects/daynw_os_m1959_h8_1926_cover.jpg
+cover-image: lumber286
 categories: [Digital Memories]
 ---
-
 
 
 The tropical paradise pictured on this sheet music cover is part of the tangled history of the University of Idaho's alma mater and the state song of Idaho. The music for this popular song was adapted by Alice Bessee to fit words by McKinley Helm, both University of Idaho students, for a 1917 campus song contest. Their new song, "Our Idaho," won the contest and became a regular feature of university events.

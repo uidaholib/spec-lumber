@@ -119,6 +119,17 @@ task :generate_derivatives, [:thumbs_size, :small_size, :density, :missing, :im_
       else
         puts "Skipping existing file"
       end
+    elsif extname == ".pdf"
+      access_imagefilename=File.join([objects_dir, "#{base_filename}.jpg"])
+      access_filename=File.join([objects_dir, "#{base_filename}#{extname}"])
+      if args.missing == 'false' or !File.exists?(access_filename)
+        puts "Creating #{access_imagefilename}"
+        system("#{cmd_prefix} -flatten #{access_imagefilename}")
+        puts "Copying #{filename} to objects dir for access as #{access_filename}."
+        system("cp #{filename} #{access_filename}")
+      else
+        puts "Skipping existing file"
+      end      
     else
       access_filename=File.join([objects_dir, "#{base_filename}#{extname}"])
       if args.missing == 'false' or !File.exists?(access_filename)
