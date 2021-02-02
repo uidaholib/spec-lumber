@@ -3,7 +3,7 @@ title: Garden of Paradise
 date: 2021-01-18 08:08:47 -0800
 tags: [music, songs, contests]
 subtitle: Digital Memories
-cover-image: lumber288
+cover-image: https://webpages.uidaho.edu/library/spec/harvester/objects/daynw_os_m1959_h8_1926_cover.jpg
 categories: [Digital Memories]
 ---
 
