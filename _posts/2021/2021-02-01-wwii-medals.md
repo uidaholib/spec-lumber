@@ -12,7 +12,9 @@ These medals are part of the Hays Family Papers collections.
 
 # U.S. Army Colonel Rank Eagle Insignia Pin
 
-The first medal is the US Army Colonel Rank Eagle Insignia Pin. "The bald eagle has been the national bird of the United States since 1782, when it was placed with outspread wings on the Great Seal of our country."[^1] In the military, a colonel is a senior officer rank and the insignia for a colonel is a silver eagle with stretched wings similar to the eagle on the Great Seal. There are a few differences between the eagle on the Great Seal and the eagle insignia for a military colonel: the insignia does not have an olive branch of bundle of arrows in either talon like the eagle in the Great Seal does.[^2] There are two versions, war and peace.[^3]
+This insignia pin is given to Colonels in the Army, Marine Corps, and Air Force.(https://www.defense.gov/Resources/Insignia/) A Colonel is one of the most "senior field grade military officer" ranks in the military.[Colonel United States](https://en.wikipedia.org/wiki/Colonel_(United_States)#Insignia) The eagle is styled similarly to the eagle on the [Great Seal of the United States](https://en.wikipedia.org/wiki/Great_Seal_of_the_United_States). The bald eagle was established as the U.S. national bird and placed on the Great Seal in 1782.[The American Bald Eagle, U.S. Department of Veterans Affairs](https://www.va.gov/opa/publications/celebrate/eagle.pdf). Just like the Great Seal, the colonel insignia pin eagle is holding an olive branch and bundle of arrows in its talons, while facing left. 
+
+Captains in the Navy and Coast Guard are equivalent in rank to Colonels in the Army, Marine Corps, and Air Force. Captains receive a collar, shoulder, and sleeve insignia, one of which is this same eagle insignia pin.
 
 {% include feature/image.html objectid="lumber299;lumber300" %}
 
