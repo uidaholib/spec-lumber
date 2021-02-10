@@ -1,7 +1,7 @@
 ---
 title: The beginning of Special Collections!
 date: 2016-06-09
-tags: ["archives month","libraries","foundings"]
+tags: ["archives month","libraries","foundings","M. Belle Sweet"]
 subtitle: 
 cover-image: lumber380
 categories: []
