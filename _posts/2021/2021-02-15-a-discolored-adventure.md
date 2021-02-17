@@ -5,6 +5,7 @@ tags: [jazz, lionel hampton, medals, artifacts]
 subtitle: 
 cover-image: lumber142
 categories: [International Jazz Collections]
+author: Courtney E. Berge
 ---
 
 
