@@ -5,7 +5,7 @@ tags: ["women's recreation","women","campus recreation","sports","athletes","bad
 subtitle: Women's Recreation Wednesday
 cover-image: lumber087
 categories: ["Women's Recreation Wednesday"]
-author: Hannah Cleere & Michelle A. Shannon
+author: Michelle A. Shannon
 ---
 
 This week, we have photos of women playing badminton, likely in the Old Memorial Gym on campus. 
@@ -31,6 +31,8 @@ Stayed tuned for next week's edition of Women's Recreation Wednesday!
 # Sources
 
 Photos courtesy of [UG 69 (University of Idaho Women's Recreation Association Photographs)](http://archiveswest.orbiscascade.org/ark:/80444/xv152953/op=fstyle.aspx?t=k&amp;q=)
+
+Research partially conducted by student worker Hannah Cleere.
 
 [^1]: [USA Badminton History](https://www.teamusa.org/usa-badminton/about/history)
 
