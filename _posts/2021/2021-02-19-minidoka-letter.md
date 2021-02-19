@@ -1,9 +1,9 @@
 ---
 title: Minidoka Letter
-date: 2021-02-20 11:47:45 -0800
+date: 2021-02-19 11:47:45 -0800
 tags: [Minidoka; concentration camps; World War II; Japanese immigrants; Japanese Americans; letters]
 subtitle: Digital Memories
-cover-image: lumber287
+cover-image: https://webpages.uidaho.edu/library/spec/harvester/objects/mg387_03.jpg
 categories: [Digital Memories]
 ---
 
