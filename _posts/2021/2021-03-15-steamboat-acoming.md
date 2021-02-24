@@ -1,13 +1,12 @@
 ---
 title: Steamboat a'Coming
 date: 2021-03-15 07:28:23 -0800
-tags: [steamboats, Coeur d'Alene, tourism, ore transport]
+tags: ["steamboats","Coeur d'Alene","tourism","ore transport"]
 subtitle: Digital Memories 
 cover-image: lumber450
-categories: [Digital Memories]
-author: Stuart Robb
+categories: ["Digital Memories"]
+author:
 ---
-
 
 It was in 1880 that the age of steamboat travel in the Coeur d'Alenes of northern Idaho began. For over a decade steamboats formed a valuable link between the gold and silver mining region and the rest of the world as it quickly became apparent that the key to the region's future hinged on the development of reliable transportation. The transition to hard-rock silver mining fueled the territory's development and required a complex transportation system necessary to maintain it.
 
