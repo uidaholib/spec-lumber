@@ -1,7 +1,7 @@
 ---
 title: A Discolored Adventure
 date: 2021-02-15 11:30:21 -0800
-tags: [jazz, Lionel Hampton, medals, artifacts]
+tags: [jazz, Lionel Hampton, medals, artifacts, conservation, preservation]
 subtitle: 
 cover-image: lumber142
 categories: [International Jazz Collections]
