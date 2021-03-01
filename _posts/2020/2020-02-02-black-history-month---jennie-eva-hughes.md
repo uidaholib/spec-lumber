@@ -1,7 +1,7 @@
 ---
 title: Jennie Eva Hughes
 date: 2020-02-02
-tags: ["Black history","university diversity","Jennie Eva Hughes Smith"]
+tags: ["Black history","university diversity","women","Jennie Eva Hughes Smith"]
 subtitle: 
 cover-image: lumber165
 categories: ["Wonder Women"]
