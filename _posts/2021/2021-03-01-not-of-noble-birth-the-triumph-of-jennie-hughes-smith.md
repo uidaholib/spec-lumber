@@ -1,11 +1,11 @@
 ---
 title: "Not of Noble Birth: The Triumph of Jennie Hughes Smith"
 date: 2021-03-01 07:52:41 -0800
-tags: ["women","diversity","Black Americans"]
+tags: ["women","university diversity","Black history","Jennie Eva Hughes Smith"]
 subtitle: Digital Memories
 cover-image-collection: pg2
 cover-image: pg21002
-categories: [Digital Memories]
+categories: ["Digital Memories"]
 ---
 
 Jennie Eva Hughes, Class of 1899, was the first African-American to graduate from the University of Idaho. She was born on July 20, 1879, in Washington, D.C. Little is known about Jennie’s father, Alexander Hughes, but it is known that her mother, Louisa, married Lewis E. Crisemon shortly after Jennie was born. Like other Americans during the 19th century, the Crisemon family moved westward, first to Pennsylvania, where daughter Gertrude was born, then to the Indian Territory (Oklahoma), where second daughter Lousinda was born, and finally to Idaho, where Louisa and Lewis’ third daughter, Carrie, was born.
