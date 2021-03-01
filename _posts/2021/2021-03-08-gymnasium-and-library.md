@@ -1,6 +1,6 @@
 ---
 title: Gymnasium and Library
-date: 2021-03-01 07:34:13 -0800
+date: 2021-03-08 07:34:13 -0800
 tags: ["libraries","librarians","gyms","athletics"]
 subtitle: Digital Memories
 cover-image-collection: pg1
