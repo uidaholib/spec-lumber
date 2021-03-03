@@ -1,10 +1,10 @@
 ---
 title: Minidoka Letter
 date: 2021-02-19 11:47:45 -0800
-tags: [Minidoka; concentration camps; World War II; Japanese immigrants; Japanese Americans; letters]
+tags: ["Minidoka","concentration camps","World War II","Japanese immigrants","Japanese Americans","letters"]
 subtitle: Digital Memories
 cover-image: https://webpages.uidaho.edu/library/spec/harvester/objects/mg387_03.jpg
-categories: [Digital Memories]
+categories: ["Digital Memories"]
 ---
 
 
@@ -17,5 +17,7 @@ Residents of Seattle's green and moist climate were in for shock when they arriv
 The papers of George Shitamae covering his war-time internment were recently acquired by the University of Idaho Library through the generosity of the Library Associates of the University of Idaho Library.
 
 **Written in 1997 for the library's Digital Memories website.**
+
+# Sources
 
 Letter: Niece Fumiko to George Shihei Shitamae, September 5, 1942. George Shihei Shitamae papers, Special Collections and Archives, University of Idaho Library.
