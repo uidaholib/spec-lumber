@@ -1,7 +1,7 @@
 ---
 title: 75 Years, Remembering the Hiroshima Bombing
 date: 2020-08-06 08:39:29 -0800
-tags: [World War II,bombs,nuclear warfare]
+tags: ["World War II","bombs","nuclear warfare", "Japan"]
 subtitle: 
 cover-image: lumber201
 categories: [Exhibits]
