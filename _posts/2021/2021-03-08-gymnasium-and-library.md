@@ -15,7 +15,7 @@ The alliance between athletics and academics, uneasy at best, is nowhere more ex
 
 With the 738 books that had been checked out, and gifts from library supporters, friends and alumni, she started over. Miss Sweet recalled, in a 1961 interview, that:
 
-    On Monday morning after the fire the library opened in the gymnasium. Linoleum was rolled down, tables set up, a few chairs placed around, and then at night, at 4 o'clock it was turned over to the students for use as a gymnasium. They had constructed wooden bookcases on one side under the balcony and if by chance a basketball went behind the bookcase the boys went up the bookcase on the shelves, step by step and down went the books. So there would be a heap of books on the floor after the games and they had to be sorted and put back as soon as possible.
+*"On Monday morning after the fire the library opened in the gymnasium. Linoleum was rolled down, tables set up, a few chairs placed around, and then at night, at 4 o'clock it was turned over to the students for use as a gymnasium. They had constructed wooden bookcases on one side under the balcony and if by chance a basketball went behind the bookcase the boys went up the bookcase on the shelves, step by step and down went the books. So there would be a heap of books on the floor after the games and they had to be sorted and put back as soon as possible."*
 
 In the fall of 1907, the library was moved to rathe second floor of Morrill Hall, its home until the completion of the central part of the "new" Administration Building in late 1908. Miss Sweet remained in charge until her retirement in 1948, building the state's largest library for a total of 43 years.
 
