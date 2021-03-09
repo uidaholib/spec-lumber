@@ -5,6 +5,7 @@ tags: []
 subtitle: 
 cover-image: lumber568
 categories: []
+author: Michelle A. Shannon
 ---
 
 Today we have some fun fishing facts from the Idaho Department of Fish and Game! There several reasons why Idaho is a great fishing destination:
