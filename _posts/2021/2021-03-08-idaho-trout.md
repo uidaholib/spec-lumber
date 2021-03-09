@@ -1,6 +1,6 @@
 ---
 title: Idaho Trout
-date: 2021-03-09 15:26:54 -0800
+date: 2021-03-09
 tags: []
 subtitle: 
 cover-image: lumber568
