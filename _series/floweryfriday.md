@@ -4,4 +4,4 @@ permalink: /series/floweryfriday.html
 series: Flowery Friday
 ---
 
-### a series featuring flowers from our collections and campus
+A series featuring flowers from our collections and campus

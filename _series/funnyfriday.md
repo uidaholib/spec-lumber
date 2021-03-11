@@ -4,4 +4,4 @@ permalink: /series/funnyfriday.html
 series: Funny Friday
 ---
 
-### humorous materials from the archives
+A series featuring humorous materials from the archives

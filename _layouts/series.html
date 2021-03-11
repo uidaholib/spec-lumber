@@ -20,7 +20,7 @@ enabled: true
     <div class="row">
         <div class="col-md-6 text-center">
             <a href="{{ post.url | absolute_url }}"> <img class="img-fluid"
-                    src="{% include image/post-image.html %}"></a>
+                    src="{% include image/post-image.html %}" alt="Preview image for {{post.title}}"></a>
         </div>
         <div class="col-md-6 p-5">
             <article class="post-preview">
@@ -93,7 +93,7 @@ enabled: true
                         {%if post.cover-image%}
                         <div class="post-image">
                             <a href="{{ post.url }}">
-                                <img src="{% include image/post-thumb.html %}">
+                                <img src="{% include image/post-thumb-with-alt.html %}" >
                             </a>
                         </div>
                         {% endif %}

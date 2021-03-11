@@ -4,4 +4,4 @@ permalink: /series/fullcaxtonjacket.html
 series: Full Caxton Jacket
 ---
 
-### a series featuring rare books published by Caxton Press
+A series featuring our rare books published by Caxton Press

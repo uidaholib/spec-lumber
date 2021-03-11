@@ -23,7 +23,7 @@ To sign up for our monthly newsletter and receive a round up of all our posts fr
 
 ## Contributors
 
-This blog represents the thought and interests of our past and present staff in Special Collections & Archives. To view individuals work, please click on link below: 
+This blog represents the thoughts and interests of our past and present staff in Special Collections & Archives. To view an individual's work, please click on link below: 
 
 {% for writer in site.writers %}- [{{writer.title}}]({{writer.permalink}})
 {% endfor %}

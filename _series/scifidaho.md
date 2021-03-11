@@ -4,4 +4,4 @@ permalink: /series/scifidaho.html
 series: scifidaho
 ---
 
-### Interesting finds from our Vicki Mitchell Science Fiction Collection.
+Interesting finds from our Vicki Mitchell Science Fiction Collection.

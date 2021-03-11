@@ -4,4 +4,4 @@ permalink: /series/logginglessons.html
 series: Logging Lessons
 ---
 
-### Photos and information about logging in North Idaho
+A series featuring our logging collections

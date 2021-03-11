@@ -4,4 +4,4 @@ permalink: /series/tailsfromthepast.html
 series: tailsfromthepast
 ---
 
-### Photos from our collections showing people and their pets.
+Photos from our collections showing people and their pets.
