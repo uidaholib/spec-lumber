@@ -3,8 +3,9 @@ title: Your Fallout Shelter Reading List
 date: 2020-03-10 10:00:24 -0800
 tags: ["fallout shelters","University of Idaho","government documents","class"]
 subtitle: The Cold War coursework you probably never knew about
-cover-image: lumber716
+cover-image: lumber726
 categories: []
+author: Robert E Perret
 ---
 At the height of the Cold War, President John Kennedy endorsed the Community Fallout Shelter Program in the pages of Life Magazine. Many universities began teaching courses on fallout shelter design and analysis. There was a brief but intense interest in the construction of shelters, and even the U of I once had 17 on campus, capable of accomodating up to 10,000 people. However, public support waned in just a few years and by the early 1970s all government funding for fallout shelters was gone. In the 1990s, the rations contained in the shelters constructed 20 years earlier began to expire and most bunkers, including every campus bunker, was decommisioned. Thanks to the papers of Professor John Dixon, who taught classes based on federal programs designed by both the Office for Civil Defense and the Federal Emergency Management Agency from the 1960s into the 1980s, we have a glimpse at the materials used in those courses at the University of Idaho.
 {% include feature/image.html objectid="lumber656;lumber659;lumber663" %} 
