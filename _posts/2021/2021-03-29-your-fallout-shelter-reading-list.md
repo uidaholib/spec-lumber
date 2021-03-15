@@ -1,6 +1,6 @@
 ---
 title: Your Fallout Shelter Reading List
-date: 2021-03-10 10:00:24 -0800
+date: 2021-03-29 10:00:24 -0800
 tags: ["fallout shelters","University of Idaho","government documents","class"]
 subtitle: The Cold War coursework you probably never knew about
 cover-image: lumber726
