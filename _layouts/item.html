@@ -72,8 +72,8 @@ gallery: true
         </div>
     </div>
 
-    {% if page.blogposts %}
     <div class="row justify-content-end mt-4">
+        {% if page.blogposts %}
         <div class="col-sm">
             <div class="card mb-2">
                 <div class="card-header">Associated Blog Posts</div>
@@ -88,7 +88,26 @@ gallery: true
                 </div>
             </div>
         </div>
+        {% endif %}
+
+        {% if page.findingaid %}
+        <div class="col-sm">
+            <div class="card mb-2">
+                <div class="card-header">Finding Aid or Digital Collection</div>
+                <div class="card-body">
+                    <dl>
+                        <dd>
+                            <a target="_blank" rel="noopener" href="{{ page.findingaid }}">
+                                {{ page.findingaidtitle }}
+                            </a>
+                        </dd>
+                    </dl>
+                </div>
+            </div>
+        </div>
     {% endif %}
+    </div>
+    
 
     <div class="row justify-content-end mt-4">
         <div class="col-sm">
@@ -104,6 +123,7 @@ gallery: true
                 </div>
             </div>
         </div>
+
         {% if page.rights or page.rightsstatement %}
         <div class="col-sm">
             <div class="card mb-2">
