@@ -3,7 +3,7 @@ title: calling from afar
 date: 2018-06-15
 tags: ["Bald Mountain","tools","radars","land surveys","Sun Valley"]
 subtitle: 
-cover-image: 
+cover-image: lumber536
 categories: ["Archives Outdoors"]
 author: Amy J. Thompson
 ---
