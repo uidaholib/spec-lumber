@@ -32,6 +32,8 @@ thumbnail,” meaning they required diligent and routine maintenance.
 
 Stay tuned for next week’s Logging Lessons where we’ll discuss transporting logs with the natural forces of water!
 
+# Sources
+
 Photo courtesy of Potlatch Historical Society
 
 [^1]: Box 3, Folder 41, MG 482 (Craig Mountain Forest Protective District Records), University of Idaho Library, Special Collections &Archives, Moscow, Idaho. American Pulpwood Association, *Small Crawler Operator’s Handbook*, undated.
