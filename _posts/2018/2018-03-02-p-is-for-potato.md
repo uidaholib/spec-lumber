@@ -3,7 +3,7 @@ title: P is for Potato
 date: 2018-03-02
 tags: ["potatoes","children's books"]
 subtitle: 
-cover-image: https://webpages.uidaho.edu/library/spec/harvester/objects/pisforpotato.jpg
+cover-image: lumber817
 categories: []
 author: 
 ---

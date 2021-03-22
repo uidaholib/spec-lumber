@@ -3,7 +3,7 @@ title: A Child Is Born
 date: 2017-03-08
 tags: ["rare books","Caxton Press","women","childbirth"]
 subtitle: 
-cover-image: https://webpages.uidaho.edu/library/spec/harvester/objects/achildisborn.jpg
+cover-image: lumber840
 categories: ["Full Caxton Jacket"]
 author: Amy J. Thompson
 ---

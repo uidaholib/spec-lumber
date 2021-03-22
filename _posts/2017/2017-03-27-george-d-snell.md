@@ -3,7 +3,7 @@ title: George D. Snell
 date: 2017-03-27
 tags: ["rare books","Caxton Press","fiction","Latter-Day Saints","financial","small town life"]
 subtitle: 
-cover-image: https://webpages.uidaho.edu/library/spec/harvester/objects/thegreatadam.jpg
+cover-image: lumber856
 categories: ["Full Caxton Jacket"]
 author: Amy J. Thompson
 ---

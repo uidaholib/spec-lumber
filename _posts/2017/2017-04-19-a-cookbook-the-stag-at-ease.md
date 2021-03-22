@@ -3,7 +3,7 @@ title: A Cookbook - the Stag at Ease
 date: 2017-04-19
 tags: ["rare books","Caxton Press","cookbooks","recipes","food"]
 subtitle: 
-cover-image: https://webpages.uidaho.edu/library/spec/harvester/objects/thestagatease.jpg
+cover-image: lumber914
 categories: ["Full Caxton Jacket"]
 author: Amy J. Thompson
 ---

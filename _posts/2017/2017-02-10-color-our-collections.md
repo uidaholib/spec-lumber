@@ -3,7 +3,7 @@ title: Color Our Collections
 date: 2017-02-10
 tags: ["coloring books"]
 subtitle: 
-cover-image: https://webpages.uidaho.edu/library/spec/harvester/objects/uidaho_coloringbook2017.jpg
+cover-image: lumber812
 categories: []
 author: 
 ---

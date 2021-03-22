@@ -3,7 +3,7 @@ title: Strange Harvest
 date: 2017-05-04
 tags: ["rare books","families","Caxton Press"]
 subtitle: 
-cover-image: https://webpages.uidaho.edu/library/spec/harvester/objects/strangeharvest.jpg
+cover-image: lumber893
 categories: ["Full Caxton Jacket"]
 author: 
 ---

@@ -3,7 +3,7 @@ title: Spirit Rocks and Silver Magic
 date: 2017-03-29
 tags: ["rare books","Caxton Press","Indigenous history","Navajo"]
 subtitle: 
-cover-image: https://webpages.uidaho.edu/library/spec/harvester/objects/spiritrocksandsilvermagic.jpg
+cover-image: lumber897
 categories: ["Full Caxton Jacket"]
 author: Amy J. Thompson
 ---

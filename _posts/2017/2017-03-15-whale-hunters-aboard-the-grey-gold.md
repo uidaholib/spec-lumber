@@ -3,7 +3,7 @@ title: Whale Hunters Aboard the 'Grey Gold'
 date: 2017-03-15
 tags: ["rare books","Caxton Press","whales","oceans"]
 subtitle: 
-cover-image: https://webpages.uidaho.edu/library/spec/harvester/objects/whalehunters.jpg
+cover-image: lumber894
 categories: ["Full Caxton Jacket"]
 author: Amy J. Thompson
 ---

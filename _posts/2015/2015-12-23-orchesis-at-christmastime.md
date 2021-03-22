@@ -3,7 +3,7 @@ title: Orchesis at Christmastime
 date: 2015-12-23
 tags: ["student clubs","dance"]
 subtitle: 
-cover-image: https://webpages.uidaho.edu/library/spec/harvester/objects/campuslifeculturevf_box3_folder21-3.jpg
+cover-image: lumber890
 categories: ["Historical Student Clubs"]
 author: Amy J. Thompson
 ---

@@ -3,7 +3,7 @@ title: Boise, the Peace Valley
 date: 2017-02-06
 tags: ["rare books","Caxton Press","Boise"]
 subtitle: 
-cover-image: https://webpages.uidaho.edu/library/spec/harvester/objects/boisepeacevalley.jpg
+cover-image: lumber841
 categories: ["Full Caxton Jacket"]
 author: Amy J. Thompson
 ---

@@ -3,7 +3,7 @@ title: Tales from the Elves' Forest
 date: 2017-03-09
 tags: ["rare books","Caxton Press","fantasy","juvenile fiction","elves"]
 subtitle: 
-cover-image: https://webpages.uidaho.edu/library/spec/harvester/objects/talesfromtheelevesforest.jpg
+cover-image: lumber830
 categories: ["Full Caxton Jacket"]
 author: Amy J. Thompson
 ---

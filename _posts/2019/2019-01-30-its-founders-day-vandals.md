@@ -3,7 +3,7 @@ title: It's Founder's Day, Vandals!
 date: 2019-01-30
 tags: ["university history"]
 subtitle: 
-cover-image: https://webpages.uidaho.edu/library/spec/harvester/objects/mg5012_councilbill20.jpg
+cover-image: lumber900
 categories: []
 author: 
 ---

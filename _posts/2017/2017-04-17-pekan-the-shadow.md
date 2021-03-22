@@ -3,7 +3,7 @@ title: Pekan the Shadow
 date: 2017-04-17
 tags: ["rare books","Caxton Press","wilderness"]
 subtitle: 
-cover-image: https://webpages.uidaho.edu/library/spec/harvester/objects/pekantheshadow.jpg
+cover-image: lumber857
 categories: ["Full Caxton Jacket"]
 author: Amy J. Thompson
 ---

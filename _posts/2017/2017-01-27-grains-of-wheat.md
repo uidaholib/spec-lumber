@@ -3,7 +3,7 @@ title: Grains of Wheat
 date: 2017-01-27
 tags: ["rare books","Caxton Press","agriculture","wheat","farming"]
 subtitle: 
-cover-image: https://webpages.uidaho.edu/library/spec/harvester/objects/grainsofwheat.jpg
+cover-image: lumber891
 categories: ["Full Caxton Jacket"]
 author: Amy J. Thompson
 ---

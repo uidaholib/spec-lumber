@@ -3,7 +3,7 @@ title: Hidden Island
 date: 2017-03-11
 tags: ["rare books","Caxton Press","juvenile fiction"]
 subtitle: 
-cover-image: https://webpages.uidaho.edu/library/spec/harvester/objects/hiddenisland.jpg
+cover-image: lumber807
 categories: ["Full Caxton Jacket"]
 author: Amy J. Thompson
 ---

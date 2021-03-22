@@ -3,7 +3,7 @@ title: Drafting That Perfect Missive to Your Sweetheart
 date: 2018-02-01
 tags: ["letters","rare books"]
 subtitle: 
-cover-image: https://webpages.uidaho.edu/library/spec/harvester/objects/northbookofloveletters.jpg
+cover-image: lumber825
 categories: ["Cover to Cover"]
 author: 
 ---

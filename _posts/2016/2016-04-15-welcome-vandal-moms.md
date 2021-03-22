@@ -3,7 +3,7 @@ title: Welcome Vandal Moms!
 date: 2016-04-15
 tags: ["Mother's Day","holidays","campus"]
 subtitle: 
-cover-image: https://webpages.uidaho.edu/library/spec/harvester/objects/momsweekend.jpg
+cover-image: lumber863
 categories: []
 author: Amy J. Thompson
 ---

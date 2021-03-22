@@ -3,7 +3,7 @@ title: HB Goldfarb Letters
 date: 2015-08-15
 tags: ["Farragut","Navy","letters"]
 subtitle: 
-cover-image: https://webpages.uidaho.edu/library/spec/harvester/objects/mg5726.jpg
+cover-image: lumber806
 categories: []
 author: Amy J. Thompson
 ---

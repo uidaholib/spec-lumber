@@ -3,7 +3,7 @@ title: The Hermaphrodite and Other Poems
 date: 2017-04-20
 tags: ["rare books","Caxton Press","poetry","LGBTQ+"]
 subtitle: 
-cover-image: https://webpages.uidaho.edu/library/spec/harvester/objects/hermaphroditeandotherpoems.jpg
+cover-image: lumber915
 categories: ["Full Caxton Jacket"]
 author: Amy J. Thompson
 ---

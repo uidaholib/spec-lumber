@@ -3,7 +3,7 @@ title: Blue Gold - A Romance of the Rockies
 date: 2017-02-08
 tags: ["rare books","Caxton Press","gold","romance","American West","Montana","Rocky Mountains"]
 subtitle: 
-cover-image: https://webpages.uidaho.edu/library/spec/harvester/objects/bluegold.jpg
+cover-image: lumber843
 categories: ["Full Caxton Jacket"]
 author: Amy J. Thompson
 ---

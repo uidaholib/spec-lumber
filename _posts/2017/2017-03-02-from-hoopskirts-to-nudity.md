@@ -3,7 +3,7 @@ title: From Hoopskirts to Nudity
 date: 2017-03-02
 tags: ["rare books","Caxton Press","women","fashion"]
 subtitle: 
-cover-image: https://webpages.uidaho.edu/library/spec/harvester/objects/fromhoopskirtstonudity.jpg
+cover-image: lumber823
 categories: ["Full Caxton Jacket"]
 author: Amy J. Thompson
 ---

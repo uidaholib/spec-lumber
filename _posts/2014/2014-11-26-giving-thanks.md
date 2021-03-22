@@ -3,7 +3,7 @@ title: Giving Thanks
 date: 2014-11-26
 tags: ["Thanksgiving","holidays","WWII","letters"]
 subtitle: 
-cover-image: https://webpages.uidaho.edu/library/spec/harvester/objects/mg332_letter.jpg
+cover-image: lumber896
 categories: []
 author: Amy J. Thompson
 ---
