@@ -1,12 +1,14 @@
 ---
 title: Japanese-Americans in the Pacific Northwest - A Bibliography
-date: 2021-04-02
+date: 2021-03-25
 tags: ["Asian history","diversity"]
 subtitle: 
 cover-image: lumber418
 categories: ["Diverse Collections"]
 author: Michelle A. Shannon
 ---
+
+Welcome to another week of our blog series featuring our [Diverse Collections](https://harvester.lib.uidaho.edu//series/diversecollections.html)! Each week, we share an archival collection that relates to or represents an underrepresented community.
 
 This is a bibliography prepared by the Staff of the Tacoma Public Library from materials found in the collections of the Library. 
 
