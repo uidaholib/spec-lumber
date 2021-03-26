@@ -1,6 +1,6 @@
 ---
 title: Idaho Black History Museum Newsletters
-date: 2021-03-26
+date: 2021-03-26 07:28:23 -0800
 tags: ["Black history","diversity","museums","newsletters"]
 subtitle: 
 cover-image: lumber336
