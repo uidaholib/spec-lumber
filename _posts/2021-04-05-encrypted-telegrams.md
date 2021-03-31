@@ -5,6 +5,7 @@ tags: ["mining"]
 subtitle: Keeping business secrets secret
 cover-image: lumber979
 categories: []
+author: Robert E. Perret
 ---
 {% include feature/image.html objectid="lumber979;lumber982" %}
 {% include feature/image.html objectid="lumber984;lumber985" %}
