@@ -3,7 +3,7 @@ title: On Display!
 date: 2019-10-15
 tags: ["exhibits","homecoming","fashion"]
 subtitle: 
-cover-image: 
+cover-image: lumber928
 categories: []
 author: Courtney E. Berge
 ---
