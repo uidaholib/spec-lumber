@@ -19,3 +19,9 @@ Originating from Pawnee, Indiana, [Duke Silver](https://parksandrecreation.fando
 {% include feature/image.html objectid="lumber990" %}
 
 {% include feature/image.html objectid="lumber991" %}
+
+...**April Fool's!**
+
+# Sources
+
+Courtesy of the entire Special Collections & Archives Department and our best friend [CollectionBuilder](https://collectionbuilder.github.io/)
