@@ -1,6 +1,6 @@
 ---
 title: Japanese-Americans in the Pacific Northwest - A Bibliography
-date: 2021-04-02 05:30:23 -0800
+date: 2021-04-02 01:30:23 -0800
 tags: ["Asian history","diversity"]
 subtitle: 
 cover-image: lumber960
