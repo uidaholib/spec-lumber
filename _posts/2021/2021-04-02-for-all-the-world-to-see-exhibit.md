@@ -28,4 +28,8 @@ A couple of weeks ago, when campus was quiet due to Spring Break, Special Collec
 
 {% include feature/image.html objectid="lumber1000;lumber1001" %}
 
+One of our Special Collections staff owns a restaurant with her husband, who brought us wontons and burgers when he came to help us move crates! Thanks to [Paradise Grill and Cafe](https://www.paradisegrillandcafe.com/) for the amazing moving-day treats!
+
+{% include feature/image.html objectid="lumber1004" %}
+
 {% include feature/image.html objectid="lumber1003" %}
