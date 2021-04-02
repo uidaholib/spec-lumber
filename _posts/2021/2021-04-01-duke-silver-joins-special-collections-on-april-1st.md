@@ -24,4 +24,6 @@ Originating from Pawnee, Indiana, [Duke Silver](https://parksandrecreation.fando
 
 # Sources
 
-Courtesy of the entire Special Collections & Archives Department and our best friend [CollectionBuilder](https://collectionbuilder.github.io/)
+The idea: courtesy of the entire Special Collections & Archives Department.
+
+The implementation: courtesy of Robert E. Perret and his best friend [CollectionBuilder](https://collectionbuilder.github.io/)
