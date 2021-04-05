@@ -3,8 +3,7 @@ title: Encrypted Telegrams
 <<<<<<< HEAD:_posts/2021-04-05-encrypted-telegrams.md
 date: 2021-04-05 10:35:25 -0700
 =======
-date: 2020-04-05
->>>>>>> 8659b9a7490dfee58b368ee251e83ad5b8d78121:_posts/Robert_drafts/2021-04-05-encrypted-telegrams.md
+
 tags: ["mining"]
 subtitle: Keeping business secrets secret
 cover-image: lumber979
