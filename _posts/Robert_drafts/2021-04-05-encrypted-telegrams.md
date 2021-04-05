@@ -1,6 +1,5 @@
 ---
 title: Encrypted Telegrams
-<<<<<<< HEAD:_posts/2021-04-05-encrypted-telegrams.md
 date: 2021-04-05 10:35:25 -0700
 =======
 
