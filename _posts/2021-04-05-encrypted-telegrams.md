@@ -1,6 +1,6 @@
 ---
 title: Encrypted Telegrams
-date: 2020-04-05 10:35:25 -0700
+date: 2021-04-05 10:35:25 -0700
 tags: ["mining"]
 subtitle: Keeping business secrets secret
 cover-image: lumber979
