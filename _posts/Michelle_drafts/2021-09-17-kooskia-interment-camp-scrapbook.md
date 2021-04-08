@@ -9,7 +9,7 @@ categories: ["Diverse Collections"]
 author: Michelle A. Shannon
 ---
 
-Welcome to another week of our blog series featuring our [Diverse Collections](https://harvester.lib.uidaho.edu//series/diversecollections.html)! Each week, we share an archival collection that relates to or represents an underrepresented community.
+Welcome to another week of our blog series featuring our [Diverse Collections](https://harvester.lib.uidaho.edu/series/diversecollections.html)! Each week, we share an archival collection that relates to or represents an underrepresented community.
 
 {% include feature/digital-image.html collection="spec_kic" objectid="spec_kic872" %}
 
