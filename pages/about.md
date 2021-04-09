@@ -9,7 +9,7 @@ permalink: /about.html
 
 ## About the Harvester
 
-The Idaho Harvester features the most interesting and unique materials from the University of Idaho Library's Special Collections & Archives. 
+The Idaho Harvester features the most interesting and unique materials from the University of Idaho Library's [Special Collections & Archives Department](https://www.lib.uidaho.edu/special-collections/). 
 
 We write about the images, stories, and historical narratives that catch our attention. Some posts are lengthier, dealing with complex subjects regarding Idaho history, industry, and the university, while others are shorter celebrations of notable days, people, and events. 
 
