@@ -1,7 +1,7 @@
 ---
 title: Honoring Our Veterans - Elizabeth Allen
 date: 2018-11-11
-tags: ["indigenous history","Veterans Day","Women's Army Corps (WAC)","WWII","women","Nez Perce","veterans"]
+tags: ["Indigenous history","Veterans Day","Women's Army Corps (WAC)","WWII","women","Nez Perce","veterans","diversity"]
 subtitle: 
 cover-image: lumber215
 categories: ["Wonder Women"]
