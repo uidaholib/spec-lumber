@@ -1,6 +1,6 @@
 ---
 title: Indian Hunting and Fishing Rights
-date: 2021-04-16
+date: 2021-04-16 01:30:23 -0800
 tags: ["Indigenous history","diversity"]
 subtitle: 
 cover-image: lumber429
