@@ -15,5 +15,5 @@
 {% if page.layout == "item" or page.layout == "post" %}{% include js/arrow-page-control-js.html %}{% endif %}
 {% if page.layout == "search" %}{% include js/lunr-js.html %}{% endif %}
 {%- if page.layout == "home-infographic" %}{% include js/carousel-js.html %}{% endif -%}
-
+{% if page.chat-widget-spec == true %}{% include lib-chat-widget-spec.html %}{% endif %}
 {%- if page.layout == "post" %}<script src="{{ '/assets/lib/beautiful.js' | absolute_url }}" async></script>{% endif %}
