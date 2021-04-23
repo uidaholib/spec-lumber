@@ -11,6 +11,9 @@ vendor/
 # Ignore mac files 
 .DS_Store
 
+# ignore personal config
+.vscode/
+
 # temporarily ignore gemfile.lock
 Gemfile.lock
 
