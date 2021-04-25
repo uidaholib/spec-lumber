@@ -4,4 +4,5 @@ date,true,true,
 tags,true,true,true
 excerpt,true,true,true
 categories,true,true,true
-content,true,false,
+subject,true,true
+creator,true,true
