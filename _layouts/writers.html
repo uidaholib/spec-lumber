@@ -90,10 +90,10 @@ enabled: true
                     </p>
 
                     <div class="post-entry-container">
-                        {%if post.cover-image%}
+                        {% if post.cover-image %}
                         <div class="post-image">
                             <a href="{{ post.url | relative_url }}">
-                                <img src="{% include image/post-thumb.html %}">
+                                {% include image/post-thumb-with-alt.html %}
                             </a>
                         </div>
                         {% endif %}
