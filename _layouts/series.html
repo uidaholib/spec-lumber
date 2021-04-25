@@ -93,7 +93,7 @@ enabled: true
                         {%if post.cover-image%}
                         <div class="post-image">
                             <a href="{{ post.url }}">
-                                <img src="{% include image/post-thumb-with-alt.html %}" >
+                                {% include image/post-thumb-with-alt.html %}
                             </a>
                         </div>
                         {% endif %}

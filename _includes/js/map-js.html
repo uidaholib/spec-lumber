@@ -73,7 +73,7 @@
         if (feature.properties.youtube) {
             var thumbSrc = 'https://img.youtube.com/vi/' + feature.properties.youtube + '/default.jpg';
         } else {
-            var thumbSrc = '{{ site.objects | relative_url }}thumbs/' + feature.properties.filename + '_th.jpg';
+            var thumbSrc = '{{ site.objects | relative_url }}/thumbs/' + feature.properties.filename + '_th.jpg';
         }
         var popupTemplate = '<h4><a class="text-dark" href="' + itemHref + '">' +
             feature.properties.title + '</a></h4><div class="text-center"><a class="btn btn-light" href="' + itemHref + 
