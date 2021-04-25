@@ -15,7 +15,7 @@ permalink: /newsletter.html
       {%if post.cover-image%}
       <div class="post-image" class="pl-4 pb-4">
         <a href="{{ post.url }}">
-          <img src="{% include image/post-thumb-with-alt.html %}">
+          {% include image/post-thumb-with-alt.html %}
         </a>
       </div>
       {% endif %}

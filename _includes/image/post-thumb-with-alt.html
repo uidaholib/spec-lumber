@@ -1,1 +1,19 @@
-{% capture cover_image %}{{ post.cover-image | default: page.cover-image}}{% endcapture %}{% if cover_image  contains '/' %}{{ cover_image }}" alt="Preview image for {{post.title}}{% elsif cover_image contains 'lumber' %}{% assign lumberItem = site.data[site.metadata] | where: 'objectid', cover_image  | first %}{% if lumberItem.youtubeid %}https://img.youtube.com/vi/{{ lumberItem.youtubeid }}/hqdefault.jpg" alt="YouTube Preview image for {{lumberItem.title}}{% elsif lumberItem.filename contains '/' %}{{ lumberItem.filename }}" alt="{{lumberItem.title}}{% else %}{{ site.objects | relative_url }}thumbs/{{ lumberItem.filename | split: '.' | first }}_th.jpg" alt="{{lumberItem.title}}{% endif %}{% else %}{% capture collection %}{{ post.cover-image-collection | default: page.cover-image-collection}}{% endcapture %}{%- assign digitalItem = site.data.digcoll[collection].objects | where: "objectid", cover_image | first -%}https://cdm17254.contentdm.oclc.org/digital/iiif/{% if post.cover-image-cdm-collection or page.cover-image-cdm-collection %}{{post.cover-image-cdm-collection | default: page.cover-image-cdm-collection }}{% else %}{{collection}}{% endif %}/{{ digitalItem.cdmid }}/full/pct:25/0/default.jpg" alt="{{digitalItem.title}}{% endif %}
+{%- comment -%} 
+    figure out src and alt depending on cover image type,
+    return a lazy load image
+{%- endcomment -%}
+{%- assign cover_image = post.cover-image | default: page.cover-image -%}
+{% if cover_image  contains '/' %}
+{%- assign src = cover_image -%}
+{% capture alt %}Preview image for {{ post.title | default: page.title }}{%- endcapture -%}
+{% elsif cover_image contains 'lumber' %}
+{% assign lumberItem = site.data[site.metadata] | where: 'objectid', cover_image  | first %}
+{% capture src %}{% if lumberItem.youtubeid %}https://img.youtube.com/vi/{{ lumberItem.youtubeid }}/hqdefault.jpg{% elsif lumberItem.filename contains '/' %}{{ lumberItem.filename }}{% else %}{{ site.objects | relative_url }}/thumbs/{{ lumberItem.filename | split: '.' | first }}_th.jpg{% endif %}{%- endcapture -%}
+{%- assign alt = lumberItem.title -%}
+{%- else -%}
+{%- assign collection = post.cover-image-collection | default: page.cover-image-collection -%}
+{%- assign digitalItem = site.data.digcoll[collection].objects | where: "objectid", cover_image | first -%}
+{%- capture src -%}https://cdm17254.contentdm.oclc.org/digital/iiif/{% if post.cover-image-cdm-collection or page.cover-image-cdm-collection %}{{post.cover-image-cdm-collection | default: page.cover-image-cdm-collection }}{% else %}{{collection}}{% endif %}/{{ digitalItem.cdmid }}/full/pct:25/0/default.jpg{%- endcapture -%}
+{%- assign alt = digitalItem.title -%}
+{% endif %}
+<img class="lazyload" alt="{{ alt | escape }}" src="data:image/svg+xml,%3Csvg xmlns='http://www.w3.org/2000/svg' viewBox='0 0 3 2'%3E%3C/svg%3E" data-src="{{ src }}" >
