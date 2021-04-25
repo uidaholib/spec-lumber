@@ -11,7 +11,7 @@ chat-widget-spec: true
 <div class="posts-list">
   {% for post in posts offset: 1 %}
   <article class="post-preview">
-    <a class="text-dark" href="{{ post.url | absolute_url }}">
+    <a class="text-dark" href="{{ post.url | relative_url }}">
       <h2 class="post-title">{{ post.title }}</h2>
       {% if post.subtitle %}
         <h3 class="post-subtitle">
@@ -26,9 +26,9 @@ chat-widget-spec: true
     </p>
 
     <div class="post-entry-container">
-      {%if post.cover-image%}
+      {% if post.cover-image %}
       <div class="post-image">
-        <a href="{{ post.url }}">
+        <a href="{{ post.url | relative_url }}">
           {% include image/post-thumb-with-alt.html %}
         </a>
       </div>
@@ -39,7 +39,7 @@ chat-widget-spec: true
         {{ post.excerpt | strip_html | xml_escape | truncatewords: excerpt_length }}
         {% assign excerpt_word_count = post.excerpt | number_of_words %}
         {% if post.content != post.excerpt or excerpt_word_count > excerpt_length %}
-          <a href="{{ post.url | absolute_url }}" class="post-read-more">[Read&nbsp;More]</a>
+          <a href="{{ post.url | relative_url }}" class="post-read-more">[Read&nbsp;More]</a>
         {% endif %}
       </div>
     </div>
@@ -50,7 +50,7 @@ chat-widget-spec: true
       {%- assign tags=  post.tags  -%}
       {% for tag in tags %}
       
-      <a href="{{ '/posts/' | absolute_url }}#{{ tag | strip}}">{{- tag -}}</a>
+      <a href="{{ '/posts/' | relative_url }}#{{ tag | strip}}">{{- tag -}}</a>
       {% endfor %}
     </div>
     {% endif %}
@@ -63,15 +63,15 @@ chat-widget-spec: true
 <ul class="pagination main-pager">
   {% if paginator.previous_page %}
   <li class="page-item previous">
-    <a class="page-link" href="{{ paginator.previous_page_path | absolute_url }}">&larr; Newer Posts</a>
+    <a class="page-link" href="{{ paginator.previous_page_path | relative_url }}">&larr; Newer Posts</a>
   </li>
   {% endif %}
   <li class="page-item ">
-    <a class="page-link" href="{{ paginator.previous_page_path | absolute_url }}">Browse/Search All Posts</a>
+    <a class="page-link" href="{{ paginator.previous_page_path | relative_url }}">Browse/Search All Posts</a>
   </li>
   {% if paginator.next_page %}
   <li class="page-item next">
-    <a class="page-link" href="{{ paginator.next_page_path | absolute_url }}">Older Posts &rarr;</a>
+    <a class="page-link" href="{{ paginator.next_page_path | relative_url }}">Older Posts &rarr;</a>
   </li>
   {% endif %}
 </ul>
