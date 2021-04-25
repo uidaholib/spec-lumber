@@ -3,18 +3,17 @@ title: Newsletter
 layout: newsletter
 permalink: /newsletter.html
 ---
-
 {% assign posts = paginator.posts | default: site.posts %}
 
 <div class="posts-list">
   {% for post in posts limit: 20 %}
   <article class="post-preview">
-    <a class="text-dark" href="{{ post.url | absolute_url }}">
+    <a class="text-dark" href="{{ post.url | relative_url }}">
       <h2 class="post-title">{{ post.title }}</h2> </a>
     <div class="post-entry-container">
-      {%if post.cover-image%}
+      {% if post.cover-image %}
       <div class="post-image" class="pl-4 pb-4">
-        <a href="{{ post.url }}">
+        <a href="{{ post.url | relative_url }}">
           {% include image/post-thumb-with-alt.html %}
         </a>
       </div>
@@ -36,12 +35,10 @@ permalink: /newsletter.html
         {{ post.excerpt | strip_html | xml_escape | truncatewords: excerpt_length }}
         {% assign excerpt_word_count = post.excerpt | number_of_words %}
         {% if post.content != post.excerpt or excerpt_word_count > excerpt_length %}
-        <a href="{{ post.url | absolute_url }}" class="post-read-more">[Read&nbsp;More]</a>
+        <a href="{{ post.url | relative_url }}" class="post-read-more">[Read&nbsp;More]</a>
         {% endif %}
       </div>
     </div>
-
-
 
   </article>
   {% endfor %}
@@ -51,15 +48,15 @@ permalink: /newsletter.html
 <ul class="pagination main-pager">
   {% if paginator.previous_page %}
   <li class="page-item previous">
-    <a class="page-link" href="{{ paginator.previous_page_path | absolute_url }}">&larr; Newer Posts</a>
+    <a class="page-link" href="{{ paginator.previous_page_path | relative_url }}">&larr; Newer Posts</a>
   </li>
   {% endif %}
   <li class="page-item ">
-    <a class="page-link" href="{{ paginator.previous_page_path | absolute_url }}">Browse/Search All Posts</a>
+    <a class="page-link" href="{{ paginator.previous_page_path | relative_url }}">Browse/Search All Posts</a>
   </li>
   {% if paginator.next_page %}
   <li class="page-item next">
-    <a class="page-link" href="{{ paginator.next_page_path | absolute_url }}">Older Posts &rarr;</a>
+    <a class="page-link" href="{{ paginator.next_page_path | relative_url }}">Older Posts &rarr;</a>
   </li>
   {% endif %}
 </ul>
