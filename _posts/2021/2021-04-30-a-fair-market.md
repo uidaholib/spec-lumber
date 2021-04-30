@@ -1,6 +1,6 @@
 ---
 title: A Fair Market
-date: 2021-05-01
+date: 2021-05-01 07:30:23 -0800
 tags: ["farmers market","fairs","families","spring"]
 subtitle: Celebrating Spring in Moscow, Idaho
 cover-image: lumber1134
