@@ -4,7 +4,7 @@ date: 2019-03-08
 tags: ["women","human rights","Women's Center"]
 subtitle: 
 cover-image: https://digital.lib.uidaho.edu/digital/api/singleitem/image/p17254coll3/468/default.jpg?highlightTerms=
-categories: []
+categories: ["Wonder Women"]
 author: 
 ---
 
