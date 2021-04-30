@@ -1,15 +1,14 @@
 ---
-title: "Provisioning for Train Travel"
+title: Provisioning for Train Travel
 date: 2014-06-13
-cover-image: https://webpages.uidaho.edu/library/spec/harvester/objects/tumblr/88687203038_0.jpg
 tags: ["trains","California","Tennessee","letters"]
+subtitle: 
+cover-image: lumber1116
 categories: ["Digital Memories"]
-type: Regular
-original: https://uispecialcollections.tumblr.com/post/88687203038/provisioning-for-train-travel
 author: 
 ---
 
-<p><figure class="tmblr-full mb-5" data-orig-height="750" data-orig-width="450" data-orig-src="https://64.media.tumblr.com/2253c2ade86dd86ecc152e1bf488ef71/tumblr_inline_n74f2k7BGv1si4szq.jpg"><img class="img-fluid" alt="image" src="https://webpages.uidaho.edu/library/spec/harvester/objects/tumblr/88687203038_0.jpg" data-orig-height="750" data-orig-width="450" data-orig-src="https://64.media.tumblr.com/2253c2ade86dd86ecc152e1bf488ef71/tumblr_inline_n74f2k7BGv1si4szq.jpg"/></figure></p>
+{% include feature/image.html objectid="lumber1116" %}
 
 <blockquote class="bg-light pt-1 px-4 font-italic">
 <p>Hollister, Cal<br/>Sept 7th &lsquo;77</p>
@@ -27,8 +26,15 @@ author:
 <p>If you want to come by emigrant train you will take it at Omaha. I did not try it, it is so slow. Gold or silver is used here but you can exchange your greenbacks at the banks here as well as you can there. You will have to look out for your money for a set of smooth-faced roughs frequent the cars.</p>
 <p>Mrs. McCroskey and I got here without being the least tired. We tried the sleeping car once, but did not like it. It cost us $2.00 apiece each night and we were glad to get out of...</p>
 </blockquote>
-<p>Travel to the west was made easier with the completion of the transcontinental railway but it was still enough of an adventure to benefit from guides from friends who have gone before. J.H. McCallie was Moscow&rsquo;s first dentist, arriving here in 1878. His daughter Margaret attended the University of Idaho and graduated in 1898. Between 1899 and 1905 she served as the University&rsquo;s librarian. Before her death in 1972, she donated this letter, and other materials, to the University of Idaho Library.</p>
-<p>This letter illustrates the common tendency of primary sources to locate themselves in archives which scholars can only find through painstaking research in unlikely places. In this case, the letter was written in California as advice to an prospective emigrant in Tennessee who carried it west in his well-secured baggage. And further, he carried it with him from California to Idaho; where, years later, his daughter in Spokane donated it to her alma mater. In such ways, are manuscripts materials located in what is clearly the perfectly logical repository; yet so difficult to anticipate. Only after all the relationships are known is it possible to discern the logic of its eventual resting place.</p>
-<p>Letter fragment, from a McCroskey to J.H. McCallie, September 7, 1877, describing provisions needed for train journey from Tennessee to California. Part of the Margaret McCallie Moore Papers, MG5159, University of Idaho Library.</p>
+
+Travel to the west was made easier with the completion of the transcontinental railway but it was still enough of an adventure to benefit from guides from friends who have gone before. J.H. McCallie was Moscow's first dentist, arriving here in 1878. His daughter Margaret attended the University of Idaho and graduated in 1898. Between 1899 and 1905 she served as the University's librarian. Before her death in 1972, she donated this letter, and other materials, to the University of Idaho Library.
+
+This letter illustrates the common tendency of primary sources to locate themselves in archives which scholars can only find through painstaking research in unlikely places. In this case, the letter was written in California as advice to an prospective emigrant in Tennessee who carried it west in his well-secured baggage. And further, he carried it with him from California to Idaho; where, years later, his daughter in Spokane donated it to her alma mater. In such ways, are manuscripts materials located in what is clearly the perfectly logical repository; yet so difficult to anticipate. Only after all the relationships are known is it possible to discern the logic of its eventual resting place.
+
+Letter fragment, from a McCroskey to J.H. McCallie, September 7, 1877, describing provisions needed for train journey from Tennessee to California. Part of the Margaret McCallie Moore Papers, MG5159, University of Idaho Library.
 
 Written in 1999 for the UI Library's Digital Memories website.
+
+# Sources
+
+MG 5159
