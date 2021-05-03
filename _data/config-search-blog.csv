@@ -1,8 +1,9 @@
 field,index,display,nostore
-title,true,true,
-date,true,true,
+title,true,true,true
+date,true,true,true
 tags,true,true,true
-excerpt,true,true,true
+excerpt,true,true,
 categories,true,true,true
-subject,true,true
-creator,true,true
+subject,true,true,true
+creator,true,true,
+description,true,true,
