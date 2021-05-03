@@ -67,7 +67,7 @@ chat-widget-spec: true
   </li>
   {% endif %}
   <li class="page-item ">
-    <a class="page-link" href="{{ paginator.previous_page_path | relative_url }}">Browse/Search All Posts</a>
+    <a class="page-link" href="{{ '/posts/' | relative_url }}">Browse/Search All Posts</a>
   </li>
   {% if paginator.next_page %}
   <li class="page-item next">
