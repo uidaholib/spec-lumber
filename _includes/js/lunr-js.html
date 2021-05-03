@@ -1,4 +1,5 @@
 {%- assign fields = site.data.config-search-blog -%}
+{%- assign index_fields = fields | where: 'index','true' -%}
 <script src="{{ '/assets/lib/lunr.min.js' | absolute_url }}"></script>
 <script src="{{ '/data/lunr-store.js' | absolute_url }}"></script>
 <script>
@@ -6,17 +7,17 @@
 var idx = lunr(function () {
   /* add index fields from config */
   this.ref('id')
-  {% for f in fields %}{% if f.index == 'true' %}
+  {% for f in index_fields %}
   this.field({{ f.field | escape | jsonify }})
-  {% endif %}{% endfor %}
+  {% endfor %}
 
   //this.pipeline.remove(lunr.trimmer)
 
   for (var item in store) {
     this.add({
-      {% for f in fields %}{% if f.index == 'true' %}
+      {% for f in index_fields %}
       {{ f.field | escape | jsonify }}: store[item][{{ f.field | escape | jsonify }}],
-      {% endif %}{% endfor %}
+      {% endfor %}
       id: item
     })
   }
@@ -48,15 +49,56 @@ function lunr_search () {
     var searchitem =
       '<tr>'+
           '<td class="">' +
-            {% assign display = fields | where: 'display','true' %}
-            {% for d in display %}
-            {% if forloop.first %}
             '<p class="h4"><a href="' + store[ref].id + '">' + store[ref][{{ fields[0].field | escape | jsonify }}]  + '</a></p>' +
-            '<p class="ml-3">' +
-              {% else %}
-              '<b>{{ d.field }}</b>: ' + store[ref][{{ d.field | escape | jsonify }}] + '<br> ' +
-              {% endif %}{% endfor %}
-            '</p></td>' +
+            '<p class="ml-3">';
+            // result type
+            if(store[ref].id.includes("/collection/")) {
+              searchitem += "<em>[Collection Item]</em><br>";
+            } else {
+              searchitem += "<em>[Blog Post]</em><br>";
+            }
+            // date
+            if(store[ref].date) {
+              searchitem += '<strong>Date</strong>: ' + store[ref].date + '<br>'; 
+            }
+            // tags
+            if(store[ref].tags) {
+              searchitem += '<strong>Tags:</strong> '; 
+              var alltags = store[ref].tags.split(";");
+              alltags.forEach(function(t) {
+                searchitem += '<a class="mx-2" href="/posts/#' + encodeURIComponent(t.trim()) + '">' + t + '</a>'; 
+              });
+              searchitem += '<br>';
+            }
+            // categories
+            if(store[ref].categories) {
+              searchitem += '<strong>Categories:</strong> '; 
+              var allcats = store[ref].categories.split(";");
+              allcats.forEach(function(c) {
+                //c = c.trim().toLowerCase().replace(' ','');
+                searchitem += '<a class="mx-2" href="/series/' + c.trim().toLowerCase().replace(' ','') + '.html">' + c + '</a>'; 
+              });
+              searchitem += '<br>';
+            }
+            // subjects
+            if(store[ref].subject) {
+              searchitem += '<strong>Subjects:</strong> '; 
+              var allsubs = store[ref].subject.split(";");
+              allsubs.forEach(function(s) {
+                searchitem += '<a class="mx-2" href="/collection/browse.html#' + encodeURIComponent(s.trim()) + '">' + s + '</a>';  
+              });
+              searchitem += '<br>';
+            }
+
+            // other fields in config
+            {%- assign display = fields | where_exp: 'f','f.nostore !="true"' -%}
+            {% for d in display %}
+            if(store[ref][{{ d.field | escape | jsonify }}]) {
+              searchitem += '<strong>{{ d.field }}:</strong> ' + store[ref][{{ d.field | escape | jsonify }}] + '<br>'; 
+            }
+            {% endfor %}
+            // close item
+            searchitem += '</p></td>' +
       '</tr>';
     resultdiv.append(searchitem);
   }
@@ -65,7 +107,7 @@ function lunr_search () {
 $(document).ready(function() {
   if (window.location.search) {
     var queryString = decodeURIComponent(window.location.search.substring(1).split("=")[1]);
-    $('input#lunrSearchBox').val(queryString);
+    $('#lunrSearchBox').val(queryString);
     lunr_search ();
   }
 });

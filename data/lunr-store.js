@@ -1,17 +1,20 @@
 ---
 # create lunr store for search page
+#
 ---
 {%- assign items = site.data[site.metadata] -%}
 {%- assign posts = site.posts -%}
-
-{%- assign fields = site.data.config-search -%}
-{%- assign blogfields = site.data.config-search-blog -%}
-
-
-var store = [ 
-{%- for post in posts -%} 
-{ "id": {{ post.url | jsonify }}, "title": {{ post.title | jsonify}}, "excerpt": {{ post.content | strip_html | truncatewords: 50 | jsonify}}, {% if post.tags.size > 0 %}"tags": "{% for tag in post.tags %}<a class='mx-2' href='/posts/#{{ tag }}'>{{ tag }}</a> {%endfor%}",{% endif%} {% if post.categories.size > 0 %}"categories": "{% for cat in post.categories %}<a href='/series/#{{ cat | downcase | remove: ' '}}.html'>{{ cat }}</a>{%endfor%}",{% endif%} {% for f in blogfields %}{% unless f.nostore %}{{ f.field | jsonify }}: {% if post[f.field] %}{{ post[f.field] | strip_html  | normalize_whitespace | replace: '""','"' | jsonify }}{% else %}"none"{% endif %}{% unless forloop.last %},{% endunless %}{% endunless %}{% endfor %}  },{%- endfor -%}
-{%- for item in items -%} 
-{ "id": {{ item.objectid | jsonify }}, {% for f in fields %}{{ f.field | jsonify }}: {% if item[f.field] %}{{ item[f.field] | normalize_whitespace | replace: '""','"' | jsonify }}{% else %}"none"{% endif %}{% unless forloop.last %},{% endunless %}{% endfor %} }{%- unless forloop.last -%},{%- endunless -%}
-{%- endfor -%}
+{%- assign fields = site.data.config-search-blog | where_exp: 'f','f.nostore !="true"' -%}
+{%- assign everything = posts | concat: items -%}
+var store = [
+    {%- for item in everything -%}
+    { {%- for f in fields -%}{%- if item[f.field] -%}{{ f.field | jsonify }}: {{ item[f.field] | strip_html | truncatewords: 50 | normalize_whitespace | replace: '""','"' | jsonify }}, {%- endif -%}{%- endfor -%}
+        "title": {{ item['title'] | jsonify }},
+        {%- if item['date'] -%}"date": {{ item['date'] | truncate: 10,"" | jsonify }},{%- endif -%}
+        {%- if item['tags'] -%}"tags": {{ item['tags'] | join: ';' | jsonify }},{%- endif -%}
+        {%- if item['categories'] -%}"categories": {{ item['categories'] | join: ';' | jsonify }},{%- endif -%}
+        {%- if item['subject'] -%}"subject": {{ item['subject'] | jsonify }},{%- endif -%}
+        "id": {%- if item.objectid -%}{{ '/collection/items/' | append: item.objectid | append: '.html' | jsonify }}{%- else -%}{{ item.url | jsonify }}{%- endif -%}
+    }{%- unless forloop.last -%},{%- endunless -%}
+    {%- endfor -%}
 ];
