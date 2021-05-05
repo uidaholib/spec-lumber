@@ -5,6 +5,7 @@ tags: ["preservation","archives", "posters", "jazz" ]
 subtitle: 
 cover-image: lumber1123
 categories: []
+author: Courtney E. Berge
 ---
 
 Last week was National Preservation Week where libraries and archives promote the importance of preservation work and often share resources on how to preserve various materials. As is often the case, we got caught up with other projects and reference and just the day to day distractions of archival work, and forgot to do anything special. To remedy this vast oversight, we thought we'd share some of the preservation work we have been doing on one of our collections over the last few weeks. 
