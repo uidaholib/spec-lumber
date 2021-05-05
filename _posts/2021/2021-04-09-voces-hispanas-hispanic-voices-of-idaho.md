@@ -1,7 +1,7 @@
 ---
 title: Voces Hispanas - Hispanic Voices of Idaho
 date: 2021-04-09 01:30:23 -0800
-tags: ["Hispanic history","diversity","oral histories"]
+tags: ["Hispanic history","oral histories","diversity"]
 subtitle: 
 cover-image: lumber1005
 categories: ["Diverse Collections"]

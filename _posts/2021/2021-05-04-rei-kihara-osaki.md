@@ -1,7 +1,7 @@
 ---
 title: Rei Kihara Osaki
 date: 2021-05-04
-tags: ["Japanese history","Asian history","women","law","lawyers","students"]
+tags: ["Japanese history","Asian history","women","law","lawyers","students","diversity"]
 subtitle: 
 cover-image: lumber1139
 categories: ["Wonder Women"]
