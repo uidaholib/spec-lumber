@@ -3,14 +3,14 @@ title: Summer Jazz - Dizzy Gillespie
 date: 2015-06-27
 tags: ["jazz","Dizzy Gillespie","fashion"]
 subtitle: 
-cover-image: 
+cover-image: lumber1171
 categories: ["IJC"]
 author: Amy J. Thompson
 ---
 
 {% include feature/image.html objectid="lumber1171" %}
 
-{% include feature/image.html objectid="lumber1172" %}
+{% include feature/item-video-embed.html objectid="lumber1172" %}
 
 This is the first post of my new Summer Jazz series, highlighting University of Idaho Library’s International Jazz Collections.  Here we have jazz great Dizzy Gillespie’s sunglasses and hat.
 
