@@ -3,7 +3,7 @@ title: Don't Forget the Potatoes!
 date: 2016-11-23
 tags: ["potatoes","Thanksgiving","holidays"]
 subtitle: 
-cover-image: 
+cover-image: lumber1051
 categories: ["potatopotuesday"]
 author: Amy J. Thompson
 ---
