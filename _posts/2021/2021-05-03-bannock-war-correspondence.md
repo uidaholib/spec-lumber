@@ -3,13 +3,13 @@ title: Bannock War Correspondence
 date: 2021-05-03 11:15:04 -0800
 tags: ["indigenous","Shoshone-Bannock Tribes","correspondence","Bannock Indian War","Chief Tendoy"]
 subtitle: Digital Memories
-cover-image: https://webpages.uidaho.edu/library/spec/harvester/objects/mg8_b1_f11_001.jpg
+cover-image: lumber1082
 categories: [Digital Memories]
 ---
 
 The interlocking relationship between Native Americans and the U.S. Army in the intermountain frontier is exemplified by this authorization for the Chief of the Lemhi Bannocks to purchase or trade for ammunition on the eve of the Bannock Indian War of 1878. Tin Doy, or Tendoy, maintained a policy of friendship to the interloping white miners and settlers who thronged into the mountains of Idaho in the 1860s and 1870s. At the beginning of the hostilities, Tendoy and his band removed themselves from the conflict and returned to their reservation on the Lemhi River. Tendoy provided militia leader George L. Shoup, a local merchant and later Governor and Senator, with scouts and protective warriors as he had during the Nez Perce retreat of 1877.
 
-{% include feature/image.html objectid="https://webpages.uidaho.edu/library/spec/harvester/objects/mg8_b1_f11_001.jpg" %}
+{% include feature/image.html objectid="lumber1082" %}
 
 This form of authorization was not uncommon. The Boise newspapers attacked the Territorial governor, Moses Brayman, for issuing a similar letter to Bannock Chief BuffaloBa Horn, leader of the hostiles, about two weeks before the fighting began. It has been said that Buffalo Horn , who served as a scout with General Howard trying to follow the Nez Perce in their epic defeat, came to the conclusion that he was a better general than Howard and would have greater success than did the Nez Perce.
 
