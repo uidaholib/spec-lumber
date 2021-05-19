@@ -8,13 +8,7 @@ categories: ["National Library Week"]
 author: Courtney E. Berge
 ---
 
-<!---
 {% include feature/digital-image.html collection="cities" objectid="cities343" %}
---->
-
-<a href="https://www.lib.uidaho.edu/digital/cities/items/cities343.html">
-    <img class="img-fluid" src="https://cdm17254.contentdm.oclc.org/digital/iiif/cities/343/full/pct:70/0/default.jpg" data-orig-height="217" data-orig-width="360"/>
-</a>
 
 We are continuing to celebrate Idaho libraries this National Library Week. Originally, a shelf of books at Lewiston City Hall in Lewiston, Idaho, the city library has changed greatly over the years. In 1901, the Tsceminicum Club applied for a Carnegie grant, receiving $10,000. This Carnegie Library was opened in 1903 and served patrons until 1999. The library has since moved to another location, but we still love it just as much.
 
