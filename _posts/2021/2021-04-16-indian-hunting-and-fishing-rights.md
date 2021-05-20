@@ -2,7 +2,7 @@
 title: Indian Hunting and Fishing Rights
 date: 2021-04-16 01:30:23 -0800
 tags: ["Indigenous history","diversity"]
-subtitle: 
+subtitle: Diverse Collections
 cover-image: lumber429
 categories: ["Diverse Collections"]
 author: Michelle A. Shannon

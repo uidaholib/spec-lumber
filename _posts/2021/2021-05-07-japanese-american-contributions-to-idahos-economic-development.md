@@ -2,7 +2,7 @@
 title: Japanese American Contributions to Idaho's Economic Development
 date: 2021-05-07
 tags: ["Asian history","Japanese history","diversity"]
-subtitle: 
+subtitle: Diverse Collections
 cover-image: lumber423
 categories: ["Diverse Collections"]
 author: Michelle A. Shannon

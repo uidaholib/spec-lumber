@@ -2,7 +2,7 @@
 title: Voces Hispanas - Hispanic Voices of Idaho
 date: 2021-04-09 01:30:23 -0800
 tags: ["Hispanic history","oral histories","diversity"]
-subtitle: 
+subtitle: Diverse Collections
 cover-image: lumber1005
 categories: ["Diverse Collections"]
 author: Michelle A. Shannon

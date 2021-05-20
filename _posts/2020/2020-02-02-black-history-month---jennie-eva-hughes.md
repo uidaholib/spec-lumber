@@ -2,7 +2,7 @@
 title: Jennie Eva Hughes
 date: 2020-02-02
 tags: ["Black history","women","Jennie Eva Hughes Smith","diversity"]
-subtitle: 
+subtitle: Wonder Women
 cover-image: lumber165
 categories: ["Wonder Women"]
 author: Michelle A. Shannon

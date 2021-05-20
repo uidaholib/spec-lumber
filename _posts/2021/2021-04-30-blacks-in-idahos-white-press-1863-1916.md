@@ -2,7 +2,7 @@
 title: Blacks in Idaho's White Press, 1863-1916
 date: 2021-04-30
 tags: ["Black history","women","diversity"]
-subtitle: 
+subtitle: Diverse Collections
 cover-image: lumber335
 categories: ["Diverse Collections"]
 author: Michelle A. Shannon

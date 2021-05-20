@@ -2,7 +2,7 @@
 title: Rei Kihara Osaki
 date: 2021-05-04
 tags: ["Japanese history","Asian history","women","law","lawyers","students","diversity"]
-subtitle: 
+subtitle: Wonder Women
 cover-image: lumber1139
 categories: ["Wonder Women"]
 author: Michelle A. Shannon

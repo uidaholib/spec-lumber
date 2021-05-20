@@ -2,7 +2,7 @@
 title: Idaho Black History Museum Newsletters
 date: 2021-03-26 07:28:23 -0800
 tags: ["Black history","diversity","museums","newsletters"]
-subtitle: 
+subtitle: Diverse Collections
 cover-image: lumber336
 categories: ["Diverse Collections"]
 author: Michelle A. Shannon

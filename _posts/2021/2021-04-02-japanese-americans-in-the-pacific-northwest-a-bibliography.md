@@ -2,7 +2,7 @@
 title: Japanese-Americans in the Pacific Northwest - A Bibliography
 date: 2021-04-02 01:30:23 -0800
 tags: ["Asian history","diversity"]
-subtitle: 
+subtitle: Diverse Collections
 cover-image: lumber960
 categories: ["Diverse Collections"]
 author: Michelle A. Shannon

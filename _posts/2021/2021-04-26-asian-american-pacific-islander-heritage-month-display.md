@@ -2,7 +2,7 @@
 title: Asian American & Pacific Islander Heritage Month display
 date: 2021-04-26
 tags: ["Asian history","Asian Americans","Japanese history","Chinese history","Filipino history","exhibits","diversity"]
-subtitle: 
+subtitle: Diverse Collections
 cover-image: lumber1083
 categories: ["exhibits"]
 author: Michelle A. Shannon

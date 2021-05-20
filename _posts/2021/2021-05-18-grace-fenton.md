@@ -2,7 +2,7 @@
 title: Grace Fenton
 date: 2021-05-18
 tags: ["women","photography","diversity"]
-subtitle: 
+subtitle: Wonder Women
 cover-image: lumber1185
 categories: ["Wonder Women"]
 author: Michelle A. Shannon

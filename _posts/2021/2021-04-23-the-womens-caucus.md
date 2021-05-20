@@ -2,7 +2,7 @@
 title: The Women's Caucus
 date: 2021-04-23 01:30:23 -0800
 tags: ["women","diversity"]
-subtitle:
+subtitle: Diverse Collections
 cover-image: lumber352
 categories: ["Diverse Collections"]
 author: Michelle A. Shannon
