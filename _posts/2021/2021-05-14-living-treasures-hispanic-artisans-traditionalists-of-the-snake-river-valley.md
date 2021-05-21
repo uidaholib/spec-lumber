@@ -26,6 +26,6 @@ The purpose of the Hispanic Folk Arts Survey was to document the various traditi
 
 # Sources
 
-Day-NW GR109.5 R3
+[Day-NW GR109.5 R3](https://alliance-primo.hosted.exlibrisgroup.com/permalink/f/m1uotc/CP71171378500001451)
 
 [^1]: page 1

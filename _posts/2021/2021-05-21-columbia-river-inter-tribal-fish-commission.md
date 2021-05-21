@@ -18,6 +18,6 @@ The Commission "coordinates management policy and provides fisheries technical s
 
 # Sources
 
-MG 354 Box 4, item 1
+[MG 354](https://archiveswest.orbiscascade.org/ark:/80444/xv38652) Box 4, item 1
 
 [^1]: [Columbia River Inter-Tribal Fish Commission website](https://www.critfc.org/about-us/mission-vision/)

@@ -20,4 +20,6 @@ Pictured below are a handful of the many annual reports that Special Collections
 
 {% include feature/image.html objectid="lumber1195" %}
 
-[^1]: [Sunshine Mining Company Records, 1918-1990](https://archiveswest.orbiscascade.org/ark:/80444/xv217712)
+# Sources
+
+[^1]: [MG 485 Sunshine Mining Company Records, 1918-1990](https://archiveswest.orbiscascade.org/ark:/80444/xv217712)

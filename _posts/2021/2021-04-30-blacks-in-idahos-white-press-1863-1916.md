@@ -20,7 +20,7 @@ Dr. Oliver also taught at Rhode Island College and Northwest Nazarene College, a
 
 # Sources
 
-Day-NW E185.93.I15 044 2001
+[Day-NW E185.93.I15 044 2001](https://alliance-primo.hosted.exlibrisgroup.com/permalink/f/m1uotc/CP71289888510001451)
 
 [^1]: ["Black History Month: Historian, Professor Mamie Oliver,"](https://www.boisestate.edu/news/2021/02/12/black-history-month-historian-activist-mamie-oliver/) Boise State University News, February 12, 2021.
 

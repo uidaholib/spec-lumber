@@ -16,4 +16,4 @@ This document was reproduced from The George Washington Law Review, Volume 37, J
 
 # Sources
 
-Idaho Subject VF, Box 50, Folder 1
+[Idaho Subject VF](https://archiveswest.orbiscascade.org/ark:/80444/xv414702/), Box 50, Folder 1

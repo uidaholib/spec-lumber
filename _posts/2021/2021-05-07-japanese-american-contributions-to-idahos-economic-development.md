@@ -16,4 +16,4 @@ This week features the book, [*Japanese American Contributions to Idaho's Econom
 
 # Sources
 
-Idaho HD8081.J3 S54
+[Idaho HD8081.J3 S54](https://alliance-primo.hosted.exlibrisgroup.com/permalink/f/m1uotc/CP71177581510001451)
