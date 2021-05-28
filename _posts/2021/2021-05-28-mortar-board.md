@@ -2,7 +2,7 @@
 title: Mortar Board
 date: 2021-05-28
 tags: ["women","diversity"]
-subtitle: 
+subtitle: Diverse Collections
 cover-image: lumber414
 categories: ["Diverse Collections"]
 author: Michelle A. Shannon
