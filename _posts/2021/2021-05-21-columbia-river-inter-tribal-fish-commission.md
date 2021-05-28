@@ -2,7 +2,7 @@
 title: Columbia River Inter-Tribal Fish Commission
 date: 2021-05-21
 tags: ["Indigenous history","diversity"]
-subtitle: 
+subtitle: Diverse Collections
 cover-image: lumber425
 categories: ["Diverse Collections"]
 author: Michelle A. Shannon
