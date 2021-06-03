@@ -1,13 +1,13 @@
 ---
 title: Narrow Burke, Idaho
 date: 2022-12-16 10:28:06 -0800
-tags: [Burke, mining towns]
-subtitle: 
+tags: ["Burke","mining towns"]
+subtitle: Digital Memories
 cover-image: 
 categories: [Digital Memories]
 ---
 
-Written in 1997 for the library's Digital Memories website.
+
 
 The town of Burke, Idaho, is geographically remote and constricted. Located seven miles up a narrow, winding canyon north of the city of Wallace, the town is 3/4 mile long and just over 300 feet wide at its center. At the time these photographs were taken, over one thousand residents lived in Burke. The lure of gold initially attracted crowds to the area. But even after gold prospects failed to pan out, people and industry continued to be drawn to the narrow canyon by rich deposits of silver and lead. Hard-rock mines, railroads, ore mills, and lumber mills all competed for limited space on the canyon floor. Restaurants, taverns, mercantiles, and other shops provided the goods and services needed to support Burke's isolated population. These businesses also had to find building space. The town's density of people and buildings proved to be not only a construction problem, but also a safety hazard. In 1923 a fire incinerated most of the buildings in these two photographs.
 
@@ -16,6 +16,8 @@ While still profitable, the residents and businesses of Burke adapted to their c
 Each of these photographs is one half of a stereoscopic negative. The stereoscopic camera used to take these photos has two lenses, 2 1/2 inches apart, that simultaneously record two views of the same scene on a single negative. After a print is made, the two views are cut apart and mounted on a 3 1/2" by 7" card. Mounted this way, both images can be viewed simultaneously through a special viewer called a stereoscope. The separate images are merged by the eye into a single three-dimensional image.
 
 These glass negatives were received in Barnard Studio envelopes but were not part of the original Barnard-Stockbridge negatives. The distant view is very similar to a larger negative in the Barnard-Stockbridge Collection. Both photographs appear to have been taken from almost the same vantage point, at slightly different times, on the same day. An early copy negative of the street scene was found among the Barnard-Stockbridge Collection. The name "Frank Hess" was affiliated with this group of glass negatives; he may have been one of the many staff photographers utilized by the Barnard Studio over the years.
+
+**Written in 1997 for the library's Digital Memories website.**
 
 Photos selected and text written by photograph intern Greg Schroeder.
 
