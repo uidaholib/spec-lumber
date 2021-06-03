@@ -1,6 +1,6 @@
 ---
 title: Manuscript Bible Verses in Nez Perce
-date: 2022-06-01 11:18:59 -0800
+date: 2021-06-07 11:18:59 -0800
 tags: ["Nimiipuu (Nez Perce)","language","religion","bibles","Henry Spalding"]
 subtitle: Digital Memories
 cover-image: lumber1274
