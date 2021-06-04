@@ -1,6 +1,6 @@
 ---
 title: Idaho Ebony - The Afro-American Presence in Idaho State History
-date: 2021-06-04
+date: 2021-06-04 01:30:23 -0800
 tags: ["Black history","diversity"]
 subtitle: Diverse Collections
 cover-image: lumber334
