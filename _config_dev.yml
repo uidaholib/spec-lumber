@@ -1,0 +1,104 @@
+##########
+# collectionbuilder-sa
+# Jekyll Digital Collection Generator
+# https://github.com/CollectionBuilder/collectionbuilder-sa
+##########
+
+collections:
+  posts:
+    output: true
+  series:
+    output: true
+    sort_by: title
+  writers:
+    output: true
+    sort_by: lastname
+
+defaults:
+  - scope:
+      type: posts
+    values:
+      layout: post
+  - scope:
+      type: series
+    values:
+      layout: series
+  - scope:
+      type: writers
+    values:
+      layout: writers
+      
+link-tags: true
+
+permalink: /posts/:year/:month/:day/:title:output_ext
+
+paginate: 10
+
+paginate_path: "/blog/:num/"
+
+##########
+# URL VARIABLES
+#
+# site domain, full URL to the production location of your collection
+url: https://harvester.lib.uidaho.edu
+# path to location on the domain if necessary e.g. /digital/hjccc
+baseurl: 
+# location of code, the full url to your github repository
+source-code: https://github.com/uidaholib/spec-lumber
+
+##########
+# SITE SETTINGS
+#
+# title of site appears in banner
+title: Idaho Harvester 
+# tagline, a short phrase that will appear throughout the site in the top banner
+tagline: "Blog & Working Collection of the <a class='text-white border-bottom p-0' href='https://www.lib.uidaho.edu/special-collections/'>University of Idaho Library's Special Collections & Archives</a>"
+# description appears in meta tags and other locations
+# this description might appear in search result lists, keep around 160 characters max
+description: "A blog and collection of items used by Special Collections & Archives for Blog and Reference Request Content -- someday to be included as digital collection content."  
+# creator of the digital collection, to appear in meta tags; we typically use our GitHub usernames but feel free to just use your name
+author: CollectionBuilder
+# Organization branding
+organization-name: "Special Collections & Archives, University of Idaho Library"
+organization-link: https://www.lib.uidaho.edu/special-collections/
+organization-logo-banner: https://www.lib.uidaho.edu/media/images/ui_library_horizontal.png
+organization-logo-nav: https://www.lib.uidaho.edu/media/images/ui_library_horizontal.png
+
+##########
+# COLLECTION SETTINGS
+#
+# provide location of the digital objects folder,
+# If using local folder, dir name with proceeding slash. If using external web location, provide full URL
+objects: https://webpages.uidaho.edu/library/spec/harvester/objects
+# choose metadata: this is the name of the csv file in your _data directory that describes the objects in your collection
+metadata: lumber
+# page generation settings 
+# "data" value must be the name of the metadata file (other values should be not be changed)
+page_gen:
+  - data: 'lumber'
+    template: 'items'
+    name: 'objectid'
+    dir: 'collection/items'
+    extension: 'html' 
+    filter: 'objectid'  
+
+##########
+# ROBOTS EXCLUDE
+#
+# set noindex to true if you do NOT want Google to index your site
+# noindex: true 
+
+##########
+# BUILD SETTINGS 
+#
+# Note: use environment variable on build command to include analytics
+# JEKYLL_ENV=production jekyll build
+# (this is done automatically by gh-pages build)
+#
+# ignore stuff
+exclude: [docs/, Rakefile, README.md, LICENSE, _posts/2014/,_posts/2015/,_posts/2016/,_posts/2017/,_posts/2018/,_posts/2019/,_series/,_writers/]
+# compress CSS output
+sass:
+  style: compressed
+
+plugins: [jekyll-paginate]

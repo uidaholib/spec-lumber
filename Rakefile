@@ -1,6 +1,15 @@
 # Tasks for creating derivatives for spec-lumber blog, modified from collectionbuilder-sa 
 
 ###############################################################################
+# TASK: dev
+###############################################################################
+
+desc "Build site with quick devlopment _config_dev.yml"
+task :dev do 
+  sh "bundle exec jekyll s -i --config _config.yml,_config_dev.yml"
+end
+
+###############################################################################
 # TASK: deploy
 ###############################################################################
 

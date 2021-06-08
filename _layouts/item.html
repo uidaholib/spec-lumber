@@ -83,7 +83,7 @@ gallery: true
                     <ul>{% for blogpost in blogposts %}
                         <li>
                             <a target="_blank" rel="noopener" href="{{ blogpost }}">{% capture correct_index %}{{forloop.index | minus: 1}}{%endcapture%}
-                                {{ blogtitles[correct_index] }}
+                                {{ blogtitles[forloop.index0] }}
                             </a>
                         </li>
                         {% endfor %}
@@ -103,7 +103,7 @@ gallery: true
                     <ul>{% for findingaid in findingaids %}
                         <li>
                             <a target="_blank" rel="noopener" href="{{ findingaid }}">{% capture correct_index %}{{forloop.index | times: 1 | minus: 1}}{%endcapture%}
-                                {{ findingaidtitles[correct_index] }}
+                                {{ findingaidtitles[forloop.index0] }}
                             </a>
                         </li>
                         {% endfor %}
