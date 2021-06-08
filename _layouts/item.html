@@ -74,34 +74,40 @@ gallery: true
 
     <div class="row justify-content-end mt-4">
         {% if page.blogposts %}
+        {% assign blogposts = page.blogposts | split: ";" %}    
+        {% assign blogtitles = page.blogtitle | split: ";" %}
         <div class="col-sm">
             <div class="card mb-2">
                 <div class="card-header">Associated Blog Posts</div>
                 <div class="card-body">
-                    <dl>
-                        <dd>
-                            <a target="_blank" rel="noopener" href="{{ page.blogposts }}">
-                                {{ page.blogtitle }}
+                    <ul>{% for blogpost in blogposts %}
+                        <li>
+                            <a target="_blank" rel="noopener" href="{{ blogpost }}">{% capture correct_index %}{{forloop.index | minus: 1}}{%endcapture%}
+                                {{ blogtitles[forloop.index0] }}
                             </a>
-                        </dd>
-                    </dl>
+                        </li>
+                        {% endfor %}
+                    </ul>
                 </div>
             </div>
         </div>
         {% endif %}
 
         {% if page.findingaid %}
+        {% assign findingaids = page.findingaid | split: ";" %}
+        {% assign findingaidtitles = page.findingaidtitle | split: ";" %}
         <div class="col-sm">
             <div class="card mb-2">
                 <div class="card-header">Finding Aid, Digital Collection, or Catalog Record</div>
                 <div class="card-body">
-                    <dl>
-                        <dd>
-                            <a target="_blank" rel="noopener" href="{{ page.findingaid }}">
-                                {{ page.findingaidtitle }}
+                    <ul>{% for findingaid in findingaids %}
+                        <li>
+                            <a target="_blank" rel="noopener" href="{{ findingaid }}">{% capture correct_index %}{{forloop.index | times: 1 | minus: 1}}{%endcapture%}
+                                {{ findingaidtitles[forloop.index0] }}
                             </a>
-                        </dd>
-                    </dl>
+                        </li>
+                        {% endfor %}
+                    </ul>
                 </div>
             </div>
         </div>
