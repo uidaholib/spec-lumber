@@ -6,7 +6,7 @@
 
 desc "Build site with quick devlopment _config_dev.yml"
 task :dev do 
-  sh "bundle exec jekyll s -i --config _config.yml,_config_dev.yml"
+  exec("bundle exec jekyll s -i --config _config_dev.yml")
 end
 
 ###############################################################################
@@ -16,7 +16,7 @@ end
 desc "Build site with production env"
 task :deploy do
   ENV["JEKYLL_ENV"] = "production"
-  sh "bundle exec jekyll build"
+  exec("bundle exec jekyll build")
 end
 
 ###############################################################################
