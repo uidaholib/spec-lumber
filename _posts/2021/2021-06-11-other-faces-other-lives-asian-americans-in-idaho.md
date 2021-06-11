@@ -10,11 +10,11 @@ author: Michelle A. Shannon
 
 Welcome to another week of our blog series featuring our [Diverse Collections](https://harvester.lib.uidaho.edu/series/diversecollections.html)! Each week, we share an archival collection that relates to or represents an underrepresented community in Idaho.
 
-This week features the VHS documentary, "[Other Faces, Other Lives: Asian Americans in Idaho](https://alliance-primo.hosted.exlibrisgroup.com/permalink/f/m1uotc/CP71161003870001451)." This documentary was sponsored by the Palouse Asian American Association of Moscow/Pullman with the assistance of a grant from the Ethnic Heritage Committee of the Idaho Centennial Commission. Lily Wai was the project administrator of the project. Eight Asian American families (specifically Chinese, Japanese, and Filipino) were interviewed about their experiences living in Idaho.
+This week features the VHS documentary, "[Other Faces, Other Lives: Asian Americans in Idaho](https://alliance-primo.hosted.exlibrisgroup.com/permalink/f/m1uotc/CP71161003870001451)." In this documentary, eight Asian American families (specifically Chinese, Japanese, and Filipino) were interviewed and asked how they or their families came to Idaho. They were also asked about their experiences living in Idaho - whether they faced discrimination or prejudice, how they raised their children in the environment, any changes they have seen regarding Asians in Idaho, and how they felt about intermarriages. Other interview topics included maintaining their native cultural heritage practices and identity, and if there were any benefits of living in Idaho as an Asian American.
 
 {% include feature/image.html objectid="lumber415" %}
 
-[Lily Wai](https://harvester.lib.uidaho.edu/posts/2021/05/24/lily-wai.html), a faculty Librarian at the University of Idaho Library, was involved in this documentary project, as well as several other projects that aimed to preserve and make accessible the histories of Asian communities in Idaho. 
+This documentary was sponsored by the Palouse Asian American Association of Moscow/Pullman with the assistance of a grant from the Ethnic Heritage Committee of the Idaho Centennial Commission. Lily Wai was the project administrator of the project. [Lily Wai](https://harvester.lib.uidaho.edu/posts/2021/05/24/lily-wai.html), a faculty Librarian at the University of Idaho Library, was involved in this documentary project, as well as several other projects that aimed to preserve and make accessible the histories of Asian communities in Idaho. 
 
 # Sources
 
