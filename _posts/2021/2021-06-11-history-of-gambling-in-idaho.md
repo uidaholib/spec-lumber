@@ -20,7 +20,9 @@ Although many local and state officials were strongly against gambling, operatio
 
 In the years immediately after WWII, local and state officials began cracking down on illegal gambling operations again, particularly in the Magic Valley. But in 1947, the Idaho legislature caved to the popular trends of the day, legalizing “coin-operated amusement devices.”[^8]
 
-{% include feature/image.html objectid="lumber1279;lumber1280" %}
+{% include feature/image.html objectid="lumber1279" %}
+
+{% include feature/image.html objectid="lumber1280" %}
 
 The state legalization of slot machines was a significant moment in Idaho legislative history. Several unincorporated communities took advantage of state incorporation laws “in order to bring slot machines into their newly formed municipalities” for the revenue. Garden City incorporated when Boise banned slot machines and Crouch incorporated a 10-mile stretch of a narrow, “one-foot-wide” section just to legalize slot machines at a specific roadhouse.[^9]
 

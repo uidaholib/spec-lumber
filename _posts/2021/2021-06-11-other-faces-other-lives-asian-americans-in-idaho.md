@@ -14,7 +14,7 @@ This week features the VHS documentary, "[Other Faces, Other Lives: Asian Americ
 
 {% include feature/image.html objectid="lumber415" %}
 
-This documentary was sponsored by the Palouse Asian American Association of Moscow/Pullman with the assistance of a grant from the Ethnic Heritage Committee of the Idaho Centennial Commission. Lily Wai was the project administrator of the project. [Lily Wai](https://harvester.lib.uidaho.edu/posts/2021/05/24/lily-wai.html), a faculty Librarian at the University of Idaho Library, was involved in this documentary project, as well as several other projects that aimed to preserve and make accessible the histories of Asian communities in Idaho. 
+This documentary was sponsored by the Palouse Asian American Association of Moscow/Pullman with the assistance of a grant from the Ethnic Heritage Committee of the Idaho Centennial Commission. [Lily Wai](https://harvester.lib.uidaho.edu/posts/2021/05/24/lily-wai.html) was the project administrator of the project. Wai, a faculty Librarian at the University of Idaho Library, was not only instrumental to this documentary project, but was involved in [several other projects](https://archiveswest.orbiscascade.org/ark:/80444/xv54043/) aimed at preserving and making accessible the histories of Asian communities in Idaho. 
 
 # Sources
 
