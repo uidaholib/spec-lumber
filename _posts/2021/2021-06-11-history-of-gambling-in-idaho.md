@@ -8,7 +8,7 @@ categories: []
 author: Michelle A. Shannon
 ---
 
-In the Idaho Territory days of the mid-1880s, gambling was prominent in parts of Idaho.[^1] As the area inched closer to statehood, however, local officials began to crack down. In 1889, the original state constitution was written and ratified. Article III, Section 20 was noticeably vague about the legality of gambling in specific forms: “The legislature shall not authorize any betting or gift enterprise, under any pretense or for any purpose whatever.”[^2]
+In the Idaho Territory days of the mid-1800s, gambling was prominent in parts of Idaho.[^1] As the area inched closer to statehood, however, local officials began to crack down. In 1889, the original state constitution was written and ratified. Article III, Section 20 was noticeably vague about the legality of gambling in specific forms: “The legislature shall not authorize any betting or gift enterprise, under any pretense or for any purpose whatever.”[^2]
 
 {% include feature/image.html objectid="lumber887" %}
 
