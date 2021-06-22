@@ -8,7 +8,7 @@ categories: ["Cover to Cover"]
 author: 
 ---
 
-*Cover to Cover*
+[Cover to Cover](https://harvester.lib.uidaho.edu/series/covertocover.html)
 celebrates Mother Goose Day. According to the Mother Goose Society the
 fictional character of Mother Goose was first associated with children’s
 stories in 1697 when Charles Perrault used the phrase in a published collection
