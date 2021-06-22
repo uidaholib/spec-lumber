@@ -1,13 +1,11 @@
 ---
 title: Burns Night
 date: 2018-01-25 10:07:00 -0800
-tags: [poets, Robert Burns, Burns Night, poetry]
+tags: ["poets","Robert Burns","Burns Night","poetry"]
 subtitle: 
 cover-image: lumber187
-categories: Cover to Cover
+categories: ["Cover to Cover"]
 ---
-
-{% include feature/image.html objectid="lumber187" %}
 
 Happy Burns Night! The night of January 25 is celebrated in Scotland and by the Scottish at
 heart throughout the world to commemorate the life and work of Scotland’s
@@ -16,6 +14,8 @@ More than 200 years later, good food and readings of the poet’s work are all
 that’s needed for your own Burns night celebration. University of Idaho Library
 Special Collections holds an 1898 limited edition set of all of Robert Burns
 work which includes his poem that may be most familiar to U.S. readers.
+
+{% include feature/image.html objectid="lumber187" %}
 
  *Auld Lang Syne*
 

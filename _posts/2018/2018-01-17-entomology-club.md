@@ -8,9 +8,9 @@ categories: ["Historical Student Clubs"]
 author: 
 ---
 
-{% include feature/image.html objectid="lumber849" %}
-
 Aldrich Entomology Club Newsletter: “The club was founded during the fall semester of 1961 and owes its inception to Dr. W.F. Barr and Art Gittins. The purpose of the club is primarily to encourage graduate and undergraduate students and others interested in the field of entomology in the furtherance of their entomological interests.”
+
+{% include feature/image.html objectid="lumber849" %}
 
 {% include feature/image.html objectid="lumber850" %}
 
