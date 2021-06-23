@@ -8,6 +8,10 @@ categories: ["Archives Outdoors"]
 author: Amy J. Thompson
 ---
 
+Dreaming of going outdoors this rainy weekend? Travel through photos instead with [Archives Outdoors](https://harvester.lib.uidaho.edu/series/archivesoutdoors.html)! In October of 1977, Marcia Wells was the first coed to complete the map and compass test course on the first try.
+
 {% include feature/image.html objectid="lumber872" %}
 
-Dreaming of going outdoors this rainy weekend? Travel through photos instead with #archivesoutdoors! In October of 1977, Marcia Wells was the first coed to complete the map and compass test course on the first try.
+# Sources
+
+UA 1991-40 Box 1, Folder 16

@@ -16,4 +16,4 @@ Researchers do not agree on Byron’s inspiration for the verse but it is though
 
 # Sources
 
-MG 5401
+[MG 5401](https://search.lib.uidaho.edu/UID:CP71179312980001451) (University of Idaho Committee on Student Organizations Records, 1913-1918)

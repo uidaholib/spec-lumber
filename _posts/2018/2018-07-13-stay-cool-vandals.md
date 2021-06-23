@@ -15,5 +15,5 @@ The University of Idaho Library Special Collections and Archives hopes you find 
 
 # Sources
 
-PG 17-01-51 Priest Lake Museum Association Photographs
+[PG 17-01-51](https://www.lib.uidaho.edu/digital/priestlake/items/priestlake21.html), [Priest Lake Museum Association Photographs](https://archiveswest.orbiscascade.org/ark:/80444/xv119445/)
 

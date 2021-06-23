@@ -8,10 +8,9 @@ categories: ["Book Collections"]
 author: Courtney E. Berge
 ---
 
+We are ending our Valentine’s Day posts with the poetic love of [Come Swiftly to Your Love: Love Poems of Ancient Egypt](https://alliance-primo.hosted.exlibrisgroup.com/permalink/f/m1uotc/CP71168259290001451), translated by Idaho born poet Ezra Pound and published in 1962. Not only is this book full of romantic verse, but it also has some pretty great illustrations.
+
 {% include feature/item-pdf-embed.html objectid="lumber948" %}
-
-
-We are ending our Valentine’s Day posts with the poetic love of *Come Swiftly to Your Love: Love Poems of Ancient Egypt*, translated by Idaho born poet Ezra Pound and published in 1962. Not only is this book full of romantic verse, but it also has some pretty great illustrations.
 
 If you are looking for a stanza or two to recite to a loved one, consider taking from the poem “Conversations in Courtship” where He compares her to “A star coming over the sky-line at new year, a good year”
 
@@ -35,4 +34,4 @@ We hope we have helped you with your Valentine’s Day plans. For more inspirati
 
 # Sources
 
-Ezra Pound Collection
+Ezra Pound Collection, [Pound PJ1945.P59](https://alliance-primo.hosted.exlibrisgroup.com/permalink/f/m1uotc/CP71168259290001451)

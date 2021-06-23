@@ -9,7 +9,7 @@ author:
 ---
 
 March 4th marked Idaho Day with festivities to
-honor the day occurring today at the Idaho Statehouse in Boise. Commemorating the 100th anniversary of the end of World War I the theme for the event this year is Idaho Remembers. University of Idaho Library Special Collections and Archives remembers Thomas Croft Neibaur, a WWI soldier from Idaho who received the Medal of Honor. A book on Neibaur’s life is found in the Day NW Collections. *Place The Headstones Where They Belong* by Sherman L. Fleek chronicles Neibaur’s war story as well as his life after the end of WWI. Neibaur was awarded the Medal of Honor in a ceremony in France in February of 1919. Below is a studio portrait of Private Neibaur wearing his Medal of Honor and other decorations.
+honor the day occurring today at the Idaho Statehouse in Boise. Commemorating the 100th anniversary of the end of World War I the theme for the event this year is Idaho Remembers. University of Idaho Library Special Collections and Archives remembers Thomas Croft Neibaur, a WWI soldier from Idaho who received the Medal of Honor. A book on Neibaur’s life is found in the Day NW Collections. [Place The Headstones Where They Belong](https://alliance-primo.hosted.exlibrisgroup.com/permalink/f/m1uotc/CP71101513450001451) by Sherman L. Fleek chronicles Neibaur’s war story as well as his life after the end of WWI. Neibaur was awarded the Medal of Honor in a ceremony in France in February of 1919. Below is a studio portrait of Private Neibaur wearing his Medal of Honor and other decorations.
 
 {% include feature/image.html objectid="lumber1028" %}
 
@@ -21,4 +21,4 @@ In addition to the Medal of Honor, Neibaur was awarded a Purple Heart and a WWI 
 
 # Sources
 
-Photo taken from book *Place the Headstones Where They Belong* by Sherman L Fleek, Utah State University Press,Logan Utah, 2008.
+Photo taken from book [Place The Headstones Where They Belong](https://alliance-primo.hosted.exlibrisgroup.com/permalink/f/m1uotc/CP71101513450001451) by Sherman L. Fleek, Utah State University Press, Logan Utah, 2008.
