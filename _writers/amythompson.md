@@ -1,6 +1,6 @@
 ---
 title: Amy J. Thompson
-permalink: /contributors/amythomposon.html
+permalink: /contributors/amythompson.html
 firstname: Amy J.
 lastname: Thompson
 ---
