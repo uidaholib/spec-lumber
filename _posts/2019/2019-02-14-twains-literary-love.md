@@ -24,4 +24,4 @@ The best part of this letter, however, comes when he critiques his own writing a
 
 # Sources
 
-Mark Twain Collection
+Mark Twain Collection, [Twain PS1331.A3 C6 1949](https://alliance-primo.hosted.exlibrisgroup.com/permalink/f/m1uotc/CP71113659430001451)

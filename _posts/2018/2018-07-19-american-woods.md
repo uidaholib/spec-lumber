@@ -8,7 +8,7 @@ categories: ["Cover to Cover"]
 author: 
 ---
 
-This final installment of the University of Idaho Library Special Collections and Archives [Cover to Cover](https://harvester.lib.uidaho.edu/series/covertocover.html) Tumblr series features one of the most unique books in our rare books collection: [American Woods by Romeyn Beck Hough](https://alliance-primo.hosted.exlibrisgroup.com/permalink/f/m1uotc/CP71150921440001451). This 14 volume set is a collection of more than 1000 paper-thin wood samples representing more than 350 varieties of North American trees.
+This final installment of the University of Idaho Library Special Collections and Archives [Cover to Cover](https://harvester.lib.uidaho.edu/series/covertocover.html) blog series features one of the most unique books in our rare books collection: [American Woods by Romeyn Beck Hough](https://alliance-primo.hosted.exlibrisgroup.com/permalink/f/m1uotc/CP71150921440001451). This 14 volume set is a collection of more than 1000 paper-thin wood samples representing more than 350 varieties of North American trees.
 
 {% include feature/image.html objectid="lumber1360" %}
 
