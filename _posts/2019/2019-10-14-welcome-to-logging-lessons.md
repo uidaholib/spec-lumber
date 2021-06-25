@@ -20,4 +20,6 @@ Stay tuned for more Logging Lessons next week!
 
 # Sources
 
+Photos courtesy of the [Potlatch Historical Society Collection](https://www.lib.uidaho.edu/digital/phs/)
+
 Photos courtesy of *Gale Scrapbooks: Timber and Logging, Potlatch Historical Society* and *Lee Gale Scrapbooks: Woods 2, Potlatch Historical Society* at Special Collections, University of Idaho Library.

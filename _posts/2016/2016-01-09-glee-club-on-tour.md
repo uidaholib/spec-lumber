@@ -25,4 +25,4 @@ Music continues to be an important part of UI culture locally and worldwide. For
 
 # Sources
 
-Campus Life & Culture Vertical File, PG 40-VAT15
+[Campus Life & Culture Vertical File](https://archiveswest.orbiscascade.org/ark:/80444/xv13076/), PG 40-VAT15

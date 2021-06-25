@@ -23,8 +23,10 @@ Steam donkey engines were used to transport logs from the forest to the railroad
 
 {% include feature/digital-image.html collection="phs" objectid="phs133" %}
 
-Photos courtesy of Potlatch Historical Society
+# Sources
 
-[^1]: [Skidders](https://www.fs.fed.us/forestmanagement/equipment-catalog/skidders.shtml)
-[^2]: [Donkey engine](https://oregonencyclopedia.org/articles/donkey_engine/#.XWlG9ShKi70)
-[^3]: Tom Farbo, *White Pine Wobblies and Wannigans: A History of Potlatch Logging Camps, North Central Idaho 1903-1986*, p. 28
+Photos courtesy of the [Potlatch Historical Society Collection](https://www.lib.uidaho.edu/digital/phs/)
+
+[^1]: ["Skidders," U.S. Forest Service](https://www.fs.fed.us/forestmanagement/equipment-catalog/skidders.shtml)
+[^2]: [Edward Kamholz, "Donkey engine," Oregon Encyclopedia: A Project of the Oregon Historical Society](https://oregonencyclopedia.org/articles/donkey_engine/#.XWlG9ShKi70)
+[^3]: Tom Farbo, [White Pine Wobblies and Wannigans: A History of Potlatch Logging Camps, North Central Idaho 1903-1986](https://alliance-primo.hosted.exlibrisgroup.com/permalink/f/m1uotc/CP71106064480001451), p. 28

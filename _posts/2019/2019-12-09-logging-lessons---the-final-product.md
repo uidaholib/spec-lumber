@@ -23,7 +23,8 @@ In some lumber mills, logs are separated out by the type of species and then mil
 
 {% include feature/digital-image.html collection="phs" objectid="phs422" %}
 
-Photos courtesy of Potlatch Historical Society.
+# Sources
+
+Photos courtesy of the [Potlatch Historical Society Collection](https://www.lib.uidaho.edu/digital/phs/)
 
 [^1]: [Complete Guide to Sawmills](https://www.yorksaw.com/guide-to-sawmills/)
-

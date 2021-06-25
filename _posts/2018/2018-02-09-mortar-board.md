@@ -2,7 +2,7 @@
 title: Mortar Board
 date: 2018-02-09
 tags: ["student clubs","mortar board","honors societies","campus organizations"]
-subtitle: 
+subtitle: Historical Student Clubs
 cover-image: lumber316
 categories: ["Historical Student Clubs"]
 author: 

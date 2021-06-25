@@ -25,6 +25,10 @@ There were many dangers associated with felling a tree beyond the tree falling o
 
 The first photo (above) is from 1915. The second photo (below) is from 1906 and shows two men standing at the base of an old pinus ponderosa pine tree.
 
-[^1]: [The History of the Chainsaw](https://www.waldwissen.net/lernen/forstgeschichte/wsl_geschichte_motorsaege/index_EN)
+# Sources
 
-[^2]: [Chapter 5: Crosscut Saw Tasks and Techniques](https://www.fs.fed.us/t-d/pubs/pdfpubs/pdf06672805/ch05.pdf)
+Photos courtesy of the [Potlatch Historical Society Collection](https://www.lib.uidaho.edu/digital/phs/)
+
+[^1]: ["The History of the Chainsaw," Wald Wissen](https://www.waldwissen.net/lernen/forstgeschichte/wsl_geschichte_motorsaege/index_EN)
+
+[^2]: ["Chapter 5: Crosscut Saw Tasks and Techniques" in Chain Saw and Crosscut Saw Training Course, Student's Guidebook, U.S. Forest Service](https://www.fs.fed.us/t-d/pubs/pdfpubs/pdf06672805/ch05.pdf)

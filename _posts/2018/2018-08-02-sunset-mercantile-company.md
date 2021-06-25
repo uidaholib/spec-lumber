@@ -2,7 +2,7 @@
 title: Sunset Mercantile Company
 date: 2018-08-02
 tags: ["Wallace","beer","breweries"]
-subtitle: 
+subtitle: Mine to Mine
 cover-image: lumber389
 categories: ["Mine to Mine"]
 author: Amy J. Thompson
@@ -14,4 +14,4 @@ One of the many side businesses Henry L. Day was involved in was the Sunset Merc
 
 # Sources
 
-PG 8_b336-1
+[Barnard-Stockbridge Photograph Collection](https://www.lib.uidaho.edu/digital/barstock/), PG 8_b336-1

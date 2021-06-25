@@ -21,8 +21,10 @@ Stay tuned for next week where we’ll discuss steam donkey engines!
 
 {% include feature/digital-image.html collection="phs" objectid="phs40" %}
 
-Photos courtesy of the Potlatch Historical Society
+# Sources
 
-[^1]: Tom Farbo, *White Pine Wobblies and Wannigans: A History of Potlatch Logging Camps, North Central Idaho 1903-1986*, p. 28
+Photos courtesy of the [Potlatch Historical Society Collection](https://www.lib.uidaho.edu/digital/phs/)
 
-[^2]: Tom Farbo, *White Pine Wobblies and Wannigans: A History of Potlatch Logging Camps, North Central Idaho 1903-1986*, p. 2
+[^1]: Tom Farbo, [White Pine Wobblies and Wannigans: A History of Potlatch Logging Camps, North Central Idaho 1903-1986](https://alliance-primo.hosted.exlibrisgroup.com/permalink/f/m1uotc/CP71106064480001451), p. 28
+
+[^2]: ibid., p. 2

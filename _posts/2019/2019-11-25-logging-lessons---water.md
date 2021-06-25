@@ -25,7 +25,9 @@ Flume herders were men who, despite the dangers, “would ride down the flume in
 
 {% include feature/image.html objectid="lumber103;lumber104" %}
 
-Photos courtesy of the Potlatch Historical Society.
+# Sources
+
+Photos courtesy of the [Potlatch Historical Society Collection](https://harvester.lib.uidaho.edu/series/logginglessons.html)
 
 [^1]: [Flumes](https://www.mendorailhistory.org/1_logging/flumes.htm)
 [^2]: [Chronicling America's Love of the Log Flume](https://www.atlasobscura.com/articles/why-are-log-flumes-still-so-damn-popular)
