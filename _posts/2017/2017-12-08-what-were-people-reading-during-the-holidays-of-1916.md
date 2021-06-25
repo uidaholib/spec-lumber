@@ -17,3 +17,7 @@ life of the recipient.
 If you can’t make it into the Special Collections Reading
 Room on the Library’s 1st floor to request this story, it is
 available at [Project Gutenberg](http://www.gutenberg.org/ebooks/17456).
+
+# Sources
+
+[Spec PS3302.R65](https://alliance-primo.hosted.exlibrisgroup.com/permalink/f/m1uotc/CP71174954480001451)

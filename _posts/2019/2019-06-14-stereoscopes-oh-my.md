@@ -18,7 +18,7 @@ These stereoscope and slides belonged to Olaf P. Larson. Larson was a Norwegian 
 
 {% include feature/image.html objectid="lumber1348" %}
 
-Larson appears to have traveled to California because many of his slides include images of San Francisco and other areas of California. He also seemed to have an affinity for flower shows, so this #floweryfriday. We are showing some of his slides of various flower and garden shows he seems to have visited while in California. Unfortunately, we are unable to recreate the stereoscope effect, so they are all the left-eye view image...
+Larson appears to have traveled to California because many of his slides include images of San Francisco and other areas of California. He also seemed to have an affinity for flower shows, so this [Flowery Friday](https://harvester.lib.uidaho.edu/series/floweryfriday.html) we are showing some of his slides of various flower and garden shows he seems to have visited while in California. Unfortunately, we are unable to recreate the stereoscope effect, so they are all the left-eye view image...
 
 {% include feature/image.html objectid="lumber1349" %}
 

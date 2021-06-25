@@ -8,13 +8,13 @@ categories: ["Flowery Friday"]
 author: Courtney E. Berge
 ---
 
+These mostly unidentified [Flowery Friday](https://harvester.lib.uidaho.edu/series/floweryfriday.html) watercolors were painted by former University of Idaho Faculty Sara Annette Bowman. Bowman served as Professor of Drawing (later Free Hand and Industrial Drawing) from some of the earliest days for the University. Starting in 1893, she taught drawing along with other art media until 1901.
+
 {% include feature/image.html objectid="lumber1318;lumber1319;lumber1320" %}
 
 {% include feature/image.html objectid="lumber1321;lumber1322;lumber1323" %}
 
 {% include feature/image.html objectid="lumber1324;lumber1325;lumber1326" %}
-
-These mostly unidentified #floweryfriday watercolors were painted by former University of Idaho Faculty Sara Annette Bowman. Bowman served as Professor of Drawing (later Free Hand and Industrial Drawing) from some of the earliest days for the University. Starting in 1893, she taught drawing along with other art media until 1901.
 
 Bowman was a graduate of the Illinois State Normal University and the School of Design in Davenport, Iowa. Beyond this she also studied wood carving and modeling (sculpture). Before she came to the University of Idaho she was a drawing instructor for the Tacoma Public Schools from 1890-1892.
 

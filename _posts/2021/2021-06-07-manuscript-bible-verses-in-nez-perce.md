@@ -19,4 +19,4 @@ Collected and researched by Orofino's Carroll E. Brock, who donated them to the 
 
 **Written in July 1996 for the library's Digital Memories website.**
 
-Caption: Manuscript Bible verses in the Nez Perce language, ca. 1842. Special Collections and Archives, University of Idaho Library, MG 5144.
+Caption: Manuscript Bible verses in the Nez Perce language, ca. 1842. Special Collections and Archives, University of Idaho Library, [MG 5144](https://search.lib.uidaho.edu/UID:CP71119017750001451).

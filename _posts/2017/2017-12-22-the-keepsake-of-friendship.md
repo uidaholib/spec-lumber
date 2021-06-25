@@ -19,4 +19,4 @@ The contents of the book include short stories, verse and drawings meant to prov
 
 # Sources
 
-Spec AY11 .K5
+[Spec AY11 .K5](https://alliance-primo.hosted.exlibrisgroup.com/permalink/f/m1uotc/CP7195322540001451)

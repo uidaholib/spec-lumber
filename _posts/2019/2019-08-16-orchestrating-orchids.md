@@ -8,9 +8,9 @@ categories: ["Flowery Friday"]
 author: Courtney E. Berge
 ---
 
-{% include feature/image.html objectid="lumber1338" %}
+These captivating [Flowery Friday](https://harvester.lib.uidaho.edu/series/floweryfriday.html) orchids are from *Erich Nelson, Book of Plates of the Genus Orchis*. Erich Nelson was a German artist, designer, and botanist. His illustrations have a insurmountable amount of detail which contributed greatly to the understanding of orchids. Throughout his life he completed several volumes of illustrations.[^1]
 
-These captivating #flowerfriday orchids are from *Erich Nelson, Book of Plates of the Genus Orchis*. Erich Nelson was a German artist, designer, and botanist. His illustrations have a insurmountable amount of detail which contributed greatly to the understanding of orchids. Throughout his life he completed several volumes of illustrations.[^1]
+{% include feature/image.html objectid="lumber1338" %}
 
 {% include feature/image.html objectid="lumber1339" %}
 

@@ -8,10 +8,10 @@ categories: ["Flowery Friday"]
 author: Courtney E. Berge
 ---
 
-{% include feature/image.html objectid="lumber965" %}
+This [Flowery Friday](https://harvester.lib.uidaho.edu/series/floweryfriday.html) is brought to you from the Kyle Laughlin Photograph Collection. Kyle Lauglin was a long time resident and business owner of Moscow, ID. As a resident of Moscow, he and his wife had several business ventures, including photography. Even after he closed his photography business, Laughlin continued to take pictures, many of which show his interest in the natural history and wildflowers of the Northwest. This black and white image of a columbine is just one of many beautiful floral pictures.
 
-This #floweryfriday is brought to you from the Kyle Laughlin Photograph Collection. Kyle Lauglin was a long time resident and business owner of Moscow, ID. As a resident of Moscow, he and his wife had several business ventures, including photography. Even after he closed his photography business, Lauglin continued to take pictures, many of which show his interest in the natural history and wildflowers of the Northwest. This black and white image of a columbine is just one of many beautiful floral pictures.
+{% include feature/image.html objectid="lumber965" %}
 
 # Sources
 
-PG 99-838
+[Kyle Laughlin Photograph Collection](https://www.lib.uidaho.edu/digital/laughlin/), PG 99-838
