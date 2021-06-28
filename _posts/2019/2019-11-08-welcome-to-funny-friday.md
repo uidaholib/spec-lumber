@@ -8,7 +8,7 @@ categories: ["Funny Friday"]
 author: Michelle A. Shannon
 ---
 
-Welcome to our latest series, Funny Friday! Each Friday, we’ll try to supply our followers with humorous materials we’ve stumbled upon in the archives.
+Welcome to our latest series, [Funny Friday](https://harvester.lib.uidaho.edu/series/funnyfriday.html)! Each Friday, we’ll try to supply our followers with humorous materials we’ve stumbled upon in the archives.
 
 {% include feature/image.html objectid="lumber247" %}
 
@@ -26,4 +26,4 @@ Welcome to our latest series, Funny Friday! Each Friday, we’ll try to supply o
 
 # Sources
 
-Photo courtesy of Folder 2, MG 478
+Photo courtesy of Folder 2, [MG 478](https://archiveswest.orbiscascade.org/ark:/80444/xv707396/), Tom Kovalicky Papers, 1965-2005

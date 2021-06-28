@@ -14,4 +14,4 @@ Don’t have a New Year’s Resolution yet? Check out these 9 ways to rejuvenate
 
 # Sources
 
-Photo courtesy of Folder 7, MG 478
+Photo courtesy of Folder 7, [MG 478](https://archiveswest.orbiscascade.org/ark:/80444/xv707396/), Tom Kovalicky Papers, 1965-2005

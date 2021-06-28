@@ -8,9 +8,9 @@ categories: ["Flowery Friday"]
 author: Courtney E. Berge
 ---
 
-{% include feature/image.html objectid="lumber1076" %}
+Sometimes we get reference requests. Sometimes we can’t find what someone is looking for. Sometimes we discover incredible flowers we didn’t know could exist. Happy [Flowery Friday](https://harvester.lib.uidaho.edu/series/floweryfriday.html)
 
-Sometimes we get reference requests. Sometimes we can’t find what someone is looking for. Sometimes we discover incredible flowers we didn’t know could exist. Happy #floweryfriday
+{% include feature/image.html objectid="lumber1076" %}
 
 # Sources
 

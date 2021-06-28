@@ -2,7 +2,7 @@
 title: The Hell Divers
 date: 2018-01-25
 tags: ["campus organizations","hell divers","swimming","student clubs","sports"]
-subtitle: 
+subtitle: Historical Student Clubs
 cover-image: lumber877
 categories: ["Historical Student Clubs"]
 author: 
@@ -18,4 +18,4 @@ The Hell Divers was an organization on campus that dated back to at least the 19
 
 # Sources
 
-Campus Life and Culture Vertical File Box 7, Folder 23
+[Campus Life and Culture Vertical File](https://archiveswest.orbiscascade.org/ark:/80444/xv13076/) Box 7, Folder 23

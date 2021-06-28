@@ -26,4 +26,4 @@ Here's a spoof on the song "America the Beautiful!"
 
 # Sources
 
-Photo courtesy of Folder 9, MG 478
+Photo courtesy of Folder 9, [MG 478](https://archiveswest.orbiscascade.org/ark:/80444/xv707396/), Tom Kovalicky Papers, 1965-2005

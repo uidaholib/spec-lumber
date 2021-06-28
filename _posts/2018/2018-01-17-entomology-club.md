@@ -2,7 +2,7 @@
 title: Entomology Club
 date: 2018-01-17
 tags: ["student clubs","entomology","campus"]
-subtitle: 
+subtitle: Historical Student Clubs
 cover-image: lumber849
 categories: ["Historical Student Clubs"]
 author: 
@@ -14,4 +14,4 @@ Aldrich Entomology Club Newsletter: “The club was founded during the fall seme
 
 {% include feature/image.html objectid="lumber850" %}
 
-Newsletter images and text from Campus Life and Culture Vertical File, University of Idaho Library Special Collections and Archives.
+Newsletter images and text from [Campus Life and Culture Vertical File](https://archiveswest.orbiscascade.org/ark:/80444/xv13076/), University of Idaho Library Special Collections and Archives.

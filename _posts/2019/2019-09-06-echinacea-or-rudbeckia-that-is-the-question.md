@@ -8,9 +8,9 @@ categories: ["Flowery Friday"]
 uthor: Courtney E. Berge
 ---
 
-{% include feature/image.html objectid="lumber1317" %}
+While walking around campus the other day, we came across these beautiful yellow flowers. It was a lovely day, and we thought “What a perfect flower for this weeks [Flowery Friday](https://harvester.lib.uidaho.edu/series/floweryfriday.html).” Then the trouble began…
 
-While walking around campus the other day, we came across these beautiful yellow flowers. It was a lovely day, and we thought “What a perfect flower for this weeks #floweryfriday.” Then the trouble began…
+{% include feature/image.html objectid="lumber1317" %}
 
 Admittedly, no one here is a botanist. We do not know our flowers particularly well, but we try to find something interesting about the flowers we post. Today, we found, we could not determine for certain what this plant is specifically. At first, we thought (after searching Google for “yellow flowers”) it was a Black-eyed Susan *(Rudbeckia hirta)*, but then we discovered the Yellow Coneflower *(Echinacea paradoxa)*. Many of the images seemed so similar, it was hard for us to decide.
 

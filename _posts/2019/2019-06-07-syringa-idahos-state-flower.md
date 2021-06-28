@@ -12,4 +12,6 @@ Officially designated Idaho’s state flower in 1931, Syringa (philadelphus lewi
 
 {% include feature/image.html objectid="lumber1330" %}
 
-Image taken from *Wild Flowers of the Pacific Northwest from Alaska to Northern California* by Lewis J. Clark
+# Sources
+
+Image taken from [Wild Flowers of the Pacific Northwest from Alaska to Northern California](https://alliance-primo.hosted.exlibrisgroup.com/permalink/f/m1uotc/CP71115987720001451) by Lewis J. Clark

@@ -13,8 +13,10 @@ Last week, we learned about using the powerful forces of water to transport logs
 
 {% include feature/digital-image.html collection="phs" objectid="phs11" %}
 
-That’s it for this week! Stay tuned for next week’s Logging Lesson where we’ll discuss the final product in logging: usable lumber!
+That’s it for this week! Stay tuned for next week’s [Logging Lesson](https://harvester.lib.uidaho.edu/series/logginglessons.html) where we’ll discuss the final product in logging: usable lumber!
 
 {% include feature/digital-image.html collection="phs" objectid="phs12" %}
 
-Photos courtesy of Potlatch Historical Society.
+# Sources
+
+Photos courtesy of the [Potlatch Historical Society Collection](https://www.lib.uidaho.edu/digital/phs/)

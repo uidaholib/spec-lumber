@@ -14,4 +14,4 @@ Humor and horror often go hand-in-hand because laughing at scary things is a typ
 
 # Sources
 
-Photo courtesy of MG 478
+Photo courtesy of [MG 478](https://archiveswest.orbiscascade.org/ark:/80444/xv707396/), Tom Kovalicky Papers, 1965-2005

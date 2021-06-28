@@ -8,10 +8,10 @@ categories: ["Flowery Friday"]
 author: Courtney E. Berge
 ---
 
-{% include feature/image.html objectid="lumber486" %}
+It is the last week of summer, and with it brings our last [Flowery Friday](https://harvester.lib.uidaho.edu/series/floweryfriday.html) of the season. This picture of the University of Idaho campus shows some beautiful fall blooms. May your fall be just as beautiful.
 
-It is the last week of summer, and with it brings our last #floweryfriday of the season. This picture of the University of Idaho campus shows some beautiful fall blooms. May your fall be just as beautiful.
+{% include feature/image.html objectid="lumber486" %}
 
 # Sources
 
-Photo courtesy of the Kyle Laughlin Photograph Collection,  PG 99-012-064
+Photo courtesy of the [Kyle Laughlin Photograph Collection](https://www.lib.uidaho.edu/digital/Laughlin/),  PG 99-012-064

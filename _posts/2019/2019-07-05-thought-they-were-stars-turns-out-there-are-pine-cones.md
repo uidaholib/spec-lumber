@@ -10,7 +10,7 @@ author: Courtney E. Berge
 
 Sometimes you are walking around campus and you find the most wondrous hidden things. It turns out the the Life Sciences Building has wonderful painted flowers and pine cones above their entrances. It is a reminder that even when you feel you know everything about campus, there may still be new things for you to see.
 
-Happy #floweryfriday!
+Happy [Flowery Friday](https://harvester.lib.uidaho.edu/series/floweryfriday.html)!
 
 {% include feature/image.html objectid="lumber1307" %}
 
