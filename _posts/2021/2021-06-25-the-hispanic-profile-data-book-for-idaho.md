@@ -2,7 +2,7 @@
 title: The Hispanic Profile Data Book for Idaho
 date: 2021-06-25
 tags: ["Hispanic history","diversity"]
-subtitle: 
+subtitle: Diverse Collections
 cover-image: lumber416
 categories: ["Diverse Collections"]
 author: Michelle A. Shannon

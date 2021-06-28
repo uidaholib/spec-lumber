@@ -2,7 +2,7 @@
 title: Asian American Comparative Collection newsletter
 date: 2021-06-18
 tags: ["Asian history","diversity"]
-subtitle: 
+subtitle: Diverse Collections
 cover-image: lumber424
 categories: ["Diverse Collections"]
 author: Michelle A. Shannon
