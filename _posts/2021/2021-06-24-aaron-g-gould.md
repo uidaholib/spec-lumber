@@ -1,6 +1,6 @@
 ---
 title: Aaron G. Gould
-date: 2021-06-24 08:53:21 -0700
+date: 2021-07-01
 tags: ["WWII","Indigenous history","Nez Perce","Army","Armed Forces","Infantry","military"]
 subtitle: “Rally the Pack” OR “The Word is Wolf”
 cover-image: lumber1379
