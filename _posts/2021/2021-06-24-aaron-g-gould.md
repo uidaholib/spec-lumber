@@ -8,8 +8,6 @@ categories: []
 author: Special Collections Contributors
 ---
 
-# Introduction
-
 The year is 1940. World War II has been raging for a year, without the official involvement of the United States. This small fact, however, did not deter thousands of men and women from enlisting into the various branches of the Armed Forces. In fact, Nez Perce County of Idaho had approximately 2,415 enlisted service members. Of this total, 97 serving members belonged to the local tribal community. One such person was twenty-five-year-old Private Aaron Roy Gould of the Nimiipuu (Nez Perce) People.
 
 {% include feature/image.html objectid="lumber1372" %}
