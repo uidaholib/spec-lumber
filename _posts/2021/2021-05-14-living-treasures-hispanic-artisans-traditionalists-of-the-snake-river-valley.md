@@ -8,9 +8,7 @@ categories: ["Diverse Collections"]
 author: Michelle A. Shannon
 ---
 
-Welcome to another week of our blog series featuring our [Diverse Collections](https://harvester.lib.uidaho.edu/series/diversecollections.html)! Each week, we share an archival collection that relates to or represents an underrepresented community.
-
-This week features the book, [*Living Treasures: Hispanic Artisans & Traditionalists of the Snake River Valley,*](https://alliance-primo.hosted.exlibrisgroup.com/permalink/f/m1uotc/CP71171378500001451) published by the Hispanic Folkarts Survey Committee in 1991. 
+This week's edition of [Diverse Collections](https://harvester.lib.uidaho.edu/series/diversecollections.html) features the book, [*Living Treasures: Hispanic Artisans & Traditionalists of the Snake River Valley,*](https://alliance-primo.hosted.exlibrisgroup.com/permalink/f/m1uotc/CP71171378500001451) published by the Hispanic Folkarts Survey Committee in 1991. 
 
 {% include feature/image.html objectid="lumber422" %}
 

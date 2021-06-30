@@ -1,10 +1,10 @@
 ---
 title: Manuscript Bible Verses in Nez Perce
 date: 2021-06-07 11:18:59 -0800
-tags: ["Nimiipuu (Nez Perce)","language","religion","bibles","Henry Spalding"]
+tags: ["Nimiipuu (Nez Perce)","language","religion","bibles","Henry Spalding","diversity"]
 subtitle: Digital Memories
 cover-image: lumber1274
-categories: [Digital Memories]
+categories: ["Digital Memories"]
 ---
 
 Henry Harmon Spalding, whose life as a missionary to the Nez Perce Indians was one of trial and tribulation, failed at most things in his life. However, his Idaho ministry had some significant accomplishments. Arriving at Lapwai Creek where it flows into the Clearwater River in 1836, Spalding recognized the need for the missionaries to learn the Nez Perce language in order to teach the gospel and, as well, civilization as they knew it. In 1839, using a printing press imported from Hawaii and a journeyman printer, he printed the first book in the Nez Perce language. It was also the first book printed in the Pacific Northwest. Knowing Spalding's career, it is not surprising that it was immediately discarded; the other missionaries disagreed with Spalding's choice of alphabet and made him adopt the standard form and redo the work.

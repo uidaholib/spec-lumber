@@ -8,9 +8,7 @@ categories: ["Diverse Collections"]
 author: Michelle A. Shannon
 ---
 
-Welcome to our new blog series featuring our [Diverse Collections](https://harvester.lib.uidaho.edu//series/diversecollections.html)! Each week, we'll share an archival collection that relates to or represents an underrepresented community. 
-
-Today, we're featuring a collection of newsletters from the [Idaho Black History Museum](https://www.ibhm.org/). The museum is located at the St. Paul Baptist Church, which was Idaho's first Black church, established in 1921.[^1] 
+Today's edition of [Diverse Collections](https://harvester.lib.uidaho.edu/series/diversecollections.html) features a collection of newsletters from the [Idaho Black History Museum](https://www.ibhm.org/). The museum is located at the St. Paul Baptist Church, which was Idaho's first Black church, established in 1921.[^1] 
 
 For more information about the church's early days and development, see the St. Paul Baptist Church ["Our History"](https://www.stpbc.com/about1-cvp4) page, or [excerpts from an interview](https://www.ktvb.com/article/news/local/viewpoint/viewpoint-history-idaho-black-history-museum/277-c3161277-c698-4ea0-8409-2e61466f231c) with the Idaho Black History Museum Executive Director Phillip Thompson. 
 

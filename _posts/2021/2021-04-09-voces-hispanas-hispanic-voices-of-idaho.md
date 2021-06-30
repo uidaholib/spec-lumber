@@ -8,9 +8,7 @@ categories: ["Diverse Collections"]
 author: Michelle A. Shannon
 ---
 
-Welcome to another week of our blog series featuring our [Diverse Collections](https://harvester.lib.uidaho.edu/series/diversecollections.html)! Each week, we share an archival collection that relates to or represents an underrepresented community in Idaho.
-
-This week, we're featuring a publication from the Idaho Hispanic Oral History Project in 1992.
+This week for [Diverse Collections](https://harvester.lib.uidaho.edu/series/diversecollections.html), we're featuring a publication from the Idaho Hispanic Oral History Project in 1992.
 
 {% include feature/item-pdf-embed.html objectid="lumber1005" %}
 

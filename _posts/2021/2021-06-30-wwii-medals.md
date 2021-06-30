@@ -8,7 +8,7 @@ categories: []
 author: Michelle A. Shannon
 ---
 
-While processing the [Hays](https://en.wikipedia.org/wiki/S._H._Hays) Family Papers, we learned that one of the Hays family members served in WWII and received the following medals.
+While processing the [Hays](https://en.wikipedia.org/wiki/S._H._Hays) Family Papers, we learned that one of the Hays family members served in WWII and received the following medals. More information about the veteran will be provided as the collection is fully processed but for now, check out these medals!
 
 # 116th Cavalry Brigade Combat Team Insignia
 

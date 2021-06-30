@@ -1,7 +1,7 @@
 ---
 title: Moving Forward While Looking Back
 date: 2021-03-03 12:06:28 -0800
-tags: ["Japan","Japanese Americans","students","internment","World War II"]
+tags: ["Japan","Japanese Americans","students","internment","World War II","diversity"]
 subtitle: A New Digital Exhibit
 cover-image-cdm-collection: spec_kic
 cover-image-collection: kooskia

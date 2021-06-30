@@ -8,9 +8,7 @@ categories: ["Diverse Collections"]
 author: Michelle A. Shannon
 ---
 
-Welcome to another week of our blog series featuring our [Diverse Collections](https://harvester.lib.uidaho.edu/series/diversecollections.html)! Each week, we share an archival collection that relates to or represents an underrepresented community.
-
-This week features our collection of [Mortar Board Records](https://archiveswest.orbiscascade.org/ark:/80444/xv96451). Mortar Board, Inc., is a national honor society of college seniors, which recognizes in its membership the qualities of superior scholastic ability, outstanding and continual leadership, and dedicated service to the college or university community.
+This week's edition of [Diverse Collections](https://harvester.lib.uidaho.edu/series/diversecollections.html) features our collection of [Mortar Board Records](https://archiveswest.orbiscascade.org/ark:/80444/xv96451). Mortar Board, Inc., is a national honor society of college seniors, which recognizes in its membership the qualities of superior scholastic ability, outstanding and continual leadership, and dedicated service to the college or university community.
 
 The University of Idaho chapter was organized in 1921, and chartered by the national organization in 1923, although no records exist until 1929. Among their activities were selling mums for homecoming, serving as hostesses for campus functions, sponsoring the Spinster Skip dance and the Narthex table, a tea which honored outstanding junior women, and overseeing the May Fete during which plaques were awarded to outstanding freshmen and sophomores. The group remained active on campus until the mid 1970's when apathy set in. In recent years attempts have been made to revitalize the group.
 

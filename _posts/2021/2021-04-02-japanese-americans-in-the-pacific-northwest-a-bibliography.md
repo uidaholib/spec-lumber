@@ -8,9 +8,7 @@ categories: ["Diverse Collections"]
 author: Michelle A. Shannon
 ---
 
-Welcome to another week of our blog series featuring our [Diverse Collections](https://harvester.lib.uidaho.edu/series/diversecollections.html)! Each week, we share an archival collection that relates to or represents an underrepresented community.
-
-This is a bibliography prepared by the Staff of the Tacoma Public Library from materials found in the collections of the Library. 
+This week's edition of [Diverse Collections](https://harvester.lib.uidaho.edu/series/diversecollections.html) features a bibliography prepared by the Staff of the Tacoma Public Library from materials found in the collections of the Library. 
 
 {% include feature/image.html objectid="lumber418" %}
 
