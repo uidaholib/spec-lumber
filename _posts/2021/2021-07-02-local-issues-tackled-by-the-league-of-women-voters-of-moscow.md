@@ -24,4 +24,4 @@ The local league’s efforts to encourage recycling and facilitate public knowle
 
 # Sources
 
-Post written by Erin Geslani the 2021 Gary E. and Carolyn J. Strong Special Collections Fellowship Recipient, as a part of her fellowship project. 
+This blog post was written and researched by Erin Geslani, the 2021 Gary E. and Carolyn J. Strong Special Collections Fellowship Recipient, as a part of her fellowship project. 
