@@ -1,19 +1,24 @@
 ---
 title: Independence Day in Idaho
-date: 2021-07-05
-tags: []
+date: 2021-07-04
+tags: ["holidays","Independence Day","July 4th","4th of July","parades"]
 subtitle: 
-cover-image: 
+cover-image: https://digital.lib.uidaho.edu/digital/api/singleitem/image/bar-stock/1189/default.jpg
 categories: []
+author: Michelle A. Shannon
 ---
 
-With Independence Day coming up, we thought we would show you how Idaho has celebrated the 4th of July throughout the years!
+Happy Independence Day! Check out how North Idaho has celebrated July 4th throughout the years!
 
 # Craigmont, Idaho
+
+## 1928
 
 {% include feature/digital-image.html collection="cities" objectid="cities983" %}
 
 # Grangeville, Idaho
+
+## 1885
 
 {% include feature/digital-image.html collection="cities" objectid="cities512" %}
 
@@ -54,6 +59,10 @@ With Independence Day coming up, we thought we would show you how Idaho has cele
 {% include feature/digital-image.html collection="cities" objectid="cities74" %}
 
 # Wallace, Idaho
+
+## 1890
+
+{% include feature/digital-image.html collection="cities" objectid="cities877" %}
 
 ## 1892
 
