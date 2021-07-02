@@ -1,6 +1,6 @@
 ---
 title: Local Issues Tackled by the League of Women Voters of Moscow
-date: 2021-07-02
+date: 2021-07-02 08:47:53 -0700
 tags: ["community organizations","women","education","environment","civic organizations"]
 subtitle: 
 cover-image: lumber1365
