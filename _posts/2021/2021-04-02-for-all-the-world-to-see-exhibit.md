@@ -4,7 +4,7 @@ date: 2021-04-02
 tags: ["exhibits","Black history","Civil Rights"]
 subtitle: 
 cover-image: lumber1003
-categories: ["Exhibits"]
+categories: ["Exhibits","Special Collections Projects"]
 author: Courtney E. Berge
 ---
 
