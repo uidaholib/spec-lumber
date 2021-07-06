@@ -1,6 +1,6 @@
 ---
 title: Erin Geslani - 2021 Strong Fellow!
-date: 2021-07-07
+date: 2021-07-03
 tags: ["students","women","projects","processing"]
 subtitle: 
 cover-image: lumber1381
