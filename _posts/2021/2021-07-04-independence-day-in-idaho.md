@@ -10,6 +10,8 @@ author: Michelle A. Shannon
 
 Happy Independence Day! Check out how North Idaho has celebrated July 4th throughout the years!
 
+{% include feature/nav-menu.html sections="Craigmont;Grangeville;Mohler;Moscow;Wallace;" %}
+
 # Craigmont, Idaho
 
 ## 1928
@@ -105,3 +107,7 @@ Happy Independence Day! Check out how North Idaho has celebrated July 4th throug
 {% include feature/image.html objectid="https://digital.lib.uidaho.edu/digital/api/singleitem/image/bar-stock/1202/default.jpg" link="https://digital.lib.uidaho.edu/digital/collection/bar-stock/id/1202" caption="float for July 4th parade in Wallace, Idaho (July 4, 1921)" %}
 
 {% include feature/image.html objectid="https://digital.lib.uidaho.edu/digital/api/singleitem/image/bar-stock/1206/default.jpg" link="https://digital.lib.uidaho.edu/digital/collection/bar-stock/id/1206" caption="float for July 4th parade in Wallace, Idaho (July 4, 1921)" %}
+
+## 1922
+
+{% include feature/digital-image.html cdm-collection="bar-stock" collection="barstock" objectid="barstock2166" %}
