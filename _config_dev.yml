@@ -52,7 +52,7 @@ source-code: https://github.com/uidaholib/spec-lumber
 # title of site appears in banner
 title: Idaho Harvester 
 # tagline, a short phrase that will appear throughout the site in the top banner
-tagline: "Blog & Working Collection of the <a class='text-white border-bottom p-0' href='https://www.lib.uidaho.edu/special-collections/'>University of Idaho Library's Special Collections & Archives</a>"
+tagline: "Blog & working collection of unique materials from the <a class='text-white border-bottom p-0' href='https://www.lib.uidaho.edu/special-collections/'>University of Idaho Library, Special Collections & Archives Department</a>"
 # description appears in meta tags and other locations
 # this description might appear in search result lists, keep around 160 characters max
 description: "A blog and working collection of the most interesting and unique materials from the University of Idaho Library's Special Collections & Archives Department."
