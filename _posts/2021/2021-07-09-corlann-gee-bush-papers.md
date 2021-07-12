@@ -4,7 +4,7 @@ date: 2021-07-09
 tags: ["women","diversity"]
 subtitle: Diverse Collections
 cover-image: lumber412
-categories: ["Diverse Collections"]
+categories: ["Diverse Collections","Wonder Women"]
 author: Michelle A. Shannon
 ---
 
