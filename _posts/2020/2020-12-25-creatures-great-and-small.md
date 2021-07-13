@@ -29,7 +29,7 @@ Allowing livestock such as cattle to graze on forested lands has had a long trad
 
 {% include feature/digital-image.html objectid="plcphotos826" collection="plcphotos" %}
 
-For more information about cattle, see U of I Extension Forestry Information Series II publication [Silvopasture - Growing Trees in your Pasture or Vice-Versa](https://www.uidaho.edu/-/media/UIdaho-Responsive/Files/Extension/topic/forestry/FM52-Silvopasture-Growing-Trees-in-Your-Pasture-or-Visa-Versa.pdf) or the publication [Anti-Quality Factors in RAngeland and Pastureland Forages](https://digital.lib.uidaho.edu/digital/collection/fwres/id/46) in our Forest Wildlife and Range Experiment Station digital collection. 
+For more information about cattle, see U of I Extension Forestry Information Series II publication [Silvopasture - Growing Trees in your Pasture or Vice-Versa](https://www.uidaho.edu/-/media/UIdaho-Responsive/Files/Extension/topic/forestry/FM52-Silvopasture-Growing-Trees-in-Your-Pasture-or-Visa-Versa.pdf) or the publication [Anti-Quality Factors in Rangeland and Pastureland Forages](https://digital.lib.uidaho.edu/digital/collection/fwres/id/46) in our Forest Wildlife and Range Experiment Station digital collection. 
 
 Stay tuned for the next episode where we delve into another creepy crawly chomping on a forest near you!
 

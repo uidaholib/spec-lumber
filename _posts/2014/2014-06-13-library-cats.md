@@ -3,12 +3,13 @@ title: Library Cats
 date: 2014-06-13
 tags: ["libraries","cats"]
 subtitle: 
-cover-image: https://digital.lib.uidaho.edu/digital/api/singleitem/image/pg1/87/default.jpg
+cover-image-collection: pg1
+cover-image: pg187
 categories: ["Digital Memories"]
 author: 
 ---
 
-{% include feature/image.html objectid="https://digital.lib.uidaho.edu/digital/api/singleitem/image/pg1/87/default.jpg" link="https://digital.lib.uidaho.edu/digital/collection/pg1/id/87/rec/87" caption="students study in the reading room at the Library, circa 1950" %}
+{% include feature/digital-image.html collection="pg1" objectid="pg187" %}
 
 “Puss in Books" might be an appropriate title for this image of a pussycat napping in the midst of a large group of male students taking a special exam in the library’s main reading room a half-century ago. Librarian Richard C. Beck, now retired, reminisced about the era of library cats in his addendum to R. D. Hook’s "The University of Idaho Library: A History” (1986):
 
