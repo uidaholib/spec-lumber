@@ -4,7 +4,8 @@ date: 2021-07-20 09:12:48 -0700
 tags: ["exhibits","snakes","wildlife"]
 subtitle: 
 cover-image: lumber1438
-categories: [Exhibits]
+categories: ["Exhibits"]
+author: Courtney E. Berge
 ---
 
 A new exhibit has been installed on the 2nd floor of the library. **Snakes of Idaho** a photograph exhibit on loan to the University of Idaho from Idaho State University will be on display through September. Featuring photographs taken by Dr. Charles "Chuck" Peterson, a professor of herpetology, in the field throughout his career. 
