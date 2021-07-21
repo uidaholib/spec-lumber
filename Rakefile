@@ -193,6 +193,7 @@ task :new_post do
     subtitle: #{subtitle}
     cover-image: #{cover_image}
     categories: [#{categories}]
+    author:
     ---
   END
 
