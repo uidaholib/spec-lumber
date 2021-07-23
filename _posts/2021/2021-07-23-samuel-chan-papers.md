@@ -14,7 +14,7 @@ Samuel S.M. Chan was born in Hainan Island, China on June 11, 1934. He received 
 
 {% include feature/image.html objectid="lumber405" %}
 
-Our collection includes Charts, graphs, and articles authored by Samuel S.M. Chan, University of Idaho professor of metallurgical enginering, 1962-1989; photographs and other material, especially correspondence concerning the career of Wlodzimierz Rymon-Lipinski.
+Our collection includes charts, graphs, and articles authored by Samuel S.M. Chan, University of Idaho professor of metallurgical engineering, 1962-1989; photographs and other material, especially correspondence concerning the career of Wlodzimierz Rymon-Lipinski.
 
 # Sources
 
