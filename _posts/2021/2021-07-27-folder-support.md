@@ -4,7 +4,7 @@ date: 2021-07-21 10:18:26 -0700
 tags: ["preservation","re-use","archives"]
 subtitle: Re-Purposing for Preservation
 cover-image: lumber1467
-categories: [Preservation Practices]
+categories: ["Preservation Practices"]
 author: Courtney E. Berge
 ---
 
