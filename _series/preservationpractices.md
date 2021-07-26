@@ -4,4 +4,4 @@ permalink: /series/preservationpractices.html
 series: Preservation Practices
 ---
 
-A series about the preservation work behind Special Collections projects!
+A series featuring the archival practices used to preserve our unique materials.
