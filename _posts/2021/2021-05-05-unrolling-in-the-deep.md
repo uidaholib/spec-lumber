@@ -4,7 +4,7 @@ date: 2021-05-05 12:05:05 -0700
 tags: ["preservation","archives", "posters", "jazz" ]
 subtitle: 
 cover-image: lumber1123
-categories: []
+categories: ["Preservation Practices"]
 author: Courtney E. Berge
 ---
 
