@@ -1,7 +1,7 @@
 ---
 title: Samuel Chan Papers
 date: 2021-07-23
-tags: [Chinese history","Asian history","diversity"]
+tags: ["Chinese history","Asian history","diversity"]
 subtitle: Diverse Collections
 cover-image: lumber405
 categories: ["Diverse Collections"]
