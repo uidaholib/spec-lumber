@@ -1,6 +1,6 @@
 ---
 title: It's Basic, Sebacic
-date: 2021-07-27 10:27:38 -0700
+date: 2021-08-02 10:27:38 -0700
 tags: ["preservation","rare books","chemical reactions"]
 subtitle: 
 cover-image: lumber1476
