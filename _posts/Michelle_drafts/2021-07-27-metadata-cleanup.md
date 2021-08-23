@@ -1,6 +1,6 @@
 ---
 title: Metadata Cleanup
-date: 2022-07-27 18:44:05 -0700
+date: 2021-07-27 18:44:05 -0700
 tags: ["metadata","digital","resources","tables","information"]
 subtitle: 
 cover-image: lumber1477
@@ -20,4 +20,4 @@ There were originally 4346 unique values in the column - but many of these value
 
 # Sources
 
-OpenRefine is free and easy to use! Interested in learning more? One of our librarians has a workshop on [OpenRefine](https://evanwill.github.io/openrefine-b/)!
+OpenRefine is free and easy to use! Interested in learning more? One of our librarians has a [workshop on OpenRefine](https://evanwill.github.io/openrefine-b/)!
