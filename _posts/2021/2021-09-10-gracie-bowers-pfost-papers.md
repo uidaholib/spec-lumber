@@ -36,7 +36,7 @@ On August 11, 1965, Gracie Pfost died of Hodgkin's Disease at Johns Hopkins Hosp
 
 The papers of Gracie Pfost span the years 1950 to 1963, with the bulk of the material covering the years 1953 to 1962. A few of her speeches dating from the 1940s are also included.
 
-{% include feature/image.html objectid="lumber1104;1102" %}
+{% include feature/image.html objectid="lumber1104;lumber1102" %}
 
 The congressional papers include administrative records, such as inter-office memos and mailing lists; constituent correspondence, which is divided into three sections and forms the major part of the collection; general and personal correspondence; legislative material which includes bills introduced by Gracie Pfost, her statements to congressional committees, Congressional Record inserts, and committee files; public relations material which includes her speeches, newspaper clippings, news releases, and audio tapes of radio speeches. The campaign files include campaign material, files of clippings on people, places, or events of interest to her, as well as other political files.
 
