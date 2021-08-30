@@ -2,7 +2,7 @@
 title: Kooskia Interment Camp Scrapbook
 date: 2021-09-17
 tags: ["Japanese history","Asian history","diversity"]
-subtitle: 
+subtitle: Diverse Collections
 cover-image-collection: spec_kic
 cover-image: spec_kic872
 categories: ["Diverse Collections"]
