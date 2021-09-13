@@ -36,4 +36,4 @@ In 1962, the Moscow Chamber of Commerce commission the King Spud trophy to be us
 
 [^2]: [Jordan Kaye, "Searching For King Spud: The Hunt For Idaho's Oddest Trophy," Idaho State Journal, February 11, 2021.](https://www.idahostatejournal.com/sports/the-hunt-for-idahos-oddest-trophy/article_88bc4f92-64f9-5347-94de-fe22d5a11694.html)
 
-Want to find more interesting history like this? Check out the [Digital Library of Idaho]! 
+Want to find more interesting history like this? Check out the [Digital Library of Idaho](https://www.digitallibraryofidaho.org/)! The DLOI is a collection of digital libraries from across the state of Idaho, providing access points to the varied historical images, documents, and other media available to the public.
