@@ -1,10 +1,10 @@
 ---
 title: Mountain Pine Beetle
-date: 2021-09-18
+date: 2021-10-14
 tags: ["insects","forests"]
 subtitle: 
 cover-image: lumber1491
-categories: [What's Bugging You]
+categories: ["What's Bugging You"]
 author: Amy J. Thompson
 ---
 
