@@ -1,8 +1,8 @@
 ---
 title: Mountain Pine Beetle
-date: 2021-09-30
+date: 2021-09-01 14:14:07 -0700
 tags: ["insects","forests"]
-subtitle: 
+subtitle: "What's Bugging You"
 cover-image: lumber1491
 categories: ["What's Bugging You"]
 author: Amy J. Thompson
