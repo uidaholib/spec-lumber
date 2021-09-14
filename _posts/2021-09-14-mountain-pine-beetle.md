@@ -8,11 +8,9 @@ categories: [What's Bugging You]
 author: Amy J. Thompson
 ---
 
-One of the most destructive forest insects in western North America, mountain pine beetles (Dendroctonus Ponderosae) will attack any pine species rather than a select few. In Idaho, timber production is a valuable commodity with sales of lumber alone well over $1 billion in 2018. 
+One of the most destructive forest insects in western North America, mountain pine beetles (Dendroctonus Ponderosae) will attack any pine species rather than a select few. In Idaho, timber production is a valuable commodity with sales of lumber alone well over $1 billion in 2018. In the late 1960s, it was estimated that mountain pine beetles killed roughly 400,000 trees in the in just the forests of the northern Rocky Mountains. The total damage has widely fluctuated over the years based on number of trees available at risk and stress factors affecting those trees. For example, trees were killed on over 1.9 million acres in 2010 in Idaho alone, but only 28,000 acres in 2017.
 
 {% include feature/image.html objectid=“lumber1488” %}
-
-In the late 1960s, it was estimated that mountain pine beetles killed roughly 400,000 trees in the in just the forests of the northern Rocky Mountains. 
 
 Just 1/4 inch in length, mountain pine beetles burrow under the bark, continuing in a vertical line depositing eggs along the way. Once the eggs hatch, the larvae tunnel away horizontally, spreading the destruction out around the tree. There are four stages of development for the mountain pine beetle: egg, larva, pupa and adult, which typically all happen within one year. Adults spend about less than one month outside the tree, flying around seeking new trees to infest.
 
