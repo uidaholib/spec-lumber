@@ -1,6 +1,6 @@
 ---
 title: First and Last - George L. Shoup
-date: 2022-02-19
+date: 2021-10-15
 tags: ["politics","politicians"]
 subtitle: 
 cover-image: lumber1506
@@ -13,13 +13,15 @@ George Laird Shoup was the twelfth and last territorial governor (1889-1890) and
 
 Born June 15, 1836, in Kittanning, Armstrong County, Pennsylvania, and educated in the public schools of Freeport and Slate Lick, George Laird Shoup moved to Galesburg, Illinois with his father in 1852. In 1859 he joined the gold rush to Pike's Peak, Colorado, becoming a prospector, miner, and merchant.
 
-When the Civil War broke out he enlisted in an independent company of scouts and was engaged in scouting and detached service against Indians in Colorado, Indian Territory and New Mexico. In December of 1861 he was commissioned a second lieutenant in the Colorado Cavalry and was promoted to first lieutenant in February of 1862. In the spring of that year he was in command of artillery at Fort Union, New Mexico and was involved in numerous skirmishes with Indians. In September of 1864 he was commissioned a Colonel in the Third Colorado Cavalry and commanded the regiment at the battle of Sand Creek, Colorado. He was honorably discharged from the military in December of 1864.
+When the Civil War broke out he enlisted in an independent company of scouts and was engaged in scouting and detached service against Indians in Colorado, Indian Territory and New Mexico. In December of 1861 he was commissioned a second lieutenant in the Colorado Cavalry and was promoted to first lieutenant in February of 1862. In the spring of that year he was in command of artillery at Fort Union, New Mexico and was involved in numerous skirmishes with Indians. In September of 1864 he was commissioned a Colonel in the Third Colorado Cavalry and commanded the regiment at the battle of Sand Creek, Colorado. He was honorably discharged from the military in December of 1864.[^1]
 
 Shoup took a short leave of absence from the military in the spring of 1863 when he was elected as a delegate to the Colorado constitutional convention. Colorado was not admitted to the union at that time and the work of the convention was abandoned.
 
 In 1866 he moved to Virginia City, Montana, where he started a store, but then gold was discovered in Leesburg, Idaho, and he moved across the Continental Divide, opening another store in the city of Salmon, where, in addition to merchandising, he also engaged in cattle raising. Soon he became one of the most successful businessmen in the Intermountain West.
 
 {% include feature/image.html objectid="lumber363;lumber362" %}
+
+{% include feature/image.html objectid="lumber596;lumber368" %}
 
 On June 15, 1868 he married Lena Darnuster of Iowa. They were the parents of three sons and three daughters.
 
@@ -30,6 +32,8 @@ In 1884 Shoup was appointed commissioner to the World's Cotton Centennial at New
 President Benjamin Harrison, because of his previous service on the Senate Committee on Territories, was aware of the defects in territorial administration. For this reason he decided not to appoint outsiders as territorial officials, instead, choices were recommended by party leaders of the territories concerned. As a result of this policy, George L. Shoup was appointed governor of Idaho in 1889. As governor he arranged to have a constitutional convention assembled so that the territory would be ready for admission as a state the following year. After signing the new constitution on August 6, 1889, he went to Washington, D.C. where he took a prominent part in getting the Idaho admissions bill through Congress.
 
 After Idaho became a state on July 1, 1890, Shoup agreed to run for governor, although it was understood that his real interest was to represent the new state in the U.S. Senate. He was elected governor in 1890 and remained in that position until the legislature elected him Senator in December of that year. He remained in the Senate until March of 1901, when he was succeeded by Democrat Fred Dubois. After leaving the Senate he retired from public life.
+
+{% include feature/image.html objectid="lumber357" %}
 
 Pioneer settler, soldier, miner, businessman, and public servant, George Laird Shoup died in Boise, Idaho, December 21, 1904. When the time came to nominate someone to represent Idaho in statuary hall in Congress, Shoup was chosen. His statue was installed in 1910. Senator William Borah's tribute to Shoup sums up his character and explains the respect the people of Idaho had for him: "He stood forth a leader. He had only such education as he could secure in a few months in the common schools, but united with rare judgment, a perception almost intuitive, a keen, quick, unerring knowledge of men, a practical wisdom gathered during his long, active career in the school of life, he was a safe, trusted and able counselor in all matters of private and public concern."[^2]
 
@@ -43,6 +47,6 @@ Although there is little in the way of political correspondence in this collecti
 
 # Sources
 
-[^1]: ["Gov. George Laird Shoup," National Governors Association.]
+[^1]: ["Gov. George Laird Shoup," National Governors Association.](https://www.nga.org/governor/george-laird-shoup/)
 
-[^2]: [Judith Nielsen, "George Laird Shoup Papers, 1861-1958," Archives West, 1994.]
+[^2]: [Judith Nielsen, "George Laird Shoup Papers, 1861-1958," Archives West, 1994.](https://archiveswest.orbiscascade.org/ark:/80444/xv64985/)

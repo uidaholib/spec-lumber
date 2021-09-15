@@ -24,7 +24,7 @@ A staunch democrat, Norma was long active in politics through her work with the 
 
 Norma was passionate about the rights of women, senior citizens, and children, along with education and the environment. Legislation that she sponsored, or was particularly involved with, concerned displaced homemakers, Idaho's ratification of the Equal Rights Amendment, day care licensing, reapportionment of the legislative districts, abortion, divorce, drinking age, driving under the influence of alcohol, harassment (hate crimes), higher education, liquor revenue, and the state liquor dispensary system. She was also active on the Development Disabilities Council, the State Employment and Training Advisory Council, and the Idaho Cancer Coordinating Committee. On a national level, Norma served on the Education Committee of the National Conference of State Legislatures, the advisory board for the National Education Data Library, the American Association of Retired Persons' legislative committee, and a national commission to prevent telemarketing fraud of senior citizens.
 
-Norma passed away on June 1, 1998. She was survived by her husband, three children, one brother, eleven grandchildren, and three great-grandchildren. Upon her death, Senator Marguerite McLaughlin commented, "She probably was the most fair legislator I ever knew. She listened to both sides and tried to make decisions based on that."
+Norma passed away on June 1, 1998. She was survived by her husband, three children, one brother, eleven grandchildren, and three great-grandchildren. Upon her death, Senator Marguerite McLaughlin commented, "She probably was the most fair legislator I ever knew. She listened to both sides and tried to make decisions based on that."[^1]
 
 # The collection
 
@@ -33,3 +33,5 @@ The [Norma Dobler Papers](https://archiveswest.orbiscascade.org/ark:/80444/xv851
 # Sources
 
 MG 402, folder 94
+
+[^1]: [Karen Hertel, "Norma Dobler Papers, 1967-1991," Archives West, 1999.](https://archiveswest.orbiscascade.org/ark:/80444/xv85164)
