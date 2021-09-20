@@ -1,6 +1,6 @@
 ---
 title: Hispanic Youth Dropout Prevention
-date: 2021-10-15
+date: 2021-10-08
 tags: ["Hispanic history","diversity"]
 subtitle: 
 cover-image: lumber421
@@ -8,7 +8,7 @@ categories: ["Diverse Collections"]
 author: Michelle A. Shannon
 ---
 
-Welcome to another week of our blog series featuring our [Diverse Collections](https://harvester.lib.uidaho.edu/series/diversecollections.html)! Each week, we share an archival collection that relates to or represents an underrepresented community.
+This week's edition of [Diverse Collections](https://harvester.lib.uidaho.edu/series/diversecollections.html) features the Report of the Task Force on the Participation of Hispanic Students in Vocational Education Programs in Idaho.
 
 {% include feature/image.html objectid="lumber421" %}
 
