@@ -9,7 +9,7 @@ author:
 ---
 ### Find King Spud at the Digital Library of Idaho
 
-Below you will find the strange tale of Professor Robin Higgins, and a grand prize awaits the first person to solve that mystery. However, we also have a neat reward for anyone who helps us spot King Spud on the [Digital Library of Idaho] (https://www.digitallibraryofidaho.org/). If you just have a few minutes to spare, the regal potato is waiting for you to find him there.
+Below you will find the strange tale of Professor Robin Higgins, and a grand prize awaits the first person to solve that mystery. However, we also have a neat reward for anyone who helps us spot King Spud on the [Digital Library of Idaho](https://www.digitallibraryofidaho.org/). If you just have a few minutes to spare, the regal potato is waiting for you to find him there.
 
 ### The mysterious research of Professor Robin Higgins
 
@@ -31,7 +31,7 @@ Along with his own writing, Professor Higgins kept an indecipherable set of phot
 {% include feature/image.html objectid="lumber1519;lumber1517;lumber1521" %}
 {% include feature/image.html objectid="lumber1525;" %}
 
-One of the photographs appeared to be blank, with only the notation "handsome potato" on the back. We are hoping that the [Digital Library of Idaho] (https://www.digitallibraryofidaho.org/) might have that final photo, but we haven't had a chance to look for it.
+One of the photographs appeared to be blank, with only the notation "handsome potato" on the back. We are hoping that the [Digital Library of Idaho](https://www.digitallibraryofidaho.org/) might have that final photo, but we haven't had a chance to look for it.
 
 ### We're looking for him. But he knows where we are.
 
