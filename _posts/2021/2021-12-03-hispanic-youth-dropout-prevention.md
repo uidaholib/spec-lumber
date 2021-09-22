@@ -1,6 +1,6 @@
 ---
 title: Hispanic Youth Dropout Prevention
-date: 2021-10-08
+date: 2021-12-03
 tags: ["Hispanic history","diversity"]
 subtitle: 
 cover-image: lumber421

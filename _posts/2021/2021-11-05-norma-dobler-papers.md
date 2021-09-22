@@ -1,6 +1,6 @@
 ---
 title: Norma Dobler Papers
-date: 2021-10-01
+date: 2021-11-05
 tags: ["women","diversity"]
 subtitle: 
 cover-image: lumber406
