@@ -11,6 +11,8 @@ author:
 
 Below you will find the strange tale of Professor Robin Higgins, and a grand prize awaits the first person to solve that mystery. However, we also have a neat reward for anyone who helps us spot King Spud on the [Digital Library of Idaho](https://www.digitallibraryofidaho.org/). If you just have a few minutes to spare, the regal potato is waiting for you to find him there.
 
+{% include feature/spudmodal.html button="Play the King Spud Game. Win King Spud Memorabilia." color="info" title="Play the King Spud Game. Win King Spud Memorabilia." %}
+
 ### The mysterious research of Professor Robin Higgins
 
 {% include feature/image.html objectid="lumber1510" caption="Staff photo of Professor Robin Higgins" %}
