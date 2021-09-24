@@ -1,6 +1,6 @@
 ---
 title: Report on the Governor's Hispanic Initiative
-date: 2021-11-05
+date: 2021-10-01
 tags: ["Hispanic history","diversity"]
 subtitle: Diverse Collections
 cover-image: lumber419

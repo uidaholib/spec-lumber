@@ -1,6 +1,6 @@
 ---
 title: First and Last - George L. Shoup
-date: 2021-10-15
+date: 2022-01-07
 tags: ["politics","politicians"]
 subtitle: 
 cover-image: lumber1506
