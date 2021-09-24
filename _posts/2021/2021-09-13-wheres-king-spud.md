@@ -30,7 +30,7 @@ Along with his own writing, Professor Higgins kept an indecipherable set of phot
 {% include feature/image.html objectid="lumber1524;lumber1520;lumber1514" %}
 {% include feature/image.html objectid="lumber1526;lumber1521;lumber1515" %}
 {% include feature/image.html objectid="lumber1516;lumber1518;lumber1522" %}
-{% include feature/image.html objectid="lumber1519;lumber1517;" %}
+{% include feature/image.html objectid="lumber1519;lumber1525" %}
 
 One of the photographs appeared to be blank, with only the notation "handsome potato" on the back. We are hoping that the [Digital Library of Idaho](https://www.digitallibraryofidaho.org/) might have that final photo, but we haven't had a chance to look for it.
 
