@@ -4,7 +4,7 @@ date: 2020-09-13 08:55:10 -0700
 tags: ["trophies","libraries"]
 subtitle: The Search For Answers
 cover-image: lumber315
-categories: []
+categories: [Idaho Myth and Legends]
 author: 
 ---
 ### Find King Spud at the Digital Library of Idaho
