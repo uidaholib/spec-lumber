@@ -6,7 +6,7 @@ subtitle: Ridenbaugh and Kappa Sigma
 cover-image-cdm-collection: pg1
 cover-image-collection: pg1
 cover-image: pg11518
-categories: [Idaho Myths and Legends]
+categories: [Idaho Myth and Legends]
 author: Sara Szobody
 ---
 
