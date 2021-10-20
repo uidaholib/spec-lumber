@@ -8,7 +8,7 @@ categories: []
 author: Courtney E. Berge
 ---
 
-<p>This New Year&rsquo;s Eve, we say goodbye to 2019 and welcome the 2020s. Here is a poem to commemorate this momentous occasion: </p><p>“Nuanced moments filled with anticipation.<br/>Every eye turned to the sky <br/>Wondering at the possibilities.<br/><br/>Yesteryear has been fulfilled,<br/>Enlightened optimism forthcoming.<br/>All the world gathered to celebrate.<br/>Resolutions fill each mind, humming.<br/>Silent reverie accompanied by boisterous jubilation.<br/><br/>Enjoy this<br/>Visceral <br/>Evening”<br/><br/>
+<p>This New Year&rsquo;s Eve, we say goodbye to 2019 and welcome the 2020s. Here is a poem to commemorate this momentous occasion: </p><p>"Nuanced moments filled with anticipation.<br/>Every eye turned to the sky <br/>Wondering at the possibilities.<br/><br/>Yesteryear has been fulfilled,<br/>Enlightened optimism forthcoming.<br/>All the world gathered to celebrate.<br/>Resolutions fill each mind, humming.<br/>Silent reverie accompanied by boisterous jubilation.<br/><br/>Enjoy this<br/>Visceral <br/>Evening"<br/><br/>
 
 (Poem by Spec Staff)
 

@@ -15,9 +15,9 @@ Recreation Association between the 1920s-1960s.
 Recreation at University of Idaho existed as early as
 1984-1985, although it’s not clear if that’s when Campus Recreation first
 started (it’s just the earliest date that we could find on record). According
-to an early brochure, “Campus Recreation is a multi-dimensional program
+to an early brochure, "Campus Recreation is a multi-dimensional program
 composed of Swim Center activities, Intramural Sports, Informal Recreation and
-Special Events.”[^1]
+Special Events."[^1]
 
 {% include feature/image.html objectid="lumber034" %}
 

@@ -12,8 +12,8 @@ This week, we have photos of women bowling in the 1960s.
 
 Did you know that the first indoor bowling alleys were
 opened in New York City in the 1840s?[^1]
-According to one website, “women began bowling in the 1880s despite it being
-socially unacceptable to do so.”[^1]
+According to one website, "women began bowling in the 1880s despite it being
+socially unacceptable to do so."[^1]
 Today, the Professional Women’s Bowling Association and Women’s International
 Bowling Congress are just two of many associations for women bowlers!
 

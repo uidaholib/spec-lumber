@@ -12,9 +12,9 @@ author:
 
 # Lionel Hampton (April 20, 1908 – August 31, 2002)
 
-Lionel Hampton was fifteen years old in 1923 when he began his musical career as a drummer. In 1930, when he was called in to a recording session with Louis Armstrong, he discovered the instrument for which he would become famous. During a break in the session Hampton walked over to a vibraphone and started to play. He ended up playing the vibes on a song, which became a hit. Hampton introduced a new voice to jazz and he became known as “King of the Vibes.”
+Lionel Hampton was fifteen years old in 1923 when he began his musical career as a drummer. In 1930, when he was called in to a recording session with Louis Armstrong, he discovered the instrument for which he would become famous. During a break in the session Hampton walked over to a vibraphone and started to play. He ended up playing the vibes on a song, which became a hit. Hampton introduced a new voice to jazz and he became known as "King of the Vibes."
 
-When Benny Goodman heard Hampton play, he invited Hamp to record with him, joining Gene Krupa (drums) and Teddy Wilson (piano) in a group that became the Benny Goodman Quartet in 1936. Hampton and Wilson’s inclusion in the group also marked the “breaking of the color barrier”; the Benny Goodman Quartet was the first racially integrated group of jazz musicians.
+When Benny Goodman heard Hampton play, he invited Hamp to record with him, joining Gene Krupa (drums) and Teddy Wilson (piano) in a group that became the Benny Goodman Quartet in 1936. Hampton and Wilson’s inclusion in the group also marked the "breaking of the color barrier"; the Benny Goodman Quartet was the first racially integrated group of jazz musicians.
 
 {% include feature/image.html objectid="https://digital.lib.uidaho.edu/digital/api/singleitem/image/ijcs/19570/default.jpg?highlightTerms=" link="https://digital.lib.uidaho.edu/digital/collection/ijcs/id/19570/rec/2" caption="Lionel and Gladys Hampton, circa 1950" %}
 

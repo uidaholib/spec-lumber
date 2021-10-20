@@ -9,7 +9,7 @@ categories: []
 
 {% include feature/image.html objectid="lumber279" %}
 
-This #hiddenlibrary view of the ASUI-Kibbie Activity Center was taken on a snowy day kinda like today from the Library’s 4th floor mail room. The Kibbie “Dome” is home to numerous campus events, including the [Lionel Hampton Jazz Festival](https://www.uidaho.edu/class/jazzfest) taking place this Friday and Saturday!
+This #hiddenlibrary view of the ASUI-Kibbie Activity Center was taken on a snowy day kinda like today from the Library’s 4th floor mail room. The Kibbie "Dome" is home to numerous campus events, including the [Lionel Hampton Jazz Festival](https://www.uidaho.edu/class/jazzfest) taking place this Friday and Saturday!
 
 # Sources
 

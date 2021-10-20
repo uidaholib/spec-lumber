@@ -13,7 +13,7 @@ Today, in 1847, Emily Bronte’s *Wuthering Heights* and Anne Bronte’s *Agnes 
 {% include feature/image.html objectid="lumber909" %}
 
 The three sisters adopted male pen names initially feeling
-work by female authors would not be taken seriously. Charlotte Bronte wrote “we did not like to declare ourselves women because….our mode of writing and thinking was not what is called feminine.” The Thornton edition set *Novels of the Sisters Bronte* in Special Collections was published in 1905.
+work by female authors would not be taken seriously. Charlotte Bronte wrote "we did not like to declare ourselves women because….our mode of writing and thinking was not what is called feminine." The Thornton edition set *Novels of the Sisters Bronte* in Special Collections was published in 1905.
 
 # Sources
 

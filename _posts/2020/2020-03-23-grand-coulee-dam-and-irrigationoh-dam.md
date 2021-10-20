@@ -15,14 +15,14 @@ pumping plants and discharge pipes.
 
 The Grand Coulee Dam is part of the larger Columbia Basin
 Irrigation Project which was commissioned by Congress in 1943 (although
-“construction of the irrigation system did not start until after World War
-II”).[^1] The Project “is an immense irrigation development in central Washington state
+"construction of the irrigation system did not start until after World War
+II").[^1] The Project "is an immense irrigation development in central Washington state
 that provides water from the Columbia River to about 671,000 acres on the
-Columbia Plateau.”[^2]
+Columbia Plateau."[^2]
 
 {% include feature/digital-image.html objectid="crbp1327" cdm-collection="crbproj" collection="crbp" %}
 
-Here’s how the system works: “water from Lake Roosevelt
+Here’s how the system works: "water from Lake Roosevelt
 behind Grand Coulee Dam is pumped uphill to a 27-mile-long reservoir, Banks
 Lake, from which it flows by gravity into a series of canals. Outlets for
 unused water empty into the Columbia above Richland and Pasco more than 125
@@ -31,24 +31,24 @@ miles to the south. The project includes more than 300 miles of main canals,
 provides irrigation water to 2,050 farms. Apples, wheat and corn are the
 largest-volume crops. There also are large herds of dairy cows and beef cattle.
 Annually, the cash value of farm production in the Columbia Basin Project is
-about $630 million.”[^2]
+about $630 million."[^2]
 
 {% include feature/digital-image.html objectid="crbp1160" cdm-collection="crbproj" collection="crbp" %}
 
-Additionally, “O’Sullivan Dam on Crab Creek about 15
+Additionally, "O’Sullivan Dam on Crab Creek about 15
 miles south of Moses Lake creates Potholes Reservoir, which captures return
 flows from the northern half of the project. The Potholes Canal flows out of
-the lake and serves the southern part of the project.”[^2]
-Said in another way, “Potholes Reservoir collects runoff from the north for
+the lake and serves the southern part of the project."[^2]
+Said in another way, "Potholes Reservoir collects runoff from the north for
 farms in the south. Water from drains and waste ways returns to the canal
-system to be reused,” as “irrigation water from the Columbia Basin Project is
+system to be reused," as "irrigation water from the Columbia Basin Project is
 often used more than once before it returns to the Columbia River near Pasco
-[Washington].”[^1]
+[Washington]."[^1]
 
-“In addition to supplying water for irrigation, producing
+"In addition to supplying water for irrigation, producing
 electricity, controlling floods, providing recreation, and regulating
 streamflow, the Columbia Basin Project also provides water for cities,
-industries, navigation, and endangered species.”[^1]
+industries, navigation, and endangered species."[^1]
 
 {% include feature/digital-image.html objectid="crbp1151" cdm-collection="crbproj" collection="crbp" %}
 

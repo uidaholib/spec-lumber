@@ -11,10 +11,10 @@ author: Michelle A. Shannon
 This week, we have photos of women’s intramural basketball
 during the 1930s and 1960s at the University of Idaho.
 
-According to multiple sources, “women’s basketball began
-the year after the game was invented” in 1891 (thus, women’s basketball began
-in 1892) and has a long history of “collegiate and professional teams, intercollegiate
-competitions…as well as…women’s basketball at the Olympics.”[^1]
+According to multiple sources, "women’s basketball began
+the year after the game was invented" in 1891 (thus, women’s basketball began
+in 1892) and has a long history of "collegiate and professional teams, intercollegiate
+competitions…as well as…women’s basketball at the Olympics."[^1]
 The first women’s basketball team to ever exist was formed at Smith College.[^1]
 
 The University of Idaho has a rich history of women’s

@@ -10,7 +10,7 @@ author: Courtney E. Berge
 
 {% include feature/image.html objectid="lumber854" %}
 
-These “pirated” editions of *The Lord of the Rings* were published in the US in 1965 by Ace Books. When JRR Tolkien refused to let Donald Wollheim of Ace Books publish paperback editions of *The Lord of the Rings*, Wollheim found what he considered a loophole in copyright law to let him publish these. These editions brought much controversy with Tolkien urging his fans to purchase the authorized versions, published by Ballantine Books.
+These "pirated" editions of *The Lord of the Rings* were published in the US in 1965 by Ace Books. When JRR Tolkien refused to let Donald Wollheim of Ace Books publish paperback editions of *The Lord of the Rings*, Wollheim found what he considered a loophole in copyright law to let him publish these. These editions brought much controversy with Tolkien urging his fans to purchase the authorized versions, published by Ballantine Books.
 
 # Sources
 

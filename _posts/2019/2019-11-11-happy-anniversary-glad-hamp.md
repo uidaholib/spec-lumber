@@ -14,7 +14,7 @@ In 1936, on their way to New York for Lionel to join Benny Goodman’s band, Lio
 
 A wonderful pair, together they established their own record label, Glad-Hamp, as well as their own music publishing company, Swing and Tempo. With Lionel’s musical talent and Gladys’ business acumen, the Hampton’s were able to thrive.
 
-Gladys and Lionel also loved helping their own community. One of their projects was the building of the the low-income housing units, the Lionel Hampton Houses, which were begun in 1971. Gladys died in 1971, and ten years later, Lionel opened more low-income housing units in New York named the Gladys Hampton Houses. On the cornerstone, Lionel had inscribed, “God gave me talent, but Gladys gave the inspiration.”
+Gladys and Lionel also loved helping their own community. One of their projects was the building of the the low-income housing units, the Lionel Hampton Houses, which were begun in 1971. Gladys died in 1971, and ten years later, Lionel opened more low-income housing units in New York named the Gladys Hampton Houses. On the cornerstone, Lionel had inscribed, "God gave me talent, but Gladys gave the inspiration."
 
 # Sources
 

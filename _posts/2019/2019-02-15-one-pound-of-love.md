@@ -12,11 +12,11 @@ We are ending our Valentine’s Day posts with the poetic love of [Come Swiftly
 
 {% include feature/item-pdf-embed.html objectid="lumber948" %}
 
-If you are looking for a stanza or two to recite to a loved one, consider taking from the poem “Conversations in Courtship” where He compares her to “A star coming over the sky-line at new year, a good year”
+If you are looking for a stanza or two to recite to a loved one, consider taking from the poem "Conversations in Courtship" where He compares her to "A star coming over the sky-line at new year, a good year"
 
 or where She is so caught up in her feelings she can’t pick out what to wear.
 
-“My heart runs out if I think how I love him,
+"My heart runs out if I think how I love him,
 
 I can’t just act like anyone else.
 
@@ -28,7 +28,7 @@ or hide back of my fan.
 
 I can’t put on my eye make-up
 
-or pick a perfume.”
+or pick a perfume."
 
 We hope we have helped you with your Valentine’s Day plans. For more inspiration on love and its many facets, be sure to browse our other collections.
 

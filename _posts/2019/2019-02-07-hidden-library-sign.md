@@ -15,4 +15,4 @@ Have you seen this #hiddenlibrary sign? This inspirational plaque stood next to 
 
 # Sources
 
-PG 1-122-080, Library entrance plaque - “Here is the knowledge of centuries past that all may come and share today.” 1957 Photographer: UI Photo
+PG 1-122-080, Library entrance plaque - "Here is the knowledge of centuries past that all may come and share today." 1957 Photographer: UI Photo

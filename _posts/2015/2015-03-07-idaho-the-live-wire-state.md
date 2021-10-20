@@ -12,7 +12,7 @@ In continuation of the celebration of the first annual Idaho Day on March 4th, I
 
 {% include feature/item-pdf-embed.html objectid="lumber1170" %}
 
-It also lists these “Interesting Facts About Idaho”:
+It also lists these "Interesting Facts About Idaho":
 - Idaho became a territory in 1863 and was admitted as a state in 1890.
 - The length of the state north and south is 483 miles.  The width at the northern boundary is 48 miles and at the southern 309 miles.
 - The land area in 83,354 square miles and the water 534.

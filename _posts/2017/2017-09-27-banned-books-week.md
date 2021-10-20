@@ -19,11 +19,11 @@ of Huckleberry Finn from the 1886 edition of the book in Special Collections.
 
 Since its publication in 1884, *The Adventures of Huckleberry Finn* has generated controversy. The
 first ban of the book occurred in Concord, Massachusetts just one month after
-its release when librarians there called it “trash and suitable only for
-slums.” Twain’s book has been repeatedly challenged based on its treatment of
+its release when librarians there called it "trash and suitable only for
+slums." Twain’s book has been repeatedly challenged based on its treatment of
 race and the author’s language. It ranks #14 on the 100 Most Banned or Challenged
-Books from 2000-2009. *The Adventures of Huckleberry Finn* has been included in a Library of Congress exhibit, *Books that Shaped America*, that explores books “that have had a profound effect on
-American life.”
+Books from 2000-2009. *The Adventures of Huckleberry Finn* has been included in a Library of Congress exhibit, *Books that Shaped America*, that explores books "that have had a profound effect on
+American life."
 
 # Sources
 

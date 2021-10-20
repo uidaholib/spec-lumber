@@ -8,7 +8,7 @@ categories: ["Mine to Mine"]
 author: Amy J. Thompson
 ---
 
-Organized August 14, 1909, the Ray-Jefferson Mining Company included the “Ray” Lode, “Jefferson” Lode and “Lincoln” Lode claims. Little work was done until 1915, when the “Carlisle,” “Hill Group” and “Carbon Creek” claims were purchased and parts of the Ray-Jefferson were leased to other mining companies. In 1916, the Day family attempted to purchase the property and amidst many disputes paid a higher price than fair market value. The new directors endeavored to build the mill pictured above with the hopes of a large return on profits. However, the Ray-Jefferson failed to live up to the Days' earlier expectations and little profit was made.
+Organized August 14, 1909, the Ray-Jefferson Mining Company included the "Ray" Lode, "Jefferson" Lode and "Lincoln" Lode claims. Little work was done until 1915, when the "Carlisle," "Hill Group" and "Carbon Creek" claims were purchased and parts of the Ray-Jefferson were leased to other mining companies. In 1916, the Day family attempted to purchase the property and amidst many disputes paid a higher price than fair market value. The new directors endeavored to build the mill pictured above with the hopes of a large return on profits. However, the Ray-Jefferson failed to live up to the Days' earlier expectations and little profit was made.
 
 {% include feature/image.html objectid="lumber443" %}
 

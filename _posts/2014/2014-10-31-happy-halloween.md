@@ -10,7 +10,7 @@ author: Amy J. Thompson
 
 {% include feature/image.html objectid="lumber473" %}
 
-Happy Halloween!  This image is from our Barnard-Stockbridge Photograph Collection, documenting life in the Coeur d'Alene Mining District from 1894 to 1964.  Here we see Mrs. Homer Coverly posing in costume for a play “Sweeping the Moon” in 1915.
+Happy Halloween!  This image is from our Barnard-Stockbridge Photograph Collection, documenting life in the Coeur d'Alene Mining District from 1894 to 1964.  Here we see Mrs. Homer Coverly posing in costume for a play "Sweeping the Moon" in 1915.
 
 # Sources
 

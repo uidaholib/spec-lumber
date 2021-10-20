@@ -10,9 +10,9 @@ author: Michelle A. Shannon
 
 This week’s photos feature women playing softball near
 the University Library and Memorial Gym. Softball developed out of indoor
-baseball, which was invented in Chicago in 1887.[^1] “Women’s fast-pitch softball became an official sport of the Summer in 1996 but
+baseball, which was invented in Chicago in 1887.[^1] "Women’s fast-pitch softball became an official sport of the Summer in 1996 but
 was dropped in 2012. Still, that hasn’t deterred millions of enthusiasts in the
-U.S. and more than a hundred other countries from pursuing the sport.”[^2]
+U.S. and more than a hundred other countries from pursuing the sport."[^2]
 
 Stay tuned for next week’s installment of Women’s
 Recreation Wednesday!

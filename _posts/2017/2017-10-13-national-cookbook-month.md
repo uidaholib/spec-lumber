@@ -13,7 +13,7 @@ Idaho Library Special Collections and Archives. For Fall, we thought a couple of
 
 {% include feature/image.html objectid="lumber1042" %}
 
-The cookbook contains recipes from members of the Ladies Aid Society of the Methodist Episcopal Church in Moscow, Idaho. The front cover declared it was a cook book “containing the choicest recipes for economical and
+The cookbook contains recipes from members of the Ladies Aid Society of the Methodist Episcopal Church in Moscow, Idaho. The front cover declared it was a cook book "containing the choicest recipes for economical and
 practical housekeeping. 
 
 Another cookbook found in the Day-Northwest Collection

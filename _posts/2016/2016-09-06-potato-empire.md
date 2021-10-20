@@ -12,7 +12,7 @@ author: Amy J. Thompson
 
 J.R. ‘Jack’ Simplot, holding his company’s claim to fame.
 
-In almost 90 years, the Simplot Company has gone “from a one-man farming operation into a food and agribusiness empire.” In the 1940s Simplot developed the first [commercially-viable frozen french fries](http://www.simplot.com/about).
+In almost 90 years, the Simplot Company has gone "from a one-man farming operation into a food and agribusiness empire." In the 1940s Simplot developed the first [commercially-viable frozen french fries](http://www.simplot.com/about).
 
 Bonus points for today’s post: does anyone know where on campus this portrait is?
 

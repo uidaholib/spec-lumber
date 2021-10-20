@@ -17,7 +17,7 @@ water’s kinetic energy into electric power.
 {% include feature/digital-image.html objectid="crbp1016;crbp1014" cdm-collection="crbproj" collection="crbp" %}
 
 The U.S. Army Corps of Engineers explains how turbines
-and generators work: “A hydraulic turbine converts the energy of flowing water
+and generators work: "A hydraulic turbine converts the energy of flowing water
 into mechanical energy. A hydroelectric generator converts this mechanical
 energy into electricity. The operation of a generator is based on the
 principles discovered by Faraday. He found that when a magnet is moved past a
@@ -28,7 +28,7 @@ mounted on the perimeter of the rotor. The rotor is attached to the turbine
 shaft, and rotates at a fixed speed. When the rotor turns, it causes the field
 poles (the electromagnets) to move past the conductors mounted in the stator.
 This, in turn, causes electricity to flow and a voltage to develop at the
-generator output terminals.”[^1]
+generator output terminals."[^1]
 
 
 {% include feature/digital-image.html objectid="crbp1017" cdm-collection="crbproj" collection="crbp" %}

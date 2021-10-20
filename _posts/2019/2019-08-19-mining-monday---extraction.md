@@ -12,7 +12,7 @@ Last week, we learned about the dangers posed to an underground metal miner. Thi
 
 {% include feature/image.html objectid="lumber110" %}
 
-Mineral extraction involves removing surface layers of “waste rock” to access and extract rock that includes the desired minerals. Underground mines consist of tunnels and shafts in order to reach deep pockets of mineral ore. The rocks that include the desired mineral ore are then placed in “ore carts” on tracks that are then transported to above-ground mine facilities to be milled and smelted. Stay tuned for next week’s post to learn about milling mineral ore!
+Mineral extraction involves removing surface layers of "waste rock" to access and extract rock that includes the desired minerals. Underground mines consist of tunnels and shafts in order to reach deep pockets of mineral ore. The rocks that include the desired mineral ore are then placed in "ore carts" on tracks that are then transported to above-ground mine facilities to be milled and smelted. Stay tuned for next week’s post to learn about milling mineral ore!
 
 {% include feature/image.html objectid="lumber109" %}
 

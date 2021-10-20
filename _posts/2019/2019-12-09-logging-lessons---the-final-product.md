@@ -15,7 +15,7 @@ Today, we'll discuss the process of turning a log into a piece of lumber that ca
 
 {% include feature/digital-image.html collection="phs" objectid="phs336" %}
 
-A sawmill is “a place where lumber milling takes place. It includes the entire area including the log sort yard, the milling machines, the eventual sorting and storage area and the administration and maintenance areas as well.”[^1]
+A sawmill is "a place where lumber milling takes place. It includes the entire area including the log sort yard, the milling machines, the eventual sorting and storage area and the administration and maintenance areas as well."[^1]
 
 In some lumber mills, logs are separated out by the type of species and then milled into lumber.
 

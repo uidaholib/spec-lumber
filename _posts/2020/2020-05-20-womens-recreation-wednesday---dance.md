@@ -14,7 +14,7 @@ doing folk dances.
 
 {% include feature/image.html objectid="lumber076" %}
 
-A little background on folk dancing: “Folk dances are
+A little background on folk dancing: "Folk dances are
 usually danced at social gatherings…that can but are not required to have a
 particular dancing stage and are almost always so simple to dance that new
 dancers and amateurs are encouraged to start dancing with everyone else. Such
@@ -22,15 +22,15 @@ dances almost never have an official governing body that is keeping the developm
 of folk dance in check. Instead of that, the morphing of the folk dances in
 their countries and local regions happens spontaneously by the changes with
 local traditions. Modern dances that have developed spontaneously such as hip
-hop are not regarded as folk dance, and they are often called ‘street dances.’”[^1]
+hop are not regarded as folk dance, and they are often called ‘street dances.’"[^1]
 
 {% include feature/image.html objectid="lumber077" %}
 
 In 1989,
 Idaho became the tenth state of a total of 28 that officially chose the square
-dance as an official state dance. Idaho law declared that “the folk dance,
+dance as an official state dance. Idaho law declared that "the folk dance,
 known as the square dance, is hereby designated as the American folk dance of
-Idaho.”[^2]
+Idaho."[^2]
 
 Stay tuned for next week’s installment of Women’s
 Recreation Wednesday!

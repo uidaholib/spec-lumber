@@ -17,7 +17,7 @@ As winter break comes to a close, this post concludes the Campus in the Snow the
 
 Erected in 1901 to honor two UI students who had died while serving in
 the Spanish-American War, the statue is believed to be the earliest example of
-a “hiker” statue, or one dedicated to the common soldier from the
+a "hiker" statue, or one dedicated to the common soldier from the
 Spanish-American War. Out of the 39 university students who had volunteered,
 Paul Draper and Ole Gabriel Hagberg did not make it back. UI President Joseph
 Blanton led fundraising efforts for the statue and made it a personal

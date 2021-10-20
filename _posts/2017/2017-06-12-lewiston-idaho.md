@@ -13,7 +13,7 @@ author: Amy J. Thompson
 
 {% include feature/image.html objectid="lumber1213" %}
 
-This view of ‘East Main’ being at 9th and Main is a best guess, using Sanborn Fire Insurance Maps and the book “Lewiston Country, an Armchair History” by Margaret Day Allen. According to Allen, Lewiston at the end of the 19th century was known as the City of Poplars. Through the trees in the now photo, the hillside beyond is just barely visible.
+This view of ‘East Main’ being at 9th and Main is a best guess, using Sanborn Fire Insurance Maps and the book "Lewiston Country, an Armchair History" by Margaret Day Allen. According to Allen, Lewiston at the end of the 19th century was known as the City of Poplars. Through the trees in the now photo, the hillside beyond is just barely visible.
 
 # Sources
 

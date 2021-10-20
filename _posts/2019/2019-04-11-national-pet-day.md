@@ -12,9 +12,9 @@ author: Courtney E. Berge
 
 For National Pet Day we wanted to share these images of Lionel Hampton with his little Scottie, Tempo. In 1946, Hampton celebrated Tempo’s 10th birthday of with some cake and some music. A note accompanying this photograph reads, 
 
-*“Birthday Note. Hollywood. Lionel Hampton, well known swing band leader, plays ‘Tempo’s Birthday’ in honor of his Scottie Tempo who celebrated his tenth birthday recently. The cake and new jump tune that Hampton played were birthday tributes to the dog who has traveled everywhere with his owner and his band for the last decade.”*
+*"Birthday Note. Hollywood. Lionel Hampton, well known swing band leader, plays ‘Tempo’s Birthday’ in honor of his Scottie Tempo who celebrated his tenth birthday recently. The cake and new jump tune that Hampton played were birthday tributes to the dog who has traveled everywhere with his owner and his band for the last decade."*
 
-If you are curious as to what “Tempo’s Birthday” sounded like, you can view the sheet music [here](https://digital.lib.uidaho.edu/digital/collection/ijcs/id/20762).
+If you are curious as to what "Tempo’s Birthday" sounded like, you can view the sheet music [here](https://digital.lib.uidaho.edu/digital/collection/ijcs/id/20762).
 
 {% include feature/image.html objectid="https://digital.lib.uidaho.edu/digital/api/singleitem/image/ijcs/10152/default.jpg" link="https://digital.lib.uidaho.edu/digital/collection/ijcs/id/10152/rec/4" caption="Lionel Hampton with dog, 1975" %}
 

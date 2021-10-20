@@ -20,6 +20,6 @@ Blake Little was born and raised in Seattle, WA. After graduating from Seattle C
 
 Attending his first gay rodeo in 1988, Little soon started competing and documenting the experience through his photography. He captures scenes of camaraderie, identity, and sport in an expansive redefinition of what a cowboy can be.
 
-*“These photographs represent an amazing, magical time in my life. Back then, I questioned if I was a ‘real’ cowboy, because in the back of my mind I always felt like an observer and photography was my first passion. But my unique situation allowed me to document the growing sport of gay rodeo from the inside, along with the thrills and personal challenges of fulfilling my cowboy dreams.”*
+*"These photographs represent an amazing, magical time in my life. Back then, I questioned if I was a ‘real’ cowboy, because in the back of my mind I always felt like an observer and photography was my first passion. But my unique situation allowed me to document the growing sport of gay rodeo from the inside, along with the thrills and personal challenges of fulfilling my cowboy dreams."*
 
 We are so excited to have this exhibit at the University of Idaho Library through April 30th. Today, there will be an opening reception on the 2nd floor of the library from 4PM - 6PM.

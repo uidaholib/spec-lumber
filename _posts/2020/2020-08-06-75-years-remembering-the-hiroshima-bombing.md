@@ -11,7 +11,7 @@ At 8:15 AM on August 6, 1945 the United States dropped the atomic bomb on Hirosh
 
 {% include feature/image.html objectid="lumber201" %}
 
-These bombings, though horrific, have led many to advocate for peace. In 2011, the University of Idaho received a gift from Hiroshima University. This gift, including some roof tiles and a manga series, was sent as a “thank you” for helping to rebuild Hiroshima University in the post-war period. 
+These bombings, though horrific, have led many to advocate for peace. In 2011, the University of Idaho received a gift from Hiroshima University. This gift, including some roof tiles and a manga series, was sent as a "thank you" for helping to rebuild Hiroshima University in the post-war period. 
 
 The help Hiroshima University received from the University of Idaho was long forgotten, but brought back to light by these tiles.
 
@@ -19,7 +19,7 @@ The help Hiroshima University received from the University of Idaho was long for
 
 Also included in the packages were photographs of the letters exchanged between Hiroshima University President Tatsuo Morito and Forestry Professor Merrill E. Deters.
 
-In his initial letter to the University of Idaho, President Morito expresses his wish to establish a “Peace-University” and requests books for their “international-peace-library.” He also requests seeds to plant on campus, so that it may turn from a “bare, desolate ground destitute of a single tree” to “...a fresh green color...which is a color of growth and hope.”
+In his initial letter to the University of Idaho, President Morito expresses his wish to establish a "Peace-University" and requests books for their "international-peace-library." He also requests seeds to plant on campus, so that it may turn from a "bare, desolate ground destitute of a single tree" to "...a fresh green color...which is a color of growth and hope."
 
 {% include feature/item-pdf-embed.html objectid="lumber203" %}
 

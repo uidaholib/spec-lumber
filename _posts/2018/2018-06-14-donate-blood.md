@@ -12,7 +12,7 @@ June 14 to raise awareness of the importance of blood donation. The University
 of Idaho Library Special Collections and Archives notes the strong history of
 faculty, staff and student participation in blood drives and blood donation on
 the University of Idaho campus. According to UI student newspaper The Argonaut
-the UI gained the reputation as the “bloodiest campus in the world” during
+the UI gained the reputation as the "bloodiest campus in the world" during
 World War II when Idaho led all colleges in the percentage of blood donated.
 During a 1963 drive the campus community turned out in large numbers again requiring
 a waiting area for willing donors.

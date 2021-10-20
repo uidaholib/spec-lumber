@@ -10,10 +10,10 @@ author: Courtney E. Berge
 
 Here is a poem to celebrate the end of the semester:
 
-“Finals are over,<br/>
+"Finals are over,<br/>
 Break has begun.<br/>
 Let all the blankets cover,<br/>
-As we wait for the sun.”
+As we wait for the sun."
 
 (Poem by Spec Staff)
 

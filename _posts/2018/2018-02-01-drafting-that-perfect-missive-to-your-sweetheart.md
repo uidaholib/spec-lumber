@@ -12,7 +12,7 @@ With Valentine’s Day less than two weeks away University of Idaho Library Spec
 
 {% include feature/item-pdf-embed.html objectid="lumber825" %}
 
-Written in 1867, author Ingoldsby North has advice on how to write and when to use a love letter. The book includes 140 example letters “suitable for lovers of any age and condition and under all circumstance."
+Written in 1867, author Ingoldsby North has advice on how to write and when to use a love letter. The book includes 140 example letters "suitable for lovers of any age and condition and under all circumstance."
 
 # Sources
 

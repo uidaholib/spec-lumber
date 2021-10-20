@@ -8,7 +8,7 @@ categories: ["Historical Student Clubs"]
 author: 
 ---
 
-“The Philharmonic Club was organized in 1894. The purpose is to further the musical interests of the University of Idaho. Any person interested in the study of music is eligible to membership.” - University of Idaho Philharmonic Club Year Book 1906-1907
+"The Philharmonic Club was organized in 1894. The purpose is to further the musical interests of the University of Idaho. Any person interested in the study of music is eligible to membership." - University of Idaho Philharmonic Club Year Book 1906-1907
 
 {% include feature/item-pdf-embed.html objectid="lumber1029" %}
 

@@ -15,4 +15,4 @@ A fun science fact for you: Contrary to popular belief, **vibranium** was *not* 
 
 {% include feature/digital-image.html collection="pg1" objectid="pg12318" %}
 
-Pictured above is UI chemistry student Floyd Kelly, operating an “experimental apparatus” in 1968. This photo and others like it can be found in our [UI Campus Photograph Collection.](https://www.lib.uidaho.edu/digital/campus/)
+Pictured above is UI chemistry student Floyd Kelly, operating an "experimental apparatus" in 1968. This photo and others like it can be found in our [UI Campus Photograph Collection.](https://www.lib.uidaho.edu/digital/campus/)

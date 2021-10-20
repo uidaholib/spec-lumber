@@ -12,16 +12,16 @@ author: Michelle A. Shannon
 
 This week, we’re discussing canal lining and
 construction. Building a canal for a dam is extremely important because canals
-must be able to “withstand enormous water pressure,” must be “watertight so
-that they will not leak,” and must “be able to offer protection from the risk
-of erosion caused by the flowing water.”[^1]
+must be able to "withstand enormous water pressure," must be "watertight so
+that they will not leak," and must "be able to offer protection from the risk
+of erosion caused by the flowing water."[^1]
 
 {% include feature/digital-image.html objectid="crbp1262;crbp1261" cdm-collection="crbproj" collection="crbp" %}
 
 Building a canal consists of levelling and compacting the
-bottom of the canal, or lining it. “A filter layer consisting of sand and
+bottom of the canal, or lining it. "A filter layer consisting of sand and
 gravel is then put in place and, on top of that, a sealing layer of fine soil,
-cement or asphalt.”[^1]
+cement or asphalt."[^1]
 
 {% include feature/digital-image.html objectid="crbp1255" cdm-collection="crbproj" collection="crbp" %}
 

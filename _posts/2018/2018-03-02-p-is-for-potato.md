@@ -12,8 +12,8 @@ March 2 is Read Across America Day in honor of the birthday
 of Theodore Geisel, best known as Dr. Seuss. In keeping with the educational
 aspect as well as whimsy of Dr. Seuss’s books, University of Idaho Library
 Special Collections and Archives suggests *P is for Potato* as an appropriate choice. *P is for Potato*, in the Day NW collection, is an Idaho based
-alphabet book written in 2005. It is described as “an A-Z pictorial for children ages 4-10 all about Idaho including,
-famous people, geography, history, and state symbols.”
+alphabet book written in 2005. It is described as "an A-Z pictorial for children ages 4-10 all about Idaho including,
+famous people, geography, history, and state symbols."
 
 {% include feature/item-pdf-embed.html objectid="lumber817" %}
 

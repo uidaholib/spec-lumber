@@ -9,12 +9,12 @@ author: Courtney E. Berge
 ---
 
 What card shall inspire our poetry today, you ask? Why another with a woman and child...<br/>
-“Is it just me, or is there a theme.<br/>
+"Is it just me, or is there a theme.<br/>
 The image I see repeats it seems.<br/>A woman and child.<br/>A woman and child.<br/>
 A woman and child.<br/>
 The image below schemes,<br/>
 To invade all of my dreams.<br/>
-Kirkwood loved woman and child in reams.”
+Kirkwood loved woman and child in reams."
 
 (Poem by Spec Staff)
 

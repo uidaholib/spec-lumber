@@ -10,15 +10,15 @@ author: Michelle A. Shannon
  
 This week’s photos feature women skiing! The first ever recorded
 ski jumping event was performed by a Norwegian woman named Ingrid Olavsdottir
-Vestby who is said to have “soared 20 feet” in Trysil, Norway in 1862.[^1]
-However, it wasn’t until 1990s when women were “first allowed to fully
+Vestby who is said to have "soared 20 feet" in Trysil, Norway in 1862.[^1]
+However, it wasn’t until 1990s when women were "first allowed to fully
 participate in international jumping competitions. In 2006 regarding the
 Olympics, the International Ski Federation (FIS) and the International Olympic
-Committee “ruled that there was not enough technical merit among women ski
-jumpers to allow them on the jumps” but quickly clarified that “the decision
-had nothing to do with gender.”[^1]
-“Women’s jumping were not on the schedule at the 2010 Winter Olympics in
-Vancouver, but they [were] in 2014 at Sochi, Russia.”[^1]
+Committee "ruled that there was not enough technical merit among women ski
+jumpers to allow them on the jumps" but quickly clarified that "the decision
+had nothing to do with gender."[^1]
+"Women’s jumping were not on the schedule at the 2010 Winter Olympics in
+Vancouver, but they [were] in 2014 at Sochi, Russia."[^1]
 
 {% include feature/image.html objectid="lumber096" %}
 

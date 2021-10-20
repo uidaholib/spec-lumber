@@ -13,13 +13,13 @@ author: Michelle A. Shannon
 Today, we’re discussing the Lower Granite Lock and Dam at
 Snake River mile 107.5. The project was enabled by the River and Harbor Act of 1945. Construction began in 1965 and was completed in 1984.
 
-The reservoir lake “created by the dam extends upstream
+The reservoir lake "created by the dam extends upstream
 on the Snake River about 40 miles to Lewiston, Idaho, more than 460 river miles
-from the Pacific Ocean.”[^1]
+from the Pacific Ocean."[^1]
 
-“In 2015, traffic through the navigation lock consisted
+"In 2015, traffic through the navigation lock consisted
 of grains, petroleum products, fertilizer, wood products, and miscellaneous
-cargo that amounted to more than 1.1 trillion tons.”[^1]
+cargo that amounted to more than 1.1 trillion tons."[^1]
 
 {% include feature/digital-image.html objectid="crbp1224" cdm-collection="crbproj" collection="crbp" %}
 

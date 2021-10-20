@@ -8,7 +8,7 @@ categories: []
 author: Amy J. Thompson
 ---
 
-To honor this year’s theme of “Once Upon a Homecoming,” here is a montage to reminisce or see anew the many faces of Joe Vandal.
+To honor this year’s theme of "Once Upon a Homecoming," here is a montage to reminisce or see anew the many faces of Joe Vandal.
 
 {% include feature/image.html objectid="lumber1163" %}
 

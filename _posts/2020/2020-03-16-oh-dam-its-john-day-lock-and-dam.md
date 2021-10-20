@@ -12,10 +12,10 @@ author: Michelle A. Shannon
 
 Today, we’re discussing John Day Lock and Dam, located 216 miles upriver from the mouth of the Columbia River.[^1] Construction began in 1968 and was completed in 1982.
 
-The dam is “one of the top five largest hydropower dams
+The dam is "one of the top five largest hydropower dams
 in the United States! In addition to supplying hydropower to the Pacific
 Northwest Region, the John Day Dam provides a reliable water source from
-navigation, irrigation, flood mitigation, recreation, and fish passage.”[^2]
+navigation, irrigation, flood mitigation, recreation, and fish passage."[^2]
 
 {% include feature/digital-image.html objectid="crbp1234" cdm-collection="crbproj" collection="crbp" %}
 

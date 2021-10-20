@@ -11,7 +11,7 @@ author: Amy J. Thompson
 The time-honored tradition of musical clubs has not wavered 
 throughout the history of the University of Idaho, from choral and glee clubs to the Vandaleers Concert Choir and Jazz Choir.
 
-In the early 1920s the Glee Club went on tour, their brochure touting the positive attributes of the “U”
+In the early 1920s the Glee Club went on tour, their brochure touting the positive attributes of the "U"
 
 *Is it culture you want? Idaho has it. Is it a broad education? Idaho affords it. Is it training in Agriculture, forestry, mining, engineering, law, education, music, home economics? Idaho will best fit you to solve Idaho problems.*
 

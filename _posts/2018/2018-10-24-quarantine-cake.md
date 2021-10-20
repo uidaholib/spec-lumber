@@ -10,7 +10,7 @@ author: Amy J. Thompson
 
 {% include feature/image.html objectid="lumber449" %}
 
-Today’s #WeirdlyWednesday coincides with our ongoing exhibit of campus involvement in WW1, when just as the war effort came to a close, the Spanish Flu began wreaking havoc on the students and town. Here in 1957, another flu scare threatened quarantine on campus. Hopefully after it was lifted, Student Union Building manager Gale Mix awarded Gamma Phi members with a cake reading “Happy Quarantine, Sub.”
+Today’s #WeirdlyWednesday coincides with our ongoing exhibit of campus involvement in WW1, when just as the war effort came to a close, the Spanish Flu began wreaking havoc on the students and town. Here in 1957, another flu scare threatened quarantine on campus. Hopefully after it was lifted, Student Union Building manager Gale Mix awarded Gamma Phi members with a cake reading "Happy Quarantine, Sub."
 
 # Sources
 

@@ -10,7 +10,7 @@ author: Amy J. Thompson
 
 {% include feature/image.html objectid="lumber971" %}
 
-This copy of the arrangement of Bossa Nova song “Summer Samba” comes from our collection on jazz pianist Stan Kenton. Unfortunately there is no identification, composer information, or dates with the music, and though is handwritten, it is a photocopy.
+This copy of the arrangement of Bossa Nova song "Summer Samba" comes from our collection on jazz pianist Stan Kenton. Unfortunately there is no identification, composer information, or dates with the music, and though is handwritten, it is a photocopy.
 
 # Sources
 

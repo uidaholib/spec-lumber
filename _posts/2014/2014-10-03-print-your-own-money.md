@@ -20,4 +20,4 @@ Letter accompanying currency, MG 5526, Special Collections and Archives, Univers
 
 Robert Wayne Smith, *History of placer and quartz gold mining in the Coeur d'Alene District* (Thesis (M.A.) - University of Idaho, 1932), 75.
 
-“Ditch News,” *Coeur d’Alene Sun* (Murray, ID), June 25, 1885.
+"Ditch News," *Coeur d’Alene Sun* (Murray, ID), June 25, 1885.

@@ -12,4 +12,4 @@ author: Amy J. Thompson
 
 # Sources
 
-Chester Scott  Howland, *Whale Hunters Aboard the “Grey Gold,”* (Caldwell, Idaho: Caxton Printers, 1957)
+Chester Scott  Howland, *Whale Hunters Aboard the "Grey Gold,"* (Caldwell, Idaho: Caxton Printers, 1957)

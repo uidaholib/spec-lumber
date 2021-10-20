@@ -8,7 +8,7 @@ categories: []
 author: Amy J. Thompson
 ---
 
-In honor of the end of the day on the last day before Fall break, I am posting images of the “Student Special,” a lower fare train route designed to deliver students from all over the state of Idaho safely back in Moscow for the start of the semester, or in the case of the center image, for a football game.
+In honor of the end of the day on the last day before Fall break, I am posting images of the "Student Special," a lower fare train route designed to deliver students from all over the state of Idaho safely back in Moscow for the start of the semester, or in the case of the center image, for a football game.
 
 {% include feature/image.html objectid="lumber397" %}
 

@@ -10,7 +10,7 @@ author: Courtney E. Berge
 
 This Christmas Eve, we give an acrostic poem spelling out the title of the poem from the Christmas card:
 
-“Tall above me,<br/>
+"Tall above me,<br/>
 Regal with a shining crown.<br/>
 Every bauble glowing from the light.<br/>
 Earnestly, I await tomorrow.<br/>
@@ -21,7 +21,7 @@ Tenderly you will watch as thanks are given,<br/>
 Relishing in the sound.<br/>
 Everyone will step away,<br/>
 Even so, you will stand tall above me<br/>
-Silent and proud.”
+Silent and proud."
 
 (Poem by Spec Staff)
 

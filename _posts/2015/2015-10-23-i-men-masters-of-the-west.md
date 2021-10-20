@@ -10,7 +10,7 @@ author: Amy J. Thompson
 
 {% include feature/image.html objectid="lumber1097" %}
 
-Totally random find in perfect time for Homecoming tomorrow, thanks to a Friday afternoon patron looking for football videos.  Even better, the theme this year is “A Hero’s Homecoming.”
+Totally random find in perfect time for Homecoming tomorrow, thanks to a Friday afternoon patron looking for football videos.  Even better, the theme this year is "A Hero’s Homecoming."
 
 *In the year 1998, a new breed of Vandal Heroes emerges.  The University of Idaho Vandals took the football world by surprise when they went from being picked last in Division 1-A to winning the Big West Conference and Humanitarian Bowl championships.*
 

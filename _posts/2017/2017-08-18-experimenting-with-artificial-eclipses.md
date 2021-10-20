@@ -12,7 +12,7 @@ author: Amy J. Thompson
 
 The Apollo Soyuz Test Project was a joint endeavor of the United States and the Soviet Union in which both countries agreed to develop compatible rendezvous and docking systems in order to verify techniques for transfer of astronauts and cosmonauts, conduct experiments while docked and undocked, and develop experience for the conduct of potential joint flights by U.S. and U.S.S.R. spacecraft, including in case of necessity, rendering aid in emergency situations.
 
-One of the 27 experiments planned for this first international manned space mission included producing an artificial eclipse in order to photograph and study the atmosphere of the sun, or solar corona, and the environment around the spacecraft. Sadly, according to the European Space Agency’s Space in Images website, “the results were disappointing, due to thruster gases surrounding the spacecraft which scattered light.”
+One of the 27 experiments planned for this first international manned space mission included producing an artificial eclipse in order to photograph and study the atmosphere of the sun, or solar corona, and the environment around the spacecraft. Sadly, according to the European Space Agency’s Space in Images website, "the results were disappointing, due to thruster gases surrounding the spacecraft which scattered light."
 
 {% include feature/item-pdf-embed.html objectid="lumber1048" %}
 

@@ -10,8 +10,8 @@ categories: ["Oh Dam!"]
 author: Michelle A. Shannon
 ---
 
-Today, we have photos of the power house – “the structure that houses
-generators and turbines.”[^1] The turbine rotates the water and turns it into kinetic energy.[^2] The generator takes the energy from the turbine and converts it into electrical power.[^3]
+Today, we have photos of the power house – "the structure that houses
+generators and turbines."[^1] The turbine rotates the water and turns it into kinetic energy.[^2] The generator takes the energy from the turbine and converts it into electrical power.[^3]
 
 {% include feature/digital-image.html objectid="crbp1166" cdm-collection="crbproj" collection="crbp" %}
 

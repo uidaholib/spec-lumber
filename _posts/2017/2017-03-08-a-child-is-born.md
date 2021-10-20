@@ -12,7 +12,7 @@ author: Amy J. Thompson
 
 One thing I’ve found in putting together the #FullCaxtonJacket series is that about half of the books we’ve scanned so far have been authored by women, ranging anywhere from housewives writing children’s stories to internationally known political activists. To commemorate International Women’s Day, here is a book by Mary McDougal Axelson, portraying the joys and sorrows and the trials and tribulations of a hospital maternity ward. Throughout her life, Mary McDougal Axelson was interested in social welfare and was a leader and organizer of political, literary, and women’s groups, as well as participated in the women’s club movement, suffrage, democratic party politics, health reform, and the world peace campaign.
 
-The story, originating from a journal she kept while in the hospital giving birth to her own daughter, went on to become a play and film called “Life Begins,” then adapted into both a novel and film titled “A Child is Born.” Considered controversial at the time, the film was banned in some places due to it might cause fear in some expectant mothers, yet was censored to the point of not allowing any realistic views of pregnancy or labor.
+The story, originating from a journal she kept while in the hospital giving birth to her own daughter, went on to become a play and film called "Life Begins," then adapted into both a novel and film titled "A Child is Born." Considered controversial at the time, the film was banned in some places due to it might cause fear in some expectant mothers, yet was censored to the point of not allowing any realistic views of pregnancy or labor.
 
 # Sources
 

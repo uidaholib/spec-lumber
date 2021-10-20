@@ -16,7 +16,7 @@ Many breweries went out of business, with the exception of the large corporation
 
 {% include feature/image.html objectid="lumber963" %}
 
-It didn’t take long for drinking to once again become socially acceptable in most places.  The first advertisement for “good drink” appeared about a month after the repeal in University of Idaho student newspaper The Argonaut.
+It didn’t take long for drinking to once again become socially acceptable in most places.  The first advertisement for "good drink" appeared about a month after the repeal in University of Idaho student newspaper The Argonaut.
 
 {% include feature/image.html objectid="lumber964" %}
 

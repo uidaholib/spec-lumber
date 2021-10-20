@@ -10,7 +10,7 @@ author: Michelle A. Shannon
 
 This week's edition of [Diverse Collections](https://harvester.lib.uidaho.edu/series/diversecollections.html) features our [Kooskia Internment Camp Scrapbook](https://www.lib.uidaho.edu/digital/Kooskia/). 
 
-The Kooskia (pronounced KOOS-key) Internment Camp is an obscure and virtually forgotten World War II detention facility that was located in a remote area of north central Idaho, 30 miles from the town of Kooskia, and 6 miles east of the hamlet of Lowell, at Canyon Creek. The camp was administered by the U.S. Immigration and Naturalization Service (INS) for the U.S. Department of Justice. It held men of Japanese ancestry who were termed “enemy aliens,” even though most of them were long-time U.S. residents.
+The Kooskia (pronounced KOOS-key) Internment Camp is an obscure and virtually forgotten World War II detention facility that was located in a remote area of north central Idaho, 30 miles from the town of Kooskia, and 6 miles east of the hamlet of Lowell, at Canyon Creek. The camp was administered by the U.S. Immigration and Naturalization Service (INS) for the U.S. Department of Justice. It held men of Japanese ancestry who were termed "enemy aliens," even though most of them were long-time U.S. residents.
 
 {% include feature/image.html objectid="https://digital.lib.uidaho.edu/digital/iiif/spec_kic/909/full/pct:70/0/default.jpg" link="https://www.lib.uidaho.edu/digital/kooskia/items/kooskia909.html" caption="two men at construction site with pickaxes and shovels at Kooskia Internment Camp, 1943-1944" %}
 
@@ -37,7 +37,7 @@ The scrapbook is located at the University of Idaho Special Collections & Archiv
 
 Wegars, Priscilla. [Imprisoned in Paradise: Japanese Internee Road Workers at the World War Ii Kooskia Internment Camp](http://uidaho.worldcat.org/oclc/639164294). Moscow, Idaho: Asian American Comparative Collection, University of Idaho, 2010.
 
-Wegars, Priscilla. “Japanese and Japanese Latin Americans at Idaho’s Kooskia Internment Camp,” [Guilt by Association: Essays on Japanese Settlement, Internment, and Relocation in the Rocky Mountain West](http://uidaho.worldcat.org/oclc/47143890), Ed. Mike Mackey. Powell, WY: Western History Publications, 2001, pp. 145-183.
+Wegars, Priscilla. "Japanese and Japanese Latin Americans at Idaho’s Kooskia Internment Camp," [Guilt by Association: Essays on Japanese Settlement, Internment, and Relocation in the Rocky Mountain West](http://uidaho.worldcat.org/oclc/47143890), Ed. Mike Mackey. Powell, WY: Western History Publications, 2001, pp. 145-183.
 
 The University of Idaho Library also holds an internment camp diary written in Japanese. More information regarding the diary can be found here.
 

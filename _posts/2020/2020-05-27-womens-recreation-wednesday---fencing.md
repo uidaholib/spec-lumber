@@ -14,9 +14,9 @@ University of Idaho.
 {% include feature/image.html objectid="lumber073" %}
 
 Fencing was a sport in the Olympics of ancient Greece,
-dating back to 1200 AD, and has “been included in every [modern] Olympic game
-since 1898.”[^1] In
-modern Olympics, “women’s fencing entered the Games in 1924 in Paris.”[^2]
+dating back to 1200 AD, and has "been included in every [modern] Olympic game
+since 1898."[^1] In
+modern Olympics, "women’s fencing entered the Games in 1924 in Paris."[^2]
 
 Stay tuned for next week’s installment of Women’s
 Recreation Wednesday!

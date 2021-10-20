@@ -10,12 +10,12 @@ categories: ["Oh Dam!"]
 author: Michelle A. Shannon
 ---
 
-This week, we’re discussing how to prepare a site for dam construction. According to the British Dam Society, “a dam is built on a soil
+This week, we’re discussing how to prepare a site for dam construction. According to the British Dam Society, "a dam is built on a soil
 or rock foundation, depending on the type of dam. The foundation must be strong
 enough to carry the weight of the dam, and the water pressures acting on the
-dam. The dam foundation is below the original ground level” and “is covered by
+dam. The dam foundation is below the original ground level" and "is covered by
 weaker soils or rock that have to be removed either by excavation or by
-blasting with explosives.”[^1]
+blasting with explosives."[^1]
 
 The photos below show explosions and construction workers
 removing weathered and unsound surface rock in the bottom of the Columbia River

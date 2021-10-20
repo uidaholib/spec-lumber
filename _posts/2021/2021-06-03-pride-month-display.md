@@ -24,7 +24,7 @@ In addition to the items on physical display, we have the following digital coll
 
 ### The Boys of Boise: Furor, Vice, and Folly in an American City
 
-On the morning of November 1, 1955, the people of Boise, Idaho were stunned by a screaming headline in the Idaho Daily Statesman, THREE BOISE MEN ADMIT SEX CHARGES. Time magazine picked up the story, reporting that a “homosexual underworld” had long operated in Idaho’s staid capital city. The Statesman led the hysteria that resulted in dozens of arrests – including some highly placed members of the community – and sentences ranging from probation to life imprisonment.
+On the morning of November 1, 1955, the people of Boise, Idaho were stunned by a screaming headline in the Idaho Daily Statesman, THREE BOISE MEN ADMIT SEX CHARGES. Time magazine picked up the story, reporting that a "homosexual underworld" had long operated in Idaho’s staid capital city. The Statesman led the hysteria that resulted in dozens of arrests – including some highly placed members of the community – and sentences ranging from probation to life imprisonment.
 
 ### Same-Sex Affairs: Constructing and Controlling Homosexuality in the Pacific Northwest
 
@@ -40,7 +40,7 @@ Diversity was a Boise-based monthly newsmagazine for Idaho’s lesbian, gay, bis
 
 This voters’ pamphlet included two propositions to be voted on at the general election on November 8, 1994. Proposition one was an act establishing state policies regarding homosexuality. 
 
-The initiative related to “homosexuality and the state’s authority to afford homosexuals minority status.” It stated that:
+The initiative related to "homosexuality and the state’s authority to afford homosexuals minority status." It stated that:
 - No state agency, department, or political subdivision shall grant minority status to persons who engage in homosexual behavior
 - Same-sex marriages and domestic partnerships shall not be legally recognized
 - Elementary and secondary school educators shall not discuss homosexuality as acceptable behavior

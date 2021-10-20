@@ -12,7 +12,7 @@ In [The Natural Philosophy of Love](https://alliance-primo.hosted.exlibrisgroup.
 
 {% include feature/image.html objectid="lumber947" %}
 
-“We are animals, we live on animals, and animals live on us. We both have and are parasites. We are predatory, and we are the living prey of the predatory. And when we follow the love act, it is truly, in the idiom of theologians, *more bestiarum*. Love is profoundly animal; therein is its beauty.” 
+"We are animals, we live on animals, and animals live on us. We both have and are parasites. We are predatory, and we are the living prey of the predatory. And when we follow the love act, it is truly, in the idiom of theologians, *more bestiarum*. Love is profoundly animal; therein is its beauty." 
 
 # Sources
 

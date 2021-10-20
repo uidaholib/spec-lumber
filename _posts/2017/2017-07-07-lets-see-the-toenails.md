@@ -10,7 +10,7 @@ author:
 
 {% include feature/image.html objectid="lumber496" %}
 
-“Let’s see the toenails”
+"Let’s see the toenails"
 
 Dog obedience (Nampa 4-H group)
 

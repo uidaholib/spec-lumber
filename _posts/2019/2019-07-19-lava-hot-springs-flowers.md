@@ -12,7 +12,7 @@ author: Courtney E. Berge
 
 This [Flowery Friday](https://harvester.lib.uidaho.edu/series/floweryfriday.html) takes us down to Lava Hot Springs, Idaho. This postcard depicts a lovely garden, and reads:
 
-“One of the many State Foundation flower gardens where visitors rest, relax and enjoy the fragrant colorful flowers, shrubs, velvet green lawns and shade, and listen to the chatter of the tumbling waters of the famous fishing stream, the Portneuf River, rushing by or the U.P. Streamliner whizzing along and the Bear Lake Stages unloading its many passengers. A real convalescing and restful paradise located on Hi-way 30N and the main line of the U.P.P.R. Write Lava Hot Springs Foundation for further information.”
+"One of the many State Foundation flower gardens where visitors rest, relax and enjoy the fragrant colorful flowers, shrubs, velvet green lawns and shade, and listen to the chatter of the tumbling waters of the famous fishing stream, the Portneuf River, rushing by or the U.P. Streamliner whizzing along and the Bear Lake Stages unloading its many passengers. A real convalescing and restful paradise located on Hi-way 30N and the main line of the U.P.P.R. Write Lava Hot Springs Foundation for further information."
 
 {% include feature/digital-image.html cdm-collection="nwpostcards" collection="postcards" objectid="nwpostcards414" %}
 

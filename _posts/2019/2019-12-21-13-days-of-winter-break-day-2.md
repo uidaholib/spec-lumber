@@ -10,9 +10,9 @@ author: Courtney E. Berge
 
 Here is a haiku for today’s Christmas card:
 
-“Beautiful charcoal<br/>
+"Beautiful charcoal<br/>
 Sent to friends and family<br/>
-Woman holding babe”<br/>
+Woman holding babe"<br/>
 
 (Poem by Spec Staff)
 

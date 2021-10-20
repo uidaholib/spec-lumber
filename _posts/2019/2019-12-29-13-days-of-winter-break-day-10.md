@@ -8,7 +8,7 @@ categories: []
 author: Courtney E. Berge
 ---
 
-<p>Another day of break, another haiku: <br/><br/>“Blue mountains galore<br/>Enchanting starlight above<br/>Block printing for all!”<br/><br/></p>
+<p>Another day of break, another haiku: <br/><br/>"Blue mountains galore<br/>Enchanting starlight above<br/>Block printing for all!"<br/><br/></p>
 
 (Poem by Spec Staff)
 

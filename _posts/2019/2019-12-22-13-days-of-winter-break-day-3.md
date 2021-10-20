@@ -10,9 +10,9 @@ author: Courtney E. Berge
 
 The poems continue: 
 
-“Is that a star I see?<br/>
+"Is that a star I see?<br/>
 Or, is it a baby?<br/>
-It could be both, maybe.”<br/>
+It could be both, maybe."<br/>
 
 (Poem by Spec Staff)
 

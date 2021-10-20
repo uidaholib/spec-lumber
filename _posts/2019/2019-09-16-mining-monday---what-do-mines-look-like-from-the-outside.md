@@ -19,12 +19,12 @@ mine and then develop the facilities and machinery to do so.
 
 {% include feature/image.html objectid="lumber118" %}
 
-Mine exploration is an involved process that “involves
+Mine exploration is an involved process that "involves
 advanced scientific techniques, including geochemical analysis of soils, or
 airborne surveys to measure magnetic, gravitational and electromagnetic fields,
 all of which help to determine if there’s a sufficient mineral deposit in that
 location to warrant mining. Once this preliminary investigation is carried out,
-rock samples are drilled and sent to a laboratory for testing.”[^1]
+rock samples are drilled and sent to a laboratory for testing."[^1]
 
 {% include feature/image.html objectid="lumber119" %}
 
