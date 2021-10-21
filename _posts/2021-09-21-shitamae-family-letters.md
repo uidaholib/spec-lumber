@@ -1,12 +1,12 @@
 ---
 title: Shitamae Family Letters
-date: 2021-09-21 07:54:12 -0700
-tags: [digital collections]
+date: 2022-09-21 07:54:12 -0700
+tags: ["digital collections"]
 subtitle: A New Digital Collection
 cover-image: shitamae129
 cover-image-collection: shitamae
-categories: [Diverse Colelctions]
-author: Courtney E. Berge
+categories: ["Diverse Collections"]
+author: "Courtney E. Berge"
 ---
 
 Earlier this year, a researcher approached the University of Idaho Library Special Collections and Archives wondering if it would be possible to digitize some materials from the [George Shihei Shitamae papers](https://archiveswest.orbiscascade.org/ark:/80444/xv302637/). As a Japanese immigrant, George Shihei Shitamae was incarcerated at the Santa Fe Detention Center in Santa Fe. His collection contains a series of letters from his family who was incarcerated at the Minidoka Incarceration Camp in Idaho, outside of Hunt. They hoped that by doing so, materials giving personal accounts of an important time in Idaho and the nation's history, would be beneficial to many people. We agreed and have been working to create the [Shitamae Family Letters](https://www.lib.uidaho.edu/digital/shitamae/) digital collection. 
