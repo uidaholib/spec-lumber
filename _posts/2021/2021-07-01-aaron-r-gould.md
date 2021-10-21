@@ -1,8 +1,7 @@
 ---
 title: Aaron R. Gould
-date: 2021-07-01
+date: 2021-07-01 11:48:49 -0700
 tags: ["WWII","Indigenous history","Nez Perce","Army","Armed Forces","Infantry","military"]
-subtitle: "Rally the Pack" OR "The Word is Wolf"
 cover-image: lumber1379
 categories: []
 author: Sara Szobody
