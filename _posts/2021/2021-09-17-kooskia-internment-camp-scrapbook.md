@@ -1,5 +1,5 @@
 ---
-title: Kooskia Interment Camp Scrapbook
+title: Kooskia Internment Camp Scrapbook
 date: 2021-09-17
 tags: ["Japanese history","Asian history","diversity"]
 subtitle: Diverse Collections
