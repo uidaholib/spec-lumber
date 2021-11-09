@@ -1,11 +1,11 @@
 ---
 title: The Disenfranchisement of Native Americans
-date: 2021-11-10 10:14:06 -0700
+date: 2022-11-07 10:14:06 -0700
 tags: ["Indigenous","disenfranchisement","Native Americans","voting","voting rights"]
 subtitle: 
 cover-image: lumber1558
 categories: []
-author: Sara Szobody
+author: "Sara Szobody"
 ---
 The Indigenous Peoples of America have a long and troublesome history, especially when it comes to the American political system. Throughout time, members of the First Nations have struggled with gaining legitimate citizenship, the enactment of voting rights, and have wrestled with voter registration limitations. Due to the multitude of past and present issues regarding the votes of the Native population, the participation in the electoral system by tribal members is the lowest when compared to other voting groups in the United States. There has been little attention given to the circumstances Indigenous Peoples of America face politically.  
 {% include feature/image.html objectid="lumber1556" %}
