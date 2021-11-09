@@ -6,7 +6,7 @@
 
 desc "Build site with quick devlopment _config_dev.yml"
 task :dev do 
-  exec("bundle exec jekyll s -i --config _config_dev.yml")
+  exec("bundle exec jekyll s --config _config_dev.yml")
 end
 
 ###############################################################################
