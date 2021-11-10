@@ -1,6 +1,6 @@
 ---
 title: Honoring Our Veterans
-date: 2020-09-13 08:55:10 -0700
+date: 2021-11-11 07:55:10 -0700
 tags: ["ROTC","cadets","Veterans Day","exhibits"]
 cover-image: lumber1560
 author: Amy J. Thompson
@@ -14,7 +14,9 @@ This year, Special Collections is working with the Department of Military and Ve
 
 The University of Idaho has a long history of training the country's future leaders and protectors. As early as March 1894, just a year and a half after the university first opened its doors, 2nd Lieutenant Edward R. Chrisman began teaching classes in Military Science and Tactics. 
 
-{% include feature/digital-image.html collection="pg1" objectid="2082;2170" %}
+{% include feature/digital-image.html cdm-collection="2081" collection="pg1" objectid="pg12081" %}
+
+{% include feature/digital-image.html cdm-collection="2170" collection="pg1" objectid="pg12170" %}
 
 In 1916, University President Melvin Brannon made a request under the provisions of the National Defense Act to instill a ROTC unit on campus. In January 1917, the War Department agreed and established the ROTC program at the University of Idaho, then shortly after, the Student Army Training Corps (SATC) was established to train soldiers for World War I. 
 
