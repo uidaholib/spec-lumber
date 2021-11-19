@@ -1,6 +1,6 @@
 ---
 title: River History of Nez Perce County
-date: 2021-11-30
+date: 2021-11-19
 tags: ["Idaho rivers","Snake River","Clearwater River","Salmon River","Nez Perce","Nez Perce Tribe","Nez Perce County"]
 subtitle: 
 cover-image: lumber1585
