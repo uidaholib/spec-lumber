@@ -1,6 +1,6 @@
 ---
 title: Fossils Close to Home
-date: 2021-12-06
+date: 2021-12-10
 tags: ["fossils","fossil beds","Pilocene","Pleistocene","Miocene","geology"]
 subtitle: 
 cover-image: lumber1594
