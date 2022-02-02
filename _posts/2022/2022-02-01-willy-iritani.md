@@ -1,6 +1,6 @@
 ---
 title: Willy M. Iritani
-date: 2022-02-01 12:02:07 -0800
+date: 2022-02-01
 tags: ["agriculture","potatoes","diversity","uidaho extension", "photographs"]
 subtitle: 
 cover-image: lumber1604
