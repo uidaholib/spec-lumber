@@ -1,7 +1,7 @@
 ---
 title: 1918 Flu Pandemic Collection
 date: 2020-04-19
-tags: ["pandemic","exhibits","1918 influenza pandemic"]
+tags: ["pandemic","exhibits","1918 influenza pandemic", "digital collections"]
 subtitle: 
 cover-image: https://www.lib.uidaho.edu/digital/objects/1918flu/pg67_14.jpg
 categories: ["Exhibits"]
