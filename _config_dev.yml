@@ -96,7 +96,7 @@ page_gen:
 # (this is done automatically by gh-pages build)
 #
 # ignore stuff
-exclude: [docs/, Rakefile, README.md, LICENSE, _posts/2014/, _posts/2015/, _posts/2016/, _posts/2017/, _posts/2018/, _posts/2019/, _posts/2019/, _series/, _writers/]
+exclude: [docs/, Rakefile, README.md, LICENSE, _posts/2014/, _posts/2015/, _posts/2016/, _posts/2017/, _posts/2018/, _posts/2019/, _posts/2019/, _posts/2020/, _posts/2021/, _series/, _writers/]
 # compress CSS output
 sass:
   style: compressed
