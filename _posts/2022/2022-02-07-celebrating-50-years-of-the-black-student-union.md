@@ -1,7 +1,7 @@
 ---
 title: Celebrating 50 Years of the Black Student Union
 date: 2022-02-04 
-tags: ["Black history", "students", "Black students", "Black History Month","Black Student Unions", "diversity", "collaboration","digital collections"]
+tags: ["Black history", "students", "Black students", "students", "Black History Month","Black Student Unions", "diversity", "collaboration","digital collections"]
 subtitle: 
 cover-image: lumber1646
 categories: [Exhibits]
