@@ -1,7 +1,7 @@
 ---
 title: Gertrude Chrisman
 date: 2022-02-11
-tags: ["Black students","Black history","women","diversity"]
+tags: ["Black students","Black history","women","diversity","students"]
 subtitle: The Not Forgotten Sister of Jennie Eva Hughes
 cover-image-cdm-collection:
 cover-image-collection:
