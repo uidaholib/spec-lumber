@@ -12,7 +12,7 @@ author: Courtney E. Berge
 
 When delving into the historic record, sometimes you find that things that you thought to be true, are in fact not. In some cases, trusted sources can be wrong, like us. For example, previously we have made the claim that Jennie Eva Hughes was the first Black graduate at the University of Idaho. This is true. We have also made claim that her son, Berthold Smith, was the second Black student to attend the university. This, as it turns out, is not true.
 
-This error is of no fault to previous researchers. As more materials become available digitally and other avenues of research are explored new information can come to light. Over the last few months, our staff has been delving into the historic record in their research for an exhibit about Black History at the University of Idaho. In that research, we discovered another Black student before Berthold, and that was Jennie's sister Gertrude (Edna) Chrisman, also spelled Criseman. 
+This error is of no fault to previous researchers. As more materials become available digitally and other avenues of research are explored new information can come to light. Over the last few months, our staff has been delving into the historic record in their research for an exhibit about Black History at the University of Idaho. In that research, we discovered another Black student before Berthold, and that was Jennie's sister Gertrude (Edna) Chrisman, also spelled Chriseman. 
 
 {% include feature/image.html objectid="lumber1647;lumber1648" %}
 
