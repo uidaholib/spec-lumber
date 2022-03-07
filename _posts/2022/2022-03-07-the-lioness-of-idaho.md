@@ -1,6 +1,6 @@
 ---
 title: Louise Shadduck
-date: 2022-02-04 13:08:52 -0800
+date: 2022-03-07
 tags: ["women","politics","journalists","press women",]
 subtitle: The Lioness of Idaho
 cover-image: lumber1653
