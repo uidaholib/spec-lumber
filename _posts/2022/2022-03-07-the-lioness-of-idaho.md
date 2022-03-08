@@ -8,7 +8,7 @@ categories: [Wonder Women]
 author: Courtney E. Berge
 ---
 
-Last summer, the University of Idaho Special Collections and Archives applied for a grant to process the papers of Idaho journalist, political activist, public servant, author, speaker, and lobbyist, Louise Shadduck. Offered through the Idaho State Historical Records Advisory Board this grant provided funding for archival materials and to supplement the pay to hire a student worker to process the collection. Over a period of approximately 3 months, our newly hired student worker, Jay Gaines, worked to rehouse and organize the collection. 
+Last summer, the University of Idaho Special Collections and Archives applied for a grant to process the papers of Idaho journalist, political activist, public servant, author, speaker, and lobbyist, Louise Shadduck. Offered through the Idaho State Historical Records Advisory Board this grant provided funding for archival materials and to supplement the pay to hire a student worker to process the collection. Over a period of approximately three months, our newly hired student worker, Jay Gaines, worked to rehouse and organize the collection. 
 
 With an interest in Museum Studies, Jay was excited to take on this project to learn about archival processes. The collection consisted of approximately 25 boxes of materials, some of which were in folders, but much of which was loose in boxes. Jay went through the materials rehousing the materials that were already foldered and working to understand what the rest of the materials meant. In the process they learned more and more about Louise Shadduck, not just about her writing and political career, but also that Shadduck loved art and often painted and doodled on pieces of paper. 
 
