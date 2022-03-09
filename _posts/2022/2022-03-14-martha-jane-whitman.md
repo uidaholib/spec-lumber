@@ -4,7 +4,7 @@ date: 2022-03-14
 tags: ["Women's History Month","suffrage","notable women","women's voting rights","women"]
 subtitle: First Woman Regent
 cover-image: lumber1658
-categories: [Women's History Month]
+categories: [Wonder Women]
 author: Sara Szobody
 ---
 
@@ -12,7 +12,7 @@ Martha Whitman was born Martha Jane Jamison on February 12, 1863 in Quawaka, IL.
 
 {% include feature/image.html objectid="lumber1658" %}
 
-Martha is remembered as a renowned participant in Idaho women's suffrage during the late 1800s. She was chosen to serve on an advisory planning board to work with the Idaho Equal Suffrage Association (IESA) elected officers. She became responsible for suffrage clubs, and acted as an accredited delegate during a three-day suffrage convention located in Boise, Idaho. On the last day of the convention, new officers were appointed. Martha became acting President of the IESA. 
+Martha is remembered as a renowned participant in Idaho women's suffrage during the late 1800s. She was chosen to serve on an advisory planning board to work with the Idaho Equal Suffrage Association (IESA) elected officers. She became responsible for suffrage clubs, and acted as an accredited delegate during a three-day suffrage convention located in Boise, Idaho. On the last day of the convention, new officers were appointed and Martha became acting President of the IESA. 
 
 The Women's Suffrage Movement, which lasted decades, fought for women's voting rights across the United States. For the state of Idaho, this issue resolved with the 1895 Joint Resolution No. 2 of the Third Session of the Idaho Legislature.
 
