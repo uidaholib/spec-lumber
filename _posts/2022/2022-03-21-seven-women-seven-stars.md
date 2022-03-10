@@ -1,6 +1,6 @@
 ---
 title: Seven Women, Seven Stars
-date: 2022-03-09
+date: 2022-03-21
 tags: ["women","women's history month","women's club","organization"]
 subtitle: The Pleiades Club
 cover-image: lumber1664
