@@ -8,7 +8,7 @@ categories: [Wonder Women]
 author: Sara Szobody
 ---
 
-Martha Whitman was born Martha Jane Jamison on February 12, 1863 in Quawaka, IL. Though little is known of her childhood years, later in life Martha worked as a stenographer in Paris, Idaho and then as a court stenographer in Pocatello. She played a role in transcribing Idaho's territorial records when it came into statehood. In 1890, Martha married Marcus F. Whitman, taking his last name.
+Martha Whitman was born Martha Jane Jamison on February 12, 1863 in Quawaka, IL. Though little is known of her childhood years, later in life Martha worked as a stenographer in Paris, Idaho and then as a court stenographer in Pocatello. She played a role in transcribing Idaho's territorial records when it came into statehood. In 1890 Martha married Marcus F. Whitman, taking his last name.
 
 {% include feature/image.html objectid="lumber1658" %}
 
