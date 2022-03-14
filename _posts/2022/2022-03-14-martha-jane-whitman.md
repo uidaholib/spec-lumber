@@ -1,7 +1,7 @@
 ---
 title: Martha Jane Whitman
 date: 2022-03-14
-tags: ["Women's History Month","suffrage","notable women","women's voting rights","women"]
+tags: ["Women's History Month","suffrage","women's voting rights"]
 subtitle: First Woman Regent
 cover-image: lumber1658
 categories: [Wonder Women]
