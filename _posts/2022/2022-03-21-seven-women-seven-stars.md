@@ -29,7 +29,7 @@ On March 1, 1894, the Pleiades Club was formally organized and adopted a constit
 
 # [Moscow's Carnegie Library](https://harvester.lib.uidaho.edu/posts/2019/04/13/one-more-library.html)
 
-In 1901, the Pleiades Club worked to introduce a free library to the city of Moscow. With the help of the Moscow Historical Club, they raised enough money to rent a room and opened the library to the public. Soon after they advocated for a public library to Andrew Carnegie, who donated money to communities to establish libraries across the country. He gave the clubs $10,000 for the library, and in 1906 the building was erected. Today it still stands as the [Moscow Public Library](https://www.latahlibrary.org/moscow/).
+In 1901, the Pleiades Club worked to introduce a free library to the city of Moscow. With the help of the Moscow Historical Club, they raised enough money to rent a room and opened the library to the public. Soon after they advocated for a public library to Andrew Carnegie, who donated money to communities to establish libraries across the country. He gave the club $10,000 for the library, and in 1906 the building was erected. Today it still stands as the [Moscow Public Library](https://www.latahlibrary.org/moscow/).
 
 {% include feature/image.html objectid="lumber1673" %}
 
