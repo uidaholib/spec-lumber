@@ -12,7 +12,7 @@ This week is National Park Week! To celebrate, we are highlighting the [Knowles 
 
 {% include feature/image.html objectid="lumber1674" %}
 
-Catherine and K. Johnson Knowles inherited about 14,000 postcards from Joan Baxter Zeisel - K. Johnson's mother. Zeisel's own mother and grandmother originally collected these picturesque postcards during their travels across the United States. 
+Catherine and K. Johnson Knowles inherited about 14,000 postcards from Joan Baxter Zeisel (K. Johnson's mother). Zeisel's own mother and grandmother originally collected these picturesque postcards during their travels across the United States. 
 
 {% include feature/image.html objectid="lumber1676;lumber1677;lumber1675" %}
 
