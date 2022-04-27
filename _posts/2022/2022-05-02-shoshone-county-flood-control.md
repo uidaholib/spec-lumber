@@ -1,6 +1,6 @@
 ---
 title: Shoshone County Flood Control Project
-date: 2022-04-26
+date: 2022-05-02
 tags: ["flood","floods","flooding","CCC","civilian conservation corps"]
 subtitle: 
 cover-image: lumber1695
