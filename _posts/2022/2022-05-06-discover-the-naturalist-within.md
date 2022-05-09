@@ -17,7 +17,7 @@ It tells the story of noted Idaho naturalist, Edson Fichter (1910-1994), through
 {% include feature/image.html objectid="lumber1705" %}
 {% include feature/image.html objectid="lumber1704;lumber1708;lumber1707" %}
 
-This exhibit includes a timeline graphic of his lif events, as well as original sketches of Idaho wildlife. It's purpose is to inspire visitors to begin their own naturalist journey, right in their own backyard. Viewers will gain an appreciation for the beauty and wonder that Idaho's natural landscape contains. 
+This exhibit includes a timeline graphic of Fichter's life events, as well as original sketches of Idaho wildlife. It's purpose is to inspire visitors to begin their own naturalist journey, right in their own backyard. Viewers will gain an appreciation for the beauty and wonder that Idaho's natural landscape contains. 
 
 {% include feature/image.html objectid="lumber1704;lumber1706;lumber1709" %}
 {% include feature/image.html objectid="lumber1710" %}
