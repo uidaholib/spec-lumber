@@ -24,6 +24,6 @@ This publication contains various, albeit small, member histories between the ye
 
 # Sources
 
-Wood, C. L. (1936). [*History and Register, Idaho State Society, Daughters of the American Revolution*]() (File copy.). Caxton Printers.
+Wood, C. L. (1936). *History and Register, Idaho State Society, Daughters of the American Revolution* (File copy.). Caxton Printers.
 
 DAR History. https://www.dar.org/national-society/about-dar/dar-history. 
