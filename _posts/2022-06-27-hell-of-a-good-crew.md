@@ -1,6 +1,6 @@
 ---
 title: Hell of a Good Crew
-date: 2022-07-11 13:02:33 -0700
+date: 2022-07-11
 tags: ["fires","mining","disasters"]
 subtitle: 
 cover-image: [barstock1761]
