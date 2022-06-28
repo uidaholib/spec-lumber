@@ -20,7 +20,7 @@ From its establishment in Idaho, membership and participation grew. Many members
 
 {% include feature/image.html objectid="lumber1749" %}
 
-This publication contains various, albeit small, member histories between the years 1904 to 1934. It also includes images of individual members as well as convention and chapter photographs. Learn more about Idaho's Daughter of the American Revolution members and branches by using resources from U of I Library's [Special Collections and Archives Department](https://www.lib.uidaho.edu/special-collections/)
+This publication contains various, albeit small, member histories between the years 1904 to 1934. It also includes images of individual members as well as convention and chapter photographs. Learn more about Idaho's Daughter of the American Revolution members and branches by using resources from U of I Library's [Special Collections and Archives Department](https://www.lib.uidaho.edu/special-collections/).
 
 # Sources
 
