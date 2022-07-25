@@ -20,7 +20,9 @@ An interdisciplinary university task group formed to determine the best way to p
 
 The creation of the first time capsule, dedicated in 1939 by President Dale, was opened during the centennial celebration by President Gibb in 1989, with a new capsule to be buried for the university's 200th birthday in 2089. It was originally intended to preserve a single 2089 capsule, but when the 50 year time capsule was opened it was a unique celebration of many generations. Many of those who were present in 1939 were present for its opening and celebration in 1989! So, the Centennial Coordinator of 1989, Hal Godwin, wanted the same opportunity for those who were witnesses in 1989 to see its opening in 2039. 
 
-{% include feature/item-pdf-embed.html objectid="lumber1765;lumber1766" %}
+{% include feature/item-pdf-embed.html objectid="lumber1765" %}
+
+{% include feature/item-pdf-embed.html objectid="lumber1766" %}
 
 {% include feature/image.html objectid="lumber1764;lumber1763" %}
 
