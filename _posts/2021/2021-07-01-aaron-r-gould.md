@@ -51,8 +51,6 @@ Gould’s personal accounts of those last few days and moments are unknown. What
 
 {% include feature/image.html objectid="lumber1377" %}
 
-{% include feature/image.html objectid="lumber1378" %}
-
 This special and insightful collection can be accessed via the Special Collections and Archives Department of the University of Idaho Library. [MG 332, Aaron G. Gould Letters, 1940-1944](https://archiveswest.orbiscascade.org/ark:/80444/xv48229)
 
 # Sources
