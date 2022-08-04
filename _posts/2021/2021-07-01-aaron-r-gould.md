@@ -1,7 +1,7 @@
 ---
-title: Aaron R. Gould
+title: Private Aaron R. Gould
 date: 2021-07-01 11:48:49 -0700
-tags: ["WWII","Indigenous","Nez Perce","Army","Armed Forces","Infantry","military"]
+tags: ["WWII","Indigenous","Nez Perce","Army","Armed Forces","Infantry","military", "Nimi'ipuu"]
 cover-image: lumber1379
 categories: []
 author: Sara Szobody
@@ -51,11 +51,11 @@ Gould’s personal accounts of those last few days and moments are unknown. What
 
 {% include feature/image.html objectid="lumber1377" %}
 
-This special and insightful collection can be accessed by contacting the University of Idaho Library [Special Collections and Archives Department](https://www.lib.uidaho.edu/special-collections/)
+This special and insightful collection can be accessed by contacting the University of Idaho Library [Special Collections and Archives Department](https://www.lib.uidaho.edu/special-collections/).
 
 # Sources
 
-[Aaron G. Gould papers](https://archiveswest.orbiscascade.org/ark:80444/xv48229), MG 332, Special Collections and Archives, University of Idaho Library, Moscow, Idaho.
+[Aaron R. Gould papers](https://archiveswest.orbiscascade.org/ark:80444/xv48229), MG 332, Special Collections and Archives, University of Idaho Library, Moscow, Idaho.
 
 [*Timeberwolves: The Story of the 104th Infantry Division*](http://www.lonesentry.com/gi_stories_booklets/104thinfantry/#:~:text=%22Timberwolves%3A%20The%20Story%20of%20the,of%20a%20series%20of%20G.I.). (1944-1945). Stars & Stripes.
 
