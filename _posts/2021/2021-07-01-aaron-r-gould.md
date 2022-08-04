@@ -1,13 +1,13 @@
 ---
 title: Aaron R. Gould
 date: 2021-07-01 11:48:49 -0700
-tags: ["WWII","Indigenous history","Nez Perce","Army","Armed Forces","Infantry","military"]
+tags: ["WWII","Indigenous","Nez Perce","Army","Armed Forces","Infantry","military"]
 cover-image: lumber1379
 categories: []
 author: Sara Szobody
 ---
 
-The year is 1940. World War II has been raging for a year, without the official involvement of the United States. This small fact, however, did not deter thousands of men and women from enlisting into the various branches of the Armed Forces. In fact, Nez Perce County of Idaho had approximately 2,415 enlisted service members. Of this total, 97 serving members belonged to the local tribal community. One such person was twenty-five-year-old Private Aaron Roy Gould of the Nimiipuu (Nez Perce) People.
+The year is 1940. World War II has been raging for a year, without the official involvement of the United States. This small fact, however, did not deter thousands of men and women from enlisting into the various branches of the Armed Forces. In fact, Nez Perce County of Idaho had approximately 2,415 enlisted service members. Of this total, 97 serving members belonged to the local tribal community. One such person was twenty-five-year-old Private Aaron Roy Gould of the Nimi'ipuu (Nez Perce) People.
 
 {% include feature/image.html objectid="lumber1372" %}
 
@@ -47,12 +47,15 @@ An example of this is in the letter dated November 1, 1944. Gould explained hear
 
 One of the last great feats that Gould likely participated in before his death on December 9, 1944, was six days prior when the 414th attachment to the 104th Division had a mission to cross the Inde River from Belgium further into Germany (*Timberwolves: The Story of the 104th Infantry Division, Stars & Stripes*, 1944-1945). The mission was a success. Though the next few days saw heavy retaliation from the German soldiers in the nearby towns. 
 
-Gould’s personal accounts of those last few days and moments are unknown. What is known, is that he was a dedicated father and husband, a loving son, and a solider with a brave heart. The most profound interpretative piece from this collection was not simply the letters which allowed a small glimpse into the mind of a young man off to war. It was the last envelope, sent from the Army Effects Bureau to Mr. Owen J. Gould. Inside was a letter of regret, and the photograph of a beautiful young women. The envelope, as seen in the photo below, is notably marked by what may have been tears.
+Gould’s personal accounts of those last few days and moments are unknown. What is known, is that he was a dedicated father and husband, a loving son, and a solider with a brave heart. He was buried with full military honors in Ahsahka, Idaho.
 
 {% include feature/image.html objectid="lumber1377" %}
 
-This special and insightful collection can be accessed via the Special Collections and Archives Department of the University of Idaho Library. [MG 332, Aaron G. Gould Letters, 1940-1944](https://archiveswest.orbiscascade.org/ark:/80444/xv48229)
+This special and insightful collection can be accessed by contacting the University of Idaho Library [Special Collections and Archives Department](https://www.lib.uidaho.edu/special-collections/)
 
 # Sources
 
-This blog post was researched and written by Sara Szobody (TWU MLS Practicum Student)
+[Aaron G. Gould papers](https://archiveswest.orbiscascade.org/ark:80444/xv48229), MG 332, Special Collections and Archives, University of Idaho Library, Moscow, Idaho.
+
+[*Timeberwolves: The Story of the 104th Infantry Division*](http://www.lonesentry.com/gi_stories_booklets/104thinfantry/#:~:text=%22Timberwolves%3A%20The%20Story%20of%20the,of%20a%20series%20of%20G.I.). (1944-1945). Stars & Stripes.
+
