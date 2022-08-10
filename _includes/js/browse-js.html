@@ -16,6 +16,11 @@ function makeCard(obj) {
         }
         else {
         var imgSrc = '{{ site.objects | relative_url }}/thumbs/' + obj.filename + '_th.jpg';}
+    } else if (obj.format.includes("audio")) {
+        thumbSrc = '{{ "/assets/icons/" | relative_url }}audio.svg';
+    } 
+    else if (obj.format.includes("video")) {
+        thumbSrc = '{{ "/assets/icons/" | relative_url }}video.svg';
     } else {
         var thumbSrc = '{{ site.objects | relative_url }}/thumbs/' + obj.filename + '_th.jpg';
     }
@@ -29,7 +34,7 @@ function makeCard(obj) {
     card += '<div class="card-body text-center"> <h4 class="card-title"><a href="' + itemHref + '" class="text-dark">' + obj.title + '</a></h4>';
     // thumb for non-photo items
     if(thumbSrc){
-        card += '<p><a href="' + itemHref + '"><img class="lazyload" src="' + placeholder + '" data-src="' + thumbSrc + '" alt="Image of ' + obj.title + '"></a></p>';
+        card += '<p><a href="' + itemHref + '"><img class="lazyload" src="' + placeholder + '" data-src="' + thumbSrc + '" alt="Image of ' + obj.title + '" style="min-width:50px;"></a></p>';
     }
     // other fields
     card += '<p class="card-text">';
