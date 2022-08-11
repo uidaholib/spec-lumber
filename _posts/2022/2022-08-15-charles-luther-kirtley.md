@@ -1,6 +1,6 @@
 ---
 title: Charles Luther Kirtley
-date: 2022-08-22
+date: 2022-08-15
 tags: ["track and field","ribbons","prizes"]
 subtitle: 
 cover-image: lumber1807
