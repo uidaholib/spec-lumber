@@ -1,6 +1,6 @@
 ---
 title: Nurse Edna Peterson
-date: 2022-08-29
+date: 2022-08-22
 tags: ["nurse","infirmary","medical practices","medicine","registered nurse"]
 subtitle: 
 cover-image: lumber1811
