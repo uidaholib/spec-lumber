@@ -22,4 +22,4 @@ Kyle Laughlin considered himself an amateur photographer, but captured thousands
 
 {% include feature/digital-image.html collection="laughlin" cdm-collection="spec_kl" objectid="spec_kl676;spec_kl1156" %}
 
-With the recent creation of this [finding aid](https://archiveswest.orbiscascade.org/ark:80444/xv333521), the Kyle Laughlin Photograph Collection is now keyword searchable through our main search box, as well as having individual digitized items linked out to their pages and any remaining paper inventories have now been scanned and linked to as well. 
+With the recent creation of this [finding aid](https://archiveswest.orbiscascade.org/ark:80444/xv333521), the Kyle Laughlin Photograph Collection is now keyword searchable through our main search box, as well as having individual digitized items linked out to their pages and any remaining paper inventories have now been scanned and linked to as well. Enjoy!
