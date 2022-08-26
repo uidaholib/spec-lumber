@@ -1,6 +1,6 @@
 ---
 title: "Women in Natural Resources"
-date: 2022-08-29
+date: 2022-09-02
 tags: []
 subtitle: 
 cover-image: 
