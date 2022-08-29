@@ -1,6 +1,6 @@
 ---
 title: Art in the Archives
-date: 2022-08-29 15:32:52 -0700
+date: 2022-08-29
 tags: ["art","archives","artwork","artists","artist"]
 subtitle: 
 cover-image: lumber1823
