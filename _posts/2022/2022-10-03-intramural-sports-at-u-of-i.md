@@ -21,7 +21,6 @@ The newly processed [University of Idaho Intramural Sports collection](https://a
 A majority of items in the collection come from Leon G. Green, Larry Golding, and Clem Parberry. Each served as Director of Intramurals for the U of I. In 2019, Leon G. Green's grandson, C. Scott Green, became the University of Idaho's 19th President. 
 
 {% include feature/image.html objectid="lumber1832;lumber1826" %}
-{% include feature/image.html objectid="lumber1839" %}
 {% include feature/image.html objectid="lumber1829;lumber1833" %}
 
 To this day, intramural sports are an integral part of U of I campus life and culture.
