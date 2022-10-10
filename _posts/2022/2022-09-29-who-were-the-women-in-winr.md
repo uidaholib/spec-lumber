@@ -1,7 +1,7 @@
 ---
-title: Who Were the Women in WiNR?
+title: "Who Were the Women in WiNR?"
 date: 2022-09-29
-tags: []
+tags: ["women","forestry","natural resources"]
 subtitle:
 cover-image-collection: winr 
 cover-image: winr_045
@@ -24,7 +24,7 @@ You wouldn't initially guess that, behind the smiling faces and confident eyes o
 
 {% include feature/digital-image.html collection="winr" objectid="winr_001" %}
 
-but over time, it grew to encompass professionals in forestry, wildlife, range, fisheries, recreation, and related fields, changing its name to *Women in Natural Resources.
+but over time, it grew to encompass professionals in forestry, wildlife, range, fisheries, recreation, and related fields, changing its name to *Women in Natural Resources*.
 
 {% include feature/digital-image.html collection="winr" objectid="winr_012" %}
 
@@ -38,7 +38,7 @@ Submission to the *WiNR* journal on a female Hotshot's experience with firefight
 
 {% include feature/digital-image.html collection="winr" objectid="winr_032" %}
 
-Photograph of women participants from the 1989 Educating Forest Technicians into the 21st Century International Conference (left) and photograph of all participants at the same conference.
+Photograph of women participants from the 1989 Educating Forest Technicians into the 21st Century International Conference (left) and photograph of all participants at the same conference (right).
 
 {% include feature/digital-image.html collection="winr" objectid="winr_033;winr_034" %}
 
