@@ -4,7 +4,7 @@ date: 2022-09-29
 tags: ["women","forestry","natural resources"]
 subtitle:
 cover-image-collection: winr 
-cover-image: winr_045
+cover-image: winr_053
 categories: []
 author:
 ---
@@ -13,14 +13,14 @@ Post written by Flori Tulli, 2022 Special Collections Summer Fellow.
 
 {% include feature/digital-image.html collection="winr" objectid="winr_072" %}
 
-As I previously mentioned in my last blog post, I, and I'm sure future researchers, wanted to know two things about the *Women in Natural Resources* collection:
+As I previously mentioned in my last blog post, "Why Women in Natural Resources," I wanted to know two things about the *Women in Natural Resources* collection:
 
 1. Why was this journal created?
 2. Who were these women?
 
-Fortunately, as the plethora of documents found their new homes in acid-free folders and boxes, their contents began to piece together the answers. A story slowly formed - one about capable women who wanted to to pursue their passions. Those passions happened to be within the male-dominated fields of Natural Resources: unfamiliar career-territory for women in the 1970s. But, like the intrepid explorers they are, these women pushed onward and were met with a wide-range of reactions from their male colleagues: some extremely supportive, others dismissive, and some - adversarial. 
+Fortunately, as the plethora of documents found their new homes in acid-free folders and boxes, their contents began to piece together the answers. A story slowly formed - one about capable women. Women who wanted to to pursue their passions. Those passions happened to be within the male-dominated fields of Natural Resources: unfamiliar career-territory for women in the 1970s. But, like the intrepid explorers they are, these women pushed onward and were met with a wide-range of reactions from their male colleagues: some extremely supportive, others dismissive, and some - adversarial. 
 
-You wouldn't initially guess that, behind the smiling faces and confident eyes of these divers women, lurked frustrations, struggles and hardships. While some, like Dixie Ehrenreich (managing editor of *WiNR*, 1983-1999), Molly Stock (contributing editor of *WiNR*, 1983-1987) and Jo Ellen Force (public relations for *WiNR*, 1980s) vocally expressed and shared their experiences through the journal, others, like Lauren Fins (Professor of Forest Genetics at U of I) marched stoically and silently toward their goals. Different women took different paths to similar destinations, and yet all of these women weave into the fabric of the *WiNR* Collection's history. As Dixie, Molly, and Jo Ellen have expressed, the journal was born out of a necessity to find solidarity with other women professionals in the male-dominated Forestry field. Initially, the journal began as a newsletter called *Women in Forestry*
+You wouldn't initially guess that behind the smiling faces and confident eyes of these diverse women lurked frustrations, struggles and hardships. While some, like Dixie Ehrenreich (managing editor of *WiNR*, 1983-1999), Molly Stock (contributing editor of *WiNR*, 1983-1987) and Jo Ellen Force (public relations for *WiNR*, 1980s) vocally expressed and shared their experiences through the journal, others, like Lauren Fins (Professor of Forest Genetics at U of I) marched stoically and silently toward their goals. Different women took different paths to similar destinations, and yet all of these women weave into the fabric of the *WiNR* Collection's history. As Dixie, Molly, and Jo Ellen have expressed, the journal was born out of a necessity to find solidarity with other women professionals in the male-dominated Forestry field. Initially, the journal began as a newsletter called *Women in Forestry*
 
 {% include feature/digital-image.html collection="winr" objectid="winr_001" %}
 
@@ -34,7 +34,7 @@ What stood out among letters of correspondence and submissions were photographs 
 
 Below are only ten materials from our digital collection:
 
-Submission to the *WiNR* journal on a female Hotshot's experience with firefighting in Yellowstone National Park.
+About a submission to the *WiNR* journal a female Hotshot's experience with firefighting in Yellowstone National Park.
 
 {% include feature/digital-image.html collection="winr" objectid="winr_032" %}
 
@@ -58,7 +58,7 @@ Photograph of Ann Humble (bighorn sheep researcher) hiking to a good sheep obser
 
 {% include feature/digital-image.html collection="winr" objectid="winr_043" %}
 
-Photograph of Archaeologist Jeanne Schaaf examining an Eskimo (Inuit) spear. 
+Photograph of Archaeologist Jeanne Schaaf examining an Inuit spear. 
 
 {% include feature/digital-image.html collection="winr" objectid="winr_044" %}
 

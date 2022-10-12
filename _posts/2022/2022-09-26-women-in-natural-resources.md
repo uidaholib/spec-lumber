@@ -42,3 +42,7 @@ Dulce and I met with Professor Emerita of Forest Policy, Jo Ellen Force. She is 
 Lastly, I met with Professor Emerita of Forest Genetics, Lauren Fins. She was the first woman to become Head of the Inland Empire Tree Improvement Cooperative. Although she did not contribute to *WiNR*, her interview attests to the history of the journal's foundation: like many women, she strove to succeed in a male-dominated field. Through both her own hard work and the support of others, she not only achieved this success but also serves as one example of the many women in Natural Resources who didn't back down in the face of adversity. 
 
 {% include feature/digital-image.html collection="winr" objectid="winr_083" %}
+
+Continue reading about [who were the women in *WiNR*](https://harvester.lib.uidaho.edu/posts/2022/09/29/who-were-the-women-in-winr.html) in the next blog post!
+
+If you would like to see more photos and submissions about these women in Natural Resources, please visit the [Women in Natural Resources Digital Collection](https://www.lib.uidaho.edu/digital/winr/)
