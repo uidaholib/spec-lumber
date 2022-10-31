@@ -1,6 +1,6 @@
 ---
 title: Haunted Hartung
-date: 2022-10-31
+date: 2023-10-31
 tags: []
 subtitle: 
 cover-image: 
