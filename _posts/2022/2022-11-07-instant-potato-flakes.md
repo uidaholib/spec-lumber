@@ -24,8 +24,9 @@ Willard was born on June 10, 1924 to Ethel and Miles Willard in Philadelphia, PA
 
 After World War Two, Willard returned to Drexel and completed his engineering degree in 1949. Willard's career in food technology began at his employment with the Eastern Regional Research Laboratory of the USDA in Philadelphia. Here, he and a colleague developed a new drying process for the manufacture of instant mashed potato flakes. 
 
-{% include feature/image.html objectid="lumber1859" %}
+{% include feature/image.html objectid="lumber1865" %}
 {% include feature/image.html objectid="lumber1861" %}
+{% include feature/image.html objectid="lumber1862;lumber1863;lumber1864" %}
 
 In 1955 his career took him to Idaho, where he designed and operated the world's first commercial potato flake plant for the Rogers Brothers Company. He worked there as the Director of Research for about nine years.
 
