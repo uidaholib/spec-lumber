@@ -8,7 +8,7 @@ categories: []
 author: Sara Szobody
 ---
 
-In the mid-1930s, Marie Haasch Whitesel came to Moscow to attend the University of Idaho. Her goal was to pursue a career in art. From the moment she came to the university, Marie was constantly on the move. She busied herself by participating in various different campus organizations and events. Marie was active in the Mortar Board, the Pan Hellenic Association, Phi Beta Kappa, the Gem of the Mountains Yearbook business staff, The Spurs, and Alpha Lambda Delta...just to name a few. She also worked for the university's newspaper, the Argonaut, and she was a member of the Alpha Chi Omega sorority - serving as president for a time. 
+In the mid-1930s, Marie Haasch Whitesel came to Moscow to attend the University of Idaho. Her goal was to pursue a career in art. From the moment she came to the university, Marie was constantly on the move. She busied herself by participating in various campus organizations and events. Marie was active in the Mortar Board, the Pan Hellenic Association, Phi Beta Kappa, the Gem of the Mountains Yearbook business staff, The Spurs, and Alpha Lambda Delta...just to name a few. She also worked for the university's newspaper, the Argonaut, and she was a member of the Alpha Chi Omega sorority - serving as president for a time. 
 
 {% include feature/image.html objectid="lumber1882" %}
 {% include feature/image.html objectid="lumber1883" %}
