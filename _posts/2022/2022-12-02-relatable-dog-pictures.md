@@ -5,7 +5,7 @@ tags: ["dog","dog pictures","puppies","funny","humor","dogs"]
 subtitle: 
 cover-image: lumber1886
 categories: []
-author: Special Collections and Archives
+author: Sara Szobody
 ---
 
 Finals are fast approaching...which makes us all feel some type of way. But we have something to cheer you up! Scroll through these premium dog pictures to have a laugh, smile at the cuteness, or cringe at how relatable they are. 
