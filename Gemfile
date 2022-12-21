@@ -6,4 +6,4 @@ gem 'jekyll-paginate'
 
 gem 'webrick'
 
-gem 'jekyll-sass-converter", "~> 2.1.0"
+gem "jekyll-sass-converter", "2.1.0"
