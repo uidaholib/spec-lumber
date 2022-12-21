@@ -1,6 +1,6 @@
 ---
 title: Stay Warm Out There
-date: 2022-12-21 10:34:47 -0800
+date: 2022-12-21
 tags: ["campus","winter","snow","trees"]
 subtitle: 
 cover-image: lumber1909
