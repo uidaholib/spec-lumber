@@ -27,7 +27,7 @@ Jean Collette became head of dramatics in 1933. It was a position she would hold
 
 {% include feature/image.html objectid="lumber1918" %}
 
-And finally, Elizabeth Zinser was the university’s 14th president and the first woman to serve. At the ceremony inaugurating her into the position she said, *“Only when we embrace our diversity, indeed celebrate it, will all our cultures and all our regions unite to make one Idaho as strong as it can be.”*
+And finally, Elisabeth Zinser was the university’s 14th president and the first woman to serve. At the ceremony inaugurating her into the position she said, *“Only when we embrace our diversity, indeed celebrate it, will all our cultures and all our regions unite to make one Idaho as strong as it can be.”*
 
 {% include feature/image.html objectid="lumber1927" %}
 
