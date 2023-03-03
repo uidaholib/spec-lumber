@@ -21,6 +21,9 @@ Reinhardt went on to be accepted to Yale for doctorial study--a rarity for a wom
 
 Notes: 
 Boaz, Martha. "Review of Aurelia Henry Reinhardt: Portrait of a Whole Woman by George Hedley." California Historical Society Quarterly, Vol. 42, No. 2, History of Education Issue (Jun., 1963), pp. 154-156. Published by: University of California Press in association with the California Historical Society. Stable URL: http://www.jstor .org/stable/25155546. Accessed: 03/09/2014 13:10
+
 Fischer, Clare B. "Aurelia Henry Reinhardt: Mills College President, 1877-1948." http://www.harvard square library.org/ biographies/aurelia-henry-reinhardt. Last Accessed: September 3, 2014.)
+
 Special Collections UI VF Class Box 6.
+
 Spokesman-Review. "Woman Speaker at Idaho 'U'." May 22, 1919. Figure 2. Aurelia Henry Reinhardt http://oll.libertyfund.org/people/aurel
