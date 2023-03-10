@@ -16,14 +16,15 @@ Their inaugural production was Richard Sheridan's *The Rivals* performed on June
 During her tenure, the Idaho legislature debated breaking up the university and moving departments around the state. To boost favor with the legislature, the university sent *The Rivals* production to Boise. They traveled by train, stopping at towns along the way to perform. An edition of the *Argonaut*," 30 years after the fact, claimed that the legislature was so won over by the production that the university was saved from being dismantled.
 {% include feature/image.html objectid="lumber1935" %} {% include feature/digital-image.html collection="pg2" caption="Cast of the Rivals. Reinhardt is center wearing the shirt waist." objectid="pg21804" %}
 
-Reinhardt went on to be accepted to Yale for doctorial study--a rarity for a woman at that time, then she became president of Mills College in California, the only women's college on the west coast. She returned to the U of I in 1919 to deliver the commencement address. It was the first time in the university's history that a woman gave the graduation keynote. She became one of America's leading educators.
-{% include feature/image.html caption="Esther Thomas scrapbook program with newsclipping pasted on top. In the clipping, Reinhardt's name was misspelled." objectid="lumber1936" %}
+Reinhardt went on to be accepted to Yale for doctoral study--a rarity for a woman at that time, then she became president of Mills College in California, the only women's college on the west coast. She returned to the U of I in 1919 to deliver the commencement address. It was the first time in the university's history that a woman gave the graduation keynote. She became one of America's leading educators.
+{% include feature/image.html caption="Esther Thomas scrapbook program with newspaper clipping pasted on top. In the clipping, Reinhardt's name was misspelled." objectid="lumber1936" %}
 
-Notes: 
-Boaz, Martha. "Review of Aurelia Henry Reinhardt: Portrait of a Whole Woman by George Hedley." California Historical Society Quarterly, Vol. 42, No. 2, History of Education Issue (Jun., 1963), pp. 154-156. Published by: University of California Press in association with the California Historical Society. Stable URL: http://www.jstor .org/stable/25155546. Accessed: 03/09/2014 13:10
+# References
 
-Fischer, Clare B. "Aurelia Henry Reinhardt: Mills College President, 1877-1948." http://www.harvard square library.org/ biographies/aurelia-henry-reinhardt. Last Accessed: September 3, 2014.)
+Boaz, Martha. "Review of Aurelia Henry Reinhardt: Portrait of a Whole Woman by George Hedley." California Historical Society Quarterly, Vol. 42, No. 2, History of Education Issue (Jun., 1963), pp. 154-156. Published by: University of California Press in association with the California Historical Society. Stable URL: [http://www.jstor.org/stable/25155546](https://www-jstor-org.uidaho.idm.oclc.org/stable/25155546?sid=primo&origin=crossref). Accessed: 03/09/2014 13:10
 
-Special Collections UI VF Class Box 6.
+Fischer, Clare B. "Aurelia Henry Reinhardt: Mills College President, 1877-1948." [http://www.harvard square library.org/ biographies/aurelia-henry-reinhardt](https://www.harvardsquarelibrary.org/biographies/aurelia-henry-reinhardt/). Last Accessed: September 3, 2014.
 
-Spokesman-Review. "Woman Speaker at Idaho 'U'." May 22, 1919. Figure 2. Aurelia Henry Reinhardt http://oll.libertyfund.org/people/aurel
+UI VF CLASS, Box 6. University of Idaho Library Special Collections and Archives, Moscow, ID.
+
+Spokesman-Review. "Woman Speaker at Idaho 'U'." May 22, 1919. Figure 2. Aurelia Henry Reinhardt. [https://oll.libertyfund.org/person/aurelia-henry-reinhardt](https://oll.libertyfund.org/person/aurelia-henry-reinhardt.)
