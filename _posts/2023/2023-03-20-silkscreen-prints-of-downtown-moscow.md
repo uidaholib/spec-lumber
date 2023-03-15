@@ -1,6 +1,6 @@
 ---
 title: Silkscreen Prints of Downtown Moscow
-date: 2023-03-14
+date: 2023-03-20
 tags: ["art","artwork","Moscow, Idaho","downtown","silkscreen prints","screen prints","local artists"]
 subtitle: 
 cover-image: lumber1951
