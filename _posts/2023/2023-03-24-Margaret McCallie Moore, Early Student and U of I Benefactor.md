@@ -31,7 +31,8 @@ In 1968, University President Hartung awarded her a certificate for her years of
 
 During her academics career, she introduced supervised reading (akin to independent study) in Washington and Idaho public schools, taught dramatics, public reading, and speech. When she passed away in 1972, memorials were requested to be sent to the U of I Margaret McCallie Moore Student Loan Fund. Dedicated to pedagogy and the furthering the college, Margaret Moore never forgot the University of Idaho.
 
-{% include feature/image.html objectid="lumber1971;lumber1976" %}
+{% include feature/image.html objectid="lumber1971" %}
+{% include feature/image.html objectid="lumber1976" width="50" %}
 
 Thanks to Elaina Pierson, Latah County Historical Society (LCHS) for her assistance with this blog post.
 
