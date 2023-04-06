@@ -14,7 +14,6 @@ Born in Tennessee, her family rode an emigrant train to San Francisco and from t
 
 {% include feature/image.html objectid="lumber1975" width="50" %}
 
-
 When she enrolled, she was placed in 2nd year preparatory school before continuing on to her collegiate studies. She was skilled in elocution and participated in dramatics. At the urging of Lt. Chrisman, the first Professor of Military Science and Tactics, she organized a women's drill unit for a public event in Moscow. Named "captain" of the unit, they were dubbed C Company for their calico dresses. They also found blue Civil War surplus caps to complete their uniforms. Rafe Gibbs in his U of I history book, *Beacon for Mountain and Plain*, wrote that their marching routine impressed a visiting Fort Sherman colonel. 
 
 {% include feature/image.html objectid="lumber1972;lumber1977" %}
