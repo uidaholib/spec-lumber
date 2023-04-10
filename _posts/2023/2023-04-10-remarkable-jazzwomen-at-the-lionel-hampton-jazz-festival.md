@@ -1,6 +1,6 @@
 ---
 title: Remarkable Jazzwomen at the Lionel Hampton Jazz Festival
-date: 2023-04-12
+date: 2023-04-10
 tags: ["jazz","jazzwomen","Lionel Hampton Jazz Festival","jazz festival","exhibits","displays"]
 subtitle: 
 cover-image: lumber1985
