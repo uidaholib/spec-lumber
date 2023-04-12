@@ -27,5 +27,7 @@ View this exhibit now through the end of May. And don't forget to get your ticke
 # Sources
 
 [Collection on Ella Fitzgerald](https://archiveswest.orbiscascade.org/ark:80444/xv28439), IJC MG 004, 1940-1988. University of Idaho Library Special Collections and Archives, Moscow, ID.
+
 [Jane Jarvis papers](https://archiveswest.orbiscascade.org/ark:80444/xv07022), IJC MG 21, 1920-2001. University of Idaho Library Special Collections and Archives, Moscow, ID.
+
 [Small Collections on Jazz](https://archiveswest.orbiscascade.org/ark:80444/xv34854), IJC MG 013, 1950-2005. University of Idaho Library Special Collections and Archives, Moscow, ID.
