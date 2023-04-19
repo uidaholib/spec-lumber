@@ -8,7 +8,7 @@ categories: []
 author: Special Collections Contributors
 ---
 
-Post written by Dusty Fleener, 2022 Special Collections Summer Fellow.
+Post written by Dusty Fleener, 2022 Gary E. and Carolyn J. Strong Fellow in Special Collections and Archives. 
 
 {% include feature/image.html objectid="lumber1993" %}
 
