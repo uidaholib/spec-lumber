@@ -1,6 +1,6 @@
 ---
 title: All Rights to the Contributors
-date: 2023-04-21
+date: 2023-04-25
 tags: []
 subtitle: 
 cover-image: 
