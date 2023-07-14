@@ -5,4 +5,4 @@ firstname: Special Collections
 lastname: Contributors
 ---
 
-This contributors page includes research and writing conducted by Special Collections student workers, fellows, practicum students, and UI Library faculty and staff. 
+This contributors page includes research and writing conducted by Special Collections student workers, fellows, practicum students, and U of I Library faculty and staff. 
