@@ -52,14 +52,14 @@ source-code: https://github.com/uidaholib/spec-lumber
 # title of site appears in banner
 title: Idaho Harvester 
 # tagline, a short phrase that will appear throughout the site in the top banner
-tagline: "Blog & working collection of unique materials from the <a class='text-white border-bottom p-0' href='https://www.lib.uidaho.edu/special-collections/'>University of Idaho Library, Special Collections & Archives Department</a>"
+tagline: "Blog and working collection of unique materials from the <a class='text-white border-bottom p-0' href='https://www.lib.uidaho.edu/special-collections/'>University of Idaho Library Special Collections and Archives</a>"
 # description appears in meta tags and other locations
 # this description might appear in search result lists, keep around 160 characters max
-description: "A blog and working collection of the most interesting and unique materials from the University of Idaho Library's Special Collections & Archives Department."
+description: "A blog and working collection of the most interesting and unique materials from the University of Idaho Library's Special Collections and Archives."
 # creator of the digital collection, to appear in meta tags; we typically use our GitHub usernames but feel free to just use your name
 author: CollectionBuilder
 # Organization branding
-organization-name: "Special Collections & Archives, University of Idaho Library"
+organization-name: "Special Collections and Archives, University of Idaho Library"
 organization-link: https://www.lib.uidaho.edu/special-collections/
 organization-logo-banner: https://www.lib.uidaho.edu/media/images/ui_library_horizontal.png
 organization-logo-nav: https://www.lib.uidaho.edu/media/images/ui_library_horizontal.png
