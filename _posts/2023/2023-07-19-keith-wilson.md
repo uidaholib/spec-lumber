@@ -1,7 +1,7 @@
 ---
 title: Keith Wilson
 date: 2023-07-19
-tags: ["World War II","world wars","medals"]
+tags: ["World War II","world wars","veterans"]
 subtitle: 71st Infantry Division
 cover-image: lumber2068
 categories: []
