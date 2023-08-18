@@ -1,6 +1,6 @@
 ---
 title: Daniel Olortegui Vargas
-date: 2023-08-15
+date: 2023-08-18
 tags: ["fellow","Strong Fellow","archival work","archives","digitization"]
 subtitle: 2023 Strong Fellow
 cover-image: lumber2085
