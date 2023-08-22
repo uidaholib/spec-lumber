@@ -1,6 +1,6 @@
 ---
 title: National Oldtime Fiddlers' Contest
-date: 2023-08-21
+date: 2023-08-22
 tags: ["musicians","fiddlers","fiddlers","performance","contest"]
 subtitle: 
 cover-image: lumber2094
