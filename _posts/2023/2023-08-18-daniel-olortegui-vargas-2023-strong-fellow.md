@@ -5,8 +5,9 @@ tags: ["fellow","Strong Fellow","archival work","archives","digitization"]
 subtitle: 2023 Strong Fellow
 cover-image: lumber2085
 categories: []
-author: Daniel Olortegui Vargas
+author: Special Collections Contributors
 ---
+Written by Daniel Olortegui Vargas.
 
 As a history student, my forte is theory, reading primary and secondary sources, listening to oral sources, teaching what I learn, and writing my discoveries. My area of study is Latin America and I can teach practically any historical subject related to that region. All my set of skills was based on learning and communicating historical knowledge. That changed when I became a [Gary E. and Carolyn J. Strong Special Collections Fellow](https://www.lib.uidaho.edu/special-collections/strong-fellowship.html).
 

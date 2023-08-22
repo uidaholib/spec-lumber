@@ -5,8 +5,9 @@ tags: ["musicians","fiddlers","fiddlers","performance","contest"]
 subtitle: 
 cover-image: lumber2094
 categories: []
-author: Daniel Olortegui Vargas
+author: Special Collections Contributors
 ---
+Written by Daniel Olortegui Vargas.
 
 One of the most renowned and influential fiddle competitions in America happens each year in Weiser, Idaho. Located in southwest Idaho, Weiser sits at the confluence of the Wiser River and the great Snake River. A little over 5,000 people call it home, but that number swells during the third week of June. Fiddlers and other musicians from about every state and many from abroad attend the event. The contest is held in the Weiser High School. Inside the high school, musicians in cowboy boots and straw hats practice and compete. The school is buzzing with excited energy, filled with sounds of dozens of musicians playing and practicing simultaneously in every key on a fiddle finger-board. Outside the quiet room where the actual competition is held is a strange jumble of notes with a strident Western flavor. 
 
