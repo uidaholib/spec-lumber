@@ -1,6 +1,6 @@
 ---
 title: Spook-tacular Archives
-date: 2023-10-09
+date: 2023-10-11
 tags: ["spooky","Halloween","ghosts","goblins","ghouls","puns","jokes"]
 subtitle: 
 cover-image: lumber2108
