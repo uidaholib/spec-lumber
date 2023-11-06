@@ -1,6 +1,6 @@
 ---
 title: Reflecting on Veterans Day & Native American Heritage Month
-date: 2023-11-04
+date: 2023-11-11
 tags: ["veterans","Veterans Day","Native Americans","Native American Heritage Month","Indigenous Peoples","military"]
 subtitle: 
 cover-image: lumber2138
