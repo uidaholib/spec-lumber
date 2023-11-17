@@ -1,6 +1,6 @@
 ---
 title: George Cap Horton
-date: 2023-11-18
+date: 2023-11-17
 tags: ["university","football","campus","student life"]
 subtitle: Graduate Manager
 cover-image: lumber2129
