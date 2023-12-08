@@ -3,7 +3,7 @@ title: Lava flows you can see from space?!
 date: 2020-12-23
 tags: ["wilderness","Craters of the Moon","volcanoes","lava","Snake River"]
 subtitle: Wilderness Wednesday
-cover-image: https://cdm17254.contentdm.oclc.org/digital/api/singleitem/image/pdf/nwpostcards/229/default.png
+cover-image: https://objects.lib.uidaho.edu/postcards/postcard_094.jpg
 categories: [Wilderness Wednesday]
 author: Michelle A. Shannon
 ---
@@ -25,8 +25,8 @@ This area was established as a National Monument on May 2, 1924 by President Cal
 
 # Sources
 
-[^1]: ["Otherwordly Wonders: Craters of the Moon National Monument and Preserve," National Park Foundation](https://www.nationalparks.org/explore-parks/craters-moon-national-monument-and-preserve#:~:text=Park%20Information,River%20Plain%20in%20southcentral%20Idaho.)
+[^1]: ["Otherwordly Wonders: Craters of the Moon National Monument and Preserve," National Park Foundation](https://www.nationalparks.org/explore-parks/craters-moon-national-monument-and-preserve)
 
-[^2]: [ibid.](https://www.nationalparks.org/explore-parks/craters-moon-national-monument-and-preserve#:~:text=Park%20Information,River%20Plain%20in%20southcentral%20Idaho.)
+[^2]: [ibid.](https://www.nationalparks.org/explore-parks/craters-moon-national-monument-and-preserve)
 
-[^3]: [ibid.](https://www.nationalparks.org/explore-parks/craters-moon-national-monument-and-preserve#:~:text=Park%20Information,River%20Plain%20in%20southcentral%20Idaho.)
+[^3]: [ibid.](https://www.nationalparks.org/explore-parks/craters-moon-national-monument-and-preserve)
