@@ -23,4 +23,4 @@ In the fall of 1907, the library was moved to rathe second floor of Morrill Hall
 
 Caption: Gymnasium and Library, 1906. #1-54-6. Historical Photograph Collection. Special Collections and Archives, University of Idaho Library.
 
-https://digital.lib.uidaho.edu/digital/collection/pg1/id/1441/rec/1
+https://www.lib.uidaho.edu/digital/campus/items/campus02319.html
