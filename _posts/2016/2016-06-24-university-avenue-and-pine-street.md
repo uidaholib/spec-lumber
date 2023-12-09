@@ -8,7 +8,7 @@ categories: ["Then and Now"]
 author: Amy J. Thompson
 ---
 
-{% include feature/image.html objectid="https://digital.lib.uidaho.edu/digital/iiif/ott/1190/full/pct:70/0/default.jpg" link="https://www.lib.uidaho.edu/digital/ott/items/ott1190.html" caption="University of Idaho, looking north from Administration building, 1912" %}
+{% include feature/image.html objectid="https://objects.lib.uidaho.edu/ott/ott1190.jpg" link="https://www.lib.uidaho.edu/digital/ott/items/ott1190.html" caption="University of Idaho, looking north from Administration building, 1912" %}
 
 {% include feature/image.html objectid="lumber1096" %}
 

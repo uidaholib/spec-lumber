@@ -14,4 +14,4 @@ Protect your potatoes, everyone.
 
 # Sources
 
-[Agricultural and Extension Publications Collection, 725, Bulletin, 1991](https://digital.lib.uidaho.edu/digital/collection/ui_ep/id/1427/rec/4)
+[Agricultural and Extension Publications Collection, 725, Bulletin, 1991](https://www.lib.uidaho.edu/digital/uiext/items/uiext1442.html)
