@@ -1,373 +1,1221 @@
-{ "documents": [{
+{ "objects": [{ 
         "title": "Some Lived Some Died, It Was Understood",
-        "date": "1995",
-        "subjects": ["Memoir of POW experience"],
+        "creator": "Calnon, Mark",
         "description": "Mark Calnon's memoir being a POW in WWII.",
-        "link": "https://www.lib.uidaho.edu/digital/calnon/items/calnon0.html"
-    },
-    {
-        "title": "Calnon 95th Birthday",
-        "date": "2013-08-01",
-        "subjects": ["Photograph"],
-        "description": "Photograph of Calnon on his 95th birthday",
-        "link": "https://www.lib.uidaho.edu/digital/calnon/items/calnon1.html"
-    },
-    {
-        "title": "B17 Exterior Photo 4",
-        "date": "1980",
-        "subjects": ["Photograph"],
-        "description": "Photograph of the exterior of exhibition B20",
-        "link": "https://www.lib.uidaho.edu/digital/calnon/items/calnon2.html"
-    },
-    {
-        "title": "Calnon Letter to Crew",
-        "date": "1992-08-05",
-        "subjects": ["Scan of Letter"],
-        "description": "Letter to surviving crew with reports.",
-        "link": "https://www.lib.uidaho.edu/digital/calnon/items/calnon3.html"
-    },
-    {
-        "title": "B17 Exterior Photo 5",
-        "date": "1980",
-        "subjects": ["Photograph"],
-        "description": "Photograph of the exterior of exhibition B21",
-        "link": "https://www.lib.uidaho.edu/digital/calnon/items/calnon4.html"
-    },
-    {
-        "title": "B17 Pilot Controls",
-        "date": "1980",
-        "subjects": ["Photograph"],
-        "description": "Photographs of pilots controls in exhibition B17",
-        "link": "https://www.lib.uidaho.edu/digital/calnon/items/calnon5.html"
-    },
-    {
-        "title": "B17 Bomb Bay",
-        "date": "1980",
-        "subjects": ["Photograph"],
-        "description": "Photograph of empty bomb bay in a exhibition B17",
-        "link": "https://www.lib.uidaho.edu/digital/calnon/items/calnon6.html"
-    },
-    {
-        "title": "B17 Gun Seat",
-        "date": "1980",
-        "subjects": ["Photograph"],
-        "description": "Photograph of B17 Gun Seat in exhibition B17",
-        "link": "https://www.lib.uidaho.edu/digital/calnon/items/calnon7.html"
-    },
-    {
-        "title": "Calnon 384th Reunion",
-        "date": "1980",
-        "subjects": ["Photograph"],
-        "description": "Photograph of Calnon's Bomber Group years after the war.",
-        "link": "https://www.lib.uidaho.edu/digital/calnon/items/calnon8.html"
-    },
-    {
-        "title": "B17 Interior",
-        "date": "1980",
-        "subjects": ["Photograph"],
-        "description": "Photograph of the interior of B17",
-        "link": "https://www.lib.uidaho.edu/digital/calnon/items/calnon9.html"
-    },
-    {
-        "title": "B17 Gun",
-        "date": "1980",
-        "subjects": ["Photograph"],
-        "description": "Photograph of B17 Machine gun",
-        "link": "https://www.lib.uidaho.edu/digital/calnon/items/calnon10.html"
-    },
-    {
-        "title": "Mark Brooks Calnon Oral History Audio Mp3 80.5 MB",
-        "date": "2013-08-13",
-        "subjects": ["Oral History"," WWII"," POW"],
-        "description": "Oral history with 2nd Lt. Mark Brooks Calnon recalling WWII pilot and POW experience",
-        "link": "https://www.lib.uidaho.edu/digital/calnon/items/calnon11.html"
-    },
-    {
-        "title": "B17 Exterior Photo 1",
-        "date": "1980",
-        "subjects": ["Photograph"],
-        "description": "Photograph of the exterior of exhibition B17",
-        "link": "https://www.lib.uidaho.edu/digital/calnon/items/calnon12.html"
-    },
-    {
-        "title": "Map of Tours",
-        "date": "1992",
-        "subjects": ["Scan of Map"],
-        "description": "Scan of map of tours that Calnon flew during the war.",
-        "link": "https://www.lib.uidaho.edu/digital/calnon/items/calnon13.html"
-    },
-    {
-        "title": "B17 Exterior Photo 3",
-        "date": "1980",
-        "subjects": ["Photograph"],
-        "description": "Photograph of the exterior of exhibition B19",
-        "link": "https://www.lib.uidaho.edu/digital/calnon/items/calnon14.html"
-    },
-    {
-        "title": "B17 Crew Portrait",
-        "date": "1980",
-        "subjects": ["Photograph"],
-        "description": "Photograph of Calnon's B17 crew during WWII.",
-        "link": "https://www.lib.uidaho.edu/digital/calnon/items/calnon15.html"
-    },
-    {
-        "title": "Red Cross Card",
-        "date": "1944",
-        "subjects": ["Photograph/Card"],
-        "description": "Scan of red cross membership card during WWII HAS.",
-        "link": "https://www.lib.uidaho.edu/digital/calnon/items/calnon16.html"
-    },
-    {
-        "title": "B17 Pilot Controls",
-        "date": "1980",
-        "subjects": ["Photograph"],
-        "description": "Photographs of pilots controls in exhibition B17",
-        "link": "https://www.lib.uidaho.edu/digital/calnon/items/calnon17.html"
-    },
-    {
-        "title": "B17 Pilot Controls",
-        "date": "1980",
-        "subjects": ["Photograph"],
-        "description": "Photographs of pilots controls in exhibition B17",
-        "link": "https://www.lib.uidaho.edu/digital/calnon/items/calnon18.html"
-    },
-    {
-        "title": "B17 Radio Room",
-        "date": "1980",
-        "subjects": ["Photograph"],
-        "description": "Photograph of the radio room in exhibition B17",
-        "link": "https://www.lib.uidaho.edu/digital/calnon/items/calnon19.html"
-    },
-    {
-        "title": "B17 Waist",
-        "date": "1980",
-        "subjects": ["Photograph"],
-        "description": "Photograph of the interior of exhibition B17",
-        "link": "https://www.lib.uidaho.edu/digital/calnon/items/calnon20.html"
-    },
-    {
-        "title": "Calnon Jr. Ext. B17",
-        "date": "1980",
-        "subjects": ["Photograph"],
-        "description": "Photograph of Calnon Jr. outside exhibition B17",
-        "link": "https://www.lib.uidaho.edu/digital/calnon/items/calnon21.html"
-    },
-    {
-        "title": "Mark Brooks Calnon Oral History Video 8.69 GB",
-        "date": "2013-08-13",
-        "subjects": ["Oral History"," WWII"," POW"],
-        "description": "Oral history with 2nd Lt. Mark Brooks Calnon recalling WWII pilot and POW experience",
-        "link": "https://www.lib.uidaho.edu/digital/calnon/items/calnon22.html"
-    },
-    {
-        "title": "Memphis Belle B17",
-        "date": "1980",
-        "subjects": ["Photograph"],
-        "description": "Photograph of the exterior of Memphis Belle B17",
-        "link": "https://www.lib.uidaho.edu/digital/calnon/items/calnon23.html"
-    },
-    {
-        "title": "Reported Missing",
-        "date": "1943",
-        "subjects": ["Telegram"],
-        "description": "Scan of telegram informing Mark's family he was missing.",
-        "link": "https://www.lib.uidaho.edu/digital/calnon/items/calnon24.html"
-    },
-    {
-        "title": "Military Portrait",
-        "date": "1943",
-        "subjects": ["Photograph"],
-        "description": "Military Portrait of Mark Calnon",
-        "link": "https://www.lib.uidaho.edu/digital/calnon/items/calnon25.html"
-    },
-    {
-        "title": "Reported as a POW",
-        "date": "1943",
-        "subjects": ["Telegram"],
-        "description": "Scan of telegram informing Mark's family he was taken as POW",
-        "link": "https://www.lib.uidaho.edu/digital/calnon/items/calnon26.html"
-    },
-    {
-        "title": "Nine-O-Nine B17",
-        "date": "1980",
-        "subjects": ["Photograph"],
-        "description": "Photograph of ext, B17 Nine-O-Nine",
-        "link": "https://www.lib.uidaho.edu/digital/calnon/items/calnon27.html"
-    },
-    {
-        "title": "Returned to Military",
-        "date": "1945",
-        "subjects": ["Telegram"],
-        "description": "Scan of telegram informing Mark's family he returned to duty.",
-        "link": "https://www.lib.uidaho.edu/digital/calnon/items/calnon28.html"
-    },
-    {
-        "title": "Plane Portrait",
-        "date": "1943",
-        "subjects": ["Photograph"],
-        "description": "Photograph of Calnon in pilot suit outside training plane.",
-        "link": "https://www.lib.uidaho.edu/digital/calnon/items/calnon29.html"
-    },
-    {
-        "title": "Back to USA",
-        "date": "1945",
-        "subjects": ["Telegram"],
-        "description": "Scan of telegram informing Mark's family he was in USA.",
-        "link": "https://www.lib.uidaho.edu/digital/calnon/items/calnon30.html"
-    },
-    {
-        "title": "Pilot Portrait",
-        "date": "1943",
-        "subjects": ["Photograph"],
-        "description": "Standard photograph of pilot/Calnon.",
-        "link": "https://www.lib.uidaho.edu/digital/calnon/items/calnon31.html"
-    },
-    {
-        "title": "Pistol Training",
-        "date": "1943",
-        "subjects": ["Photograph"],
-        "description": "Photograph of Calnon receiving officer pistol training.",
-        "link": "https://www.lib.uidaho.edu/digital/calnon/items/calnon32.html"
-    },
-    {
-        "title": "Mark Brooks Calnon Oral History Video 650.4MB",
-        "date": "2013-08-13",
-        "subjects": ["Oral History"," WWII"," POW"],
-        "description": "Oral history with 2nd Lt. Mark Brooks Calnon recalling WWII pilot and POW experience",
-        "link": "https://www.lib.uidaho.edu/digital/calnon/items/calnon33.html"
-    },
-    {
-        "title": "Calnon Bomber Hat",
-        "date": "1943-10-09",
-        "subjects": ["Hat"],
-        "description": "Blue hat detailing the bomber group of calnon. 384th.",
-        "link": "https://www.lib.uidaho.edu/digital/calnon/items/calnon34.html"
-    },
-    {
-        "title": "Stalag Luft III Memorial",
-        "date": "1943",
-        "subjects": ["Commemorative Poster (Coors)"],
-        "description": "Poster Replica of Stalag Luft III. Produced by Coors.",
-        "link": "https://www.lib.uidaho.edu/digital/calnon/items/calnon35.html"
-    },
-    {
-        "title": "Pilot Patch",
-        "date": "1943",
-        "subjects": ["Patch"],
-        "description": "Air Force Bomber Pilot insignia clothing patch",
-        "link": "https://www.lib.uidaho.edu/digital/calnon/items/calnon36.html"
-    },
-    {
-        "title": "Pilot Wings Pin",
-        "date": "1943",
-        "subjects": ["Metal Wings"],
-        "description": "Metal Air Force Wing. Bomber?",
-        "link": "https://www.lib.uidaho.edu/digital/calnon/items/calnon37.html"
-    },
-    {
-        "title": "POW Coin",
-        "date": "1993",
-        "subjects": ["Official POW Commemorative"],
-        "description": "Coin minted by the United States Mint for POWs remembrance. Legal tender.",
-        "link": "https://www.lib.uidaho.edu/digital/calnon/items/calnon38.html"
-    },
-    {
-        "title": "Stalag Luft III Memorial (Desk Weight)",
-        "date": "1993",
-        "subjects": ["Marble Desk Memorial"],
-        "description": "Small marble stone w/ metal plaque memorializing POWs.",
-        "link": "https://www.lib.uidaho.edu/digital/calnon/items/calnon39.html"
-    },
-    {
-        "title": "Senate Letter",
-        "date": "1943",
-        "subjects": ["Letter"],
-        "description": "Scan of letter from US Senate to Mark Calnon's mother.",
-        "link": "https://www.lib.uidaho.edu/digital/calnon/items/calnon40.html"
-    },
-    {
-        "title": "Commendation Letter",
-        "date": "1943",
-        "subjects": ["Letter"],
-        "description": "Scan of commendation letter to Mark Calnon from War Dept",
-        "link": "https://www.lib.uidaho.edu/digital/calnon/items/calnon41.html"
-    },
-    {
-        "title": "War Ration Stamps",
-        "date": "1942",
-        "subjects": ["Certificate"],
-        "description": "Scan of War Ration Stamps from WWII.",
-        "link": "https://www.lib.uidaho.edu/digital/calnon/items/calnon42.html"
-    },
-    {
-        "title": "Caterpillar Club Card",
-        "date": "1943",
-        "subjects": ["Card"],
-        "description": "Showing signature of Mark Calnon, saved life by parachute.",
-        "link": "https://www.lib.uidaho.edu/digital/calnon/items/calnon43.html"
-    },
-    {
-        "title": "384th Window Pamphlet",
-        "date": "1989",
-        "subjects": ["Pamphlet"],
-        "description": "Document explaining the window dedicated to the 384th.",
-        "link": "https://www.lib.uidaho.edu/digital/calnon/items/calnon44.html"
-    },
-    {
-        "title": "POW Dog Tag (Calnon)",
-        "date": "1943",
-        "subjects": ["POW Issue Dog Tag"],
-        "description": "Calnon POW Dog Tag, Stalag Luft III.",
-        "link": "https://www.lib.uidaho.edu/digital/calnon/items/calnon45.html"
-    },
-    {
-        "title": "USAF Dog Tag (Calnon)",
-        "date": "1941",
-        "subjects": ["Standard Issue Dog Tag"],
-        "description": "One standard issue WWII dog tag.",
-        "link": "https://www.lib.uidaho.edu/digital/calnon/items/calnon46.html"
-    },
-    {
-        "title": "Graduation Portrait",
-        "date": "1941",
-        "subjects": ["Photograph"],
-        "description": "Graduation photograph of Mark Calnon from the University of Idaho",
-        "link": "https://www.lib.uidaho.edu/digital/calnon/items/calnon47.html"
-    },
-    {
-        "title": "Air Medal",
-        "date": "1945",
-        "subjects": ["Medal Awarded for Merit"],
-        "description": "USAF medal awarded to Calnon for being a POW.",
-        "link": "https://www.lib.uidaho.edu/digital/calnon/items/calnon48.html"
-    },
-    {
-        "title": "B17 Exterior Photo 2",
-        "date": "1980",
-        "subjects": ["Photograph"],
-        "description": "Photograph of the exterior of exhibition B18",
-        "link": "https://www.lib.uidaho.edu/digital/calnon/items/calnon49.html"
-    },
-    {
-        "title": "B17 Cockpit",
-        "date": "1980",
-        "subjects": ["Photograph"],
-        "description": "Photograph of B17 cockpit from exhibition B17",
-        "link": "https://www.lib.uidaho.edu/digital/calnon/items/calnon50.html"
-    },
-    {
-        "title": "Calnon Camp Map w/ Notes",
+        "subject": "Memoir of POW experience",
+        
         "date": "1995",
-        "subjects": ["Map"],
-        "description": "Map of Stalag Luft III with notes of being a prisoner.",
-        "link": "https://www.lib.uidaho.edu/digital/calnon/items/calnon51.html"
+        "date is approximate": "yes",
+        
+        
+        "type": "Text",
+        "format": "application/pdf",
+        "language": "eng",
+        "rights": "CC license assigned by Denise Bennett. Material digitized by University of Idaho Library. For more information, please contact University of Idaho Library Special Collections and Archives Department at libspec@uidaho.edu.",
+        "rightsstatement": "https://creativecommons.org/licenses/by/4.0/",
+        
+        "date created": "2016-09-23",
+        "date modified": "2018-02-22",
+        "objectid": "calnon0",
+        "object_thumb": "https://objects.lib.uidaho.edu/calnon/thumbs/calnon0_th.jpg",
+        "object_location": "https://objects.lib.uidaho.edu/calnon/calnon0.pdf",
+        "reference_url": "https://www.lib.uidaho.edu/digital/calnon/items/calnon0.html"
     },
-    {
-        "title": "Mark Calnon, Oral History Interview by Denise Bennett",
+    { 
+        "title": "Calnon 95th Birthday",
+        "creator": "Calnon, Mark",
+        "description": "Photograph of Calnon on his 95th birthday",
+        "subject": "Photograph",
+        
+        "date": "2013-08-01",
+        "date is approximate": "yes",
+        
+        
+        "type": "Image;StillImage",
+        "format": "image/jpeg",
+        "language": "eng",
+        "rights": "CC license assigned by Denise Bennett. Material digitized by University of Idaho Library. For more information, please contact University of Idaho Library Special Collections and Archives Department at libspec@uidaho.edu.",
+        "rightsstatement": "https://creativecommons.org/licenses/by/4.0/",
+        
+        "date created": "2016-09-23",
+        "date modified": "2018-02-22",
+        "objectid": "calnon1",
+        "object_thumb": "https://objects.lib.uidaho.edu/calnon/thumbs/calnon1_th.jpg",
+        "object_location": "https://objects.lib.uidaho.edu/calnon/calnon1.jpg",
+        "reference_url": "https://www.lib.uidaho.edu/digital/calnon/items/calnon1.html"
+    },
+    { 
+        "title": "B17 Exterior Photo 4",
+        "creator": "Calnon, Mark",
+        "description": "Photograph of the exterior of exhibition B20",
+        "subject": "Photograph",
+        
+        "date": "1980",
+        "date is approximate": "yes",
+        
+        
+        "type": "Image;StillImage",
+        "format": "image/jpeg",
+        "language": "eng",
+        "rights": "CC license assigned by Denise Bennett. Material digitized by University of Idaho Library. For more information, please contact University of Idaho Library Special Collections and Archives Department at libspec@uidaho.edu.",
+        "rightsstatement": "https://creativecommons.org/licenses/by/4.0/",
+        
+        "date created": "2016-09-23",
+        "date modified": "2018-02-22",
+        "objectid": "calnon2",
+        "object_thumb": "https://objects.lib.uidaho.edu/calnon/thumbs/calnon2_th.jpg",
+        "object_location": "https://objects.lib.uidaho.edu/calnon/calnon2.jpg",
+        "reference_url": "https://www.lib.uidaho.edu/digital/calnon/items/calnon2.html"
+    },
+    { 
+        "title": "Calnon Letter to Crew",
+        "creator": "Calnon, Mark",
+        "description": "Letter to surviving crew with reports.",
+        "subject": "Scan of Letter",
+        
+        "date": "1992-08-05",
+        
+        
+        
+        "type": "Text",
+        "format": "application/pdf",
+        "language": "eng",
+        "rights": "CC license assigned by Denise Bennett. Material digitized by University of Idaho Library. For more information, please contact University of Idaho Library Special Collections and Archives Department at libspec@uidaho.edu.",
+        "rightsstatement": "https://creativecommons.org/licenses/by/4.0/",
+        
+        "date created": "2016-09-23",
+        "date modified": "2018-02-22",
+        "objectid": "calnon3",
+        "object_thumb": "https://objects.lib.uidaho.edu/calnon/thumbs/calnon3_th.jpg",
+        "object_location": "https://objects.lib.uidaho.edu/calnon/calnon3.pdf",
+        "reference_url": "https://www.lib.uidaho.edu/digital/calnon/items/calnon3.html"
+    },
+    { 
+        "title": "B17 Exterior Photo 5",
+        "creator": "Calnon, Mark",
+        "description": "Photograph of the exterior of exhibition B21",
+        "subject": "Photograph",
+        
+        "date": "1980",
+        "date is approximate": "yes",
+        
+        
+        "type": "Image;StillImage",
+        "format": "image/jpeg",
+        "language": "eng",
+        "rights": "CC license assigned by Denise Bennett. Material digitized by University of Idaho Library. For more information, please contact University of Idaho Library Special Collections and Archives Department at libspec@uidaho.edu.",
+        "rightsstatement": "https://creativecommons.org/licenses/by/4.0/",
+        
+        "date created": "2016-09-23",
+        "date modified": "2018-02-22",
+        "objectid": "calnon4",
+        "object_thumb": "https://objects.lib.uidaho.edu/calnon/thumbs/calnon4_th.jpg",
+        "object_location": "https://objects.lib.uidaho.edu/calnon/calnon4.jpg",
+        "reference_url": "https://www.lib.uidaho.edu/digital/calnon/items/calnon4.html"
+    },
+    { 
+        "title": "B17 Pilot Controls",
+        "creator": "Calnon, Mark",
+        "description": "Photographs of pilots controls in exhibition B17",
+        "subject": "Photograph",
+        
+        "date": "1980",
+        "date is approximate": "yes",
+        
+        
+        "type": "Image;StillImage",
+        "format": "image/jpeg",
+        "language": "eng",
+        "rights": "CC license assigned by Denise Bennett. Material digitized by University of Idaho Library. For more information, please contact University of Idaho Library Special Collections and Archives Department at libspec@uidaho.edu.",
+        "rightsstatement": "https://creativecommons.org/licenses/by/4.0/",
+        
+        "date created": "2016-09-23",
+        "date modified": "2018-02-22",
+        "objectid": "calnon5",
+        "object_thumb": "https://objects.lib.uidaho.edu/calnon/thumbs/calnon5_th.jpg",
+        "object_location": "https://objects.lib.uidaho.edu/calnon/calnon5.jpg",
+        "reference_url": "https://www.lib.uidaho.edu/digital/calnon/items/calnon5.html"
+    },
+    { 
+        "title": "B17 Bomb Bay",
+        "creator": "Calnon, Mark",
+        "description": "Photograph of empty bomb bay in a exhibition B17",
+        "subject": "Photograph",
+        
+        "date": "1980",
+        "date is approximate": "yes",
+        
+        
+        "type": "Image;StillImage",
+        "format": "image/jpeg",
+        "language": "eng",
+        "rights": "CC license assigned by Denise Bennett. Material digitized by University of Idaho Library. For more information, please contact University of Idaho Library Special Collections and Archives Department at libspec@uidaho.edu.",
+        "rightsstatement": "https://creativecommons.org/licenses/by/4.0/",
+        
+        "date created": "2016-09-23",
+        "date modified": "2018-02-22",
+        "objectid": "calnon6",
+        "object_thumb": "https://objects.lib.uidaho.edu/calnon/thumbs/calnon6_th.jpg",
+        "object_location": "https://objects.lib.uidaho.edu/calnon/calnon6.jpg",
+        "reference_url": "https://www.lib.uidaho.edu/digital/calnon/items/calnon6.html"
+    },
+    { 
+        "title": "B17 Gun Seat",
+        "creator": "Calnon, Mark",
+        "description": "Photograph of B17 Gun Seat in exhibition B17",
+        "subject": "Photograph",
+        
+        "date": "1980",
+        "date is approximate": "yes",
+        
+        
+        "type": "Image;StillImage",
+        "format": "image/jpeg",
+        "language": "eng",
+        "rights": "CC license assigned by Denise Bennett. Material digitized by University of Idaho Library. For more information, please contact University of Idaho Library Special Collections and Archives Department at libspec@uidaho.edu.",
+        "rightsstatement": "https://creativecommons.org/licenses/by/4.0/",
+        
+        "date created": "2016-09-23",
+        "date modified": "2018-02-22",
+        "objectid": "calnon7",
+        "object_thumb": "https://objects.lib.uidaho.edu/calnon/thumbs/calnon7_th.jpg",
+        "object_location": "https://objects.lib.uidaho.edu/calnon/calnon7.jpg",
+        "reference_url": "https://www.lib.uidaho.edu/digital/calnon/items/calnon7.html"
+    },
+    { 
+        "title": "Calnon 384th Reunion",
+        "creator": "Calnon, Mark",
+        "description": "Photograph of Calnon's Bomber Group years after the war.",
+        "subject": "Photograph",
+        
+        "date": "1980",
+        "date is approximate": "yes",
+        
+        
+        "type": "Image;StillImage",
+        "format": "image/jpeg",
+        "language": "eng",
+        "rights": "CC license assigned by Denise Bennett. Material digitized by University of Idaho Library. For more information, please contact University of Idaho Library Special Collections and Archives Department at libspec@uidaho.edu.",
+        "rightsstatement": "https://creativecommons.org/licenses/by/4.0/",
+        
+        "date created": "2016-09-23",
+        "date modified": "2018-02-22",
+        "objectid": "calnon8",
+        "object_thumb": "https://objects.lib.uidaho.edu/calnon/thumbs/calnon8_th.jpg",
+        "object_location": "https://objects.lib.uidaho.edu/calnon/calnon8.jpg",
+        "reference_url": "https://www.lib.uidaho.edu/digital/calnon/items/calnon8.html"
+    },
+    { 
+        "title": "B17 Interior",
+        "creator": "Calnon, Mark",
+        "description": "Photograph of the interior of B17",
+        "subject": "Photograph",
+        
+        "date": "1980",
+        "date is approximate": "yes",
+        
+        
+        "type": "Image;StillImage",
+        "format": "image/jpeg",
+        "language": "eng",
+        "rights": "CC license assigned by Denise Bennett. Material digitized by University of Idaho Library. For more information, please contact University of Idaho Library Special Collections and Archives Department at libspec@uidaho.edu.",
+        "rightsstatement": "https://creativecommons.org/licenses/by/4.0/",
+        
+        "date created": "2016-09-23",
+        "date modified": "2018-02-22",
+        "objectid": "calnon9",
+        "object_thumb": "https://objects.lib.uidaho.edu/calnon/thumbs/calnon9_th.jpg",
+        "object_location": "https://objects.lib.uidaho.edu/calnon/calnon9.jpg",
+        "reference_url": "https://www.lib.uidaho.edu/digital/calnon/items/calnon9.html"
+    },
+    { 
+        "title": "B17 Gun",
+        "creator": "Calnon, Mark",
+        "description": "Photograph of B17 Machine gun",
+        "subject": "Photograph",
+        
+        "date": "1980",
+        "date is approximate": "yes",
+        
+        
+        "type": "Image;StillImage",
+        "format": "image/jpeg",
+        "language": "eng",
+        "rights": "CC license assigned by Denise Bennett. Material digitized by University of Idaho Library. For more information, please contact University of Idaho Library Special Collections and Archives Department at libspec@uidaho.edu.",
+        "rightsstatement": "https://creativecommons.org/licenses/by/4.0/",
+        
+        "date created": "2016-09-23",
+        "date modified": "2018-02-22",
+        "objectid": "calnon10",
+        "object_thumb": "https://objects.lib.uidaho.edu/calnon/thumbs/calnon10_th.jpg",
+        "object_location": "https://objects.lib.uidaho.edu/calnon/calnon10.jpg",
+        "reference_url": "https://www.lib.uidaho.edu/digital/calnon/items/calnon10.html"
+    },
+    { 
+        "title": "Mark Brooks Calnon Oral History Audio Mp3 80.5 MB",
+        "creator": "Bennett, Denise",
+        "description": "Oral history with 2nd Lt. Mark Brooks Calnon recalling WWII pilot and POW experience",
+        "subject": "Oral History; WWII; POW",
+        "publisher": "Denise Bennett",
         "date": "2013-08-13",
-        "subjects": ["POW"," WWII"," prisons"," prisoners"," wars"],
+        
+        "location": "Boise, ID",
+        
+        "type": "Sound",
+        "format": "audio/mp3",
+        "language": "eng",
+        "rights": "CC license assigned by Denise Bennett. Material digitized by University of Idaho Library. For more information, please contact University of Idaho Library Special Collections and Archives Department at libspec@uidaho.edu.",
+        "rightsstatement": "https://creativecommons.org/licenses/by/4.0/",
+        
+        "date created": "2016-09-23",
+        "date modified": "2018-02-22",
+        "objectid": "calnon11",
+        "object_thumb": "https://objects.lib.uidaho.edu/calnon/thumbs/calnon10_th.jpg",
+        "object_location": "https://objects.lib.uidaho.edu/calnon/calnon11.mp3",
+        "reference_url": "https://www.lib.uidaho.edu/digital/calnon/items/calnon11.html"
+    },
+    { 
+        "title": "B17 Exterior Photo 1",
+        "creator": "Calnon, Mark",
+        "description": "Photograph of the exterior of exhibition B17",
+        "subject": "Photograph",
+        
+        "date": "1980",
+        "date is approximate": "yes",
+        
+        
+        "type": "Image;StillImage",
+        "format": "image/jpeg",
+        "language": "eng",
+        "rights": "CC license assigned by Denise Bennett. Material digitized by University of Idaho Library. For more information, please contact University of Idaho Library Special Collections and Archives Department at libspec@uidaho.edu.",
+        "rightsstatement": "https://creativecommons.org/licenses/by/4.0/",
+        
+        "date created": "2016-09-23",
+        "date modified": "2018-02-22",
+        "objectid": "calnon12",
+        "object_thumb": "https://objects.lib.uidaho.edu/calnon/thumbs/calnon12_th.jpg",
+        "object_location": "https://objects.lib.uidaho.edu/calnon/calnon12.jpg",
+        "reference_url": "https://www.lib.uidaho.edu/digital/calnon/items/calnon12.html"
+    },
+    { 
+        "title": "Map of Tours",
+        "creator": "United States. Air Force",
+        "description": "Scan of map of tours that Calnon flew during the war.",
+        "subject": "Scan of Map",
+        
+        "date": "1992",
+        "date is approximate": "yes",
+        
+        
+        "type": "Text",
+        "format": "application/pdf",
+        "language": "eng",
+        "rights": "CC license assigned by Denise Bennett. Material digitized by University of Idaho Library. For more information, please contact University of Idaho Library Special Collections and Archives Department at libspec@uidaho.edu.",
+        "rightsstatement": "https://creativecommons.org/licenses/by/4.0/",
+        
+        "date created": "2016-09-23",
+        "date modified": "2018-02-22",
+        "objectid": "calnon13",
+        "object_thumb": "https://objects.lib.uidaho.edu/calnon/thumbs/calnon13_th.jpg",
+        "object_location": "https://objects.lib.uidaho.edu/calnon/calnon13.pdf",
+        "reference_url": "https://www.lib.uidaho.edu/digital/calnon/items/calnon13.html"
+    },
+    { 
+        "title": "B17 Exterior Photo 3",
+        "creator": "Calnon, Mark",
+        "description": "Photograph of the exterior of exhibition B19",
+        "subject": "Photograph",
+        
+        "date": "1980",
+        "date is approximate": "yes",
+        
+        
+        "type": "Image;StillImage",
+        "format": "image/jpeg",
+        "language": "eng",
+        "rights": "CC license assigned by Denise Bennett. Material digitized by University of Idaho Library. For more information, please contact University of Idaho Library Special Collections and Archives Department at libspec@uidaho.edu.",
+        "rightsstatement": "https://creativecommons.org/licenses/by/4.0/",
+        
+        "date created": "2016-09-23",
+        "date modified": "2018-02-22",
+        "objectid": "calnon14",
+        "object_thumb": "https://objects.lib.uidaho.edu/calnon/thumbs/calnon14_th.jpg",
+        "object_location": "https://objects.lib.uidaho.edu/calnon/calnon14.jpg",
+        "reference_url": "https://www.lib.uidaho.edu/digital/calnon/items/calnon14.html"
+    },
+    { 
+        "title": "B17 Crew Portrait",
+        "creator": "Calnon, Mark",
+        "description": "Photograph of Calnon's B17 crew during WWII.",
+        "subject": "Photograph",
+        
+        "date": "1980",
+        "date is approximate": "yes",
+        
+        
+        "type": "Image;StillImage",
+        "format": "image/jpeg",
+        "language": "eng",
+        "rights": "CC license assigned by Denise Bennett. Material digitized by University of Idaho Library. For more information, please contact University of Idaho Library Special Collections and Archives Department at libspec@uidaho.edu.",
+        "rightsstatement": "https://creativecommons.org/licenses/by/4.0/",
+        
+        "date created": "2016-09-23",
+        "date modified": "2018-02-22",
+        "objectid": "calnon15",
+        "object_thumb": "https://objects.lib.uidaho.edu/calnon/thumbs/calnon15_th.jpg",
+        "object_location": "https://objects.lib.uidaho.edu/calnon/calnon15.jpg",
+        "reference_url": "https://www.lib.uidaho.edu/digital/calnon/items/calnon15.html"
+    },
+    { 
+        "title": "Red Cross Card",
+        "creator": "Sutton, Helen",
+        "description": "Scan of red cross membership card during WWII HAS.",
+        "subject": "Photograph/Card",
+        
+        "date": "1944",
+        "date is approximate": "yes",
+        
+        
+        "type": "Image;StillImage",
+        "format": "image/jpeg",
+        "language": "eng",
+        "rights": "CC license assigned by Denise Bennett. Material digitized by University of Idaho Library. For more information, please contact University of Idaho Library Special Collections and Archives Department at libspec@uidaho.edu.",
+        "rightsstatement": "https://creativecommons.org/licenses/by/4.0/",
+        
+        "date created": "2016-09-23",
+        "date modified": "2018-02-22",
+        "objectid": "calnon16",
+        "object_thumb": "https://objects.lib.uidaho.edu/calnon/thumbs/calnon16_th.jpg",
+        "object_location": "https://objects.lib.uidaho.edu/calnon/calnon16.jpg",
+        "reference_url": "https://www.lib.uidaho.edu/digital/calnon/items/calnon16.html"
+    },
+    { 
+        "title": "B17 Pilot Controls",
+        "creator": "Calnon, Mark",
+        "description": "Photographs of pilots controls in exhibition B17",
+        "subject": "Photograph",
+        
+        "date": "1980",
+        "date is approximate": "yes",
+        
+        
+        "type": "Image;StillImage",
+        "format": "image/jpeg",
+        "language": "eng",
+        "rights": "CC license assigned by Denise Bennett. Material digitized by University of Idaho Library. For more information, please contact University of Idaho Library Special Collections and Archives Department at libspec@uidaho.edu.",
+        "rightsstatement": "https://creativecommons.org/licenses/by/4.0/",
+        
+        "date created": "2016-09-23",
+        "date modified": "2018-02-22",
+        "objectid": "calnon17",
+        "object_thumb": "https://objects.lib.uidaho.edu/calnon/thumbs/calnon17_th.jpg",
+        "object_location": "https://objects.lib.uidaho.edu/calnon/calnon17.jpg",
+        "reference_url": "https://www.lib.uidaho.edu/digital/calnon/items/calnon17.html"
+    },
+    { 
+        "title": "B17 Pilot Controls",
+        "creator": "Calnon, Mark",
+        "description": "Photographs of pilots controls in exhibition B17",
+        "subject": "Photograph",
+        
+        "date": "1980",
+        "date is approximate": "yes",
+        
+        
+        "type": "Image;StillImage",
+        "format": "image/jpeg",
+        "language": "eng",
+        "rights": "CC license assigned by Denise Bennett. Material digitized by University of Idaho Library. For more information, please contact University of Idaho Library Special Collections and Archives Department at libspec@uidaho.edu.",
+        "rightsstatement": "https://creativecommons.org/licenses/by/4.0/",
+        
+        "date created": "2016-09-23",
+        "date modified": "2018-02-22",
+        "objectid": "calnon18",
+        "object_thumb": "https://objects.lib.uidaho.edu/calnon/thumbs/calnon18_th.jpg",
+        "object_location": "https://objects.lib.uidaho.edu/calnon/calnon18.jpg",
+        "reference_url": "https://www.lib.uidaho.edu/digital/calnon/items/calnon18.html"
+    },
+    { 
+        "title": "B17 Radio Room",
+        "creator": "Calnon, Mark",
+        "description": "Photograph of the radio room in exhibition B17",
+        "subject": "Photograph",
+        
+        "date": "1980",
+        "date is approximate": "yes",
+        
+        
+        "type": "Image;StillImage",
+        "format": "image/jpeg",
+        "language": "eng",
+        "rights": "CC license assigned by Denise Bennett. Material digitized by University of Idaho Library. For more information, please contact University of Idaho Library Special Collections and Archives Department at libspec@uidaho.edu.",
+        "rightsstatement": "https://creativecommons.org/licenses/by/4.0/",
+        
+        "date created": "2016-09-23",
+        "date modified": "2018-02-22",
+        "objectid": "calnon19",
+        "object_thumb": "https://objects.lib.uidaho.edu/calnon/thumbs/calnon19_th.jpg",
+        "object_location": "https://objects.lib.uidaho.edu/calnon/calnon19.jpg",
+        "reference_url": "https://www.lib.uidaho.edu/digital/calnon/items/calnon19.html"
+    },
+    { 
+        "title": "B17 Waist",
+        "creator": "Calnon, Mark",
+        "description": "Photograph of the interior of exhibition B17",
+        "subject": "Photograph",
+        
+        "date": "1980",
+        "date is approximate": "yes",
+        
+        
+        "type": "Image;StillImage",
+        "format": "image/jpeg",
+        "language": "eng",
+        "rights": "CC license assigned by Denise Bennett. Material digitized by University of Idaho Library. For more information, please contact University of Idaho Library Special Collections and Archives Department at libspec@uidaho.edu.",
+        "rightsstatement": "https://creativecommons.org/licenses/by/4.0/",
+        
+        "date created": "2016-09-23",
+        "date modified": "2018-02-22",
+        "objectid": "calnon20",
+        "object_thumb": "https://objects.lib.uidaho.edu/calnon/thumbs/calnon20_th.jpg",
+        "object_location": "https://objects.lib.uidaho.edu/calnon/calnon20.jpg",
+        "reference_url": "https://www.lib.uidaho.edu/digital/calnon/items/calnon20.html"
+    },
+    { 
+        "title": "Calnon Jr. Ext. B17",
+        "creator": "Calnon, Mark",
+        "description": "Photograph of Calnon Jr. outside exhibition B17",
+        "subject": "Photograph",
+        
+        "date": "1980",
+        "date is approximate": "yes",
+        
+        
+        "type": "Image;StillImage",
+        "format": "image/jpeg",
+        "language": "eng",
+        "rights": "CC license assigned by Denise Bennett. Material digitized by University of Idaho Library. For more information, please contact University of Idaho Library Special Collections and Archives Department at libspec@uidaho.edu.",
+        "rightsstatement": "https://creativecommons.org/licenses/by/4.0/",
+        
+        "date created": "2016-09-23",
+        "date modified": "2018-02-22",
+        "objectid": "calnon21",
+        "object_thumb": "https://objects.lib.uidaho.edu/calnon/thumbs/calnon21_th.jpg",
+        "object_location": "https://objects.lib.uidaho.edu/calnon/calnon21.jpg",
+        "reference_url": "https://www.lib.uidaho.edu/digital/calnon/items/calnon21.html"
+    },
+    { 
+        "title": "Mark Brooks Calnon Oral History Video 8.69 GB",
+        "creator": "Bennett, Denise",
+        "description": "Oral history with 2nd Lt. Mark Brooks Calnon recalling WWII pilot and POW experience",
+        "subject": "Oral History; WWII; POW",
+        "publisher": "Denise Bennett",
+        "date": "2013-08-13",
+        
+        "location": "Boise, ID",
+        
+        "type": "Image;MovingImage",
+        "format": "video/mp4",
+        "language": "eng",
+        "rights": "CC license assigned by Denise Bennett. Material digitized by University of Idaho Library. For more information, please contact University of Idaho Library Special Collections and Archives Department at libspec@uidaho.edu.",
+        "rightsstatement": "https://creativecommons.org/licenses/by/4.0/",
+        
+        "date created": "2016-09-23",
+        "date modified": "2018-02-22",
+        "objectid": "calnon22",
+        "object_thumb": "https://objects.lib.uidaho.edu/calnon/thumbs/calnon22_th.jpg",
+        "object_location": "https://objects.lib.uidaho.edu/calnon/calnon22.mp4",
+        "reference_url": "https://www.lib.uidaho.edu/digital/calnon/items/calnon22.html"
+    },
+    { 
+        "title": "Memphis Belle B17",
+        "creator": "Calnon, Mark",
+        "description": "Photograph of the exterior of Memphis Belle B17",
+        "subject": "Photograph",
+        
+        "date": "1980",
+        "date is approximate": "yes",
+        
+        
+        "type": "Image;StillImage",
+        "format": "image/jpeg",
+        "language": "eng",
+        "rights": "CC license assigned by Denise Bennett. Material digitized by University of Idaho Library. For more information, please contact University of Idaho Library Special Collections and Archives Department at libspec@uidaho.edu.",
+        "rightsstatement": "https://creativecommons.org/licenses/by/4.0/",
+        
+        "date created": "2016-09-23",
+        "date modified": "2018-02-22",
+        "objectid": "calnon23",
+        "object_thumb": "https://objects.lib.uidaho.edu/calnon/thumbs/calnon23_th.jpg",
+        "object_location": "https://objects.lib.uidaho.edu/calnon/calnon23.jpg",
+        "reference_url": "https://www.lib.uidaho.edu/digital/calnon/items/calnon23.html"
+    },
+    { 
+        "title": "Reported Missing",
+        "creator": "Western Union Telegraph Company",
+        "description": "Scan of telegram informing Mark's family he was missing.",
+        "subject": "Telegram",
+        
+        "date": "1943",
+        "date is approximate": "yes",
+        
+        
+        "type": "Text",
+        "format": "application/pdf",
+        "language": "eng",
+        "rights": "CC license assigned by Denise Bennett. Material digitized by University of Idaho Library. For more information, please contact University of Idaho Library Special Collections and Archives Department at libspec@uidaho.edu.",
+        "rightsstatement": "https://creativecommons.org/licenses/by/4.0/",
+        
+        "date created": "2016-09-23",
+        "date modified": "2018-02-22",
+        "objectid": "calnon24",
+        "object_thumb": "https://objects.lib.uidaho.edu/calnon/thumbs/calnon24_th.jpg",
+        "object_location": "https://objects.lib.uidaho.edu/calnon/calnon24.pdf",
+        "reference_url": "https://www.lib.uidaho.edu/digital/calnon/items/calnon24.html"
+    },
+    { 
+        "title": "Military Portrait",
+        "creator": "United States. Air Force",
+        "description": "Military Portrait of Mark Calnon",
+        "subject": "Photograph",
+        
+        "date": "1943",
+        "date is approximate": "yes",
+        
+        
+        "type": "Image;StillImage",
+        "format": "image/jpeg",
+        "language": "eng",
+        "rights": "CC license assigned by Denise Bennett. Material digitized by University of Idaho Library. For more information, please contact University of Idaho Library Special Collections and Archives Department at libspec@uidaho.edu.",
+        "rightsstatement": "https://creativecommons.org/licenses/by/4.0/",
+        
+        "date created": "2016-09-23",
+        "date modified": "2018-02-22",
+        "objectid": "calnon25",
+        "object_thumb": "https://objects.lib.uidaho.edu/calnon/thumbs/calnon25_th.jpg",
+        "object_location": "https://objects.lib.uidaho.edu/calnon/calnon25.jpg",
+        "reference_url": "https://www.lib.uidaho.edu/digital/calnon/items/calnon25.html"
+    },
+    { 
+        "title": "Reported as a POW",
+        "creator": "Western Union Telegraph Company",
+        "description": "Scan of telegram informing Mark's family he was taken as POW",
+        "subject": "Telegram",
+        
+        "date": "1943",
+        "date is approximate": "yes",
+        
+        
+        "type": "Text",
+        "format": "application/pdf",
+        "language": "eng",
+        "rights": "CC license assigned by Denise Bennett. Material digitized by University of Idaho Library. For more information, please contact University of Idaho Library Special Collections and Archives Department at libspec@uidaho.edu.",
+        "rightsstatement": "https://creativecommons.org/licenses/by/4.0/",
+        
+        "date created": "2016-09-23",
+        "date modified": "2018-02-22",
+        "objectid": "calnon26",
+        "object_thumb": "https://objects.lib.uidaho.edu/calnon/thumbs/calnon26_th.jpg",
+        "object_location": "https://objects.lib.uidaho.edu/calnon/calnon26.pdf",
+        "reference_url": "https://www.lib.uidaho.edu/digital/calnon/items/calnon26.html"
+    },
+    { 
+        "title": "Nine-O-Nine B17",
+        "creator": "Calnon, Mark",
+        "description": "Photograph of ext, B17 Nine-O-Nine",
+        "subject": "Photograph",
+        
+        "date": "1980",
+        "date is approximate": "yes",
+        
+        
+        "type": "Image;StillImage",
+        "format": "image/jpeg",
+        "language": "eng",
+        "rights": "CC license assigned by Denise Bennett. Material digitized by University of Idaho Library. For more information, please contact University of Idaho Library Special Collections and Archives Department at libspec@uidaho.edu.",
+        "rightsstatement": "https://creativecommons.org/licenses/by/4.0/",
+        
+        "date created": "2016-09-23",
+        "date modified": "2018-02-22",
+        "objectid": "calnon27",
+        "object_thumb": "https://objects.lib.uidaho.edu/calnon/thumbs/calnon27_th.jpg",
+        "object_location": "https://objects.lib.uidaho.edu/calnon/calnon27.jpg",
+        "reference_url": "https://www.lib.uidaho.edu/digital/calnon/items/calnon27.html"
+    },
+    { 
+        "title": "Returned to Military",
+        "creator": "Western Union Telegraph Company",
+        "description": "Scan of telegram informing Mark's family he returned to duty.",
+        "subject": "Telegram",
+        
+        "date": "1945",
+        "date is approximate": "yes",
+        
+        
+        "type": "Text",
+        "format": "application/pdf",
+        "language": "eng",
+        "rights": "CC license assigned by Denise Bennett. Material digitized by University of Idaho Library. For more information, please contact University of Idaho Library Special Collections and Archives Department at libspec@uidaho.edu.",
+        "rightsstatement": "https://creativecommons.org/licenses/by/4.0/",
+        
+        "date created": "2016-09-23",
+        "date modified": "2018-02-22",
+        "objectid": "calnon28",
+        "object_thumb": "https://objects.lib.uidaho.edu/calnon/thumbs/calnon28_th.jpg",
+        "object_location": "https://objects.lib.uidaho.edu/calnon/calnon28.pdf",
+        "reference_url": "https://www.lib.uidaho.edu/digital/calnon/items/calnon28.html"
+    },
+    { 
+        "title": "Plane Portrait",
+        "creator": "United States. Air Force",
+        "description": "Photograph of Calnon in pilot suit outside training plane.",
+        "subject": "Photograph",
+        
+        "date": "1943",
+        "date is approximate": "yes",
+        
+        
+        "type": "Image;StillImage",
+        "format": "image/jpeg",
+        "language": "eng",
+        "rights": "CC license assigned by Denise Bennett. Material digitized by University of Idaho Library. For more information, please contact University of Idaho Library Special Collections and Archives Department at libspec@uidaho.edu.",
+        "rightsstatement": "https://creativecommons.org/licenses/by/4.0/",
+        
+        "date created": "2016-09-23",
+        "date modified": "2018-02-22",
+        "objectid": "calnon29",
+        "object_thumb": "https://objects.lib.uidaho.edu/calnon/thumbs/calnon29_th.jpg",
+        "object_location": "https://objects.lib.uidaho.edu/calnon/calnon29.jpg",
+        "reference_url": "https://www.lib.uidaho.edu/digital/calnon/items/calnon29.html"
+    },
+    { 
+        "title": "Back to USA",
+        "creator": "Western Union Telegraph Company",
+        "description": "Scan of telegram informing Mark's family he was in USA.",
+        "subject": "Telegram",
+        
+        "date": "1945",
+        "date is approximate": "yes",
+        
+        
+        "type": "Text",
+        "format": "application/pdf",
+        "language": "eng",
+        "rights": "CC license assigned by Denise Bennett. Material digitized by University of Idaho Library. For more information, please contact University of Idaho Library Special Collections and Archives Department at libspec@uidaho.edu.",
+        "rightsstatement": "https://creativecommons.org/licenses/by/4.0/",
+        
+        "date created": "2016-09-23",
+        "date modified": "2018-02-22",
+        "objectid": "calnon30",
+        "object_thumb": "https://objects.lib.uidaho.edu/calnon/thumbs/calnon30_th.jpg",
+        "object_location": "https://objects.lib.uidaho.edu/calnon/calnon30.pdf",
+        "reference_url": "https://www.lib.uidaho.edu/digital/calnon/items/calnon30.html"
+    },
+    { 
+        "title": "Pilot Portrait",
+        "creator": "United States. Air Force",
+        "description": "Standard photograph of pilot/Calnon.",
+        "subject": "Photograph",
+        
+        "date": "1943",
+        "date is approximate": "yes",
+        
+        
+        "type": "Image;StillImage",
+        "format": "image/jpeg",
+        "language": "eng",
+        "rights": "CC license assigned by Denise Bennett. Material digitized by University of Idaho Library. For more information, please contact University of Idaho Library Special Collections and Archives Department at libspec@uidaho.edu.",
+        "rightsstatement": "https://creativecommons.org/licenses/by/4.0/",
+        
+        "date created": "2016-09-23",
+        "date modified": "2018-02-22",
+        "objectid": "calnon31",
+        "object_thumb": "https://objects.lib.uidaho.edu/calnon/thumbs/calnon31_th.jpg",
+        "object_location": "https://objects.lib.uidaho.edu/calnon/calnon31.jpg",
+        "reference_url": "https://www.lib.uidaho.edu/digital/calnon/items/calnon31.html"
+    },
+    { 
+        "title": "Pistol Training",
+        "creator": "United States. Air Force",
+        "description": "Photograph of Calnon receiving officer pistol training.",
+        "subject": "Photograph",
+        
+        "date": "1943",
+        "date is approximate": "yes",
+        
+        
+        "type": "Image;StillImage",
+        "format": "image/jpeg",
+        "language": "eng",
+        "rights": "CC license assigned by Denise Bennett. Material digitized by University of Idaho Library. For more information, please contact University of Idaho Library Special Collections and Archives Department at libspec@uidaho.edu.",
+        "rightsstatement": "https://creativecommons.org/licenses/by/4.0/",
+        
+        "date created": "2016-09-23",
+        "date modified": "2018-02-22",
+        "objectid": "calnon32",
+        "object_thumb": "https://objects.lib.uidaho.edu/calnon/thumbs/calnon32_th.jpg",
+        "object_location": "https://objects.lib.uidaho.edu/calnon/calnon32.jpg",
+        "reference_url": "https://www.lib.uidaho.edu/digital/calnon/items/calnon32.html"
+    },
+    { 
+        "title": "Mark Brooks Calnon Oral History Video 650.4MB",
+        "creator": "Bennett, Denise",
+        "description": "Oral history with 2nd Lt. Mark Brooks Calnon recalling WWII pilot and POW experience",
+        "subject": "Oral History; WWII; POW",
+        "publisher": "Denise Bennett",
+        "date": "2013-08-13",
+        
+        "location": "Boise, ID",
+        
+        "type": "Image;MovingImage",
+        "format": "video/mp4",
+        "language": "eng",
+        "rights": "CC license assigned by Denise Bennett. Material digitized by University of Idaho Library. For more information, please contact University of Idaho Library Special Collections and Archives Department at libspec@uidaho.edu.",
+        "rightsstatement": "https://creativecommons.org/licenses/by/4.0/",
+        
+        "date created": "2016-09-23",
+        "date modified": "2018-02-22",
+        "objectid": "calnon33",
+        "object_thumb": "https://objects.lib.uidaho.edu/calnon/thumbs/calnon33_th.jpg",
+        "object_location": "https://objects.lib.uidaho.edu/calnon/calnon33.mp4",
+        "reference_url": "https://www.lib.uidaho.edu/digital/calnon/items/calnon33.html"
+    },
+    { 
+        "title": "Calnon Bomber Hat",
+        "creator": "United States. Air Force",
+        "description": "Blue hat detailing the bomber group of calnon. 384th.",
+        "subject": "Hat",
+        "publisher": "USAF",
+        "date": "1943-10-09",
+        
+        
+        
+        "type": "Image;StillImage",
+        "format": "image/jpeg",
+        "language": "eng",
+        "rights": "CC license assigned by Denise Bennett. Material digitized by University of Idaho Library. For more information, please contact University of Idaho Library Special Collections and Archives Department at libspec@uidaho.edu.",
+        "rightsstatement": "https://creativecommons.org/licenses/by/4.0/",
+        
+        "date created": "2016-09-23",
+        "date modified": "2018-02-22",
+        "objectid": "calnon34",
+        "object_thumb": "https://objects.lib.uidaho.edu/calnon/thumbs/calnon34_th.jpg",
+        "object_location": "https://objects.lib.uidaho.edu/calnon/calnon34.jpg",
+        "reference_url": "https://www.lib.uidaho.edu/digital/calnon/items/calnon34.html"
+    },
+    { 
+        "title": "Stalag Luft III Memorial",
+        "creator": "Coors Brewing Company",
+        "description": "Poster Replica of Stalag Luft III. Produced by Coors.",
+        "subject": "Commemorative Poster (Coors)",
+        "publisher": "Adolph Coors Brewing?",
+        "date": "1943",
+        "date is approximate": "yes",
+        
+        
+        "type": "Image;StillImage",
+        "format": "image/jpeg",
+        "language": "eng",
+        "rights": "CC license assigned by Denise Bennett. Material digitized by University of Idaho Library. For more information, please contact University of Idaho Library Special Collections and Archives Department at libspec@uidaho.edu.",
+        "rightsstatement": "https://creativecommons.org/licenses/by/4.0/",
+        
+        "date created": "2016-09-23",
+        "date modified": "2018-02-22",
+        "objectid": "calnon35",
+        "object_thumb": "https://objects.lib.uidaho.edu/calnon/thumbs/calnon35_th.jpg",
+        "object_location": "https://objects.lib.uidaho.edu/calnon/calnon35.jpg",
+        "reference_url": "https://www.lib.uidaho.edu/digital/calnon/items/calnon35.html"
+    },
+    { 
+        "title": "Pilot Patch",
+        "creator": "United States. Air Force",
+        "description": "Air Force Bomber Pilot insignia clothing patch",
+        "subject": "Patch",
+        "publisher": "USAF",
+        "date": "1943",
+        "date is approximate": "yes",
+        
+        
+        "type": "Image;StillImage",
+        "format": "image/jpeg",
+        "language": "eng",
+        "rights": "CC license assigned by Denise Bennett. Material digitized by University of Idaho Library. For more information, please contact University of Idaho Library Special Collections and Archives Department at libspec@uidaho.edu.",
+        "rightsstatement": "https://creativecommons.org/licenses/by/4.0/",
+        
+        "date created": "2016-09-23",
+        "date modified": "2018-02-22",
+        "objectid": "calnon36",
+        "object_thumb": "https://objects.lib.uidaho.edu/calnon/thumbs/calnon36_th.jpg",
+        "object_location": "https://objects.lib.uidaho.edu/calnon/calnon36.jpg",
+        "reference_url": "https://www.lib.uidaho.edu/digital/calnon/items/calnon36.html"
+    },
+    { 
+        "title": "Pilot Wings Pin",
+        "creator": "United States. Air Force",
+        "description": "Metal Air Force Wing. Bomber?",
+        "subject": "Metal Wings",
+        "publisher": "USAF",
+        "date": "1943",
+        "date is approximate": "yes",
+        
+        
+        "type": "Image;StillImage",
+        "format": "image/jpeg",
+        "language": "eng",
+        "rights": "CC license assigned by Denise Bennett. Material digitized by University of Idaho Library. For more information, please contact University of Idaho Library Special Collections and Archives Department at libspec@uidaho.edu.",
+        "rightsstatement": "https://creativecommons.org/licenses/by/4.0/",
+        
+        "date created": "2016-09-23",
+        "date modified": "2018-02-22",
+        "objectid": "calnon37",
+        "object_thumb": "https://objects.lib.uidaho.edu/calnon/thumbs/calnon37_th.jpg",
+        "object_location": "https://objects.lib.uidaho.edu/calnon/calnon37.jpg",
+        "reference_url": "https://www.lib.uidaho.edu/digital/calnon/items/calnon37.html"
+    },
+    { 
+        "title": "POW Coin",
+        "creator": "United States. Bureau of the Mint",
+        "description": "Coin minted by the United States Mint for POWs remembrance. Legal tender.",
+        "subject": "Official POW Commemorative",
+        
+        "date": "1993",
+        "date is approximate": "yes",
+        
+        
+        "type": "Image;StillImage",
+        "format": "image/jpeg",
+        "language": "eng",
+        "rights": "CC license assigned by Denise Bennett. Material digitized by University of Idaho Library. For more information, please contact University of Idaho Library Special Collections and Archives Department at libspec@uidaho.edu.",
+        "rightsstatement": "https://creativecommons.org/licenses/by/4.0/",
+        
+        "date created": "2016-09-23",
+        "date modified": "2018-02-22",
+        "objectid": "calnon38",
+        "object_thumb": "https://objects.lib.uidaho.edu/calnon/thumbs/calnon38_th.jpg",
+        "object_location": "https://objects.lib.uidaho.edu/calnon/calnon38.jpg",
+        "reference_url": "https://www.lib.uidaho.edu/digital/calnon/items/calnon38.html"
+    },
+    { 
+        "title": "Stalag Luft III Memorial (Desk Weight)",
+        "creator": "United States. Air Force. POW",
+        "description": "Small marble stone w/ metal plaque memorializing POWs.",
+        "subject": "Marble Desk Memorial",
+        
+        "date": "1993",
+        "date is approximate": "yes",
+        
+        
+        "type": "Image;StillImage",
+        "format": "image/jpeg",
+        "language": "eng",
+        "rights": "CC license assigned by Denise Bennett. Material digitized by University of Idaho Library. For more information, please contact University of Idaho Library Special Collections and Archives Department at libspec@uidaho.edu.",
+        "rightsstatement": "https://creativecommons.org/licenses/by/4.0/",
+        
+        "date created": "2016-09-23",
+        "date modified": "2018-02-22",
+        "objectid": "calnon39",
+        "object_thumb": "https://objects.lib.uidaho.edu/calnon/thumbs/calnon39_th.jpg",
+        "object_location": "https://objects.lib.uidaho.edu/calnon/calnon39.jpg",
+        "reference_url": "https://www.lib.uidaho.edu/digital/calnon/items/calnon39.html"
+    },
+    { 
+        "title": "Senate Letter",
+        "creator": "United States. Air Force",
+        "description": "Scan of letter from US Senate to Mark Calnon's mother.",
+        "subject": "Letter",
+        
+        "date": "1943",
+        "date is approximate": "yes",
+        
+        
+        "type": "Image;StillImage",
+        "format": "image/jpeg",
+        "language": "eng",
+        "rights": "CC license assigned by Denise Bennett. Material digitized by University of Idaho Library. For more information, please contact University of Idaho Library Special Collections and Archives Department at libspec@uidaho.edu.",
+        "rightsstatement": "https://creativecommons.org/licenses/by/4.0/",
+        
+        "date created": "2016-09-23",
+        "date modified": "2018-02-22",
+        "objectid": "calnon40",
+        "object_thumb": "https://objects.lib.uidaho.edu/calnon/thumbs/calnon40_th.jpg",
+        "object_location": "https://objects.lib.uidaho.edu/calnon/calnon40.jpg",
+        "reference_url": "https://www.lib.uidaho.edu/digital/calnon/items/calnon40.html"
+    },
+    { 
+        "title": "Commendation Letter",
+        "creator": "United States. Department of the Air Force",
+        "description": "Scan of commendation letter to Mark Calnon from War Dept",
+        "subject": "Letter",
+        
+        "date": "1943",
+        "date is approximate": "yes",
+        
+        
+        "type": "Image;StillImage",
+        "format": "image/jpeg",
+        "language": "eng",
+        "rights": "CC license assigned by Denise Bennett. Material digitized by University of Idaho Library. For more information, please contact University of Idaho Library Special Collections and Archives Department at libspec@uidaho.edu.",
+        "rightsstatement": "https://creativecommons.org/licenses/by/4.0/",
+        
+        "date created": "2016-09-23",
+        "date modified": "2018-02-22",
+        "objectid": "calnon41",
+        "object_thumb": "https://objects.lib.uidaho.edu/calnon/thumbs/calnon41_th.jpg",
+        "object_location": "https://objects.lib.uidaho.edu/calnon/calnon41.jpg",
+        "reference_url": "https://www.lib.uidaho.edu/digital/calnon/items/calnon41.html"
+    },
+    { 
+        "title": "War Ration Stamps",
+        "creator": "United States Government",
+        "description": "Scan of War Ration Stamps from WWII.",
+        "subject": "Certificate",
+        
+        "date": "1942",
+        "date is approximate": "yes",
+        
+        
+        "type": "Image;StillImage",
+        "format": "image/jpeg",
+        "language": "eng",
+        "rights": "CC license assigned by Denise Bennett. Material digitized by University of Idaho Library. For more information, please contact University of Idaho Library Special Collections and Archives Department at libspec@uidaho.edu.",
+        "rightsstatement": "https://creativecommons.org/licenses/by/4.0/",
+        
+        "date created": "2016-09-23",
+        "date modified": "2018-02-22",
+        "objectid": "calnon42",
+        "object_thumb": "https://objects.lib.uidaho.edu/calnon/thumbs/calnon42_th.jpg",
+        "object_location": "https://objects.lib.uidaho.edu/calnon/calnon42.jpg",
+        "reference_url": "https://www.lib.uidaho.edu/digital/calnon/items/calnon42.html"
+    },
+    { 
+        "title": "Caterpillar Club Card",
+        "creator": "Caterpillar Club",
+        "description": "Showing signature of Mark Calnon, saved life by parachute.",
+        "subject": "Card",
+        "publisher": "Caterpillar Club",
+        "date": "1943",
+        "date is approximate": "yes",
+        
+        
+        "type": "Image;StillImage",
+        "format": "image/jpeg",
+        "language": "eng",
+        "rights": "CC license assigned by Denise Bennett. Material digitized by University of Idaho Library. For more information, please contact University of Idaho Library Special Collections and Archives Department at libspec@uidaho.edu.",
+        "rightsstatement": "https://creativecommons.org/licenses/by/4.0/",
+        
+        "date created": "2016-09-23",
+        "date modified": "2018-02-22",
+        "objectid": "calnon43",
+        "object_thumb": "https://objects.lib.uidaho.edu/calnon/thumbs/calnon43_th.jpg",
+        "object_location": "https://objects.lib.uidaho.edu/calnon/calnon43.jpg",
+        "reference_url": "https://www.lib.uidaho.edu/digital/calnon/items/calnon43.html"
+    },
+    { 
+        "title": "384th Window Pamphlet",
+        "creator": "United States. Air Force",
+        "description": "Document explaining the window dedicated to the 384th.",
+        "subject": "Pamphlet",
+        
+        "date": "1989",
+        "date is approximate": "yes",
+        
+        
+        "type": "Text",
+        "format": "application/pdf",
+        "language": "eng",
+        "rights": "CC license assigned by Denise Bennett. Material digitized by University of Idaho Library. For more information, please contact University of Idaho Library Special Collections and Archives Department at libspec@uidaho.edu.",
+        "rightsstatement": "https://creativecommons.org/licenses/by/4.0/",
+        
+        "date created": "2016-09-23",
+        "date modified": "2018-02-22",
+        "objectid": "calnon44",
+        "object_thumb": "https://objects.lib.uidaho.edu/calnon/thumbs/calnon44_th.jpg",
+        "object_location": "https://objects.lib.uidaho.edu/calnon/calnon44.pdf",
+        "reference_url": "https://www.lib.uidaho.edu/digital/calnon/items/calnon44.html"
+    },
+    { 
+        "title": "POW Dog Tag (Calnon)",
+        "creator": "German Government",
+        "description": "Calnon POW Dog Tag, Stalag Luft III.",
+        "subject": "POW Issue Dog Tag",
+        
+        "date": "1943",
+        "date is approximate": "yes",
+        
+        
+        "type": "Image;StillImage",
+        "format": "image/jpeg",
+        "language": "eng",
+        "rights": "CC license assigned by Denise Bennett. Material digitized by University of Idaho Library. For more information, please contact University of Idaho Library Special Collections and Archives Department at libspec@uidaho.edu.",
+        "rightsstatement": "https://creativecommons.org/licenses/by/4.0/",
+        
+        "date created": "2016-09-23",
+        "date modified": "2018-02-22",
+        "objectid": "calnon45",
+        "object_thumb": "https://objects.lib.uidaho.edu/calnon/thumbs/calnon45_th.jpg",
+        "object_location": "https://objects.lib.uidaho.edu/calnon/calnon45.jpg",
+        "reference_url": "https://www.lib.uidaho.edu/digital/calnon/items/calnon45.html"
+    },
+    { 
+        "title": "USAF Dog Tag (Calnon)",
+        "creator": "United States. Air Force",
+        "description": "One standard issue WWII dog tag.",
+        "subject": "Standard Issue Dog Tag",
+        
+        "date": "1941",
+        "date is approximate": "yes",
+        
+        
+        "type": "Image;StillImage",
+        "format": "image/jpeg",
+        "language": "eng",
+        "rights": "CC license assigned by Denise Bennett. Material digitized by University of Idaho Library. For more information, please contact University of Idaho Library Special Collections and Archives Department at libspec@uidaho.edu.",
+        "rightsstatement": "https://creativecommons.org/licenses/by/4.0/",
+        
+        "date created": "2016-09-23",
+        "date modified": "2018-02-22",
+        "objectid": "calnon46",
+        "object_thumb": "https://objects.lib.uidaho.edu/calnon/thumbs/calnon46_th.jpg",
+        "object_location": "https://objects.lib.uidaho.edu/calnon/calnon46.jpg",
+        "reference_url": "https://www.lib.uidaho.edu/digital/calnon/items/calnon46.html"
+    },
+    { 
+        "title": "Graduation Portrait",
+        "creator": "Calnon, Mark",
+        "description": "Graduation photograph of Mark Calnon from the University of Idaho",
+        "subject": "Photograph",
+        
+        "date": "1941",
+        "date is approximate": "yes",
+        
+        
+        "type": "Image;StillImage",
+        "format": "image/jpeg",
+        "language": "eng",
+        "rights": "CC license assigned by Denise Bennett. Material digitized by University of Idaho Library. For more information, please contact University of Idaho Library Special Collections and Archives Department at libspec@uidaho.edu.",
+        "rightsstatement": "https://creativecommons.org/licenses/by/4.0/",
+        
+        "date created": "2016-09-23",
+        "date modified": "2018-02-22",
+        "objectid": "calnon47",
+        "object_thumb": "https://objects.lib.uidaho.edu/calnon/thumbs/calnon47_th.jpg",
+        "object_location": "https://objects.lib.uidaho.edu/calnon/calnon47.jpg",
+        "reference_url": "https://www.lib.uidaho.edu/digital/calnon/items/calnon47.html"
+    },
+    { 
+        "title": "Air Medal",
+        "creator": "United States. Air Force",
+        "description": "USAF medal awarded to Calnon for being a POW.",
+        "subject": "Medal Awarded for Merit",
+        
+        "date": "1945",
+        "date is approximate": "yes",
+        
+        
+        "type": "Image;StillImage",
+        "format": "image/jpeg",
+        "language": "eng",
+        "rights": "CC license assigned by Denise Bennett. Material digitized by University of Idaho Library. For more information, please contact University of Idaho Library Special Collections and Archives Department at libspec@uidaho.edu.",
+        "rightsstatement": "https://creativecommons.org/licenses/by/4.0/",
+        
+        "date created": "2016-09-23",
+        "date modified": "2018-02-22",
+        "objectid": "calnon48",
+        "object_thumb": "https://objects.lib.uidaho.edu/calnon/thumbs/calnon48_th.jpg",
+        "object_location": "https://objects.lib.uidaho.edu/calnon/calnon48.jpg",
+        "reference_url": "https://www.lib.uidaho.edu/digital/calnon/items/calnon48.html"
+    },
+    { 
+        "title": "B17 Exterior Photo 2",
+        "creator": "Calnon, Mark",
+        "description": "Photograph of the exterior of exhibition B18",
+        "subject": "Photograph",
+        
+        "date": "1980",
+        "date is approximate": "yes",
+        
+        
+        "type": "Image;StillImage",
+        "format": "image/jpeg",
+        "language": "eng",
+        "rights": "CC license assigned by Denise Bennett. Material digitized by University of Idaho Library. For more information, please contact University of Idaho Library Special Collections and Archives Department at libspec@uidaho.edu.",
+        "rightsstatement": "https://creativecommons.org/licenses/by/4.0/",
+        
+        "date created": "2016-09-23",
+        "date modified": "2018-02-22",
+        "objectid": "calnon49",
+        "object_thumb": "https://objects.lib.uidaho.edu/calnon/thumbs/calnon49_th.jpg",
+        "object_location": "https://objects.lib.uidaho.edu/calnon/calnon49.jpg",
+        "reference_url": "https://www.lib.uidaho.edu/digital/calnon/items/calnon49.html"
+    },
+    { 
+        "title": "B17 Cockpit",
+        "creator": "Calnon, Mark",
+        "description": "Photograph of B17 cockpit from exhibition B17",
+        "subject": "Photograph",
+        
+        "date": "1980",
+        "date is approximate": "yes",
+        
+        
+        "type": "Image;StillImage",
+        "format": "image/jpeg",
+        "language": "eng",
+        "rights": "CC license assigned by Denise Bennett. Material digitized by University of Idaho Library. For more information, please contact University of Idaho Library Special Collections and Archives Department at libspec@uidaho.edu.",
+        "rightsstatement": "https://creativecommons.org/licenses/by/4.0/",
+        
+        "date created": "2016-09-23",
+        "date modified": "2018-02-22",
+        "objectid": "calnon50",
+        "object_thumb": "https://objects.lib.uidaho.edu/calnon/thumbs/calnon50_th.jpg",
+        "object_location": "https://objects.lib.uidaho.edu/calnon/calnon50.jpg",
+        "reference_url": "https://www.lib.uidaho.edu/digital/calnon/items/calnon50.html"
+    },
+    { 
+        "title": "Calnon Camp Map w/ Notes",
+        "creator": "Calnon, Mark",
+        "description": "Map of Stalag Luft III with notes of being a prisoner.",
+        "subject": "Map",
+        
+        "date": "1995",
+        "date is approximate": "yes",
+        
+        
+        "type": "Text",
+        "format": "application/pdf",
+        "language": "eng",
+        "rights": "CC license assigned by Denise Bennett. Material digitized by University of Idaho Library. For more information, please contact University of Idaho Library Special Collections and Archives Department at libspec@uidaho.edu.",
+        "rightsstatement": "https://creativecommons.org/licenses/by/4.0/",
+        
+        "date created": "2016-09-23",
+        "date modified": "2018-02-22",
+        "objectid": "calnon51",
+        "object_thumb": "https://objects.lib.uidaho.edu/calnon/thumbs/calnon51_th.jpg",
+        "object_location": "https://objects.lib.uidaho.edu/calnon/calnon51.pdf",
+        "reference_url": "https://www.lib.uidaho.edu/digital/calnon/items/calnon51.html"
+    },
+    { 
+        "title": "Mark Calnon, Oral History Interview by Denise Bennett",
+        "creator": "Calnon, Mark; Bennett, Denise",
         "description": "An interview with Mark Calnon regarding his personal history as a WWII pilot and Prisoner of War",
-        "link": "https://www.lib.uidaho.edu/digital/calnon/items/calnon52.html"
+        "subject": "POW; WWII; prisons; prisoners; wars;",
+        
+        "date": "2013-08-13",
+        
+        "location": "Boise, ID",
+        
+        "type": "Text",
+        "format": "application/pdf",
+        "language": "eng",
+        "rights": "CC license assigned by Denise Bennett. Material digitized by University of Idaho Library. For more information, please contact University of Idaho Library Special Collections and Archives Department at libspec@uidaho.edu.",
+        "rightsstatement": "https://creativecommons.org/licenses/by/4.0/",
+        
+        "date created": "2016-10-19",
+        "date modified": "2018-02-22",
+        "objectid": "calnon52",
+        "object_thumb": "https://objects.lib.uidaho.edu/calnon/thumbs/calnon52_th.jpg",
+        "object_location": "https://objects.lib.uidaho.edu/calnon/calnon52.pdf",
+        "reference_url": "https://www.lib.uidaho.edu/digital/calnon/items/calnon52.html"
     }
     
 ] }
