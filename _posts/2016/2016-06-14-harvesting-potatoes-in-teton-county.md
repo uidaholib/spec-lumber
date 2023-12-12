@@ -4,7 +4,7 @@ date: 2016-06-14
 tags: ["potatoes","harvest"]
 subtitle: 
 cover-image-collection: cities
-cover-image: https://digital.lib.uidaho.edu/digital/iiif/cities/296/full/pct:50/0/default.jpg
+cover-image: https://objects.lib.uidaho.edu/cities/small/cities296_sm.jpg
 categories: ["potatopotuesday"]
 author: Amy J. Thompson
 ---
