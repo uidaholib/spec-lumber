@@ -30,7 +30,7 @@ Lily Wai (b. 1939 - d. 2013) was a faculty Librarian at the University of Idaho 
 
 The Kooskia Internment Camp was a WWII detention facility that was 30 miles outside of Kooskia, Idaho. The camp was administered by the U.S. Immigration and Naturalization Service and it held men of Japanese ancestry who were termed "enemy aliens," even though most of them were long-time U.S. residents. A total of approximately 265 Japanese men were held at the Kooskia Internment Camp at various times between May 1943 and May 1945. 
 
-{% include feature/image.html objectid="https://digital.lib.uidaho.edu/digital/iiif/spec_kic/794/full/pct:70/0/default.jpg" link="https://www.lib.uidaho.edu/digital/kooskia/items/kooskia794.html" caption="full scrapbook page 06: housing at Kooskia" %}
+{% include feature/image.html objectid="https://objects.lib.uidaho.edu/kooskia/kooskia794.jpg" link="https://www.lib.uidaho.edu/digital/kooskia/items/kooskia794.html" caption="full scrapbook page 06: housing at Kooskia" %}
 
 Samuel S.M. Chan (b. 1934 - ) was a Professor of Mining Engineering at the University of Idaho from 1963-1989. He earned his B.S. in mining and metallurgical engineering in China and earned his Ph.D. in Geology in 1966. His professional specialties included rock mechanics and geophysics. He has many publications and scholarly papers to his credit and was a consultant for American Zinc Lead & Smelting Co., Vanguard Exploration Company, and El Paso Natural Gas Company. He was a member of the International Society of Rock Mechanics.
 
