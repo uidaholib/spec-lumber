@@ -14,7 +14,7 @@ To honor this year’s theme of "Once Upon a Homecoming," here is a montage to r
 
 1924: The first rendition of Joe Vandal appears in the 1924 Gem of the Mountains yearbook, as well as this statue created by student and yearbook editor Peter Paul Drus.
 
-{% include feature/image.html objectid="https://digital.lib.uidaho.edu/digital/api/singleitem/image/pdf/gem/4255/default.png" link="https://digital.lib.uidaho.edu/digital/collection/gem/id/4255/rec/1" caption="	
+{% include feature/image.html objectid="https://objects.lib.uidaho.edu/gem/small/uidaho_gem_1940_sm.jpg" link="https://www.lib.uidaho.edu/digital/gem/1940/" caption="	
 1940 Gem of the Mountains, University of Idaho Yearbook, Vol. 38" %}
 
 1940: Joe appears on the cover of the Gem of the Mountains, looking a bit more grown-up but still has plenty of boyish charm.

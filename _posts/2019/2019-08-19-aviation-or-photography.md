@@ -16,7 +16,7 @@ These fellas are getting ready to hop in their airplane to take some great photo
 
 The below aerial photograph of the Dworshak Dam site was taken by A. B. Curtis. Curtis was the chief fire warden of the Clearwater-Potlatch Timber Protective Association, many of his pictures depict forest management practices, forest fires and their effects, and forestry, recreational, and other events in areas administered by the Clearwater-Potlatch Timber Protective Association.
 
-{% include feature/image.html objectid="https://digital.lib.uidaho.edu/digital/iiif/dworshak/584/full/pct:70/0/default.jpg" link="https://www.lib.uidaho.edu/digital/dworshak/items/dworshak584.html" caption="aerial view of the Dworshak Dam site looked like before construction, 1963" %}
+{% include feature/image.html objectid="https://objects.lib.uidaho.edu/dworshak/dworshak584.jpg" link="https://www.lib.uidaho.edu/digital/dworshak/items/dworshak584.html" caption="aerial view of the Dworshak Dam site looked like before construction, 1963" %}
 
 # Sources
 

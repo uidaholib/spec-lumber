@@ -3,12 +3,12 @@ title: Remembering Lionel Hampton
 date: 2017-08-31
 tags: ["Lionel Hampton","Jazz Festival","jazz"]
 subtitle: 
-cover-image: https://digital.lib.uidaho.edu/digital/api/singleitem/image/ijcs/20644/default.jpg
+cover-image: https://objects.lib.uidaho.edu/ijc/hampton_collection/small/ijc_lionel_hampton_3260_sm.jpg
 categories: ["IJC"]
 author: 
 ---
 
-{% include feature/image.html objectid="https://digital.lib.uidaho.edu/digital/api/singleitem/image/ijcs/20644/default.jpg" link="https://digital.lib.uidaho.edu/digital/collection/ijcs/id/20644/rec/72" caption="Lionel Hampton playing the vibraphone at the University of Idaho, circa 1990" %}
+{% include feature/image.html objectid="https://objects.lib.uidaho.edu/ijc/hampton_collection/small/ijc_lionel_hampton_3260_sm.jpg" link="https://www.ijc.uidaho.edu/hampton_collection/items/ijc_lionel_hampton_3260.html" caption="Lionel Hampton playing the vibraphone at the University of Idaho, circa 1990" %}
 
 # Lionel Hampton (April 20, 1908 – August 31, 2002)
 
@@ -16,7 +16,7 @@ Lionel Hampton was fifteen years old in 1923 when he began his musical career as
 
 When Benny Goodman heard Hampton play, he invited Hamp to record with him, joining Gene Krupa (drums) and Teddy Wilson (piano) in a group that became the Benny Goodman Quartet in 1936. Hampton and Wilson’s inclusion in the group also marked the "breaking of the color barrier"; the Benny Goodman Quartet was the first racially integrated group of jazz musicians.
 
-{% include feature/image.html objectid="https://digital.lib.uidaho.edu/digital/api/singleitem/image/ijcs/19570/default.jpg?highlightTerms=" link="https://digital.lib.uidaho.edu/digital/collection/ijcs/id/19570/rec/2" caption="Lionel and Gladys Hampton, circa 1950" %}
+{% include feature/image.html objectid="https://objects.lib.uidaho.edu/ijc/hampton_collection/ijc_lionel_hampton_2186.jpg" link="https://www.ijc.uidaho.edu/hampton_collection/items/ijc_lionel_hampton_2186.html" caption="Lionel and Gladys Hampton, circa 1950" %}
 
 In 1936, Lionel married Gladys Riddle. Gladys served as his personal manager and developed a reputation as a brilliant businesswoman. It was Gladys who was ultimately responsible for raising the money for Lionel to start his own band.
 
