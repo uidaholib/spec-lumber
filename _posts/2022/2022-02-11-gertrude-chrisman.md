@@ -26,6 +26,6 @@ When documenting larger topics, such as the history of Black students as the Uni
 
 [University of Idaho Catalogue](https://books.google.com/books?id=baJJAQAAMAAJ&lpg=RA3-PA112&ots=cKFMdoxxYA&dq=gertrude%20chrisman%20uidaho&pg=RA3-PA113#v=onepage&q=chrisman&f=false). North Idaho Star, 1899. p. 112. https://books.google.com/books?id=baJJAQAAMAAJ&lpg=RA3-PA112&ots=cKFMdoxxYA&dq=gertrude%20chrisman%20uidaho&pg=RA3-PA113#v=onepage&q=chrisman&f=false
 
-[Gem of the Mountains](https://digital.lib.uidaho.edu/digital/collection/gem/id/23768/rec/5). University of Idaho, 1908. p. 49. Web. https://digital.lib.uidaho.edu/digital/collection/gem/id/23768/rec/5
+[Gem of the Mountains](https://www.lib.uidaho.edu/digital/gem/1908/). University of Idaho, 1908. p. 49. Web. https://www.lib.uidaho.edu/digital/gem/1908/
 
 Beasley, Delilah Leontium. [The Negro Trail Blazers of California](https://books.google.com/books?id=ESsWAAAAYAAJ&printsec=frontcover&source=gbs_ge_summary_r&cad=0#v=onepage&q&f=false). Times Mirror Printing and Binding House, 1919. p. 236. Web. https://books.google.com/books?id=ESsWAAAAYAAJ&printsec=frontcover&source=gbs_ge_summary_r&cad=0#v=onepage&q&f=false

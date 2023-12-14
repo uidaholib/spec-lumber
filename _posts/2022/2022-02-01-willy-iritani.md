@@ -24,5 +24,5 @@ In 1968, Dr. Iritani became faculty at Washington State University in Pullman (w
 
 # References
 - ["Willy Masao Iritani"](https://obituaries.seattletimes.com/obituary/willy-iritani-1083154816), The Seattle Times, 5 September 2021
-- ["Idaho Grad Student Gets Scholarship"](The https://digital.lib.uidaho.edu/digital/collection/argonaut/id/3024/rec/3), The Idaho Argonaut, 28 April 1953.
+- ["Idaho Grad Student Gets Scholarship"](The https://objects.lib.uidaho.edu/argonaut/pdf/arg-1953-04-28.pdf), The Idaho Argonaut, 28 April 1953.
 - [Dr. W.M. Iritani Memorial Scholarship and Research Fellowship](https://cahnrs.wsu.edu/alumni/scholarship-donor/dr-w-m-iritani-memorial-scholarship-and-research-fellowship/)

@@ -31,7 +31,7 @@ The first undergraduate degrees were awarded to four students in the first gradu
 
 {% include feature/image.html objectid="lumber297" %}
 
-{% include feature/image.html objectid="https://digital.lib.uidaho.edu/digital/api/singleitem/image/pg2/1002/default.jpg?highlightTerms=jennie%20eva%20hughes" link="https://digital.lib.uidaho.edu/digital/collection/pg2/id/1002/rec/3" caption="group portrait of the University of Idaho graduating Class of 1899. Jennie Eva Hughes, the first African American student to graduate from University of Idaho, is second from the left on the bottom (front) row." %}
+{% include feature/image.html objectid="https://objects.lib.uidaho.edu/pg2/pg21002.jpg" link="https://www.lib.uidaho.edu/digital/pg2/items/pg21002.html" caption="group portrait of the University of Idaho graduating Class of 1899. Jennie Eva Hughes, the first African American student to graduate from University of Idaho, is second from the left on the bottom (front) row." %}
 
 The University of Idaho has a rich history of it's first 132 years and here's to another 132 years to come!
 

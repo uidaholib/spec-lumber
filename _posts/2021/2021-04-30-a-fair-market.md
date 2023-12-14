@@ -30,5 +30,5 @@ The Farmers Market is held every Saturday, May through October, from 8 a.m. to 1
 
 - City of Moscow, [Farmers Market website](https://www.ci.moscow.id.us/197/Farmers-Market)
 - [Moscow Renaissance Fair website](http://www.moscowrenfair.org/)
-- [May 3, 1974 Argonaut](https://digital.lib.uidaho.edu/utils/getfile/collection/argonaut/id/3744/filename/ARG-1974-05-03.pdf)
+- [May 3, 1974 Argonaut](https://objects.lib.uidaho.edu/argonaut/pdf/arg-1974-05-03.pdf)
 
