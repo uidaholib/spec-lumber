@@ -10,7 +10,7 @@ author:
 
 {% include feature/image.html objectid="lumber1044" %}
 
-{% include feature/image.html objectid="https://cdm17254.contentdm.oclc.org/digital/iiif/nwpostcards/622/full/max/0/default.jpg" link="https://www.lib.uidaho.edu/digital/postcards/items/nwpostcards622.html" caption="postcard of a big bonfire before a football game at the University of Idaho, 1915" %}
+{% include feature/image.html objectid="https://objects.lib.uidaho.edu/postcards/pg_9_20_01g.jpg" link="https://www.lib.uidaho.edu/digital/postcards/items/nwpostcards1602.html" caption="postcard of a big bonfire before a football game at the University of Idaho, 1915" %}
 
 {% include feature/image.html objectid="lumber1045" %}
 

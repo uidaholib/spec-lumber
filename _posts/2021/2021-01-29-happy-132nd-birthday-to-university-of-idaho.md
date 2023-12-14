@@ -25,7 +25,7 @@ Another one of the original buildings of the University of Idaho campus was the 
 
 {% include feature/digital-image.html collection="pg1" objectid="pg11265" %}
 
-{% include feature/image.html objectid="https://cdm17254.contentdm.oclc.org/digital/iiif/cities/152/full/pct:70/0/default.jpg" link="https://www.lib.uidaho.edu/digital/cities/items/cities152.html" caption="panoramic view of Moscow, Idaho. Visible is the Old Administration building (1892-1906), old stand pipe, school buildings, and courthouse. 1896" %}
+{% include feature/image.html objectid="https://objects.lib.uidaho.edu/cities/cities152.jpg" link="https://www.lib.uidaho.edu/digital/cities/items/cities152.html" caption="panoramic view of Moscow, Idaho. Visible is the Old Administration building (1892-1906), old stand pipe, school buildings, and courthouse. 1896" %}
 
 The first undergraduate degrees were awarded to four students in the first graduating Class of 1896. The first African American student at the University, [Jennie Eva Hughes](https://harvester.lib.uidaho.edu/posts/2020/02/02/black-history-month-jennie-eva-hughes.html), graduated as part of the Class of 1899. 
 

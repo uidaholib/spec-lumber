@@ -28,7 +28,7 @@ discovery cuts some 3600 feet above sea level, over 20 major ore zones
 were mined to nearly 1600 feet below sea level, a vertical distance of 
 about one mile.
 
-{% include feature/image.html objectid="https://cdm17254.contentdm.oclc.org/digital/iiif/nwpostcards/428/full/max/0/default.jpg" link="https://www.lib.uidaho.edu/digital/postcards/items/nwpostcards428.html" caption="Bunker Hill and Sullivan Mill, 1909" %}
+{% include feature/image.html objectid="https://objects.lib.uidaho.edu/postcards/pg_9_09_07b.jpg" link="https://www.lib.uidaho.edu/digital/postcards/items/nwpostcards1130.html" caption="Bunker Hill and Sullivan Mill, 1909" %}
 
 At its peak the company produced corroding lead, antimonial lead, 
 silver, special high grade zinc, zinc diecasting alloys, cadmium, 

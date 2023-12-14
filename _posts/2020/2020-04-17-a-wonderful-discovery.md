@@ -10,7 +10,7 @@ author: Courtney E. Berge
 
 Today, while researching for some possible future exhibits, we made a discovery. While going through our [Gem of the Mountains Yearbook Digital Collection](https://www.lib.uidaho.edu/digital/gem/), in the 1964 yearbook we found that Henry Mancini once performed at the University of Idaho with his orchestra. 
 
-{% include feature/image.html objectid="https://digital.lib.uidaho.edu/digital/api/singleitem/image/pdf/gem/28585/default.png" link="https://digital.lib.uidaho.edu/digital/collection/gem/id/28585/rec/1" caption="Henry Mancini in the 1964 Gem of the Mountains" %}
+{% include feature/image.html objectid="https://digital.lib.uidaho.edu/digital/api/singleitem/image/pdf/gem/28585/default.png" link="https://www.lib.uidaho.edu/digital/gem/1964/" caption="Henry Mancini in the 1964 Gem of the Mountains" %}
 
 Now, for those who may not know, Henry Mancini was a composer, conductor, and arranger. He won Academy Awards, Grammy Awards, and a Golden Globe. His film scores include the music for *The Pink Panther* films and "Moon River" from *Breakfast at Tiffany's*, as well as many other incredible movies. 
 

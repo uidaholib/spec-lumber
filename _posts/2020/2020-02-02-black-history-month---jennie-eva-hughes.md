@@ -18,7 +18,7 @@ After a few years in Indian Territory, the Crisemon family moved to Idaho, where
 
 Although some western states restricted enrollment of Black students in public schools, Jennie was not prohibited from attending Moscow’s public schools. She graduated from Moscow High School on April 26, 1895. According to historian Keith Petersen’s book, ["This Crested Hill: An Illustrated History of the University of Idaho"](https://alliance-primo.hosted.exlibrisgroup.com/primo-explore/fulldisplay?docid=CP71161949450001451&context=L&vid=UID&lang=en_US&search_scope=everything&adaptor=Local%20Search%20Engine&tab=default_tab&query=any,contains,this%20crested%20hill&sortby=rank), Jennie "accumulated an admirable academic record." She won the prestigious Watkins Medal for Oratory in 1898 and graduated with a Bachelor of Science degree as one of seven students in the Class of 1899.
 
-{% include feature/image.html objectid="https://digital.lib.uidaho.edu/digital/api/singleitem/image/pg2/1002/default.jpg?highlightTerms=jennie%20eva%20hughes" link="https://digital.lib.uidaho.edu/digital/collection/pg2/id/1002/rec/3" caption="group portrait of the University of Idaho graduating Class of 1899. Jennie Eva Hughes, the first Black student to graduate from University of Idaho, is second from the left on the bottom (front) row." %}
+{% include feature/image.html objectid="https://objects.lib.uidaho.edu/pg2/pg21002.jpg" link="https://www.lib.uidaho.edu/digital/pg2/items/pg21002.html" caption="group portrait of the University of Idaho graduating Class of 1899. Jennie Eva Hughes, the first Black student to graduate from University of Idaho, is second from the left on the bottom (front) row." %}
 
 {% include feature/image.html objectid="lumber166;lumber167" %}
 
