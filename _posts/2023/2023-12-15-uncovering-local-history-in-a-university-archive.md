@@ -1,6 +1,6 @@
 ---
 title: Uncovering Local History in a University Archive
-date: 2023-12-20
+date: 2023-12-15
 tags: []
 subtitle: 
 cover-image: lumber2186

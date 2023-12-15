@@ -1,6 +1,6 @@
 ---
 title: John Lorenzo Aram
-date: 2023-12-15
+date: 2023-12-20
 tags: []
 subtitle: 
 cover-image: lumber2184
