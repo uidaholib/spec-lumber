@@ -7,7 +7,6 @@ cover-image: lumber2186
 categories: []
 author: Dulce Kersting-Lark
 ---
-**This piece appeared in the Moscow-Pullman Daily News**
 
 A primary function of the University of Idaho Library’s [Special Collections and Archives](https://www.lib.uidaho.edu/special-collections/) is to collect records and materials that tell the story of university students, faculty, staff, and alumni. Our repository cares for all manner of U of I collections, from club scrapbooks to administrative budget ledgers, from athletics game film to faculty papers, and from Gem of the Mountains yearbooks to theses and dissertations. Yet even as we measure university records in the thousands of feet, they do not make up a majority of our holdings. Documents, books, photographs, and artifacts related to local and regional history constitute the largest percentage of collections in the Library’s archives.
  
