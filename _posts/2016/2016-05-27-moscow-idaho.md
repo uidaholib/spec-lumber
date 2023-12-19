@@ -3,7 +3,7 @@ title: Moscow, Idaho
 date: 2020-12-10
 tags: ["Main Street"]
 subtitle: Then and Now
-cover-image: lumber185
+cover-image: lumber184
 categories: ["Then and Now"]
 author: Amy J. Thompson
 ---
@@ -19,7 +19,7 @@ became the Moscow State Bank, which existed until the Great Depression.  In 193
 building was re-branded as the Latah County Title Company which still occupies
 the location today.
 
-{% include feature/image.html objectid="lumber185" %}
+{% include feature/image.html objectid="lumber184" %}
 {% include feature/image.html objectid="lumber186" %}
 
 # Sources
