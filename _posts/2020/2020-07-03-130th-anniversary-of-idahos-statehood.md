@@ -5,7 +5,7 @@ tags: ["anniversary","Boise","4th of July","Independence Day","postcards"]
 subtitle: 
 cover-image-cdm-collection: nwpostcards
 cover-image-collection: postcards
-cover-image: https://cdm17254.contentdm.oclc.org/digital/api/singleitem/image/pdf/nwpostcards/221/default.png
+cover-image: https://objects.lib.uidaho.edu/postcards/postcard_073.jpg
 categories: []
 author:
 ---
@@ -14,7 +14,7 @@ author:
 {% include feature/digital-image.html cdm-collection="nwpostcards" collection="postcards" objectid="nwpostcards221" %}
 --->
 
-{% include feature/image.html objectid="https://cdm17254.contentdm.oclc.org/digital/api/singleitem/image/pdf/nwpostcards/221/default.png" link="https://www.lib.uidaho.edu/digital/postcards/items/nwpostcards221.html" caption="State Capitol, Boise, Idaho (2)" %}
+{% include feature/image.html objectid="https://objects.lib.uidaho.edu/postcards/postcard_073.jpg" link="https://www.lib.uidaho.edu/digital/postcards/items/nwpostcards667.html" caption="State Capitol, Boise, Idaho (2)" %}
 
 Today is the 130th anniversary of statehood for Idaho and tomorrow is our nation’s Independence Day. We will be celebrating the weekend by spending time outdoors, grilling up some tasty food and maybe even visiting the state Capitol Building, all while being socially responsible of course. How will you be celebrating?
 

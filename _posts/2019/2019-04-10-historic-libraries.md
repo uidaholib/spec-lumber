@@ -3,7 +3,7 @@ title: Historic Libraries
 date: 2019-04-10
 tags: ["libraries","Carnegie Libraries","Lewiston","buildings"]
 subtitle: 
-cover-image: https://cdm17254.contentdm.oclc.org/digital/iiif/cities/343/full/pct:70/0/default.jpg
+cover-image: https://objects.lib.uidaho.edu/cities/cities343.jpg
 categories: ["National Library Week"]
 author: Courtney E. Berge
 ---

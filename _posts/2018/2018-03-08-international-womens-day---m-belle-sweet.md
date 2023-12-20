@@ -28,8 +28,8 @@ administrations of seven University presidents. In her 43 years as head
 librarian, Belle Sweet helped to build what is now the largest library in the
 state of Idaho.
 
-<a href="https://digital.lib.uidaho.edu/digital/collection/pg1/id/1247/rec/1">
-<img class="img-fluid" src="https://digital.lib.uidaho.edu/digital/api/singleitem/image/pg1/1247/default.jpg?highlightTerms=(1892-1906)%20fire%20scene" data-orig-height="1044" data-orig-width="1607"/></a>
+<a href="https://www.lib.uidaho.edu/digital/campus/items/campus02109.html">
+<img class="img-fluid" src="https://objects.lib.uidaho.edu/campus/small/campus02109_sm.jpg" data-orig-height="1044" data-orig-width="1607"/></a>
 
 # Sources
 

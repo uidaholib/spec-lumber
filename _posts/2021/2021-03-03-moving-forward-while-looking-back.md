@@ -5,7 +5,7 @@ tags: ["Japan","Japanese Americans","students","internment","World War II","dive
 subtitle: A New Digital Exhibit
 cover-image-cdm-collection: spec_kic
 cover-image-collection: kooskia
-cover-image: https://digital.lib.uidaho.edu/digital/iiif/spec_kic/793/full/pct:70/0/default.jpg
+cover-image: https://objects.lib.uidaho.edu/kooskia/kooskia793.jpg
 categories: ["Exhibits"]
 author: Courtney E. Berge
 ---
@@ -18,7 +18,7 @@ Exciting News! We at the University of Idaho Library Special Collections and Arc
 
 --->
 
-{% include feature/image.html objectid="https://digital.lib.uidaho.edu/digital/iiif/spec_kic/793/full/pct:70/0/default.jpg" link="https://www.lib.uidaho.edu/digital/kooskia/items/kooskia793.html" caption="Sign at entrance of camp in Kooskia" %}
+{% include feature/image.html objectid="https://objects.lib.uidaho.edu/kooskia/kooskia793.jpg" link="https://www.lib.uidaho.edu/digital/kooskia/items/kooskia793.html" caption="Sign at entrance of camp in Kooskia" %}
 
 The exhibit was initially planned to be a digital version of the physical exhibit we hosted in Fall 2020, *Growing from Ground Zero*. The physical exhibit discussed the destruction of the atomic bomb on Hiroshima, and the University of Idaho's contribution to Hiroshima University's reconstruction. You can read a bit more about that and the materials that were on display in our previous blog post [75 Years, Remembering the Hiroshima Bombing](https://harvester.lib.uidaho.edu/posts/2020/08/06/75-years-remembering-the-hiroshima-bombing.html). Originally, *Growing from Ground Zero* was going to be on display throughout the spring and summer of 2020, but do to library closures and staff working primarily from home due to the Covid-19 pandemic, a digital version of the exhibit was planned while the future of physical exhibits was uncertain. 
 

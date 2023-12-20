@@ -3,7 +3,7 @@ title: Independence Day in Idaho
 date: 2021-07-04
 tags: ["holidays","Independence Day","July 4th","4th of July","parades"]
 subtitle: 
-cover-image: https://digital.lib.uidaho.edu/digital/api/singleitem/image/bar-stock/1189/default.jpg
+cover-image: https://objects.lib.uidaho.edu/barstock/barstock1189.jpg
 categories: []
 author: Michelle A. Shannon
 ---
@@ -72,41 +72,41 @@ Happy Independence Day! Check out how North Idaho has celebrated July 4th throug
 
 ## 1911
 
-{% include feature/image.html objectid="https://digital.lib.uidaho.edu/digital/api/singleitem/image/bar-stock/3861/default.jpg" link="https://digital.lib.uidaho.edu/digital/collection/bar-stock/id/3861/rec/1" caption="a decorated wagon in the 4th of July parade in Wallace, Idaho. A woman is driving the wagon with many children sitting in the back (undated)" %}
+{% include feature/image.html objectid="https://objects.lib.uidaho.edu/barstock/barstock3861.jpg" link="https://www.lib.uidaho.edu/digital/barstock/items/barstock3861.html" caption="a decorated wagon in the 4th of July parade in Wallace, Idaho. A woman is driving the wagon with many children sitting in the back (undated)" %}
 
-{% include feature/image.html objectid="https://digital.lib.uidaho.edu/digital/api/singleitem/image/bar-stock/3868/default.jpg" link="https://digital.lib.uidaho.edu/digital/collection/bar-stock/id/3868" caption="two men seated on decorated buggy during the 4th of July parade in Wallace, Idaho (July 4, 1911)" %}
+{% include feature/image.html objectid="https://objects.lib.uidaho.edu/barstock/barstock3868.jpg" link="https://www.lib.uidaho.edu/digital/barstock/items/barstock3868.html" caption="two men seated on decorated buggy during the 4th of July parade in Wallace, Idaho (July 4, 1911)" %}
 
-{% include feature/image.html objectid="https://digital.lib.uidaho.edu/digital/api/singleitem/image/bar-stock/3965/default.jpg" link="https://digital.lib.uidaho.edu/digital/collection/bar-stock/id/3965" caption="two men seated on decorated wagon during the 4th of July parade in Wallace, Idaho (July 4, 1911)" %}
+{% include feature/image.html objectid="https://objects.lib.uidaho.edu/barstock/barstock3965.jpg" link="https://www.lib.uidaho.edu/digital/barstock/items/barstock3965.html" caption="two men seated on decorated wagon during the 4th of July parade in Wallace, Idaho (July 4, 1911)" %}
 
-{% include feature/image.html objectid="https://digital.lib.uidaho.edu/digital/api/singleitem/image/bar-stock/3632/default.jpg" link="https://digital.lib.uidaho.edu/digital/collection/bar-stock/id/3632" caption="a decorated wagon in the 4th of July parade in Wallace, Idaho (July 4, 1911)" %}
+{% include feature/image.html objectid="https://objects.lib.uidaho.edu/barstock/barstock3632.jpg" link="https://www.lib.uidaho.edu/digital/barstock/items/barstock3632.html" caption="a decorated wagon in the 4th of July parade in Wallace, Idaho (July 4, 1911)" %}
 
-{% include feature/image.html objectid="https://digital.lib.uidaho.edu/digital/api/singleitem/image/bar-stock/3702/default.jpg" link="https://digital.lib.uidaho.edu/digital/collection/bar-stock/id/3702" caption="a decorated wagon in the 4th of July parade in Wallace, Idaho (July 4, 1911)" %}
+{% include feature/image.html objectid="https://objects.lib.uidaho.edu/barstock/barstock3702.jpg" link="https://www.lib.uidaho.edu/digital/barstock/items/barstock3702.html" caption="a decorated wagon in the 4th of July parade in Wallace, Idaho (July 4, 1911)" %}
 
-{% include feature/image.html objectid="https://digital.lib.uidaho.edu/digital/api/singleitem/image/bar-stock/3951/default.jpg" link="https://digital.lib.uidaho.edu/digital/collection/bar-stock/id/3951" caption="a decorated wagon with a sign saying 'James Slete, the youngest moulder in the world' in the 4th of July parade in Wallace, Idaho (July 4, 1911)" %}
+{% include feature/image.html objectid="https://objects.lib.uidaho.edu/barstock/barstock3951.jpg" link="https://www.lib.uidaho.edu/digital/barstock/items/barstock3951.html" caption="a decorated wagon with a sign saying 'James Slete, the youngest moulder in the world' in the 4th of July parade in Wallace, Idaho (July 4, 1911)" %}
 
-{% include feature/image.html objectid="https://digital.lib.uidaho.edu/digital/api/singleitem/image/bar-stock/3784/default.jpg" link="https://digital.lib.uidaho.edu/digital/collection/bar-stock/id/3784" caption="a decorated wagon of the Maid of Havana with a sign saying 'La Capella' during the 4th of July parade in Wallace, Idaho (July 4, 1911)" %}
+{% include feature/image.html objectid="https://objects.lib.uidaho.edu/barstock/barstock3784.jpg" link="https://www.lib.uidaho.edu/digital/barstock/items/barstock3784.html" caption="a decorated wagon of the Maid of Havana with a sign saying 'La Capella' during the 4th of July parade in Wallace, Idaho (July 4, 1911)" %}
 
-{% include feature/image.html objectid="https://digital.lib.uidaho.edu/digital/api/singleitem/image/bar-stock/3822/default.jpg" link="https://digital.lib.uidaho.edu/digital/collection/bar-stock/id/3822" caption="two mean seated on decorated fire hose truck during the 4th of July parade in Wallace, Idaho (July 4, 1911)" %}
+{% include feature/image.html objectid="https://objects.lib.uidaho.edu/barstock/barstock3822.jpg" link="https://www.lib.uidaho.edu/digital/barstock/items/barstock3822.html" caption="two mean seated on decorated fire hose truck during the 4th of July parade in Wallace, Idaho (July 4, 1911)" %}
 
 ## 1914
 
-{% include feature/image.html objectid="https://digital.lib.uidaho.edu/digital/api/singleitem/image/bar-stock/103/default.jpg" link="https://digital.lib.uidaho.edu/digital/collection/bar-stock/id/103" caption="the E.L. Hale float in the 4th of July parade in Wallace, Idaho (July 4, 1914)" %}
+{% include feature/image.html objectid="https://objects.lib.uidaho.edu/barstock/barstock103.jpg" link="https://www.lib.uidaho.edu/digital/barstock/items/barstock103.html" caption="the E.L. Hale float in the 4th of July parade in Wallace, Idaho (July 4, 1914)" %}
 
 ## 1921
 
-{% include feature/image.html objectid="https://digital.lib.uidaho.edu/digital/api/singleitem/image/bar-stock/1179/default.jpg" link="https://digital.lib.uidaho.edu/digital/collection/bar-stock/id/1179" caption="float for July 4th parade in Wallace, Idaho (July 4, 1921)" %}
+{% include feature/image.html objectid="https://objects.lib.uidaho.edu/barstock/barstock1179.jpg" link="https://www.lib.uidaho.edu/digital/barstock/items/barstock1179.html" caption="float for July 4th parade in Wallace, Idaho (July 4, 1921)" %}
 
-{% include feature/image.html objectid="https://digital.lib.uidaho.edu/digital/api/singleitem/image/bar-stock/1184/default.jpg" link="https://digital.lib.uidaho.edu/digital/collection/bar-stock/id/1184" caption="float for July 4th parade in Wallace, Idaho (July 4, 1921)" %}
+{% include feature/image.html objectid="https://objects.lib.uidaho.edu/barstock/barstock1184.jpg" link="https://www.lib.uidaho.edu/digital/barstock/items/barstock1184.html" caption="float for July 4th parade in Wallace, Idaho (July 4, 1921)" %}
 
-{% include feature/image.html objectid="https://digital.lib.uidaho.edu/digital/api/singleitem/image/bar-stock/1189/default.jpg" link="https://digital.lib.uidaho.edu/digital/collection/bar-stock/id/1189" caption="float for July 4th parade in Wallace, Idaho (July 4, 1921)" %}
+{% include feature/image.html objectid="https://objects.lib.uidaho.edu/barstock/barstock1189.jpg" link="https://www.lib.uidaho.edu/digital/barstock/items/barstock1189.html" caption="float for July 4th parade in Wallace, Idaho (July 4, 1921)" %}
 
-{% include feature/image.html objectid="https://digital.lib.uidaho.edu/digital/api/singleitem/image/bar-stock/1197/default.jpg" link="https://digital.lib.uidaho.edu/digital/collection/bar-stock/id/1197" caption="float for July 4th parade in Wallace, Idaho (July 4, 1921)" %}
+{% include feature/image.html objectid="https://objects.lib.uidaho.edu/barstock/barstock1197.jpg" link="https://www.lib.uidaho.edu/digital/barstock/items/barstock1197.html" caption="float for July 4th parade in Wallace, Idaho (July 4, 1921)" %}
 
-{% include feature/image.html objectid="https://digital.lib.uidaho.edu/digital/api/singleitem/image/bar-stock/1199/default.jpg" link="https://digital.lib.uidaho.edu/digital/collection/bar-stock/id/1199" caption="float for July 4th parade in Wallace, Idaho (July 4, 1921)" %}
+{% include feature/image.html objectid="https://objects.lib.uidaho.edu/barstock/barstock1199.jpg" link="https://www.lib.uidaho.edu/digital/barstock/items/barstock1199.html" caption="float for July 4th parade in Wallace, Idaho (July 4, 1921)" %}
 
-{% include feature/image.html objectid="https://digital.lib.uidaho.edu/digital/api/singleitem/image/bar-stock/1202/default.jpg" link="https://digital.lib.uidaho.edu/digital/collection/bar-stock/id/1202" caption="float for July 4th parade in Wallace, Idaho (July 4, 1921)" %}
+{% include feature/image.html objectid="https://objects.lib.uidaho.edu/barstock/barstock1202.jpg" link="https://www.lib.uidaho.edu/digital/barstock/items/barstock1202.html" caption="float for July 4th parade in Wallace, Idaho (July 4, 1921)" %}
 
-{% include feature/image.html objectid="https://digital.lib.uidaho.edu/digital/api/singleitem/image/bar-stock/1206/default.jpg" link="https://digital.lib.uidaho.edu/digital/collection/bar-stock/id/1206" caption="float for July 4th parade in Wallace, Idaho (July 4, 1921)" %}
+{% include feature/image.html objectid="https://objects.lib.uidaho.edu/barstock/barstock1206.jpg" link="https://www.lib.uidaho.edu/digital/barstock/items/barstock1206.html" caption="float for July 4th parade in Wallace, Idaho (July 4, 1921)" %}
 
 ## 1922
 

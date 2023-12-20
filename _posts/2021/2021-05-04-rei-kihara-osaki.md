@@ -30,4 +30,4 @@ After graduation, Mrs. Osaki accepted a position with a real estate office in Wi
 
 Mrs. Osaki devoted herself to her family and was the mother of three sons; she also had at least seven grandchildren. In addition to caring for her family, she became very active in her community, particularly in what she referred to as "partisan politics." "I'm a Democrat," she said. As a volunteer for the Japanese-American Citizens League, she assisted in monitoring hate crimes against Asian-Americans. "It's a lot easier to stay where you are," she said, "but I've been willing to stand up and fight."
 
-{% include feature/image.html objectid="https://digital.lib.uidaho.edu/digital/api/singleitem/image/pdf/gem/25435/default.png" link="https://digital.lib.uidaho.edu/digital/collection/gem/id/25435/rec/9" caption="Rei Kihara in 1943 Gem of the Mountains Yearbook" %}
+{% include feature/image.html objectid="lumber2192" caption="Rei Kihara in 1943 Gem of the Mountains Yearbook" %}

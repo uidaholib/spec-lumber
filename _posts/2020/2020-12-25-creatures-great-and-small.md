@@ -15,21 +15,21 @@ For this holiday edition of What's Bugging You, we're focusing on some of the la
 
 Like other rodents, porcupines cause damage to trees by gnawing on the bark to the point of girdling the tree or removing the bark in complete swaths all the way around the trunk or branches, resulting in the browning of the foliage to the death of the tree. This can happen any time of the year, but spring is most common due to porcupines stocking up on tasty bark for the winter. 
 
-{% include feature/image.html objectid="https://digital.lib.uidaho.edu/digital/api/singleitem/image/forestryresearch/776/default.jpg" link="https://digital.lib.uidaho.edu/digital/collection/forestryresearch/id/776" caption="Porcupine emerging from behind a tree" %}
+{% include feature/image.html objectid="https://objects.lib.uidaho.edu/forestryresearch/forestryresearch174.jpg" link="https://www.lib.uidaho.edu/digital/forestryresearch/items/forestryresearch174.html" caption="Porcupine emerging from behind a tree" %}
 
-For more information about rodent damage, see the Agricultural and Extension publication [Why is my Evergreen Brown?](https://digital.lib.uidaho.edu/digital/collection/ui_ep/id/20769/rec/12)
+For more information about rodent damage, see the Agricultural and Extension publication [Why is my Evergreen Brown?](https://www.lib.uidaho.edu/digital/uiext/items/uiext20773.html)
 
 Bears cause a similar damage but on a much larger scale per tree. Bear habitat can contain hundreds of forested acres providing not only food sources but also protection. The succulent inner bark is one source of food that can only be found by fully removing the outer bark, killing the tree. 
 
 {% include feature/digital-image.html objectid="stonebraker570" collection="stonebraker" %}
 
-For more information about bears, see the Agricultural and Extension publication [A Private Landowner's Guide to Managing Black Bear Habitat](https://digital.lib.uidaho.edu/digital/collection/ui_ep/id/24417).
+For more information about bears, see the Agricultural and Extension publication [A Private Landowner's Guide to Managing Black Bear Habitat](https://www.lib.uidaho.edu/digital/uiext/items/uiext24425.html).
 
 Allowing livestock such as cattle to graze on forested lands has had a long tradition despite the potential for unsuitable food sources that could cause harm or illness to cows. Pastures are often planted with trees as a secondary income source or for the health and productivity of the ecosystem. Cows are most likely to cause damage by stepping on small trees or leaning or rubbing against larger trees, but will also eat nutrient-rich tops of small trees.
 
 {% include feature/digital-image.html objectid="plcphotos826" collection="plcphotos" %}
 
-For more information about cattle, see U of I Extension Forestry Information Series II publication [Silvopasture - Growing Trees in your Pasture or Vice-Versa](https://www.uidaho.edu/-/media/UIdaho-Responsive/Files/Extension/topic/forestry/FM52-Silvopasture-Growing-Trees-in-Your-Pasture-or-Visa-Versa.pdf) or the publication [Anti-Quality Factors in Rangeland and Pastureland Forages](https://digital.lib.uidaho.edu/digital/collection/fwres/id/46) in our Forest Wildlife and Range Experiment Station digital collection. 
+For more information about cattle, see U of I Extension Forestry Information Series II publication [Silvopasture - Growing Trees in your Pasture or Vice-Versa](https://www.uidaho.edu/-/media/UIdaho-Responsive/Files/Extension/topic/forestry/FM52-Silvopasture-Growing-Trees-in-Your-Pasture-or-Visa-Versa.pdf) or the publication [Anti-Quality Factors in Rangeland and Pastureland Forages](https://www.lib.uidaho.edu/digital/fwres/items/fwres46.html) in our Forest Wildlife and Range Experiment Station digital collection. 
 
 Stay tuned for the next episode where we delve into another creepy crawly chomping on a forest near you!
 

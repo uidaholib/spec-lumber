@@ -3,7 +3,7 @@ title: Happy Birthday Hamp!
 date: 2020-04-20
 tags: ["Lionel Hampton","President Bill Clinton","White House","vibraphone","saxophone"]
 subtitle: 
-cover-image: https://digital.lib.uidaho.edu/digital/api/singleitem/image/ijcs/20406/default.jpg
+cover-image: https://objects.lib.uidaho.edu/ijc/hampton_collection/ijc_lionel_hampton_3023.jpg
 categories: []
 author: Courtney E. Berge
 ---
@@ -12,9 +12,9 @@ author: Courtney E. Berge
 
 Today, is Lionel Hampton’s birthday. To celebrate we are looking back to his 90th birthday celebration at the White House. Lionel had a long history playing for presidents starting when he led his band at Harry S. Truman’s Inaugural Gala in 1949. He also participated in the inaugurations of Presidents Eisenhower, H.W. Bush, and Clinton. 
 
-{% include feature/image.html objectid="https://digital.lib.uidaho.edu/digital/api/singleitem/image/ijcs/20406/default.jpg" link="https://digital.lib.uidaho.edu/digital/collection/ijcs/id/20406/rec/1" caption="Lionel Hampton and President Bill Clinton performing together for Lionel's 90th birthday, 1998" %}
+{% include feature/image.html objectid="https://objects.lib.uidaho.edu/ijc/hampton_collection/ijc_lionel_hampton_3022.jpg" link="https://www.ijc.uidaho.edu/hampton_collection/items/ijc_lionel_hampton_3024.html" caption="Lionel Hampton and President Bill Clinton performing together for Lionel's 90th birthday, 1998" %}
 
-{% include feature/image.html objectid="https://digital.lib.uidaho.edu/digital/api/singleitem/image/ijcs/20407/default.jpg" link="https://digital.lib.uidaho.edu/digital/collection/ijcs/id/20407" caption="back of photograph of Lionel Hampton and President Bill Clinton performing together for Lionel's 90th birthday, 1998" %}
+{% include feature/image.html objectid="https://objects.lib.uidaho.edu/ijc/hampton_collection/ijc_lionel_hampton_3023.jpg" link="https://www.ijc.uidaho.edu/hampton_collection/items/ijc_lionel_hampton_3024.html" caption="back of photograph of Lionel Hampton and President Bill Clinton performing together for Lionel's 90th birthday, 1998" %}
 
 Inscription on back reads:
 

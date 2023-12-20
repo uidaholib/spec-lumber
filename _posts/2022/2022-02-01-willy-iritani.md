@@ -15,7 +15,7 @@ Idaho is commonly known for it's potato. Those in Idaho will boldly argue agains
 
 Dr. Willy Masao Iritani grew up on a vegetable farm on the outskirts of Denver, Colorado and during World War II, ran the farm while his siblings enlisted in the military. When the war was over, he took his interest and experience in farming and began his studies. After receiving a degree from University of Minnesota, Iritani came to the University of Idaho to complete a Masters of Science in Horticulture, which he completed in 1953. Receiving a Fulbright Scholarship in 1954 where he went to research on vegetables at Kyoto University. He would go on to receive a doctorate degree in horticulture from the University Illinois at Urbanan-Champaign in 1958. 
 
-After completing his PhD, Dr. Iritani accepted a job at the University of Idaho's research station in Aberdeen, Idaho. He published his research in several of the university's Agricultural Extension Service Bulletins, including an article entitled "[Press Wheels for Idaho Potato Planters](https://digital.lib.uidaho.edu/digital/collection/ui_ep/id/27423/rec/7)" in 1966. The bulletin doesn't include any pictures of Dr. Iritani, but in processing a collection of Agricultural Extension Service photographs we found one of Dr. Iritani and a press wheel, likely taken during his research used for that article. 
+After completing his PhD, Dr. Iritani accepted a job at the University of Idaho's research station in Aberdeen, Idaho. He published his research in several of the university's Agricultural Extension Service Bulletins, including an article entitled "[Press Wheels for Idaho Potato Planters](https://www.lib.uidaho.edu/digital/uiext/items/uiext27425.html)" in 1966. The bulletin doesn't include any pictures of Dr. Iritani, but in processing a collection of Agricultural Extension Service photographs we found one of Dr. Iritani and a press wheel, likely taken during his research used for that article. 
 
 {% include feature/image.html objectid="lumber1606" %}
 
@@ -24,5 +24,5 @@ In 1968, Dr. Iritani became faculty at Washington State University in Pullman (w
 
 # References
 - ["Willy Masao Iritani"](https://obituaries.seattletimes.com/obituary/willy-iritani-1083154816), The Seattle Times, 5 September 2021
-- ["Idaho Grad Student Gets Scholarship"](The https://digital.lib.uidaho.edu/digital/collection/argonaut/id/3024/rec/3), The Idaho Argonaut, 28 April 1953.
+- ["Idaho Grad Student Gets Scholarship"](The https://objects.lib.uidaho.edu/argonaut/pdf/arg-1953-04-28.pdf), The Idaho Argonaut, 28 April 1953.
 - [Dr. W.M. Iritani Memorial Scholarship and Research Fellowship](https://cahnrs.wsu.edu/alumni/scholarship-donor/dr-w-m-iritani-memorial-scholarship-and-research-fellowship/)

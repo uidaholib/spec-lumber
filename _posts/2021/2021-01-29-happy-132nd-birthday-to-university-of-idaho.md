@@ -25,13 +25,13 @@ Another one of the original buildings of the University of Idaho campus was the 
 
 {% include feature/digital-image.html collection="pg1" objectid="pg11265" %}
 
-{% include feature/image.html objectid="https://cdm17254.contentdm.oclc.org/digital/iiif/cities/152/full/pct:70/0/default.jpg" link="https://www.lib.uidaho.edu/digital/cities/items/cities152.html" caption="panoramic view of Moscow, Idaho. Visible is the Old Administration building (1892-1906), old stand pipe, school buildings, and courthouse. 1896" %}
+{% include feature/image.html objectid="https://objects.lib.uidaho.edu/cities/cities152.jpg" link="https://www.lib.uidaho.edu/digital/cities/items/cities152.html" caption="panoramic view of Moscow, Idaho. Visible is the Old Administration building (1892-1906), old stand pipe, school buildings, and courthouse. 1896" %}
 
 The first undergraduate degrees were awarded to four students in the first graduating Class of 1896. The first African American student at the University, [Jennie Eva Hughes](https://harvester.lib.uidaho.edu/posts/2020/02/02/black-history-month-jennie-eva-hughes.html), graduated as part of the Class of 1899. 
 
 {% include feature/image.html objectid="lumber297" %}
 
-{% include feature/image.html objectid="https://digital.lib.uidaho.edu/digital/api/singleitem/image/pg2/1002/default.jpg?highlightTerms=jennie%20eva%20hughes" link="https://digital.lib.uidaho.edu/digital/collection/pg2/id/1002/rec/3" caption="group portrait of the University of Idaho graduating Class of 1899. Jennie Eva Hughes, the first African American student to graduate from University of Idaho, is second from the left on the bottom (front) row." %}
+{% include feature/image.html objectid="https://objects.lib.uidaho.edu/pg2/pg21002.jpg" link="https://www.lib.uidaho.edu/digital/pg2/items/pg21002.html" caption="group portrait of the University of Idaho graduating Class of 1899. Jennie Eva Hughes, the first African American student to graduate from University of Idaho, is second from the left on the bottom (front) row." %}
 
 The University of Idaho has a rich history of it's first 132 years and here's to another 132 years to come!
 

@@ -30,8 +30,8 @@ Caption: Idaho stunts at WSC, 1921. Special Collections, University of Idaho Lib
 
 Sources:
 
-[^1]: [Argonaut, October 19, 1920](https://digital.lib.uidaho.edu/digital/collection/argonaut/id/1287/rec/18). p.1
+[^1]: [Argonaut, October 19, 1920](https://objects.lib.uidaho.edu/argonaut/pdf/arg-1920-10-19.pdf). p.1
 
-[^2]: [Gem of the Mountains, 1922](https://digital.lib.uidaho.edu/digital/collection/gem/id/18469/rec/34). Moscow, April 1921. p. 11.
+[^2]: [Gem of the Mountains, 1922](https://objects.lib.uidaho.edu/gem/uidaho_gem_1922.pdf). Moscow, April 1921. p. 11.
 
-[^3]: [Argonaut, October 4, 1921](https://digital.lib.uidaho.edu/digital/collection/argonaut/id/1470?_ga=2.78244816.550934529.1609860567-939915801.1535413979). p. 1
+[^3]: [Argonaut, October 4, 1921](https://objects.lib.uidaho.edu/argonaut/pdf/arg-1921-10-04.pdf). p. 1

@@ -3,14 +3,14 @@ title: Culdesac, ID
 date: 2017-07-17
 tags: ["Main Street","Culdesac"]
 subtitle: Then and Now
-cover-image: https://cdm17254.contentdm.oclc.org/digital/api/singleitem/image/pdf/nwpostcards/304/default.png
+cover-image: https://objects.lib.uidaho.edu/postcards/pg_9_01_10a.jpg
 categories: ["Then and Now"]
 author: Amy J. Thompson
 ---
 
 Main Street of Culdesac, Idaho
 
-<a href="https://www.lib.uidaho.edu/digital/postcards/items/nwpostcards304.html"><img class="img-fluid" src="https://cdm17254.contentdm.oclc.org/digital/api/singleitem/image/pdf/nwpostcards/304/default.png"></a>
+<a href="https://www.lib.uidaho.edu/digital/postcards/items/nwpostcards836.html"><img class="img-fluid" src="https://www.lib.uidaho.edu/digital/postcards/items/nwpostcards304.html"></a>
 
 <!---{% include feature/digital-image.html objectid="nwpostcards304" collection="postcards" cdm-collection="nwpostcards" %}--->
 

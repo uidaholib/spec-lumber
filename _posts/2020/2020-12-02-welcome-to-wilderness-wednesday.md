@@ -21,9 +21,9 @@ Stay tuned for our first post next week, where we'll talk about the Bitterroot N
 <!-- DEVIN: the below include works on the blog post but if you click on the individual images, it goes to an error page rather than the image page. --->
 {% include feature/digital-image.html objectid="nwpostcards392;nwpostcards722" collection="postcards" cdm-collection="nwpostcards" %}
 
-{% include feature/image.html objectid="https://digital.lib.uidaho.edu/digital/api/singleitem/image/sbw/87/default.jpg?highlightTerms=" link="https://digital.lib.uidaho.edu/digital/collection/sbw/id/87/rec/1" caption="Burnt Knob Lookout, Nez Perce National Forest" %} <!--- Michelle need to fix --->
+{% include feature/image.html objectid="https://objects.lib.uidaho.edu/sbw/sbw087.jpg" link="https://www.lib.uidaho.edu/digital/sbw/items/sbw087.html" caption="Burnt Knob Lookout, Nez Perce National Forest" %} <!--- Michelle need to fix --->
 
-{% include feature/image.html objectid="https://digital.lib.uidaho.edu/digital/api/singleitem/image/sbw/90/default.jpg?highlightTerms=" link="https://digital.lib.uidaho.edu/digital/collection/sbw/id/90" caption="Fishing in Bargemon Creek, Nez Perce National Forest" %} <!--- Michelle needs to fix --->
+{% include feature/image.html objectid="https://objects.lib.uidaho.edu/sbw/sbw090.jpg" link="https://www.lib.uidaho.edu/digital/sbw/items/sbw090.html" caption="Fishing in Bargemon Creek, Nez Perce National Forest" %} <!--- Michelle needs to fix --->
 
 {% include feature/digital-image.html collection="laughlin" cdm-collection="spec_kl" objectid="spec_kl676" %}
 
