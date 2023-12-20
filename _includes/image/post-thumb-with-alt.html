@@ -13,7 +13,7 @@
 {%- else -%}
 {%- assign collection = post.cover-image-collection | default: page.cover-image-collection -%}
 {%- assign digitalItem = site.data.digcoll[collection].objects | where: "objectid", cover_image | first -%}
-{%- capture src -%}{% if digitalItem.cdmid %}https://cdm17254.contentdm.oclc.org/digital/iiif/{% if post.cover-image-cdm-collection or page.cover-image-cdm-collection %}{{post.cover-image-cdm-collection | default: page.cover-image-cdm-collection }}{% else %}{{collection}}{% endif %}/{{ digitalItem.cdmid }}/full/pct:25/0/default.jpg{% else %}{{ digitalItem.object_thumb }}{%endif%}{%- endcapture -%}
+{%- capture src -%}{{ digitalItem.image_thumb | default: digitalItem.image_small | default: digitalItem.object_location | default: digitalItem.object_download }}{%- endcapture -%}
 {%- assign alt = digitalItem.title -%}
 {% endif %}
 <img class="lazyload" alt="{{ alt | escape }}" src="data:image/svg+xml,%3Csvg xmlns='http://www.w3.org/2000/svg' viewBox='0 0 3 2'%3E%3C/svg%3E" data-src="{{ src }}" >

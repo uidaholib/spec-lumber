@@ -16,7 +16,7 @@ This area was established as a National Monument on May 2, 1924 by President Cal
 
 {% include feature/digital-image.html objectid="nwpostcards538;nwpostcards560" collection="postcards" cdm-collection="nwpostcards" %}
 
-{% include feature/digital-pdf-embed.html objectid="nwpostcards229" collection="postcards" cdm-collection="nwpostcards" %}
+{% include feature/digital-image.html objectid="nwpostcards229" collection="postcards" cdm-collection="nwpostcards" %}
 
 {% include feature/digital-image.html objectid="nwpostcards689;nwpostcards640" collection="postcards" cdm-collection="nwpostcards" %}
 
