@@ -1,5 +1,5 @@
 ---
-title: Got Milk? We Do!
+title: Got Milk?
 date: 2024-01-11
 tags: []
 subtitle: 
