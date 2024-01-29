@@ -1,6 +1,6 @@
 ---
 title: Moscow Food Co-Op
-date: 2024-01-27
+date: 2024-01-23
 tags: []
 subtitle: Celebrating Community Connection
 cover-image: lumber2247
