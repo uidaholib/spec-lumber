@@ -3,7 +3,7 @@ title: Senator James McClure Collection
 date: 2024-05-05 13:35:06 -0700
 tags: ["politics", "photographs", "reports"]
 subtitle: 
-cover-image: lumber2265 
+cover-image: lumber2267 
 categories: []
 author: Dulce Kersting-Lark
 ---
