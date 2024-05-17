@@ -23,6 +23,6 @@ A majority of the contemporary photos were taken by [Cameron Nielsen](https://ar
 
 Donors to the Library Dean’s Excellence Fund made the project possible. Significant volunteer assistance was also provided by members of the Latah Preservation Commission. The LPC works to preserve, promote, and educate the public about the historic physical fabric of Latah County, Idaho.
 
-{% include feature/image.html objectid="lumber2322;lumber2323 " %}
+{% include feature/image.html objectid="lumber2322;lumber2323" %}
 
 ***The above information came from the [About page](https://www.lib.uidaho.edu/digital/latahsites/about.html) of the Latah County Historic Places digital collection.***
