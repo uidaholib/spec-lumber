@@ -1,7 +1,7 @@
 ---
 title: Latah County Historic Places
 date: 2024-05-23
-tags: ["preservation","historic sites", "historic places","Latah County","student fellowship","fellowship"]
+tags: ["historic sites", "historic places","Latah County","student fellowship","fellowship"]
 subtitle: 
 cover-image: lumber2326
 categories: []
