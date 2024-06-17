@@ -1,6 +1,6 @@
 ---
 title: ChatcoLab - Learning leadership through recreation
-date: 2024-10-09
+date: 2024-06-14
 tags: ["Idaho","recreation","leadership","education"]
 subtitle: 
 cover-image: lumber2333
