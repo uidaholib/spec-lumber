@@ -5,7 +5,8 @@ firstname: Michelle A.
 lastname: Shannon
 ---
 
-### Series include: 
+## Series include: 
+
 <a href="https://harvester.lib.uidaho.edu/series/diversecollections.html">Diverse Collections</a><br>
 <a href="https://harvester.lib.uidaho.edu/series/funnyfriday.html">Funny Friday</a><br>
 <a href="https://harvester.lib.uidaho.edu/series/logginglessons.html">Logging Lessons</a><br>
