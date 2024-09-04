@@ -1,7 +1,7 @@
 ---
 title: Establishment of Agricultural Research at the University of Idaho
 date: 2024-09-02 12:09:56 -0700
-tags: ["entomology", "research", "photographs", "University of Idaho"]
+tags: ["entomology","research","photographs","University of Idaho"]
 subtitle: 
 cover-image: lumber2381 
 categories: []
