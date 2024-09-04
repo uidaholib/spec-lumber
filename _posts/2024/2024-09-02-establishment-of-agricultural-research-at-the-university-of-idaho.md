@@ -6,7 +6,7 @@ subtitle:
 cover-image: lumber2381 
 categories: []
 author: Special Collections Contributors
-
+---
 Post written by Kate Morrison, 2024 Strong Fellow.
 
 Since its inception in 1889, University of Idaho has served the state of Idaho as a pillar of agricultural research and advancements. Passed in 1862, the Morrill Act established the U.S. land-grant system that would allow the federal government to use a portion of public lands to advance education in agricultural sciences. Through this system, with funding supplemented by the Hatch Act of 1887, states across the country opened experimental stations for agricultural research. The University of Idaho opened the Idaho Agricultural Experiment State (IAES) just seven months before the first classes would be held. 
