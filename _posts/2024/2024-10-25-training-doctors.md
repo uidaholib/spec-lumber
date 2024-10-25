@@ -1,6 +1,6 @@
 ---
 title: Training Doctors
-date: 2024-10-25 
+date: 2024-10-24 
 tags: ["University of Idaho","education","medical"]
 subtitle: A Patient-Centered Approach
 cover-image: lumber2392
@@ -38,14 +38,18 @@ WWAMI has consistently prioritized comprehensive training for medical students. 
 
 # References 
 
-Del Canale, S., Louis, D. Z., Maio, V., Wang, X., Rossi, G., Hojat, M., & Gonnella, J. S. (2012). 
+Del Canale, S., Louis, D. Z., Maio, V., Wang, X., Rossi, G., Hojat, M., & Gonnella, J. S. (2012).
+
 The relationship between physician empathy and disease complications: An empirical study of primary care physicians and their diabetic patients in Parma, Italy. Academic Medicine, 87(9), 1243-1249.
-Future med students prepare with male volunteer patients. (1988, October 3). The Daily 
-Evergreen.
+
+Future med students prepare with male volunteer patients. (1988, October 3). The Daily Evergreen.
+
 Jones, L. (1972, December 5). Bedside manner seen in action. The Daily Idahonian.
+
 Medical students interview for patient attitudes. (1977, April 29). Argonaut.
-Riess, H. (2017). The impact of clinical empathy on patients and clinicians: Understanding 
-empathy's side effects. Journal of General Internal Medicine, 32(5), 624-627.
-Schwarz, M. R. (2014). WAMI: A bold beginning, an experiment in medical education (1st ed.) 
-[Unpublished manuscript]
+
+Riess, H. (2017). The impact of clinical empathy on patients and clinicians: Understanding empathy's side effects. Journal of General Internal Medicine, 32(5), 624-627.
+
+Schwarz, M. R. (2014). WAMI: A bold beginning, an experiment in medical education (1st ed.) [Unpublished manuscript]
+
 Spolin, V. (1999). Improvisation for the Theater. Northwestern University Press.
