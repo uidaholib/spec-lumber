@@ -5,7 +5,7 @@ tags: ["wilderness","Boise National Forest"]
 subtitle: Wilderness Wednesday
 cover-image-cdm-collection: nwpostcards
 cover-image-collection: postcards
-cover-image: nwpostcards392
+cover-image: nwpostcards1046
 categories: [Wilderness Wednesday]
 author: Michelle A. Shannon
 ---
@@ -28,7 +28,7 @@ The area was established as the Boise National Forest in 1908 by President Theod
 
 "Today, the Shoshone, Paiute, and Nez Perce Tribes continue to exercise off-reservation treaty rights such as fishing, hunting, and plant gathering in the Boise National Forest."[^7]
 
-{% include feature/digital-image.html collection="postcards" cdm-collection="nwpostcards" objectid="nwpostcards392" %}
+{% include feature/digital-image.html collection="postcards" cdm-collection="nwpostcards" objectid="nwpostcards1046" %}
 
 # Sources
 

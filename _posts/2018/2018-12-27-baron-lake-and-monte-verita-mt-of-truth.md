@@ -5,12 +5,12 @@ tags: ["mountains","Sawtooth National Forest","Boise National Forest","lakes","p
 subtitle: 
 cover-image-cdm-collection: nwpostcards
 cover-image-collection: postcards
-cover-image: nwpostcards392
+cover-image: nwpostcards1046
 categories: []
 author: Amy J. Thompson
 ---
 
-{% include feature/digital-image.html cdm-collection="nwpostcards" collection="postcards" objectid="nwpostcards392" %}
+{% include feature/digital-image.html cdm-collection="nwpostcards" collection="postcards" objectid="nwpostcards1046" %}
 
 Baron Lake and Monte Verita (Mt. of Truth) (The place to go is Idaho) The larger of the three Baron Lakes, located 17 miles from the Sawtooth Lodge by Pack Trail only. 1 mile from summit of the Sawtooth Mts. places it in one of the most beautiful settings imaginable. (Boise National Forest.)
 
