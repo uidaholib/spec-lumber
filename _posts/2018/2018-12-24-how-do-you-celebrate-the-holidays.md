@@ -5,12 +5,12 @@ tags: ["Christmas","holidays","snow","winter","postcards","roads"]
 subtitle: 
 cover-image-cdm-collection: nwpostcards
 cover-image-collection: postcards
-cover-image: nwpostcards290
+cover-image: nwpostcards804
 categories: []
 author: Amy J. Thompson
 ---
 
-{% include feature/digital-image.html cdm-collection="nwpostcards" collection="postcards" objectid="nwpostcards290" %}
+{% include feature/digital-image.html cdm-collection="nwpostcards" collection="postcards" objectid="nwpostcards804" %}
 
 It’s Christmas Eve! How do you celebrate the holidays?
 
