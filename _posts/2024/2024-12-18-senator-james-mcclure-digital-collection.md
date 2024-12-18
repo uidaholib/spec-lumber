@@ -1,6 +1,6 @@
 ---
 title: Senator James McClure digital collection
-date: 2024-12-27
+date: 2024-12-18
 tags: ["politics","archives","photographs"]
 subtitle: 
 cover-image: lumber2468
