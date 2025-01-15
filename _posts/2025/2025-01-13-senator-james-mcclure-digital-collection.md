@@ -5,7 +5,7 @@ tags: ["politics","archives","photographs"]
 subtitle: 
 cover-image: lumber2468
 categories: []
-author: Rebecca Hastings
+author: Rebecca Hastings; Kelley Moulton
 ---
 The [Senator James McClure digital collection](https://www.lib.uidaho.edu/digital/jam/), developed in recognition of Senator McClure's 100th birthday, includes a selection of materials from the University of Idaho Special Collections and Archives that reflect the life and career of Senator McClure (1924-2011).
 
