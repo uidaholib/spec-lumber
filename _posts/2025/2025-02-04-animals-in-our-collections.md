@@ -56,4 +56,4 @@ University and campus life even has community events centered on animals as well
  
 {% include feature/digital-image.html cdm-collection="p17254coll3" collection="argonautphotos" objectid="argonautphotos673" %}
  
-Part of this post was developed using the Digital Collections' new search tool, which makes it easier to find the items you're looking for! If this has caught your attention and you would like to explore more of the animals in Special Collections or our Digital Collections, email us to schedule an appointment at <libspec@uidaho.edu>.
+Part of this post was developed using the [Digital Collections' new search tool](https://www.lib.uidaho.edu/digital/), which makes it easier to find the items you're looking for! If this has caught your attention and you would like to explore more of the animals in Special Collections or our Digital Collections, email us to schedule an appointment at <libspec@uidaho.edu>.
