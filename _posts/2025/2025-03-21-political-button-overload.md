@@ -1,6 +1,6 @@
 ---
 title: Political Button Overload
-date: 2025-03-21 13:34:02 -0700
+date: 2025-03-20
 tags: ["political buttons", "campaign buttons", "archival processing"]
 subtitle: 
 cover-image: lumber2503
