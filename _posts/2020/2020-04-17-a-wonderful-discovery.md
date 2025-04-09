@@ -16,4 +16,4 @@ Now, for those who may not know, Henry Mancini was a composer, conductor, and ar
 
 We here in Special Collections enjoy the many works of Henry Mancini and have even been listening to some of his music while working from home. So now that we know he once performed at Memorial Gym, we are not only listening to his music, but...
 
-<figure class="tmblr-full mb-5" data-orig-height="309" data-orig-width="300" data-tumblr-attribution="the-golden-purple-box:xOcFlRQP3XIpV2fCtASvXQ:ZFIPiqXx_6CyGu00"><img class="img-fluid" src="https://webpages.uidaho.edu/library/spec/harvester/objects/tumblr/615666516761952256_1.gif" data-orig-height="309" data-orig-width="300"/></figure>
+<figure class="tmblr-full mb-5" data-orig-height="309" data-orig-width="300" data-tumblr-attribution="the-golden-purple-box:xOcFlRQP3XIpV2fCtASvXQ:ZFIPiqXx_6CyGu00"><img class="img-fluid" src="https://objects.lib.uidaho.edu/harvester/tumblr/615666516761952256_1.gif" data-orig-height="309" data-orig-width="300"/></figure>

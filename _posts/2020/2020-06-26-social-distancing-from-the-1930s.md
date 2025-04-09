@@ -3,7 +3,7 @@ title: Social Distancing from the 1930s
 date: 2020-06-26
 tags: ["diseases","restaurants","postcards","Boise","WWII"]
 subtitle: 
-cover-image: https://webpages.uidaho.edu/library/spec/harvester/objects/tumblr/622014235751366656.png
+cover-image: https://objects.lib.uidaho.edu/harvester/tumblr/622014235751366656.png
 categories: []
 author: 
 ---

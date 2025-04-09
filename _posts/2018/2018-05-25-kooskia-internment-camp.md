@@ -22,6 +22,6 @@ A total of some 265 detainees occupied the Kooskia Internment Camp at various ti
 
 The entire [Kooskia Internment Camp Scrapbook](https://www.lib.uidaho.edu/digital/Kooskia/index.html) has been digitized and is available for viewing through the UI Library’s Digital Initiatives. More on Japanese internment during World War II can be found in an [online exhibit at the National Archives](https://www.archives.gov/files/research/japanese-americans/prologue-1980.pdf).
 
-Information on the Kooskia Internment Camp from Digital Initiatives display which was adapted from Dr. Priscilla Wegars [Asian American Comparative Collection](http://webpages.uidaho.edu/aacc/) website.
+Information on the Kooskia Internment Camp from Digital Initiatives display which was adapted from Dr. Priscilla Wegars [Asian American Comparative Collection](https://www.uidaho.edu/class/anthrolab/collections/aacc) website.
 
 PG 103-34b, PG 103-44a, PG 103-45c
