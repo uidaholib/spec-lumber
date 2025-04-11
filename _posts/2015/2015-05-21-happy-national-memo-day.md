@@ -5,7 +5,9 @@ tags: ["letters","memos"]
 subtitle: 
 cover-image: lumber886
 categories: []
-uthor: Amy J. Thompson
+author: Amy J. Thompson
+# this item seems to have been removed?
+# the correct filename is ua2003-015_box1_folder16.jpg
 ---
 
 {% include feature/image.html objectid="lumber886" %}
