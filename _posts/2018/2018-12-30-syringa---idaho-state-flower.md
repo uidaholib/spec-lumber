@@ -10,7 +10,7 @@ author: Amy J. Thompson
 
 {% include feature/image.html objectid="lumber273" %}
 
-Syringa time, Lake Pend Oreille, North Idaho. Syringa is the Idaho Sate Flower and bathes the hillside with blooms in late June. This huge glacial cut lake is 50 miles long and is over 1000 ft. deep for 1 miles. Pend Oreille holds the world’s record for largest kamloops and Dolly Varden trout.
+Written on the back of this postcard: "Syringa time, Lake Pend Oreille, North Idaho. Syringa is the Idaho State Flower and bathes the hillside with blooms in late June. This huge glacial cut lake is 50 miles long and is over 1000 ft. deep for 15 miles. Pend Oreille holds the world’s record for largest kamloops and Dolly Varden trout."
 
 # Sources
 
