@@ -1,11 +1,23 @@
-source "https://rubygems.org"
+# frozen_string_literal: true
 
+source 'https://rubygems.org'
+
+# needed for Jekyll
 gem 'jekyll'
+gem 'webrick'
+gem 'logger'
+gem 'base64'
+gem 'ostruct'
 
+# harvester
 gem 'jekyll-paginate'
 
-gem 'webrick'
-
-gem 'wdm', '>= 0.1.0'
-
-#gem "jekyll-sass-converter", "2.1.0"
+# needed for Rake tasks
+gem 'rake'
+gem 'csv'
+gem 'fileutils'
+gem 'mini_magick'
+unless Gem.win_platform?
+  gem 'image_optim'
+  gem 'image_optim_pack'
+end
