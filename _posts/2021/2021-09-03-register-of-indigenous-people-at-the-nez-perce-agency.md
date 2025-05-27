@@ -19,9 +19,11 @@ Nevertheless, Indigenous people who accepted the terms of the Act "were required
 
 {% include feature/item-pdf-embed.html objectid="lumber1059" %}
 
-{% include feature/item-pdf-embed.html objectid="lumber1060" %}
+{% include feature/item-pdf-embed.html objectid="lumber2527" %}
 
-The PDFs above compose MG 221. This collection consists of three separate items. One is a contemporaneous copy, believed to be accurate, of the record of allotments made by U.S. Bureau of Indian Affairs special agent Alice Fletcher on the Nez Perce Indian Reservation, Idaho. This item is a bound volume consisting of 448 photocopied pages on which allotment assignments were recorded in handwriting probably by surveyor Edson Briggs. Imprinted on the spine of the volume are the words "Nez Perce Indians Land Allotments Register." The first 31 pages of this volume appear to be an index to the remaining pages. The original is in Record Group 75 in the National Archives in Washington, DC.
+{% include feature/item-pdf-embed.html objectid="lumber2526" %}
+
+The PDFs above comprise MG 221. This collection consists of three separate items. One is a contemporaneous copy, believed to be accurate, of the record of allotments made by U.S. Bureau of Indian Affairs special agent Alice Fletcher on the Nez Perce Indian Reservation, Idaho. This item is a bound volume consisting of 448 photocopied pages on which allotment assignments were recorded in handwriting probably by surveyor Edson Briggs. Imprinted on the spine of the volume are the words "Nez Perce Indians Land Allotments Register." The first 31 pages of this volume appear to be an index to the remaining pages. The original is in Record Group 75 in the National Archives in Washington, DC.
 
 A second item is a collection of photocopied pages from National Records and Archives Administration Record Group 75: Records of the Bureau of Indian Affairs. Entry 572. Enrollment Records, 1884-1909. Registry of Nez Perce Indians. Volume 6 of 12. This item is titled "Register of Indian Families at the Nez Perce Agency, 1884-1909," in its record in the University of Idaho Library catalog. This record also contains a note that the "register was compiled by special agent Alice Fletcher." This item consists of 437 pages and is, essentially, a list of the families that Fletcher felt were entitled to allotments.
 
