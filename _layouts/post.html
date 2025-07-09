@@ -38,19 +38,20 @@ layout: default
      
 <div class="card text-center p-3 my-5"> 
   <p class="card-text">Have Feedback on this post or the site?</p> 
-  <p class="text-center">{% include feature/button.html link="https://forms.gle/e9QRss9xsxcgHFoTA" text="Send us your thoughts!" color="info" width="50" target="_blank"%}</p>
+  <p class="text-center">
+    <a href="https://forms.gle/e9QRss9xsxcgHFoTA" class="btn btn-info">Send us your thoughts!</a></p>
 </div>
  
 
       <ul class="pagination blog-pager">
         {% if page.previous.url %}
         <li class="page-item previous">
-          <a class="page-link" href="{{ page.previous.url | relative_url }}" data-toggle="tooltip" data-placement="top" title="{{page.previous.title}}">&larr; Previous Post</a>
+          <a class="page-link" href="{{ page.previous.url | relative_url }}" title="{{page.previous.title}}">&larr; Previous Post</a>
         </li>
         {% endif %}
         {% if page.next.url %}
         <li class="page-item next">
-          <a class="page-link" href="{{ page.next.url | relative_url }}" data-toggle="tooltip" data-placement="top" title="{{page.next.title}}">Next Post &rarr;</a>
+          <a class="page-link" href="{{ page.next.url | relative_url }}" title="{{page.next.title}}">Next Post &rarr;</a>
         </li>
         {% endif %}
       </ul>

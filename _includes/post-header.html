@@ -5,19 +5,16 @@
 {% if page.cover-image %}
 
 <style>
-   #header-big-img {
-     background-image: url('{% include image/post-image.html %}');
+#header-big-img {
+    background-image: url('{% include image/post-image.html %}');
     background-size: cover;
     background-repeat: no-repeat;
     background-position: center; 
     min-height:500px;
 }
 </style>
-  <div id="header-big-img" class="container-fluid mb-0 p-0" >
-  
-
-  </div>
-  {% unless page.cover-image contains '/' %}<div class="text-right p-0 mt-n5" style="position:relative;bottom:0;right:0;">
+<div id="header-big-img" class="container-fluid mb-0 p-0" ></div>
+{% unless page.cover-image contains '/' %}<div class="text-right p-0 mt-n5" style="position:relative;bottom:0;right:0;">
     <small><a class="text-info featured-link" id="header-big-img-link" href="{% if page.cover-image contains 'lumber' %}{{ '/collection/items/' | relative_url | append: page.cover-image | append: '.html' }}{% else %}https://www.lib.uidaho.edu/digital/{{page.cover-image-collection}}/items/{{page.cover-image}}.html{% endif %}" title="{{ featuredItem.title | escape }}">Featured Image</a></small>
 </div>{% endunless %}
 {% endif %}
@@ -32,13 +29,10 @@
       {% endif %}
       {% if include.type == "post" %}
           <p class="post-meta">Posted on {{ page.date | date: date_format }}</p>
-          {% if page.author %}{% assign writer = site.writers | where: "title", page.author | first %}<p class="post-meta">By <a href="{{ writer.permalink | relative_url}}">{{ writer.title }}</a></p>{% endif %}
+          {% if page.author %}{% assign writer = site.writers | where: "title", page.author | first %}<p class="post-meta">By {% if writer.title %}<a href="{{ writer.permalink | relative_url}}">{{ writer.title }}</a>{% else %}{{ page.author }}{% endif %}</p>{% endif %}
       {% endif %}
         </div>
       </div>
     </div>
   </div>
 </div>
-</header>
-</div>
-
