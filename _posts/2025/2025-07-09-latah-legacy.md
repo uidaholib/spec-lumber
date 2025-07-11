@@ -5,7 +5,7 @@ tags: [ "digital collections", "Latah County"]
 subtitle: 
 cover-image: https://objects.lib.uidaho.edu/latahlegacy/latahlegacy_banner_about.png
 categories: []
-author: Hayley Noble
+author: Hayley Noble and Kaitlynn Anderson
 ---
 
 The University of Idaho Library has long been a partner with the [Latah County Historical Society (LCHS)](https://www.latahcountyhistoricalsociety.org/), hosting various LCHS collections for public access.
@@ -24,6 +24,6 @@ One of the most unique features was written by MFA Theatre student and LCHS volu
 
 These are just a few examples of what you will find in the Latah Legacy collection. Some of the history is well-known, while other articles examine lesser-known community stories or book reviews. Throughout the collection you will find well-researched, and quality work of historians, all about our shared community. 
 
--- Hayley Noble, LCHS Executive Director
+-- Hayley Noble (LCHS Executive Director) and Kaitlynn Anderson (LCHS Museum Curator)
 
 <a href="https://www.latahcountyhistoricalsociety.org/" title="Latah County Historical Society"><img src="https://objects.lib.uidaho.edu/latahlegacy/LCHS_website_logo.webp" alt="Latah County Historical Society" class="img-fluid"></a>
