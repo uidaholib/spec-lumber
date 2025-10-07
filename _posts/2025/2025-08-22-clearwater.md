@@ -9,7 +9,6 @@ author: Special Collections Contributors
 ---
 Post written by Ash Hunter, 2025 Gary E. and Carolyn J. Strong Fellow.
 
-Archiving the Visual History of the Nez Perce -- Clearwater National Forest
 The Nez Perce -- Clearwater National Forest photograph collection captures nearly a century of history on thousands of photographic prints. This collection encapsulates the joint history of the Clearwater and Nez Perce forests, which were established nationally in 1907 and 1908, respectively, and administratively combined in 2012. In 2024, this collection was transferred to the University of Idaho from the Forest Service to be processed and stored. Over 15,000 photographic prints document forest service activities, beginning in the early 1900s and stretching into the 1990s, thus providing a fascinating look into the history, development, and management of the Nez Perce and Clearwater National Forests.
 
 Predominantly taken by rangers and other forest service employees, these photographs document various elements related to the everyday management of a national forest. Many photographs capture the natural beauty of the forest landscape, from the forests themselves to hills, mountains, bodies of water, and plains, all lovingly documented by rangers of the 20th century. These prints also showcase the diverse flora and fauna that fill the forest, not only trees but also the insects, birds, fish, and mammals that call this forest home.
