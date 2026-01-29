@@ -31,3 +31,5 @@ Each clone developed a distinct personality, proving that genetics is only part 
 {% include feature/image.html objectid="lumber2665" %}
 
 The Northwest Equine Reproduction Laboratory closed after Woods and Vanderwall left the university in 2006 and 2009, respectively, and the lab’s funding was redirected toward other equine programs. Yet its work left a lasting legacy, having achieved a remarkable scientific first for the University of Idaho.
+
+(This piece first appeared in the *Moscow-Pullman Daily News*.)
