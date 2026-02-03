@@ -1,6 +1,6 @@
 ---
 title: Cloned Mules!
-date: 2026-01-31
+date: 2026-02-03
 tags: ["mules","cloning","University of Idaho"]
 subtitle: 
 cover-image: lumber2663
