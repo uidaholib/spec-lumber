@@ -8,6 +8,17 @@ categories: []
 author: Rebecca Hastings
 ---
 
+<div class="col">
+  <div class="card h-100">
+    <div class="card-body">
+      <h2 class="h5">Looking for Downwinder/RECA documentation?</h2>
+      <ul >
+        <li>If you are seeking supplemental proof of residence documentation for Radiation Exposure Compensation Act (RECA or "Downwinder") cases, please fill out this form: <a href="https://forms.office.com/Pages/ResponsePage.aspx?id=Y2u8fpJXGUqyCwS4JgSIUxaSEHQ0MBFJmCa2EIVFmhNURUQ4RjZZMFEzVjVRSjNFOEhNSTRKNk9ITC4u">Request for Assistance with RECA Claim</a>. You will be asked to provide the name of the person making the RECA claim, the name of the person you are seeking residence information for, the town in Idaho where they resided, the year or date range you require residence documentation for, and how you are planning to file your claim (by mail or online portal).</li>
+      </ul>
+    </div>
+  </div>
+</div>
+
 Since July 2025, the University of Idaho Library's Special Collections and Archives has seen a notable increase in patrons asking for information from the department's Idaho Telephone and Business Directories collection. These patrons are "Downwinders," or people who lived near nuclear test sites in the mid-20th century and subsequently developed cancer. 
 
 These inquiries stem from the Radiation Exposure Compensation Act (RECA), first enacted by Congress in 1990 to provide financial compensation to individuals who developed specific cancers and other serious illnesses following exposure to radiation during Cold War-era nuclear testing. RECA was reauthorized and expanded by the One Big Beautiful Bill Act in July 2025. The expanded RECA recognizes that aboveground nuclear weapons testing in Nevada between 1951 and 1962 affected Idahoans as well as residents of Arizona, Nevada, and Utah (covered under the original legislation). 
