@@ -1,6 +1,6 @@
 ---
 title: University of Idaho War Records Committee
-date: 2026-05-26
+date: 2026-05-25
 tags: []
 subtitle: 
 cover-image: lumber2703
