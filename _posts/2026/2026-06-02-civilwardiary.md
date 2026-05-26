@@ -1,6 +1,6 @@
 ---
 title: William Whiteman Civil War Diary
-date: 2026-06-01
+date: 2026-06-02
 tags: []
 subtitle: 
 cover-image: lumber2707
