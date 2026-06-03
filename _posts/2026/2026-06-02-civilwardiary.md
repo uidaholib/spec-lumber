@@ -32,4 +32,4 @@ These are just a few of the themes found within the William Whiteman Diary, with
 
 Thank you to Dulce Kersting-Lark and Dr. Matthew Fox-Amato for their assistance in the creation of this post.
 
-The William Whiteman diary is located in the Special Collections and Archives collection [Civil War diary, 15 December 1861-18 February 1863](https://archiveswest.orbiscascade.org/ark:80444/xv191373).
+The William Whiteman diary is located in the Special Collections and Archives collection [Civil War diary, 15 December 1861-18 February 1863](https://archiveswest.orbiscascade.org/ark:80444/xv191373). Please contact Special Collections and Archives for access.
