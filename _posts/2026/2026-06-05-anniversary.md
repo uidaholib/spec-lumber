@@ -11,7 +11,7 @@ Milburn Kenworthy enjoyed a successful career as a performer when he decided to 
 
 Professional actor and vaudevillian, he worked on the road and in theatre houses most of his life with such luminaries as Al Jolson, Lillian Russell, and Charlie Chaplin. He ran his own touring troupe for several years, and the Kenworthy family remembers the Warner Brothers wanting him in California to get into the newly booming film industry in a place called Hollywood (Legacy, p. 9).
 
-{% include feature/image.html objectid="lumber2712" width="50" %}
+{% include feature/image.html objectid="lumber2712" width="50" %} 
 
 Instead, he followed the advice of an orchestra player turned mortician to come to Moscow, Idaho. “…this would be a good place to have a theatre. Because there was a university here" Bethine Kenworthy remembered (Legacy, p. 9). He purchased the Strand Theater, renamed it the Kenworthy, and moved to a town he had never visited in all his travels. 
 
