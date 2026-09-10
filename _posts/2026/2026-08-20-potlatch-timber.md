@@ -1,5 +1,5 @@
 ---
-title: A Bird’s Eye View of the Potlatch Timber Empire
+title: A Bird’s Eye View of the Potlatch Timber Empire Part 1
 date: 2026-08-19
 tags: ["Potlatch","timber","aerial photography"]
 subtitle: 
@@ -7,7 +7,7 @@ cover-image: lumber2736
 categories: []
 author: Special Collections Contributors
 ---
-Post written by Shelley Walker-Harmon, Gary Strong Fellow 2026
+Post written by Shelley Walker-Harmon, Gary E. and Carolyn J. Strong Special Collections Fellowship
  
 This summer I had the opportunity to work at the University of Idaho Library's Special Collections and Archives as a Strong Fellow, part of a yearly fellowship aimed at developing, preserving, and improving access to the library's unique collections. Back in May, I was not quite certain what was in store, with one exception: I was sure that seeing the library basement filled with giant books and rare documents would be worth it. (I was right!) 
 
@@ -63,8 +63,7 @@ What began as a practical method of forestry management is now a resource for hi
 
 While these photographs hold immense historical value, they are only useful if researchers can find what they are looking for. In my second post, I will take you behind the scenes in the archives and explore the gigantic geographic puzzle of organizing fifty years of aerial photography: one photograph, one flight line, and one forested landscape at a time. 
 
-## Sources
-  
+## Sources  
    [^1]: Some years were not included in this collection as donated: 1958-68, 1970, 1973-76. There is no documentation of these missing years in the collection.
 
    [^2]: In reality, the task sounded simpler than it was in practice. More on this in my next post! 
@@ -85,6 +84,5 @@ While these photographs hold immense historical value, they are only useful if r
 
 [^10]: “Unasylva - Vol. 2, No. 4 - Forest Resources of the World - Aerial Photography.” 
 
-[^11]: Rachel Lilley, “LibGuides: [Guide to Historical Maps in the Special Collections and Archives Research 
-Center: Aerial Photographs"](https://guides.library.oregonstate.edu/guidetomapsinSCARC/aerials),” accessed July 10, 2026. 
+[^11]: Rachel Lilley, “LibGuides: [Guide to Historical Maps in the Special Collections and Archives Research Center: Aerial Photographs"](https://guides.library.oregonstate.edu/guidetomapsinSCARC/aerials),” accessed July 10, 2026. 
  
