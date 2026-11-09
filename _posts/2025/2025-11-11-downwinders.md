@@ -11,10 +11,10 @@ author: Rebecca Hastings
 <div class="col">
   <div class="card h-100">
     <div class="card-body">
-      <h2 class="h5">Looking for Downwinder/RECA documentation?</h2>
-      <ul >
-        <li>If you are seeking supplemental proof of residence documentation for Radiation Exposure Compensation Act (RECA or "Downwinder") cases, please fill out this form: <a href="https://forms.office.com/Pages/ResponsePage.aspx?id=Y2u8fpJXGUqyCwS4JgSIUxaSEHQ0MBFJmCa2EIVFmhNURUQ4RjZZMFEzVjVRSjNFOEhNSTRKNk9ITC4u">Request for Assistance with RECA Claim</a>. You will be asked to provide the name of the person making the RECA claim, the name of the person you are seeking residence information for, the town in Idaho where they resided, the year or date range you require residence documentation for, and how you are planning to file your claim (by mail or online portal).</li>
-      </ul>
+      <h2 class="h5">Looking for Downwinder RECA documentation?</h2>
+      <p>
+        Special Collections and Archives has seen huge demand for information about Radiation Exposure Compensation Act (RECA) claims. Please visit our <a href="https://libguides.uidaho.edu/c.php?g=1560115">Idaho Downwinders RECA Guide</a> for curated resources and information about how the Library can help, including our <a href="https://libguides.uidaho.edu/c.php?g=1560115&p=11708211">Request for Assistance with RECA Claim form</a>.
+      </p>
     </div>
   </div>
 </div>
